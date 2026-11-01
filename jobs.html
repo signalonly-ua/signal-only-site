@@ -44,6 +44,15 @@
       </div>
     </section>
 
+    <section class="section" id="fresh" hidden>
+      <div class="wrap">
+        <h2>Свіжі вакансії</h2>
+        <p>Останні вакансії, які знайшов бот у Telegram-каналах. Оновлено: <span id="fresh-updated"></span></p>
+        <ul class="jobs-list" id="fresh-list"></ul>
+        <p><a class="btn" href="https://t.me/SignalJobsUA_bot" rel="noopener">Отримувати свої вакансії в @SignalJobsUA_bot</a></p>
+      </div>
+    </section>
+
     <section class="section">
       <div class="wrap">
         <h2>Що вміє бот</h2>
@@ -108,5 +117,26 @@
       <span><a href="partners.html">Співпраця</a> · <a href="privacy.html">Політика конфіденційності</a> · <a href="https://t.me/signalonly_ua" rel="noopener">Канал у Telegram</a> · <a href="blog/index.html">Блог</a></span>
     </div>
   </footer>
+  <script>
+  (function () {
+    var box = document.getElementById('fresh');
+    fetch('data/jobs.json', {cache: 'no-cache'}).then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+      if (!d || !d.jobs || !d.jobs.length) return;
+      var list = document.getElementById('fresh-list');
+      d.jobs.forEach(function (j) {
+        if (!/^https:\/\/t\.me\//.test(j.link)) return;
+        var li = document.createElement('li'), a = document.createElement('a'), meta = document.createElement('span');
+        a.href = j.link; a.rel = 'noopener nofollow'; a.textContent = j.position;
+        meta.textContent = [[j.city, j.district].filter(Boolean).join(', '), j.salary, j.employment,
+          new Date(j.date).toLocaleDateString('uk-UA', {day: 'numeric', month: 'long'})].filter(Boolean).join(' · ');
+        li.appendChild(a); li.appendChild(meta); list.appendChild(li);
+      });
+      if (!list.children.length) return;
+      document.getElementById('fresh-updated').textContent = new Date(d.updated).toLocaleString('uk-UA',
+        {day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit'});
+      box.hidden = false;
+    }).catch(function () {});
+  })();
+  </script>
 </body>
 </html>
