@@ -14,6 +14,12 @@ Set-Location $site
 try {
     $stamp = Get-Date -Format 'yyyy-MM-dd HH:mm'
     if ($DataOnly) {
+        # «Акції дня» (завдання 0043): пост дня з календаря promo-aggregator; файл змінюється лише раз на день
+        $promoPy = 'C:\Users\Maxig\projects\promo-aggregator\.venv\Scripts\python.exe'
+        $promoScript = 'C:\Users\Maxig\projects\promo-aggregator\site_promo.py'
+        if ((Test-Path $promoPy) -and (Test-Path $promoScript)) {
+            try { & $promoPy $promoScript | Out-Null } catch { Log "promo: $_" }
+        }
         git add -A -- data
         $changes = git diff --cached --name-only -- data
         if (-not $changes) { Log 'data: без змін'; exit 0 }

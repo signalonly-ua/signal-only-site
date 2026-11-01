@@ -42,6 +42,15 @@
       </div>
     </section>
 
+    <section class="section" id="fresh" hidden>
+      <div class="wrap">
+        <h2>Свіжі авто</h2>
+        <p>Вигідні авто за останню добу: дешевші за схожі оголошення (та сама модель, рік ±1). Оцінка — орієнтир, стан і історію перевіряйте самі. Оновлено: <span id="fresh-updated"></span></p>
+        <ul class="jobs-list" id="fresh-list"></ul>
+        <p><a class="btn" href="https://t.me/filtrautobot" rel="noopener">Отримувати свої авто в @filtrautobot</a></p>
+      </div>
+    </section>
+
     <section class="section">
       <div class="wrap">
         <h2>Що вміє бот</h2>
@@ -124,5 +133,26 @@
       <span><a href="partners.html">Співпраця</a> · <a href="privacy.html">Політика конфіденційності</a> · <a href="https://t.me/signalonly_ua" rel="noopener">Канал у Telegram</a> · <a href="blog/index.html">Блог</a></span>
     </div>
   </footer>
+  <script>
+  (function () {
+    var box = document.getElementById('fresh');
+    fetch('data/cars.json', {cache: 'no-cache'}).then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+      if (!d || !d.cars || !d.cars.length) return;
+      var list = document.getElementById('fresh-list');
+      d.cars.forEach(function (c) {
+        if (!/^https:\/\/t\.me\//.test(c.link)) return;
+        var li = document.createElement('li'), a = document.createElement('a'), meta = document.createElement('span');
+        a.href = c.link; a.rel = 'noopener nofollow';
+        a.textContent = [c.title, c.year, '— $' + Number(c.price_usd).toLocaleString('uk-UA')].filter(Boolean).join(' ');
+        meta.textContent = [c.city, c.why].filter(Boolean).join(' · ');
+        li.appendChild(a); li.appendChild(meta); list.appendChild(li);
+      });
+      if (!list.children.length) return;
+      document.getElementById('fresh-updated').textContent = new Date(d.updated).toLocaleString('uk-UA',
+        {day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit'});
+      box.hidden = false;
+    }).catch(function () {});
+  })();
+  </script>
 </body>
 </html>

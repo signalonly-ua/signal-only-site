@@ -43,6 +43,13 @@
       </div>
     </section>
 
+    <section class="section" id="promo" hidden>
+      <div class="wrap">
+        <h2>Акції дня</h2>
+        <ul class="jobs-list" id="promo-list"></ul>
+      </div>
+    </section>
+
     <section class="section" id="bots">
       <div class="wrap">
         <h2>Лінійка ботів</h2>
@@ -113,5 +120,23 @@
       <span><a href="partners.html">Співпраця</a> · <a href="privacy.html">Політика конфіденційності</a> · <a href="https://t.me/signalonly_ua" rel="noopener">Канал у Telegram</a> · <a href="blog/index.html">Блог</a></span>
     </div>
   </footer>
+  <script>
+  (function () {
+    fetch('data/promo.json', {cache: 'no-cache'}).then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+      if (!d || !d.items || !d.items.length) return;
+      var list = document.getElementById('promo-list');
+      d.items.forEach(function (p) {
+        if (!/^https:\/\/t\.me\//.test(p.link)) return;
+        var li = document.createElement('li'), b = document.createElement('strong'), t = document.createElement('span'),
+            a = document.createElement('a');
+        b.textContent = p.title; t.textContent = p.text; t.style.whiteSpace = 'pre-line';
+        a.className = 'btn'; a.href = p.link; a.rel = 'noopener'; a.textContent = 'Відкрити в Telegram';
+        a.style.alignSelf = 'flex-start'; a.style.marginTop = '8px';
+        li.appendChild(b); li.appendChild(t); li.appendChild(a); list.appendChild(li);
+      });
+      if (list.children.length) document.getElementById('promo').hidden = false;
+    }).catch(function () {});
+  })();
+  </script>
 </body>
 </html>
