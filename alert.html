@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Signal Alert — сповіщення про повітряні тривоги за вашим районом | Signal Only</title>
+  <meta name="description" content="Signal Alert — Telegram-бот повітряних тривог: перевірені джерела без дублів, сповіщення лише для обраних населених пунктів, найдокладніше по Києву. Не замінює офіційні сигнали.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Signal Only">
+  <meta property="og:title" content="Signal Alert — тривоги лише для вашого району">
+  <meta property="og:description" content="Telegram-бот: перевірені джерела, без дублів, сповіщення за обраним регіоном. Найдокладніше по Києву.">
+  <meta property="og:locale" content="uk_UA">
+  <meta name="twitter:card" content="summary">
+  <meta name="theme-color" content="#0d1117">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="index.html"><svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#0d1117"/><path d="M8 34h10l5-12 8 26 7-20 4 6h14" fill="none" stroke="#2ee6a6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></svg>Signal Only</a>
+      <nav class="nav" aria-label="Головне меню">
+        <a href="index.html">Головна</a>
+        <a href="alert.html" aria-current="page">Signal Alert</a>
+        <a href="auto.html">Signal Auto</a>
+        <a href="jobs.html">Signal Jobs</a>
+        <a href="partners.html">Співпраця</a>
+        <a href="blog/index.html">Блог</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <p class="eyebrow">🚨 Signal Alert</p>
+        <h1>Тривоги лише для вашого району</h1>
+        <p class="lead">Telegram-бот, який стежить за офіційними даними про тривоги та перевіреними моніторинговими каналами, прибирає дублі й надсилає сповіщення тільки для населених пунктів, які ви обрали.</p>
+        <div class="actions">
+          <a class="btn" href="https://t.me/AirAlerts_TheBot" rel="noopener">Відкрити в Telegram</a>
+          <a class="btn secondary" href="https://t.me/airalerts_thebot_chanel" rel="noopener">Загальний канал</a>
+        </div>
+      </div>
+    </section>
+
+    <div class="wrap">
+      <div class="notice" role="note">
+        <strong>Важливо.</strong> Signal Alert — допоміжний інформаційний сервіс. Він <strong>не замінює</strong> офіційні сигнали
+        повітряної тривоги (сирени, гучномовці, повідомлення органів влади) і офіційний застосунок «Повітряна тривога».
+        Повідомлення можуть надходити із затримкою або не надійти через збої Telegram, інтернету чи джерел.
+        Почувши тривогу, не чекайте повідомлення від бота — прямуйте в укриття.
+      </div>
+    </div>
+
+    <section class="section">
+      <div class="wrap">
+        <h2>Що вміє бот</h2>
+        <div class="grid">
+          <article class="card">
+            <h3>📍 Ваш регіон</h3>
+            <p>Оберіть область, район або конкретний населений пункт — до трьох підписок. Повідомлення про інші місця не надходять.</p>
+          </article>
+          <article class="card">
+            <h3>🧹 Без дублів</h3>
+            <p>Коли кілька каналів пишуть те саме, бот надсилає це один раз.</p>
+          </article>
+          <article class="card">
+            <h3>🏙 Найдокладніше по Києву</h3>
+            <p>Райони міста, сусідні райони і окремі сповіщення для відвідувачів кількох великих ТРЦ.</p>
+          </article>
+          <article class="card">
+            <h3>☄️ Балістика</h3>
+            <p>Окреме попередження про загрозу балістичного озброєння для вашої області. Його можна вимкнути в налаштуваннях.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <h2>Як підключити</h2>
+        <ol class="steps">
+          <li>Відкрийте <a href="https://t.me/AirAlerts_TheBot" rel="noopener">@AirAlerts_TheBot</a> і натисніть «Почати».</li>
+          <li>Натисніть «🔔 Вибрати населений пункт» і оберіть область → район → місто (або знайдіть за назвою).</li>
+          <li>Увімкніть звук сповіщень для бота в Telegram, щоб не пропустити повідомлення вночі.</li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <h2>Чесно про обмеження</h2>
+        <ul class="list">
+          <li>Бот залежить від Telegram та інтернету: без зв'язку повідомлення не прийде.</li>
+          <li>Місце події визначається автоматично з тексту джерела, тож можливі помилки й пропуски.</li>
+          <li>Офіційні джерела завжди мають пріоритет. Тримайте увімкненими і застосунок «Повітряна тривога», і сповіщення місцевої влади.</li>
+        </ul>
+        <p>Знайшли помилку? Напишіть через кнопку «⚠️ Повідомити про помилку» в боті.</p>
+        <p><a href="blog/yak-ne-propustyty-povitrianu-tryvohu-v-kyievi.html">Як не пропустити повітряну тривогу в Києві →</a></p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>© 2026 Signal Only</span>
+      <span><a href="partners.html">Співпраця</a> · <a href="privacy.html">Політика конфіденційності</a> · <a href="blog/index.html">Блог</a></span>
+    </div>
+  </footer>
+</body>
+</html>

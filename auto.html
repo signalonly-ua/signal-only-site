@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Signal Auto — нові оголошення авто з Telegram за маркою і моделлю | Signal Only</title>
+  <meta name="description" content="Signal Auto — Telegram-бот, що читає канали з оголошеннями про продаж авто і надсилає лише ті, що підходять за маркою, моделлю, ціною, роком і містом. З оцінкою ціни відносно ринку.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Signal Only">
+  <meta property="og:title" content="Signal Auto — потрібне авто без гортання каналів">
+  <meta property="og:description" content="Бот читає канали з оголошеннями авто і надсилає лише ваші збіги: марка, модель, ціна, рік, місто.">
+  <meta property="og:locale" content="uk_UA">
+  <meta name="twitter:card" content="summary">
+  <meta name="theme-color" content="#0d1117">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="index.html"><svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#0d1117"/><path d="M8 34h10l5-12 8 26 7-20 4 6h14" fill="none" stroke="#2ee6a6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></svg>Signal Only</a>
+      <nav class="nav" aria-label="Головне меню">
+        <a href="index.html">Головна</a>
+        <a href="alert.html">Signal Alert</a>
+        <a href="auto.html" aria-current="page">Signal Auto</a>
+        <a href="jobs.html">Signal Jobs</a>
+        <a href="partners.html">Співпраця</a>
+        <a href="blog/index.html">Блог</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <p class="eyebrow">🚗 Signal Auto</p>
+        <h1>Потрібне авто — без гортання десятків каналів</h1>
+        <p class="lead">Бот читає Telegram-канали з оголошеннями про продаж авто і надсилає вам лише ті, що підходять під вашу марку, модель і фільтри. Коротка картка, оцінка ціни і посилання на оригінальне оголошення.</p>
+        <div class="actions">
+          <a class="btn" href="https://t.me/filtrautobot" rel="noopener">Відкрити в Telegram</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <h2>Що вміє бот</h2>
+        <div class="grid">
+          <article class="card">
+            <h3>🎯 Марка, модель, покоління</h3>
+            <p>Бот розуміє, як марку пишуть насправді: «vw», «мерс», «бмв», коди кузовів і поширені одруківки.</p>
+          </article>
+          <article class="card">
+            <h3>🔎 Фільтри</h3>
+            <p>Ціна, рік, пробіг, місто. Оголошення, де місто не вказане, теж приходять, щоб ви нічого не пропустили.</p>
+          </article>
+          <article class="card">
+            <h3>📊 Оцінка ціни</h3>
+            <p>Позначка «нижче / в ринку / вище ринку» порівняно зі схожими оголошеннями. Це орієнтир, а не експертиза: стан і комплектацію бот не бачить.</p>
+          </article>
+          <article class="card">
+            <h3>🧹 Без повторів</h3>
+            <p>Те саме авто, яке перепостили в кількох каналах, ви отримаєте один раз.</p>
+          </article>
+          <article class="card">
+            <span class="badge live">VIP · нове</span>
+            <h3>🔻 Найнижча ціна</h3>
+            <p>Кнопка під кожною карткою авто: до 5 найдешевших схожих оголошень за 30 днів (та сама модель, рік ±1) з ціною, роком, містом і посиланням, плюс медіана ринку. Зручно перевірити перед поїздкою на огляд.</p>
+          </article>
+          <article class="card">
+            <span class="badge">VIP</span>
+            <h3>🔥 Вигідні авто</h3>
+            <p>Авто будь-якої марки, дешевші за медіану схожих оголошень на 15% і більше, навіть якщо такої марки немає у ваших підписках.</p>
+          </article>
+          <article class="card">
+            <h3>📤 Поділитися з тим, хто шукає авто</h3>
+            <p>Під дуже вигідним авто (на 20%+ дешевше за медіану) бот іноді пропонує поділитися ботом з другом — з вашим особистим посиланням. Не частіше разу на 3 дні, щоб не набридати. Поділитися будь-коли: команда <code>/share</code>.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <h2>Безкоштовно і Преміум</h2>
+        <p>Базові можливості безкоштовні. Для тих, кому важлива швидкість, є платні рівні в Telegram Stars (оплата всередині Telegram, без картки на сайті). Ціни й умови актуальні в самому боті: кнопка «⭐ Преміум» і команда <code>/terms</code>.</p>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr><th></th><th>Безкоштовно</th><th>⭐ Преміум</th><th>💎 VIP</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Підписок</td><td>3</td><td>15</td><td>15</td></tr>
+              <tr><td>Коли приходить оголошення</td><td>через 10 хв</td><td>через 3 хв</td><td>одразу</td></tr>
+              <tr><td>Фільтри ціни й року</td><td>так</td><td>так</td><td>так</td></tr>
+              <tr><td>Пробіг, місто, «тільки нижче ринку»</td><td>—</td><td>так</td><td>так</td></tr>
+              <tr><td>«Вигідні авто» всіх марок (−15% і більше)</td><td>—</td><td>—</td><td>так</td></tr>
+              <tr><td>«🔻 Найнижча ціна» під карткою</td><td>—</td><td>—</td><td>так</td></tr>
+              <tr><td>«🗂 Знайдені авто» і «🌐 Усі авто» за добу</td><td>—</td><td>—</td><td>так</td></tr>
+              <tr><td>Ціна за 30 днів</td><td>0</td><td>250 ⭐</td><td>500 ⭐</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <h2>Як підключити</h2>
+        <ol class="steps">
+          <li>Відкрийте <a href="https://t.me/filtrautobot" rel="noopener">@filtrautobot</a> і натисніть «Почати».</li>
+          <li>Додайте підписку: марка → модель → (за бажанням) покоління.</li>
+          <li>Налаштуйте фільтри: ціна, рік, пробіг, місто. Далі бот усе робить сам.</li>
+        </ol>
+        <p>Бот не продає авто і не перевіряє продавців. Перед купівлею перевіряйте авто й документи самостійно.</p>
+        <p><a href="blog/yak-shvydko-znaity-avto-v-telegram.html">Як швидко знайти потрібне авто в Telegram-каналах →</a></p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>© 2026 Signal Only</span>
+      <span><a href="partners.html">Співпраця</a> · <a href="privacy.html">Політика конфіденційності</a> · <a href="blog/index.html">Блог</a></span>
+    </div>
+  </footer>
+</body>
+</html>

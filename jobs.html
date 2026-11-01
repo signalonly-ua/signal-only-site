@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Signal Jobs — вакансії з Telegram-каналів за посадою, містом і зарплатою | Signal Only</title>
+  <meta name="description" content="Signal Jobs — Telegram-бот, який читає канали з вакансіями (зокрема Work.ua по містах) і надсилає лише ті, що підходять: посада, місто, мінімальна зарплата. Скоро запуск.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Signal Only">
+  <meta property="og:title" content="Signal Jobs — потрібні вакансії без гортання каналів">
+  <meta property="og:description" content="Бот читає Telegram-канали з вакансіями і надсилає лише ваші збіги: посада, місто, зарплата.">
+  <meta property="og:locale" content="uk_UA">
+  <meta name="twitter:card" content="summary">
+  <meta name="theme-color" content="#0d1117">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="index.html"><svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#0d1117"/><path d="M8 34h10l5-12 8 26 7-20 4 6h14" fill="none" stroke="#2ee6a6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></svg>Signal Only</a>
+      <nav class="nav" aria-label="Головне меню">
+        <a href="index.html">Головна</a>
+        <a href="alert.html">Signal Alert</a>
+        <a href="auto.html">Signal Auto</a>
+        <a href="jobs.html" aria-current="page">Signal Jobs</a>
+        <a href="partners.html">Співпраця</a>
+        <a href="blog/index.html">Блог</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <p class="eyebrow">💼 Signal Jobs · <span class="badge">Скоро</span></p>
+        <h1>Потрібні вакансії — без гортання десятків каналів</h1>
+        <p class="lead">Бот читає Telegram-канали з вакансіями і надсилає вам лише ті, що підходять за посадою, містом і зарплатою. Коротка картка і посилання на оригінальне оголошення.</p>
+        <div class="actions">
+          <a class="btn secondary" href="#how">Як це працюватиме</a>
+          <a class="btn secondary" href="blog/robota-prodavtsem-konsultantom-kyiv-telegram.html">Як шукати роботу в Telegram зараз</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <h2>Що вміє бот</h2>
+        <div class="grid">
+          <article class="card">
+            <h3>📡 Канали по всій Україні</h3>
+            <p>Офіційні канали Work.ua по містах і канали IT- та офісних вакансій. Якщо місто у вакансії не вказане, бот бере його з каналу міста.</p>
+          </article>
+          <article class="card">
+            <h3>🎯 Посада і місто</h3>
+            <p>Продавець-консультант, касир, кур'єр, водій, склад, кухня, офіс, IT-junior та інші. Місто, «уся Україна» або «віддалено».</p>
+          </article>
+          <article class="card">
+            <h3>💰 Зарплата</h3>
+            <p>Бот розуміє «від 18 000 грн», «20–25 тис.» і оплату за зміну. Показує, чи зарплата вища або нижча за медіану схожих вакансій у вашому місті.</p>
+          </article>
+          <article class="card">
+            <h3>🧹 Без повторів і резюме</h3>
+            <p>Ту саму вакансію з кількох каналів ви отримаєте один раз. Пости «шукаю роботу» бот пропускає.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap">
+        <h2>Безкоштовно і Преміум</h2>
+        <p>Оплата — у Telegram Stars усередині Telegram, без картки на сайті. Преміум продовжується щомісяця, скасувати можна будь-коли в налаштуваннях Telegram. Актуальні умови будуть у самому боті: команда <code>/terms</code>.</p>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr><th></th><th>Безкоштовно</th><th>⭐ Преміум</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Підписок (посада + місто)</td><td>3</td><td>15</td></tr>
+              <tr><td>Коли приходить вакансія</td><td>через 10 хв</td><td>одразу</td></tr>
+              <tr><td>Фільтр мінімальної зарплати</td><td>—</td><td>так</td></tr>
+              <tr><td>Порівняння з медіаною зарплат</td><td>так</td><td>так</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="how">
+      <div class="wrap">
+        <h2>Як це працюватиме</h2>
+        <ol class="steps">
+          <li>Відкриваєте бота в Telegram і натискаєте «Почати».</li>
+          <li>«➕ Нова підписка»: посада → місто (або вся Україна чи віддалено).</li>
+          <li>Отримуєте коротку картку щоразу, коли з'являється підходяща вакансія: посада, місто, графік, зарплата і посилання на оригінал.</li>
+        </ol>
+        <div class="notice"><strong>Обережно з «роботою мрії».</strong> Бот не є роботодавцем чи кадровим агентством і не перевіряє оголошення. Не платіть «за працевлаштування», навчання чи «бронювання місця» і не надсилайте копії документів, поки не переконалися, що компанія справжня.</div>
+        <p>Посилання на бота з'явиться тут після запуску. А поки що — <a href="blog/robota-prodavtsem-konsultantom-kyiv-telegram.html">як шукати роботу продавцем-консультантом у Києві через Telegram</a>.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>© 2026 Signal Only</span>
+      <span><a href="partners.html">Співпраця</a> · <a href="privacy.html">Політика конфіденційності</a> · <a href="blog/index.html">Блог</a></span>
+    </div>
+  </footer>
+</body>
+</html>

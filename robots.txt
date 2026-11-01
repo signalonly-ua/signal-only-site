@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://signalonly-ua.github.io/signal-only-site/sitemap.xml
