@@ -1,0 +1,96 @@
+{
+ "updated": "2026-11-01T22:38:23+00:00",
+ "bot": "https://t.me/filtrautobot",
+ "cars": [
+  {
+   "title": "Audi A4",
+   "year": 2016,
+   "price_usd": 11990,
+   "city": "Київ",
+   "pct": 28,
+   "market_usd": 16650,
+   "why": "на 28% дешевше за схожі (≈ $16 650)",
+   "link": "https://t.me/autofocus_ua_tg/70105"
+  },
+  {
+   "title": "Renault Megane",
+   "year": 2005,
+   "price_usd": 3290,
+   "city": "Київ",
+   "pct": 24,
+   "market_usd": 4350,
+   "why": "на 24% дешевше за схожі (≈ $4 350)",
+   "link": "https://t.me/autofocus_ua_tg/70073"
+  },
+  {
+   "title": "Toyota Camry",
+   "year": 2021,
+   "price_usd": 14500,
+   "city": "",
+   "pct": 53,
+   "market_usd": 30850,
+   "why": "на 53% дешевше за схожі (≈ $30 850)",
+   "link": "https://t.me/avtobazar_group/208618"
+  },
+  {
+   "title": "Volkswagen Tiguan",
+   "year": 2022,
+   "price_usd": 9900,
+   "city": "Одеса",
+   "pct": 51,
+   "market_usd": 20200,
+   "why": "на 51% дешевше за схожі (≈ $20 200)",
+   "link": "https://t.me/autoodesa/64313"
+  },
+  {
+   "title": "Mercedes-Benz GLE",
+   "year": 2018,
+   "price_usd": 21500,
+   "city": "",
+   "pct": 46,
+   "market_usd": 39800,
+   "why": "на 46% дешевше за схожі (≈ $39 800)",
+   "link": "https://t.me/avtobazar_group/208458"
+  },
+  {
+   "title": "Chevrolet Cruze",
+   "year": 2011,
+   "price_usd": 4400,
+   "city": "Луцьк",
+   "pct": 31,
+   "market_usd": 6400,
+   "why": "на 31% дешевше за схожі (≈ $6 400)",
+   "link": "https://t.me/lutsk_autobazar/32570"
+  },
+  {
+   "title": "Volkswagen Passat",
+   "year": 2015,
+   "price_usd": 9200,
+   "city": "Львів",
+   "pct": 25,
+   "market_usd": 12250,
+   "why": "на 25% дешевше за схожі (≈ $12 250)",
+   "link": "https://t.me/avtobazar_group/208830"
+  },
+  {
+   "title": "Ford Focus",
+   "year": 2013,
+   "price_usd": 5450,
+   "city": "Запоріжжя",
+   "pct": 19,
+   "market_usd": 6750,
+   "why": "на 19% дешевше за схожі (≈ $6 750)",
+   "link": "https://t.me/avto1_zp/16645"
+  },
+  {
+   "title": "Audi A3",
+   "year": 2015,
+   "price_usd": 10900,
+   "city": "",
+   "pct": 16,
+   "market_usd": 13000,
+   "why": "на 16% дешевше за схожі (≈ $13 000)",
+   "link": "https://t.me/KievavtoSale/18110"
+  }
+ ]
+}
