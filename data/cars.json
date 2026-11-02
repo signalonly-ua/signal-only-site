@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T17:33:27+00:00",
+ "updated": "2026-11-02T21:33:27+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -63,6 +63,16 @@
    "link": "https://t.me/fidrikcompany/98974"
   },
   {
+   "title": "Audi Q5",
+   "year": 2018,
+   "price_usd": 18500,
+   "city": "",
+   "pct": 25,
+   "market_usd": 24650,
+   "why": "на 25% дешевше за схожі (≈ $24 650)",
+   "link": "https://t.me/avtobazar_group/209439"
+  },
+  {
    "title": "Volkswagen Golf Plus",
    "year": 2008,
    "price_usd": 5800,
@@ -91,16 +101,6 @@
    "market_usd": 11950,
    "why": "на 18% дешевше за схожі (≈ $11 950)",
    "link": "https://t.me/avtobazar_group/209267"
-  },
-  {
-   "title": "Skoda Fabia",
-   "year": 2009,
-   "price_usd": 4490,
-   "city": "Львів",
-   "pct": 17,
-   "market_usd": 5400,
-   "why": "на 17% дешевше за схожі (≈ $5 400)",
-   "link": "https://t.me/autoparkua4/85048"
   }
  ]
 }
