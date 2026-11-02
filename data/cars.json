@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T06:38:23+00:00",
+ "updated": "2026-11-02T10:14:21+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -13,24 +13,14 @@
    "link": "https://t.me/autofocus_ua_tg/70105"
   },
   {
-   "title": "Renault Megane",
-   "year": 2005,
-   "price_usd": 3290,
-   "city": "Київ",
-   "pct": 24,
-   "market_usd": 4350,
-   "why": "на 24% дешевше за схожі (≈ $4 350)",
-   "link": "https://t.me/autofocus_ua_tg/70073"
-  },
-  {
-   "title": "Toyota Camry",
+   "title": "Tesla Model 3",
    "year": 2021,
-   "price_usd": 14500,
-   "city": "",
-   "pct": 53,
-   "market_usd": 30850,
-   "why": "на 53% дешевше за схожі (≈ $30 850)",
-   "link": "https://t.me/avtobazar_group/208618"
+   "price_usd": 9800,
+   "city": "Луцьк",
+   "pct": 52,
+   "market_usd": 20400,
+   "why": "на 52% дешевше за схожі (≈ $20 400)",
+   "link": "https://t.me/fidrikcompany/98934"
   },
   {
    "title": "Volkswagen Tiguan",
@@ -43,14 +33,14 @@
    "link": "https://t.me/autoodesa/64313"
   },
   {
-   "title": "Chevrolet Cruze",
-   "year": 2011,
-   "price_usd": 4400,
+   "title": "Audi A6",
+   "year": 2017,
+   "price_usd": 10900,
    "city": "Луцьк",
-   "pct": 31,
-   "market_usd": 6400,
-   "why": "на 31% дешевше за схожі (≈ $6 400)",
-   "link": "https://t.me/lutsk_autobazar/32570"
+   "pct": 49,
+   "market_usd": 21350,
+   "why": "на 49% дешевше за схожі (≈ $21 350)",
+   "link": "https://t.me/fidrikcompany/98954"
   },
   {
    "title": "Volkswagen Passat",
@@ -71,6 +61,16 @@
    "market_usd": 6750,
    "why": "на 19% дешевше за схожі (≈ $6 750)",
    "link": "https://t.me/avto1_zp/16645"
+  },
+  {
+   "title": "Skoda Superb",
+   "year": 2013,
+   "price_usd": 8900,
+   "city": "",
+   "pct": 19,
+   "market_usd": 11000,
+   "why": "на 19% дешевше за схожі (≈ $11 000)",
+   "link": "https://t.me/autocars_uman/36859"
   },
   {
    "title": "Audi A3",
