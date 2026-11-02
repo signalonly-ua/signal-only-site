@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T22:38:23+00:00",
+ "updated": "2026-11-02T02:38:23+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -41,16 +41,6 @@
    "market_usd": 20200,
    "why": "на 51% дешевше за схожі (≈ $20 200)",
    "link": "https://t.me/autoodesa/64313"
-  },
-  {
-   "title": "Mercedes-Benz GLE",
-   "year": 2018,
-   "price_usd": 21500,
-   "city": "",
-   "pct": 46,
-   "market_usd": 39800,
-   "why": "на 46% дешевше за схожі (≈ $39 800)",
-   "link": "https://t.me/avtobazar_group/208458"
   },
   {
    "title": "Chevrolet Cruze",
