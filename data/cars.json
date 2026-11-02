@@ -1,17 +1,7 @@
 {
- "updated": "2026-11-02T10:14:21+00:00",
+ "updated": "2026-11-02T13:33:27+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Audi A4",
-   "year": 2016,
-   "price_usd": 11990,
-   "city": "Київ",
-   "pct": 28,
-   "market_usd": 16650,
-   "why": "на 28% дешевше за схожі (≈ $16 650)",
-   "link": "https://t.me/autofocus_ua_tg/70105"
-  },
   {
    "title": "Tesla Model 3",
    "year": 2021,
@@ -21,16 +11,6 @@
    "market_usd": 20400,
    "why": "на 52% дешевше за схожі (≈ $20 400)",
    "link": "https://t.me/fidrikcompany/98934"
-  },
-  {
-   "title": "Volkswagen Tiguan",
-   "year": 2022,
-   "price_usd": 9900,
-   "city": "Одеса",
-   "pct": 51,
-   "market_usd": 20200,
-   "why": "на 51% дешевше за схожі (≈ $20 200)",
-   "link": "https://t.me/autoodesa/64313"
   },
   {
    "title": "Audi A6",
@@ -53,16 +33,6 @@
    "link": "https://t.me/avtobazar_group/208830"
   },
   {
-   "title": "Ford Focus",
-   "year": 2013,
-   "price_usd": 5450,
-   "city": "Запоріжжя",
-   "pct": 19,
-   "market_usd": 6750,
-   "why": "на 19% дешевше за схожі (≈ $6 750)",
-   "link": "https://t.me/avto1_zp/16645"
-  },
-  {
    "title": "Skoda Superb",
    "year": 2013,
    "price_usd": 8900,
@@ -73,14 +43,14 @@
    "link": "https://t.me/autocars_uman/36859"
   },
   {
-   "title": "Audi A3",
-   "year": 2015,
-   "price_usd": 10900,
-   "city": "",
-   "pct": 16,
-   "market_usd": 13000,
-   "why": "на 16% дешевше за схожі (≈ $13 000)",
-   "link": "https://t.me/KievavtoSale/18110"
+   "title": "Skoda Octavia",
+   "year": 2010,
+   "price_usd": 6300,
+   "city": "Полтава",
+   "pct": 15,
+   "market_usd": 7400,
+   "why": "на 15% дешевше за схожі (≈ $7 400)",
+   "link": "https://t.me/borodaautoo/15238"
   }
  ]
 }
