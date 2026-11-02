@@ -1,7 +1,27 @@
 {
- "updated": "2026-11-02T13:33:27+00:00",
+ "updated": "2026-11-02T17:33:27+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
+  {
+   "title": "Toyota Camry",
+   "year": 2020,
+   "price_usd": 18490,
+   "city": "Київ",
+   "pct": 42,
+   "market_usd": 31900,
+   "why": "на 42% дешевше за схожі (≈ $31 900)",
+   "link": "https://t.me/autofocus_ua_tg/70233"
+  },
+  {
+   "title": "Mercedes-Benz C-Class",
+   "year": 2015,
+   "price_usd": 13990,
+   "city": "Київ",
+   "pct": 25,
+   "market_usd": 18650,
+   "why": "на 25% дешевше за схожі (≈ $18 650)",
+   "link": "https://t.me/autofocus_ua_tg/70223"
+  },
   {
    "title": "Tesla Model 3",
    "year": 2021,
@@ -23,14 +43,34 @@
    "link": "https://t.me/fidrikcompany/98954"
   },
   {
-   "title": "Volkswagen Passat",
-   "year": 2015,
+   "title": "BMW 5 Series",
+   "year": 2018,
+   "price_usd": 16000,
+   "city": "Луцьк",
+   "pct": 37,
+   "market_usd": 25400,
+   "why": "на 37% дешевше за схожі (≈ $25 400)",
+   "link": "https://t.me/avto_lutsk1/8397"
+  },
+  {
+   "title": "Jeep Compass",
+   "year": 2018,
    "price_usd": 9200,
-   "city": "Львів",
-   "pct": 25,
-   "market_usd": 12250,
-   "why": "на 25% дешевше за схожі (≈ $12 250)",
-   "link": "https://t.me/avtobazar_group/208830"
+   "city": "Луцьк",
+   "pct": 36,
+   "market_usd": 14400,
+   "why": "на 36% дешевше за схожі (≈ $14 400)",
+   "link": "https://t.me/fidrikcompany/98974"
+  },
+  {
+   "title": "Volkswagen Golf Plus",
+   "year": 2008,
+   "price_usd": 5800,
+   "city": "Умань",
+   "pct": 20,
+   "market_usd": 7250,
+   "why": "на 20% дешевше за схожі (≈ $7 250)",
+   "link": "https://t.me/avtobazar_group/209388"
   },
   {
    "title": "Skoda Superb",
@@ -43,14 +83,24 @@
    "link": "https://t.me/autocars_uman/36859"
   },
   {
-   "title": "Skoda Octavia",
+   "title": "Audi A6",
    "year": 2010,
-   "price_usd": 6300,
-   "city": "Полтава",
-   "pct": 15,
-   "market_usd": 7400,
-   "why": "на 15% дешевше за схожі (≈ $7 400)",
-   "link": "https://t.me/borodaautoo/15238"
+   "price_usd": 9800,
+   "city": "Житомир",
+   "pct": 18,
+   "market_usd": 11950,
+   "why": "на 18% дешевше за схожі (≈ $11 950)",
+   "link": "https://t.me/avtobazar_group/209267"
+  },
+  {
+   "title": "Skoda Fabia",
+   "year": 2009,
+   "price_usd": 4490,
+   "city": "Львів",
+   "pct": 17,
+   "market_usd": 5400,
+   "why": "на 17% дешевше за схожі (≈ $5 400)",
+   "link": "https://t.me/autoparkua4/85048"
   }
  ]
 }
