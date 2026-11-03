@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T05:33:27+00:00",
+ "updated": "2026-11-03T08:13:03+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -21,6 +21,16 @@
    "market_usd": 18650,
    "why": "на 25% дешевше за схожі (≈ $18 650)",
    "link": "https://t.me/autofocus_ua_tg/70223"
+  },
+  {
+   "title": "Toyota Camry",
+   "year": 2021,
+   "price_usd": 23490,
+   "city": "Київ",
+   "pct": 24,
+   "market_usd": 30900,
+   "why": "на 24% дешевше за схожі (≈ $30 900)",
+   "link": "https://t.me/autofocus_ua_tg/70247"
   },
   {
    "title": "Tesla Model 3",
@@ -91,16 +101,6 @@
    "market_usd": 11000,
    "why": "на 19% дешевше за схожі (≈ $11 000)",
    "link": "https://t.me/autocars_uman/36859"
-  },
-  {
-   "title": "Audi A6",
-   "year": 2010,
-   "price_usd": 9800,
-   "city": "Житомир",
-   "pct": 18,
-   "market_usd": 11950,
-   "why": "на 18% дешевше за схожі (≈ $11 950)",
-   "link": "https://t.me/avtobazar_group/209267"
   }
  ]
 }
