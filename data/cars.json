@@ -1,17 +1,7 @@
 {
- "updated": "2026-11-03T15:53:19+00:00",
+ "updated": "2026-11-03T16:53:02+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Toyota Camry",
-   "year": 2020,
-   "price_usd": 18490,
-   "city": "Київ",
-   "pct": 42,
-   "market_usd": 31900,
-   "why": "на 42% дешевше за схожі (≈ $31 900)",
-   "link": "https://t.me/autofocus_ua_tg/70233"
-  },
   {
    "title": "BMW 5 Series",
    "year": 2013,
@@ -81,16 +71,6 @@
    "market_usd": 7250,
    "why": "на 20% дешевше за схожі (≈ $7 250)",
    "link": "https://t.me/avtobazar_group/209388"
-  },
-  {
-   "title": "Skoda Fabia",
-   "year": 2009,
-   "price_usd": 4490,
-   "city": "Львів",
-   "pct": 17,
-   "market_usd": 5400,
-   "why": "на 17% дешевше за схожі (≈ $5 400)",
-   "link": "https://t.me/autoparkua4/85048"
   },
   {
    "title": "Toyota Camry",
