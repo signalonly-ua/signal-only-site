@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T17:54:19+00:00",
+ "updated": "2026-11-03T21:54:19+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -83,14 +83,14 @@
    "link": "https://t.me/Select_Auto_Korea/27705"
   },
   {
-   "title": "Audi Q5",
-   "year": 2018,
-   "price_usd": 18500,
-   "city": "",
-   "pct": 25,
-   "market_usd": 24650,
-   "why": "на 25% дешевше за схожі (≈ $24 650)",
-   "link": "https://t.me/avtobazar_group/209439"
+   "title": "Tesla Model 3",
+   "year": 2023,
+   "price_usd": 15300,
+   "city": "Луцьк",
+   "pct": 26,
+   "market_usd": 20700,
+   "why": "на 26% дешевше за схожі (≈ $20 700)",
+   "link": "https://t.me/fidrikcompany/99094"
   },
   {
    "title": "Hyundai Sonata",
