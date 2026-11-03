@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-03T04:14:21+00:00",
+ "updated": "2026-11-03T06:14:22+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Касир",
+   "city": "Київ",
+   "district": "Оболонський р-н",
+   "salary": "від 21 700 грн",
+   "employment": "Позмінно",
+   "date": "2026-11-03T06:03:46+00:00",
+   "link": "https://t.me/robota_rabota_kiev_kyiv/8856"
+  },
   {
    "position": "Кухар",
    "city": "Київ",
@@ -172,15 +181,6 @@
    "employment": "Повна зайнятість",
    "date": "2026-11-02T17:13:26+00:00",
    "link": "https://t.me/workua_vinnytsya/70467"
-  },
-  {
-   "position": "Продавець-консультант",
-   "city": "Одеса",
-   "district": "",
-   "salary": "від 26 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-02T17:13:26+00:00",
-   "link": "https://t.me/workua_odesa/80697"
   }
  ]
 }
