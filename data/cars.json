@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T16:53:02+00:00",
+ "updated": "2026-11-03T17:54:19+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -21,6 +21,26 @@
    "market_usd": 30900,
    "why": "на 24% дешевше за схожі (≈ $30 900)",
    "link": "https://t.me/autofocus_ua_tg/70247"
+  },
+  {
+   "title": "Audi A6",
+   "year": 2017,
+   "price_usd": 16790,
+   "city": "Київ",
+   "pct": 20,
+   "market_usd": 21000,
+   "why": "на 20% дешевше за схожі (≈ $21 000)",
+   "link": "https://t.me/autofocus_ua_tg/70318"
+  },
+  {
+   "title": "Toyota Land Cruiser",
+   "year": 2020,
+   "price_usd": 52900,
+   "city": "Київ",
+   "pct": 19,
+   "market_usd": 65300,
+   "why": "на 19% дешевше за схожі (≈ $65 300)",
+   "link": "https://t.me/imperiya_auto/93754"
   },
   {
    "title": "Audi A3",
@@ -53,6 +73,16 @@
    "link": "https://t.me/fidrikcompany/99024"
   },
   {
+   "title": "Hyundai Santa FE",
+   "year": 2015,
+   "price_usd": 12800,
+   "city": "",
+   "pct": 27,
+   "market_usd": 17550,
+   "why": "на 27% дешевше за схожі (≈ $17 550)",
+   "link": "https://t.me/Select_Auto_Korea/27705"
+  },
+  {
    "title": "Audi Q5",
    "year": 2018,
    "price_usd": 18500,
@@ -63,24 +93,14 @@
    "link": "https://t.me/avtobazar_group/209439"
   },
   {
-   "title": "Volkswagen Golf Plus",
-   "year": 2008,
-   "price_usd": 5800,
-   "city": "Умань",
-   "pct": 20,
-   "market_usd": 7250,
-   "why": "на 20% дешевше за схожі (≈ $7 250)",
-   "link": "https://t.me/avtobazar_group/209388"
-  },
-  {
-   "title": "Toyota Camry",
-   "year": 2016,
-   "price_usd": 13700,
+   "title": "Hyundai Sonata",
+   "year": 2014,
+   "price_usd": 7300,
    "city": "",
-   "pct": 16,
-   "market_usd": 16300,
-   "why": "на 16% дешевше за схожі (≈ $16 300)",
-   "link": "https://t.me/autobazar_poltava_ua/44113"
+   "pct": 25,
+   "market_usd": 9750,
+   "why": "на 25% дешевше за схожі (≈ $9 750)",
+   "link": "https://t.me/KievavtoSale/18155"
   }
  ]
 }
