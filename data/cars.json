@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T08:13:03+00:00",
+ "updated": "2026-11-03T11:53:19+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -11,6 +11,16 @@
    "market_usd": 31900,
    "why": "на 42% дешевше за схожі (≈ $31 900)",
    "link": "https://t.me/autofocus_ua_tg/70233"
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2013,
+   "price_usd": 8999,
+   "city": "Київ",
+   "pct": 40,
+   "market_usd": 15000,
+   "why": "на 40% дешевше за схожі (≈ $15 000)",
+   "link": "https://t.me/KievavtoSale/18136"
   },
   {
    "title": "Mercedes-Benz C-Class",
@@ -33,26 +43,6 @@
    "link": "https://t.me/autofocus_ua_tg/70247"
   },
   {
-   "title": "Tesla Model 3",
-   "year": 2021,
-   "price_usd": 9800,
-   "city": "Луцьк",
-   "pct": 52,
-   "market_usd": 20400,
-   "why": "на 52% дешевше за схожі (≈ $20 400)",
-   "link": "https://t.me/fidrikcompany/98934"
-  },
-  {
-   "title": "Audi A6",
-   "year": 2017,
-   "price_usd": 10900,
-   "city": "Луцьк",
-   "pct": 49,
-   "market_usd": 21350,
-   "why": "на 49% дешевше за схожі (≈ $21 350)",
-   "link": "https://t.me/fidrikcompany/98954"
-  },
-  {
    "title": "BMW 5 Series",
    "year": 2018,
    "price_usd": 16000,
@@ -73,6 +63,26 @@
    "link": "https://t.me/fidrikcompany/98974"
   },
   {
+   "title": "Audi A3",
+   "year": 2016,
+   "price_usd": 9500,
+   "city": "Луцьк",
+   "pct": 32,
+   "market_usd": 13950,
+   "why": "на 32% дешевше за схожі (≈ $13 950)",
+   "link": "https://t.me/fidrikcompany/99014"
+  },
+  {
+   "title": "Volkswagen Tiguan",
+   "year": 2018,
+   "price_usd": 12700,
+   "city": "Луцьк",
+   "pct": 29,
+   "market_usd": 17900,
+   "why": "на 29% дешевше за схожі (≈ $17 900)",
+   "link": "https://t.me/fidrikcompany/99024"
+  },
+  {
    "title": "Audi Q5",
    "year": 2018,
    "price_usd": 18500,
@@ -91,16 +101,6 @@
    "market_usd": 7250,
    "why": "на 20% дешевше за схожі (≈ $7 250)",
    "link": "https://t.me/avtobazar_group/209388"
-  },
-  {
-   "title": "Skoda Superb",
-   "year": 2013,
-   "price_usd": 8900,
-   "city": "",
-   "pct": 19,
-   "market_usd": 11000,
-   "why": "на 19% дешевше за схожі (≈ $11 000)",
-   "link": "https://t.me/autocars_uman/36859"
   }
  ]
 }
