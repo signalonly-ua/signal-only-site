@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T11:53:19+00:00",
+ "updated": "2026-11-03T15:53:19+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -23,16 +23,6 @@
    "link": "https://t.me/KievavtoSale/18136"
   },
   {
-   "title": "Mercedes-Benz C-Class",
-   "year": 2015,
-   "price_usd": 13990,
-   "city": "Київ",
-   "pct": 25,
-   "market_usd": 18650,
-   "why": "на 25% дешевше за схожі (≈ $18 650)",
-   "link": "https://t.me/autofocus_ua_tg/70223"
-  },
-  {
    "title": "Toyota Camry",
    "year": 2021,
    "price_usd": 23490,
@@ -43,24 +33,14 @@
    "link": "https://t.me/autofocus_ua_tg/70247"
   },
   {
-   "title": "BMW 5 Series",
-   "year": 2018,
-   "price_usd": 16000,
-   "city": "Луцьк",
-   "pct": 37,
-   "market_usd": 25400,
-   "why": "на 37% дешевше за схожі (≈ $25 400)",
-   "link": "https://t.me/avto_lutsk1/8397"
-  },
-  {
-   "title": "Jeep Compass",
-   "year": 2018,
-   "price_usd": 9200,
-   "city": "Луцьк",
-   "pct": 36,
-   "market_usd": 14400,
-   "why": "на 36% дешевше за схожі (≈ $14 400)",
-   "link": "https://t.me/fidrikcompany/98974"
+   "title": "Audi A3",
+   "year": 2016,
+   "price_usd": 9000,
+   "city": "Суми",
+   "pct": 33,
+   "market_usd": 13450,
+   "why": "на 33% дешевше за схожі (≈ $13 450)",
+   "link": "https://t.me/avtobazar_group/209626"
   },
   {
    "title": "Audi A3",
@@ -101,6 +81,26 @@
    "market_usd": 7250,
    "why": "на 20% дешевше за схожі (≈ $7 250)",
    "link": "https://t.me/avtobazar_group/209388"
+  },
+  {
+   "title": "Skoda Fabia",
+   "year": 2009,
+   "price_usd": 4490,
+   "city": "Львів",
+   "pct": 17,
+   "market_usd": 5400,
+   "why": "на 17% дешевше за схожі (≈ $5 400)",
+   "link": "https://t.me/autoparkua4/85048"
+  },
+  {
+   "title": "Toyota Camry",
+   "year": 2016,
+   "price_usd": 13700,
+   "city": "",
+   "pct": 16,
+   "market_usd": 16300,
+   "why": "на 16% дешевше за схожі (≈ $16 300)",
+   "link": "https://t.me/autobazar_poltava_ua/44113"
   }
  ]
 }
