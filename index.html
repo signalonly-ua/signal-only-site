@@ -50,6 +50,13 @@
       </div>
     </section>
 
+    <section class="section" id="highlights" hidden>
+      <div class="wrap">
+        <h2>Цікаво знати</h2>
+        <div class="grid" id="highlights-list"></div>
+      </div>
+    </section>
+
     <section class="section" id="bots">
       <div class="wrap">
         <h2>Лінійка ботів</h2>
@@ -80,6 +87,14 @@
             <div class="actions">
               <a class="btn" href="https://t.me/SignalJobsUA_bot" rel="noopener">Відкрити в Telegram</a>
               <a class="btn secondary" href="jobs.html">Детальніше</a>
+            </div>
+          </article>
+          <article class="card">
+            <span class="badge">Скоро</span>
+            <h3>📰 Signal News</h3>
+            <p>Новини лише за вашими темами й районом: авто, IT, агро, добрі новини, Київ по районах.</p>
+            <div class="actions">
+              <a class="btn" href="https://t.me/newssignalua_bot" rel="noopener">Відкрити в Telegram</a>
             </div>
           </article>
         </div>
@@ -135,6 +150,39 @@
         li.appendChild(b); li.appendChild(t); li.appendChild(a); list.appendChild(li);
       });
       if (list.children.length) document.getElementById('promo').hidden = false;
+    }).catch(function () {});
+  })();
+  (function () {
+    var box = document.getElementById('highlights-list');
+    function card(h, body, link, bot, botLabel) {
+      var art = document.createElement('article'), t = document.createElement('h3'), p = document.createElement('p'),
+          act = document.createElement('div'), a = document.createElement('a'), b = document.createElement('a');
+      art.className = 'card'; t.textContent = h; p.textContent = body; p.style.whiteSpace = 'pre-line';
+      act.className = 'actions';
+      a.className = 'btn secondary'; a.href = link; a.rel = 'noopener'; a.textContent = 'Подивитися';
+      b.className = 'btn'; b.href = bot; b.rel = 'noopener'; b.textContent = botLabel;
+      act.appendChild(a); act.appendChild(b); art.appendChild(t); art.appendChild(p); art.appendChild(act); box.appendChild(art);
+      document.getElementById('highlights').hidden = false;
+    }
+    function salaryMax(text) {
+      var m = (text || '').match(/\d[\d\s\u00a0\u202f]*\d|\d/g) || [], best = 0;
+      m.forEach(function (x) { var n = parseInt(x.replace(/\D/g, ''), 10); if (n >= 1000 && n <= 1000000 && n > best) best = n; });
+      return best;
+    }
+    function ok(link) { return /^https:\/\/t\.me\//.test(link || ''); }
+    fetch('data/cars.json', {cache: 'no-cache'}).then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+      if (!d || !d.cars) return;
+      var best = null;
+      d.cars.forEach(function (c) { if (c.pct && c.price_usd && ok(c.link) && (!best || c.pct > best.pct)) best = c; });
+      if (best) card('🚗 Найвигідніше авто дня', best.title + (best.year ? ', ' + best.year : '') + (best.city ? ' · ' + best.city : '') +
+        '\n$' + String(best.price_usd).replace(/\B(?=(\d{3})+(?!\d))/g, ' ') + (best.why ? '\n' + best.why : ''), best.link, 'https://t.me/filtrautobot', 'Більше в Signal Auto');
+    }).catch(function () {});
+    fetch('data/jobs.json', {cache: 'no-cache'}).then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+      if (!d || !d.jobs) return;
+      var best = null, bestN = 0;
+      d.jobs.forEach(function (j) { var n = salaryMax(j.salary); if (n && ok(j.link) && n > bestN) { best = j; bestN = n; } });
+      if (best) card('💼 Найвища зарплата сьогодні', best.position + (best.city ? ' · ' + best.city : '') + '\n' + best.salary +
+        (best.employment ? ' · ' + best.employment : ''), best.link, 'https://t.me/SignalJobsUA_bot', 'Більше в Signal Jobs');
     }).catch(function () {});
   })();
   </script>
