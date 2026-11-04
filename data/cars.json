@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T03:06:32+00:00",
+ "updated": "2026-11-04T07:06:32+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -11,16 +11,6 @@
    "market_usd": 15000,
    "why": "на 40% дешевше за схожі (≈ $15 000)",
    "link": "https://t.me/KievavtoSale/18136"
-  },
-  {
-   "title": "Toyota Camry",
-   "year": 2021,
-   "price_usd": 23490,
-   "city": "Київ",
-   "pct": 24,
-   "market_usd": 30900,
-   "why": "на 24% дешевше за схожі (≈ $30 900)",
-   "link": "https://t.me/autofocus_ua_tg/70247"
   },
   {
    "title": "Audi A6",
@@ -51,6 +41,16 @@
    "market_usd": 13450,
    "why": "на 33% дешевше за схожі (≈ $13 450)",
    "link": "https://t.me/avtobazar_group/209626"
+  },
+  {
+   "title": "BMW X5",
+   "year": 2012,
+   "price_usd": 11800,
+   "city": "Луцьк",
+   "pct": 33,
+   "market_usd": 17600,
+   "why": "на 33% дешевше за схожі (≈ $17 600)",
+   "link": "https://t.me/lutsk_autobazar/32618"
   },
   {
    "title": "Audi A3",
