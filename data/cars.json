@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T10:04:42+00:00",
+ "updated": "2026-11-04T14:05:27+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -31,16 +31,6 @@
    "market_usd": 75300,
    "why": "на 19% дешевше за схожі (≈ $75 300)",
    "link": "https://t.me/hapai_avto/20749"
-  },
-  {
-   "title": "Audi A3",
-   "year": 2016,
-   "price_usd": 9000,
-   "city": "Суми",
-   "pct": 33,
-   "market_usd": 13450,
-   "why": "на 33% дешевше за схожі (≈ $13 450)",
-   "link": "https://t.me/avtobazar_group/209626"
   },
   {
    "title": "BMW X5",
@@ -101,6 +91,16 @@
    "market_usd": 12000,
    "why": "на 25% дешевше за схожі (≈ $12 000)",
    "link": "https://t.me/avtobazar_group/209978"
+  },
+  {
+   "title": "Audi Q5",
+   "year": 2018,
+   "price_usd": 18500,
+   "city": "",
+   "pct": 23,
+   "market_usd": 24050,
+   "why": "на 23% дешевше за схожі (≈ $24 050)",
+   "link": "https://t.me/avtobazar_group/209842"
   }
  ]
 }
