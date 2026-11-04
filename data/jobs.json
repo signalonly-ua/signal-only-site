@@ -1,7 +1,34 @@
 {
- "updated": "2026-11-04T18:03:52+00:00",
+ "updated": "2026-11-04T19:33:22+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Різноробочий",
+   "city": "Чернівці",
+   "district": "",
+   "salary": "2 000 грн",
+   "employment": "",
+   "date": "2026-11-04T18:38:31+00:00",
+   "link": "https://t.me/chernovtsy_rabota/25929"
+  },
+  {
+   "position": "HR-менеджер",
+   "city": "",
+   "district": "",
+   "salary": "",
+   "employment": "",
+   "date": "2026-11-04T18:06:39+00:00",
+   "link": "https://t.me/it_job_ua/72564"
+  },
+  {
+   "position": "Продавець-консультант",
+   "city": "Київ",
+   "district": "Святошинський р-н",
+   "salary": "",
+   "employment": "",
+   "date": "2026-11-04T18:04:07+00:00",
+   "link": "https://t.me/robota_rabota_kiev_kyiv/8881"
+  },
   {
    "position": "Водій",
    "city": "Вінниця",
@@ -154,33 +181,6 @@
    "employment": "",
    "date": "2026-11-04T17:29:30+00:00",
    "link": "https://t.me/sumyq_rabota_vakansii/6250"
-  },
-  {
-   "position": "Зварювальник",
-   "city": "Запоріжжя",
-   "district": "",
-   "salary": "від 30 000 грн",
-   "employment": "",
-   "date": "2026-11-04T17:27:04+00:00",
-   "link": "https://t.me/zaporozheq_rabota_vakansii/7194"
-  },
-  {
-   "position": "Кухар",
-   "city": "Кропивницький",
-   "district": "",
-   "salary": "",
-   "employment": "Позмінно",
-   "date": "2026-11-04T17:27:04+00:00",
-   "link": "https://t.me/robota_rabota_kropivnitsky_2/27921"
-  },
-  {
-   "position": "Водій",
-   "city": "Івано-Франківськ",
-   "district": "",
-   "salary": "",
-   "employment": "Позмінно",
-   "date": "2026-11-04T17:27:03+00:00",
-   "link": "https://t.me/rabotaq_podrabotkaq_if/31663"
   }
  ]
 }
