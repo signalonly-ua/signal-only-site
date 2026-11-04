@@ -1,17 +1,7 @@
 {
- "updated": "2026-11-04T07:06:32+00:00",
+ "updated": "2026-11-04T10:04:42+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "BMW 5 Series",
-   "year": 2013,
-   "price_usd": 8999,
-   "city": "Київ",
-   "pct": 40,
-   "market_usd": 15000,
-   "why": "на 40% дешевше за схожі (≈ $15 000)",
-   "link": "https://t.me/KievavtoSale/18136"
-  },
   {
    "title": "Audi A6",
    "year": 2017,
@@ -33,6 +23,16 @@
    "link": "https://t.me/imperiya_auto/93754"
   },
   {
+   "title": "Toyota Land Cruiser",
+   "year": 2024,
+   "price_usd": 61000,
+   "city": "Київ",
+   "pct": 19,
+   "market_usd": 75300,
+   "why": "на 19% дешевше за схожі (≈ $75 300)",
+   "link": "https://t.me/hapai_avto/20749"
+  },
+  {
    "title": "Audi A3",
    "year": 2016,
    "price_usd": 9000,
@@ -51,26 +51,6 @@
    "market_usd": 17600,
    "why": "на 33% дешевше за схожі (≈ $17 600)",
    "link": "https://t.me/lutsk_autobazar/32618"
-  },
-  {
-   "title": "Audi A3",
-   "year": 2016,
-   "price_usd": 9500,
-   "city": "Луцьк",
-   "pct": 32,
-   "market_usd": 13950,
-   "why": "на 32% дешевше за схожі (≈ $13 950)",
-   "link": "https://t.me/fidrikcompany/99014"
-  },
-  {
-   "title": "Volkswagen Tiguan",
-   "year": 2018,
-   "price_usd": 12700,
-   "city": "Луцьк",
-   "pct": 29,
-   "market_usd": 17900,
-   "why": "на 29% дешевше за схожі (≈ $17 900)",
-   "link": "https://t.me/fidrikcompany/99024"
   },
   {
    "title": "Hyundai Santa FE",
@@ -101,6 +81,26 @@
    "market_usd": 9750,
    "why": "на 25% дешевше за схожі (≈ $9 750)",
    "link": "https://t.me/KievavtoSale/18155"
+  },
+  {
+   "title": "Audi A7 Sportback",
+   "year": 2017,
+   "price_usd": 20750,
+   "city": "Кривий Ріг",
+   "pct": 25,
+   "market_usd": 27650,
+   "why": "на 25% дешевше за схожі (≈ $27 650)",
+   "link": "https://t.me/vechirnii20/21906"
+  },
+  {
+   "title": "Audi A6",
+   "year": 2011,
+   "price_usd": 9000,
+   "city": "",
+   "pct": 25,
+   "market_usd": 12000,
+   "why": "на 25% дешевше за схожі (≈ $12 000)",
+   "link": "https://t.me/avtobazar_group/209978"
   }
  ]
 }
