@@ -1,27 +1,7 @@
 {
- "updated": "2026-11-04T14:05:27+00:00",
+ "updated": "2026-11-04T18:05:27+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Audi A6",
-   "year": 2017,
-   "price_usd": 16790,
-   "city": "Київ",
-   "pct": 20,
-   "market_usd": 21000,
-   "why": "на 20% дешевше за схожі (≈ $21 000)",
-   "link": "https://t.me/autofocus_ua_tg/70318"
-  },
-  {
-   "title": "Toyota Land Cruiser",
-   "year": 2020,
-   "price_usd": 52900,
-   "city": "Київ",
-   "pct": 19,
-   "market_usd": 65300,
-   "why": "на 19% дешевше за схожі (≈ $65 300)",
-   "link": "https://t.me/imperiya_auto/93754"
-  },
   {
    "title": "Toyota Land Cruiser",
    "year": 2024,
@@ -31,6 +11,46 @@
    "market_usd": 75300,
    "why": "на 19% дешевше за схожі (≈ $75 300)",
    "link": "https://t.me/hapai_avto/20749"
+  },
+  {
+   "title": "Land Rover Range Rover Velar",
+   "year": 2018,
+   "price_usd": 15200,
+   "city": "Луцьк",
+   "pct": 54,
+   "market_usd": 33050,
+   "why": "на 54% дешевше за схожі (≈ $33 050)",
+   "link": "https://t.me/fidrikcompany/99124"
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2017,
+   "price_usd": 14800,
+   "city": "Луцьк",
+   "pct": 42,
+   "market_usd": 25500,
+   "why": "на 42% дешевше за схожі (≈ $25 500)",
+   "link": "https://t.me/fidrikcompany/99134"
+  },
+  {
+   "title": "Volkswagen Passat",
+   "year": 2017,
+   "price_usd": 8800,
+   "city": "Луцьк",
+   "pct": 36,
+   "market_usd": 13750,
+   "why": "на 36% дешевше за схожі (≈ $13 750)",
+   "link": "https://t.me/fidrikcompany/99104"
+  },
+  {
+   "title": "Mercedes-Benz E-Class",
+   "year": 2019,
+   "price_usd": 21400,
+   "city": "",
+   "pct": 36,
+   "market_usd": 33450,
+   "why": "на 36% дешевше за схожі (≈ $33 450)",
+   "link": "https://t.me/Select_Auto_Korea/27731"
   },
   {
    "title": "BMW X5",
@@ -43,14 +63,24 @@
    "link": "https://t.me/lutsk_autobazar/32618"
   },
   {
-   "title": "Hyundai Santa FE",
-   "year": 2015,
-   "price_usd": 12800,
-   "city": "",
-   "pct": 27,
-   "market_usd": 17550,
-   "why": "на 27% дешевше за схожі (≈ $17 550)",
-   "link": "https://t.me/Select_Auto_Korea/27705"
+   "title": "Tesla Model Y",
+   "year": 2023,
+   "price_usd": 17900,
+   "city": "Луцьк",
+   "pct": 32,
+   "market_usd": 26300,
+   "why": "на 32% дешевше за схожі (≈ $26 300)",
+   "link": "https://t.me/fidrikcompany/99164"
+  },
+  {
+   "title": "Tesla Model 3",
+   "year": 2018,
+   "price_usd": 11400,
+   "city": "Луцьк",
+   "pct": 28,
+   "market_usd": 15850,
+   "why": "на 28% дешевше за схожі (≈ $15 850)",
+   "link": "https://t.me/fidrikcompany/99154"
   },
   {
    "title": "Tesla Model 3",
@@ -63,26 +93,6 @@
    "link": "https://t.me/fidrikcompany/99094"
   },
   {
-   "title": "Hyundai Sonata",
-   "year": 2014,
-   "price_usd": 7300,
-   "city": "",
-   "pct": 25,
-   "market_usd": 9750,
-   "why": "на 25% дешевше за схожі (≈ $9 750)",
-   "link": "https://t.me/KievavtoSale/18155"
-  },
-  {
-   "title": "Audi A7 Sportback",
-   "year": 2017,
-   "price_usd": 20750,
-   "city": "Кривий Ріг",
-   "pct": 25,
-   "market_usd": 27650,
-   "why": "на 25% дешевше за схожі (≈ $27 650)",
-   "link": "https://t.me/vechirnii20/21906"
-  },
-  {
    "title": "Audi A6",
    "year": 2011,
    "price_usd": 9000,
@@ -91,16 +101,6 @@
    "market_usd": 12000,
    "why": "на 25% дешевше за схожі (≈ $12 000)",
    "link": "https://t.me/avtobazar_group/209978"
-  },
-  {
-   "title": "Audi Q5",
-   "year": 2018,
-   "price_usd": 18500,
-   "city": "",
-   "pct": 23,
-   "market_usd": 24050,
-   "why": "на 23% дешевше за схожі (≈ $24 050)",
-   "link": "https://t.me/avtobazar_group/209842"
   }
  ]
 }
