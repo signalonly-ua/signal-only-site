@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T19:33:46+00:00",
+ "updated": "2026-11-04T20:34:00+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -83,16 +83,6 @@
    "link": "https://t.me/fidrikcompany/99154"
   },
   {
-   "title": "Tesla Model 3",
-   "year": 2023,
-   "price_usd": 15300,
-   "city": "Луцьк",
-   "pct": 26,
-   "market_usd": 20700,
-   "why": "на 26% дешевше за схожі (≈ $20 700)",
-   "link": "https://t.me/fidrikcompany/99094"
-  },
-  {
    "title": "Audi A6",
    "year": 2011,
    "price_usd": 9000,
@@ -101,6 +91,16 @@
    "market_usd": 12000,
    "why": "на 25% дешевше за схожі (≈ $12 000)",
    "link": "https://t.me/avtobazar_group/209978"
+  },
+  {
+   "title": "Tesla Model 3",
+   "year": 2018,
+   "price_usd": 11500,
+   "city": "Луцьк",
+   "pct": 25,
+   "market_usd": 15350,
+   "why": "на 25% дешевше за схожі (≈ $15 350)",
+   "link": "https://t.me/fidrikcompany/99185"
   }
  ]
 }
