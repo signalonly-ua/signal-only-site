@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-04T19:33:22+00:00",
+ "updated": "2026-11-04T21:33:22+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Кухар, Касир, Кур'єр",
+   "city": "",
+   "district": "",
+   "salary": "",
+   "employment": "",
+   "date": "2026-11-04T20:24:26+00:00",
+   "link": "https://t.me/v_odesse7/729675"
+  },
+  {
+   "position": "Перукар",
+   "city": "Запоріжжя",
+   "district": "",
+   "salary": "від 25 000 грн",
+   "employment": "",
+   "date": "2026-11-04T19:35:21+00:00",
+   "link": "https://t.me/zaporozheq_rabota_vakansii/7195"
+  },
+  {
+   "position": "Продавець-консультант",
+   "city": "Суми",
+   "district": "",
+   "salary": "від 9 000 грн",
+   "employment": "",
+   "date": "2026-11-04T19:35:20+00:00",
+   "link": "https://t.me/sumyq_rabota_vakansii/6251"
+  },
+  {
+   "position": "Продавець-консультант",
+   "city": "Кропивницький",
+   "district": "",
+   "salary": "від 40 000 грн",
+   "employment": "",
+   "date": "2026-11-04T19:35:20+00:00",
+   "link": "https://t.me/robota_rabota_kropivnitsky_2/27922"
+  },
+  {
+   "position": "Продавець",
+   "city": "Івано-Франківськ",
+   "district": "",
+   "salary": "від 20 000 грн",
+   "employment": "",
+   "date": "2026-11-04T19:35:19+00:00",
+   "link": "https://t.me/rabotaq_podrabotkaq_if/31664"
+  },
+  {
+   "position": "Вантажник",
+   "city": "",
+   "district": "",
+   "salary": "450 грн",
+   "employment": "",
+   "date": "2026-11-04T19:35:19+00:00",
+   "link": "https://t.me/rabota_vinnitsa7/430204"
+  },
+  {
+   "position": "Кухар",
+   "city": "Львів",
+   "district": "",
+   "salary": "",
+   "employment": "Позмінно (11/13)",
+   "date": "2026-11-04T19:35:17+00:00",
+   "link": "https://t.me/lviv_robota/82457"
+  },
+  {
+   "position": "Водій, Вантажник",
+   "city": "Луцьк",
+   "district": "",
+   "salary": "від 30 000 грн",
+   "employment": "",
+   "date": "2026-11-04T19:35:17+00:00",
+   "link": "https://t.me/lutsk_vakansii_podrabotka/6705"
+  },
   {
    "position": "Різноробочий",
    "city": "Чернівці",
@@ -109,78 +181,6 @@
    "employment": "Повна зайнятість",
    "date": "2026-11-04T17:49:22+00:00",
    "link": "https://t.me/workua_cherkasy/62622"
-  },
-  {
-   "position": "Охоронник",
-   "city": "Київ",
-   "district": "Дніпровський р-н",
-   "salary": "від 20 000 грн",
-   "employment": "",
-   "date": "2026-11-04T17:44:26+00:00",
-   "link": "https://t.me/rabota_kieve01/788907"
-  },
-  {
-   "position": "Бухгалтер",
-   "city": "Вінниця",
-   "district": "",
-   "salary": "від 22 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-04T17:36:56+00:00",
-   "link": "https://t.me/workua_vinnytsya/70574"
-  },
-  {
-   "position": "Вантажник",
-   "city": "Одеса",
-   "district": "",
-   "salary": "",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-04T17:36:56+00:00",
-   "link": "https://t.me/workua_odesa/80810"
-  },
-  {
-   "position": "Продавець, Продавець-консультант",
-   "city": "Кропивницький",
-   "district": "",
-   "salary": "від 25 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-04T17:36:55+00:00",
-   "link": "https://t.me/workua_kropyvnytskyi/51148"
-  },
-  {
-   "position": "Офіціант",
-   "city": "Івано-Франківськ",
-   "district": "",
-   "salary": "від 28 000 грн",
-   "employment": "Повна зайнятість · Позмінно",
-   "date": "2026-11-04T17:36:55+00:00",
-   "link": "https://t.me/workua_ivanofrankivsk/69585"
-  },
-  {
-   "position": "Вантажник",
-   "city": "Дніпро",
-   "district": "",
-   "salary": "",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-04T17:36:55+00:00",
-   "link": "https://t.me/workua_dnipro/82828"
-  },
-  {
-   "position": "Адміністратор",
-   "city": "Віддалено",
-   "district": "Дарницький р-н",
-   "salary": "від 29 050 грн",
-   "employment": "Віддалено",
-   "date": "2026-11-04T17:31:59+00:00",
-   "link": "https://t.me/vakansych_robota_work_job/383166"
-  },
-  {
-   "position": "Майстер манікюру",
-   "city": "Суми",
-   "district": "",
-   "salary": "від 15 000 грн",
-   "employment": "",
-   "date": "2026-11-04T17:29:30+00:00",
-   "link": "https://t.me/sumyq_rabota_vakansii/6250"
   }
  ]
 }
