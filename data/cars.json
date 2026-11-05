@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T04:34:00+00:00",
+ "updated": "2026-11-05T08:35:40+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -11,16 +11,6 @@
    "market_usd": 7550,
    "why": "на 43% дешевше за схожі (≈ $7 550)",
    "link": "https://t.me/avtobazar_group/210336"
-  },
-  {
-   "title": "Toyota Land Cruiser",
-   "year": 2024,
-   "price_usd": 61000,
-   "city": "Київ",
-   "pct": 19,
-   "market_usd": 75300,
-   "why": "на 19% дешевше за схожі (≈ $75 300)",
-   "link": "https://t.me/hapai_avto/20749"
   },
   {
    "title": "Land Rover Range Rover Velar",
@@ -63,16 +53,6 @@
    "link": "https://t.me/Select_Auto_Korea/27731"
   },
   {
-   "title": "BMW X5",
-   "year": 2012,
-   "price_usd": 11800,
-   "city": "Луцьк",
-   "pct": 33,
-   "market_usd": 17600,
-   "why": "на 33% дешевше за схожі (≈ $17 600)",
-   "link": "https://t.me/lutsk_autobazar/32618"
-  },
-  {
    "title": "Tesla Model Y",
    "year": 2023,
    "price_usd": 17900,
@@ -101,6 +81,26 @@
    "market_usd": 12000,
    "why": "на 25% дешевше за схожі (≈ $12 000)",
    "link": "https://t.me/avtobazar_group/209978"
+  },
+  {
+   "title": "Tesla Model 3",
+   "year": 2018,
+   "price_usd": 11500,
+   "city": "Луцьк",
+   "pct": 25,
+   "market_usd": 15350,
+   "why": "на 25% дешевше за схожі (≈ $15 350)",
+   "link": "https://t.me/fidrikcompany/99185"
+  },
+  {
+   "title": "Porsche Cayenne",
+   "year": 2014,
+   "price_usd": 17200,
+   "city": "",
+   "pct": 18,
+   "market_usd": 21000,
+   "why": "на 18% дешевше за схожі (≈ $21 000)",
+   "link": "https://t.me/autobazarvinnytsia/45140"
   }
  ]
 }
