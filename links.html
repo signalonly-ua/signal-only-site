@@ -49,7 +49,9 @@
         if (!ok(b.url)) return;
         var art = document.createElement('article'), s = document.createElement('span'), h = document.createElement('h3'),
             p = document.createElement('p'), act = document.createElement('div'), l = document.createElement('a');
-        art.className = 'card'; s.className = 'badge' + (b.status === 'live' ? ' live' : ''); s.textContent = b.status === 'live' ? 'Працює' : 'Скоро';
+        art.className = 'card';
+        if (b.logo && /^assets\/logos\/[\w-]+\.svg$/.test(b.logo)) { var im = document.createElement('img'); im.className = 'bot-logo'; im.src = b.logo; im.alt = ''; im.width = 56; im.height = 56; art.appendChild(im); }
+        s.className = 'badge' + (b.status === 'live' ? ' live' : ''); s.textContent = b.status === 'live' ? 'Працює' : 'Скоро';
         h.textContent = b.name; p.textContent = b.text; act.className = 'actions';
         l.className = 'btn'; l.href = b.url; l.rel = 'noopener'; l.textContent = 'Відкрити в Telegram';
         act.appendChild(l); art.appendChild(s); art.appendChild(h); art.appendChild(p); art.appendChild(act); box.appendChild(art);

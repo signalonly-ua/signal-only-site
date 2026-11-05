@@ -123,3 +123,5 @@ tr:last-child td { border-bottom: 0; }
 .jobs-list li { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 16px; display: flex; flex-direction: column; gap: 4px; min-width: 0; overflow-wrap: anywhere; }
 .jobs-list a { font-weight: 600; }
 .jobs-list span { color: var(--muted); font-size: .95em; }
+
+.bot-logo { display: block; width: 56px; height: 56px; border-radius: 14px; margin-bottom: 12px; }
