@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T08:35:40+00:00",
+ "updated": "2026-11-05T09:45:50+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -10,7 +10,8 @@
    "pct": 43,
    "market_usd": 7550,
    "why": "на 43% дешевше за схожі (≈ $7 550)",
-   "link": "https://t.me/avtobazar_group/210336"
+   "link": "https://t.me/avtobazar_group/210336",
+   "photo": "data/cars/5884.jpg"
   },
   {
    "title": "Land Rover Range Rover Velar",
@@ -20,7 +21,8 @@
    "pct": 54,
    "market_usd": 33050,
    "why": "на 54% дешевше за схожі (≈ $33 050)",
-   "link": "https://t.me/fidrikcompany/99124"
+   "link": "https://t.me/fidrikcompany/99124",
+   "photo": "data/cars/5826.jpg"
   },
   {
    "title": "BMW 5 Series",
@@ -30,7 +32,19 @@
    "pct": 42,
    "market_usd": 25500,
    "why": "на 42% дешевше за схожі (≈ $25 500)",
-   "link": "https://t.me/fidrikcompany/99134"
+   "link": "https://t.me/fidrikcompany/99134",
+   "photo": "data/cars/5827.jpg"
+  },
+  {
+   "title": "Volkswagen Touareg",
+   "year": 2016,
+   "price_usd": 13000,
+   "city": "",
+   "pct": 40,
+   "market_usd": 21650,
+   "why": "на 40% дешевше за схожі (≈ $21 650)",
+   "link": "https://t.me/avto_kyiv_adt/26967",
+   "photo": "data/cars/5918.jpg"
   },
   {
    "title": "Volkswagen Passat",
@@ -40,7 +54,8 @@
    "pct": 36,
    "market_usd": 13750,
    "why": "на 36% дешевше за схожі (≈ $13 750)",
-   "link": "https://t.me/fidrikcompany/99104"
+   "link": "https://t.me/fidrikcompany/99104",
+   "photo": "data/cars/5822.jpg"
   },
   {
    "title": "Mercedes-Benz E-Class",
@@ -50,7 +65,8 @@
    "pct": 36,
    "market_usd": 33450,
    "why": "на 36% дешевше за схожі (≈ $33 450)",
-   "link": "https://t.me/Select_Auto_Korea/27731"
+   "link": "https://t.me/Select_Auto_Korea/27731",
+   "photo": ""
   },
   {
    "title": "Tesla Model Y",
@@ -60,7 +76,8 @@
    "pct": 32,
    "market_usd": 26300,
    "why": "на 32% дешевше за схожі (≈ $26 300)",
-   "link": "https://t.me/fidrikcompany/99164"
+   "link": "https://t.me/fidrikcompany/99164",
+   "photo": "data/cars/5832.jpg"
   },
   {
    "title": "Tesla Model 3",
@@ -70,17 +87,8 @@
    "pct": 28,
    "market_usd": 15850,
    "why": "на 28% дешевше за схожі (≈ $15 850)",
-   "link": "https://t.me/fidrikcompany/99154"
-  },
-  {
-   "title": "Audi A6",
-   "year": 2011,
-   "price_usd": 9000,
-   "city": "",
-   "pct": 25,
-   "market_usd": 12000,
-   "why": "на 25% дешевше за схожі (≈ $12 000)",
-   "link": "https://t.me/avtobazar_group/209978"
+   "link": "https://t.me/fidrikcompany/99154",
+   "photo": "data/cars/5831.jpg"
   },
   {
    "title": "Tesla Model 3",
@@ -90,7 +98,8 @@
    "pct": 25,
    "market_usd": 15350,
    "why": "на 25% дешевше за схожі (≈ $15 350)",
-   "link": "https://t.me/fidrikcompany/99185"
+   "link": "https://t.me/fidrikcompany/99185",
+   "photo": "data/cars/5836.jpg"
   },
   {
    "title": "Porsche Cayenne",
@@ -100,7 +109,8 @@
    "pct": 18,
    "market_usd": 21000,
    "why": "на 18% дешевше за схожі (≈ $21 000)",
-   "link": "https://t.me/autobazarvinnytsia/45140"
+   "link": "https://t.me/autobazarvinnytsia/45140",
+   "photo": "data/cars/5766.jpg"
   }
  ]
 }
