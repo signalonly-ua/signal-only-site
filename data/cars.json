@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T09:45:50+00:00",
+ "updated": "2026-11-05T13:45:50+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -14,6 +14,17 @@
    "photo": "data/cars/5884.jpg"
   },
   {
+   "title": "Tesla Model 3",
+   "year": 2021,
+   "price_usd": 16900,
+   "city": "Київ",
+   "pct": 16,
+   "market_usd": 20100,
+   "why": "на 16% дешевше за схожі (≈ $20 100)",
+   "link": "https://t.me/avtodnipro/56848",
+   "photo": "data/cars/5977.jpg"
+  },
+  {
    "title": "Land Rover Range Rover Velar",
    "year": 2018,
    "price_usd": 15200,
@@ -23,6 +34,17 @@
    "why": "на 54% дешевше за схожі (≈ $33 050)",
    "link": "https://t.me/fidrikcompany/99124",
    "photo": "data/cars/5826.jpg"
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2007,
+   "price_usd": 4900,
+   "city": "",
+   "pct": 47,
+   "market_usd": 9250,
+   "why": "на 47% дешевше за схожі (≈ $9 250)",
+   "link": "https://t.me/ua_autobazar/78023",
+   "photo": "data/cars/5935.jpg"
   },
   {
    "title": "BMW 5 Series",
@@ -89,28 +111,6 @@
    "why": "на 28% дешевше за схожі (≈ $15 850)",
    "link": "https://t.me/fidrikcompany/99154",
    "photo": "data/cars/5831.jpg"
-  },
-  {
-   "title": "Tesla Model 3",
-   "year": 2018,
-   "price_usd": 11500,
-   "city": "Луцьк",
-   "pct": 25,
-   "market_usd": 15350,
-   "why": "на 25% дешевше за схожі (≈ $15 350)",
-   "link": "https://t.me/fidrikcompany/99185",
-   "photo": "data/cars/5836.jpg"
-  },
-  {
-   "title": "Porsche Cayenne",
-   "year": 2014,
-   "price_usd": 17200,
-   "city": "",
-   "pct": 18,
-   "market_usd": 21000,
-   "why": "на 18% дешевше за схожі (≈ $21 000)",
-   "link": "https://t.me/autobazarvinnytsia/45140",
-   "photo": "data/cars/5766.jpg"
   }
  ]
 }
