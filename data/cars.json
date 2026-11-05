@@ -1,18 +1,7 @@
 {
- "updated": "2026-11-05T19:30:04+00:00",
+ "updated": "2026-11-05T23:03:09+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Renault Megane",
-   "year": 2011,
-   "price_usd": 4300,
-   "city": "Київ",
-   "pct": 43,
-   "market_usd": 7550,
-   "why": "на 43% дешевше за схожі (≈ $7 550)",
-   "link": "https://t.me/avtobazar_group/210336",
-   "photo": "data/cars/5884.jpg"
-  },
   {
    "title": "Tesla Model 3",
    "year": 2021,
@@ -45,6 +34,17 @@
    "why": "на 40% дешевше за схожі (≈ $21 650)",
    "link": "https://t.me/avto_kyiv_adt/26967",
    "photo": "data/cars/5918.jpg"
+  },
+  {
+   "title": "Audi A4",
+   "year": 2009,
+   "price_usd": 6300,
+   "city": "Одеса",
+   "pct": 30,
+   "market_usd": 9000,
+   "why": "на 30% дешевше за схожі (≈ $9 000)",
+   "link": "https://t.me/avtobazar_group/210839",
+   "photo": "data/cars/6075.jpg"
   },
   {
    "title": "Renault Megane",
