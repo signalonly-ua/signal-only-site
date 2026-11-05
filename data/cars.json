@@ -1,7 +1,17 @@
 {
- "updated": "2026-11-04T20:34:00+00:00",
+ "updated": "2026-11-05T00:34:00+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
+  {
+   "title": "Renault Megane",
+   "year": 2011,
+   "price_usd": 4300,
+   "city": "Київ",
+   "pct": 43,
+   "market_usd": 7550,
+   "why": "на 43% дешевше за схожі (≈ $7 550)",
+   "link": "https://t.me/avtobazar_group/210336"
+  },
   {
    "title": "Toyota Land Cruiser",
    "year": 2024,
@@ -91,16 +101,6 @@
    "market_usd": 12000,
    "why": "на 25% дешевше за схожі (≈ $12 000)",
    "link": "https://t.me/avtobazar_group/209978"
-  },
-  {
-   "title": "Tesla Model 3",
-   "year": 2018,
-   "price_usd": 11500,
-   "city": "Луцьк",
-   "pct": 25,
-   "market_usd": 15350,
-   "why": "на 25% дешевше за схожі (≈ $15 350)",
-   "link": "https://t.me/fidrikcompany/99185"
   }
  ]
 }
