@@ -20,6 +20,12 @@ try {
         if ((Test-Path $promoPy) -and (Test-Path $promoScript)) {
             try { & $promoPy $promoScript | Out-Null } catch { Log "promo: $_" }
         }
+        # «Цікаво знати»: добрі новини з фото (signal-news, лише публічні RSS; бот не запускається)
+        $newsPy = 'C:\Users\Maxig\projects\signal-news\.venv\Scripts\python.exe'
+        $newsScript = 'C:\Users\Maxig\projects\signal-news\tools\site_news.py'
+        if ((Test-Path $newsPy) -and (Test-Path $newsScript)) {
+            try { & $newsPy $newsScript | Out-Null } catch { Log "news: $_" }
+        }
         git add -A -- data
         $changes = git diff --cached --name-only -- data
         if (-not $changes) { Log 'data: без змін'; exit 0 }

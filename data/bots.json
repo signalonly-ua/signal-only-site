@@ -1,0 +1,10 @@
+{
+ "updated": "2026-11-05",
+ "channel": {"name": "📢 Канал Signal Only", "url": "https://t.me/signalonly_ua"},
+ "bots": [
+  {"name": "🚨 Signal Alert", "text": "Повітряні тривоги й загрози для обраних населених пунктів. Перевірені джерела, без дублів.", "url": "https://t.me/AirAlerts_TheBot", "status": "live"},
+  {"name": "🚗 Signal Auto", "text": "Нові оголошення про авто за маркою, ціною й роком. Оцінка «нижче ринку» і коротка картка з фото.", "url": "https://t.me/filtrautobot", "status": "live"},
+  {"name": "💼 Signal Jobs", "text": "Вакансії з Telegram-каналів за посадою, містом і зарплатою.", "url": "https://t.me/SignalJobsUA_bot", "status": "live"},
+  {"name": "📰 Signal News", "text": "Новини лише за вашими темами й районом: авто, IT, агро, добрі новини.", "url": "https://t.me/newssignalua_bot", "status": "soon"}
+ ]
+}

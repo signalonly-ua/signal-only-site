@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="uk">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Signal Only — усі боти</title>
+  <meta name="description" content="Signal Only: Telegram-боти, що фільтрують інформацію. Короткий опис і посилання на всіх ботів в одному місці.">
+  <meta name="theme-color" content="#0d1117">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="index.html"><svg viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="#0d1117"/><path d="M8 34h10l5-12 8 26 7-20 4 6h14" fill="none" stroke="#2ee6a6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></svg>Signal Only</a>
+    </div>
+  </header>
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <p class="eyebrow">Signal Only</p>
+        <h1>Тільки сигнал. Без шуму.</h1>
+        <p class="lead">Персональні Telegram-боти, що читають десятки джерел замість вас і надсилають лише те, що ви обрали. Без реєстрації й паролів.</p>
+        <div class="actions" id="channel"></div>
+      </div>
+    </section>
+    <section class="section">
+      <div class="wrap">
+        <h2>Наші боти</h2>
+        <div class="grid" id="bots"><p>Завантаження…</p></div>
+        <p><a href="index.html">Докладніше про Signal Only →</a></p>
+      </div>
+    </section>
+  </main>
+  <script>
+  (function () {
+    var FALLBACK = {channel: {name: '📢 Канал Signal Only', url: 'https://t.me/signalonly_ua'}, bots: [
+      {name: '🚨 Signal Alert', text: 'Повітряні тривоги за вашим регіоном.', url: 'https://t.me/AirAlerts_TheBot', status: 'live'},
+      {name: '🚗 Signal Auto', text: 'Нові оголошення авто за марками й цінами.', url: 'https://t.me/filtrautobot', status: 'live'},
+      {name: '💼 Signal Jobs', text: 'Вакансії за посадою, містом і зарплатою.', url: 'https://t.me/SignalJobsUA_bot', status: 'live'}]};
+    function ok(u) { return /^https:\/\/t\.me\//.test(u || ''); }
+    function render(d) {
+      var ch = document.getElementById('channel'), box = document.getElementById('bots');
+      ch.textContent = ''; box.textContent = '';
+      if (d.channel && ok(d.channel.url)) {
+        var a = document.createElement('a'); a.className = 'btn'; a.href = d.channel.url; a.rel = 'noopener'; a.textContent = d.channel.name; ch.appendChild(a);
+      }
+      (d.bots || []).forEach(function (b) {
+        if (!ok(b.url)) return;
+        var art = document.createElement('article'), s = document.createElement('span'), h = document.createElement('h3'),
+            p = document.createElement('p'), act = document.createElement('div'), l = document.createElement('a');
+        art.className = 'card'; s.className = 'badge' + (b.status === 'live' ? ' live' : ''); s.textContent = b.status === 'live' ? 'Працює' : 'Скоро';
+        h.textContent = b.name; p.textContent = b.text; act.className = 'actions';
+        l.className = 'btn'; l.href = b.url; l.rel = 'noopener'; l.textContent = 'Відкрити в Telegram';
+        act.appendChild(l); art.appendChild(s); art.appendChild(h); art.appendChild(p); art.appendChild(act); box.appendChild(art);
+      });
+    }
+    fetch('data/bots.json', {cache: 'no-cache'}).then(function (r) { return r.ok ? r.json() : FALLBACK; }).catch(function () { return FALLBACK; }).then(render);
+  })();
+  </script>
+</body>
+</html>

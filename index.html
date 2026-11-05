@@ -154,10 +154,16 @@
   })();
   (function () {
     var box = document.getElementById('highlights-list');
-    function card(h, body, link, bot, botLabel) {
+    function card(h, body, link, bot, botLabel, photo) {
       var art = document.createElement('article'), t = document.createElement('h3'), p = document.createElement('p'),
           act = document.createElement('div'), a = document.createElement('a'), b = document.createElement('a');
-      art.className = 'card'; t.textContent = h; p.textContent = body; p.style.whiteSpace = 'pre-line';
+      art.className = 'card';
+      if (photo && /^data\/(cars|news)\/[\w.-]+\.jpg$/.test(photo)) {
+        var im = document.createElement('img'); im.src = photo; im.alt = ''; im.loading = 'lazy';
+        im.style.cssText = 'width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:12px;margin-bottom:12px';
+        im.onerror = function () { im.remove(); }; art.appendChild(im);
+      }
+      t.textContent = h; p.textContent = body; p.style.whiteSpace = 'pre-line';
       act.className = 'actions';
       a.className = 'btn secondary'; a.href = link; a.rel = 'noopener'; a.textContent = 'Подивитися';
       b.className = 'btn'; b.href = bot; b.rel = 'noopener'; b.textContent = botLabel;
@@ -175,7 +181,13 @@
       var best = null;
       d.cars.forEach(function (c) { if (c.pct && c.price_usd && ok(c.link) && (!best || c.pct > best.pct)) best = c; });
       if (best) card('🚗 Найвигідніше авто дня', best.title + (best.year ? ', ' + best.year : '') + (best.city ? ' · ' + best.city : '') +
-        '\n$' + String(best.price_usd).replace(/\B(?=(\d{3})+(?!\d))/g, ' ') + (best.why ? '\n' + best.why : ''), best.link, 'https://t.me/filtrautobot', 'Більше в Signal Auto');
+        '\n$' + String(best.price_usd).replace(/\B(?=(\d{3})+(?!\d))/g, ' ') + (best.why ? '\n' + best.why : ''), best.link, 'https://t.me/filtrautobot', 'Більше в Signal Auto', best.photo);
+    }).catch(function () {});
+    fetch('data/news.json', {cache: 'no-cache'}).then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
+      if (!d || !d.news) return;
+      d.news.slice(0, 3).forEach(function (n) {
+        if (ok(n.link) || /^https:\/\//.test(n.link || '')) card('😊 ' + n.title, n.source || '', n.link, 'https://t.me/signalonly_ua', 'Канал Signal Only', n.photo);
+      });
     }).catch(function () {});
     fetch('data/jobs.json', {cache: 'no-cache'}).then(function (r) { return r.ok ? r.json() : null; }).then(function (d) {
       if (!d || !d.jobs) return;
