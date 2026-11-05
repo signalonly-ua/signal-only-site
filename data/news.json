@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-05T19:37:54+00:00",
+ "updated": "2026-11-05T20:37:55+00:00",
  "news": [
+  {
+   "title": "Рецепт щасливого життя",
+   "source": "NV",
+   "link": "https://nv.ua/ukr/blogs/shcho-robit-nas-shchaslivimi-avtoritetni-doslidniki-nazvali-klyuchovu-umovu-50656716.html",
+   "photo": "data/news/7abe984b6e3b.jpg",
+   "date": "2026-11-05"
+  },
   {
    "title": "Chanel вперше в історії провів показ в Австралії: як минуло грандіозне шоу та хто з зірок завітав",
    "source": "РБК-Україна",
@@ -21,13 +28,6 @@
    "link": "https://tsn.ua/nauka_it/chy-zmoze-liudstvo-vriatuvaty-zemliu-vid-asteroyida-misiia-hera-nablyzayetsia-do-rozhadky-3209059.html",
    "photo": "data/news/743a4f688bae.jpg",
    "date": "2026-11-05"
-  },
-  {
-   "title": "Вперше в історії: два українських клуба дізнались суперників в плей-оф футзальної ЛЧ",
-   "source": "РБК-Україна",
-   "link": "https://sport.rbc.ua/rus/football/vpershe-istoriyi-dva-ukrayinskih-kluba-diznalis-1793796728.html",
-   "photo": "data/news/18b7e19f8c7b.jpg",
-   "date": "2026-11-04"
   }
  ]
 }
