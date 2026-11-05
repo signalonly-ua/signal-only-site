@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-05T03:15:05+00:00",
+ "updated": "2026-11-05T05:15:05+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "HR-менеджер",
+   "city": "",
+   "district": "",
+   "salary": "від 103 750 грн",
+   "employment": "",
+   "date": "2026-11-05T05:09:22+00:00",
+   "link": "https://t.me/business_chat_ua/2586169"
+  },
+  {
+   "position": "Адміністратор",
+   "city": "",
+   "district": "",
+   "salary": "",
+   "employment": "",
+   "date": "2026-11-05T04:03:01+00:00",
+   "link": "https://t.me/erobota_kyiv/191035"
+  },
   {
    "position": "Помічник кухаря, Офіціант",
    "city": "Київ",
@@ -163,24 +181,6 @@
    "employment": "Повна зайнятість",
    "date": "2026-11-04T17:49:23+00:00",
    "link": "https://t.me/workua_lviv/84589"
-  },
-  {
-   "position": "Вантажник",
-   "city": "Кропивницький",
-   "district": "",
-   "salary": "",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-04T17:49:22+00:00",
-   "link": "https://t.me/workua_kropyvnytskyi/51149"
-  },
-  {
-   "position": "Вантажник",
-   "city": "Дніпро",
-   "district": "",
-   "salary": "",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-04T17:49:22+00:00",
-   "link": "https://t.me/workua_dnipro/82829"
   }
  ]
 }
