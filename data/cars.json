@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T13:45:50+00:00",
+ "updated": "2026-11-05T17:45:50+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -25,17 +25,6 @@
    "photo": "data/cars/5977.jpg"
   },
   {
-   "title": "Land Rover Range Rover Velar",
-   "year": 2018,
-   "price_usd": 15200,
-   "city": "Луцьк",
-   "pct": 54,
-   "market_usd": 33050,
-   "why": "на 54% дешевше за схожі (≈ $33 050)",
-   "link": "https://t.me/fidrikcompany/99124",
-   "photo": "data/cars/5826.jpg"
-  },
-  {
    "title": "BMW 5 Series",
    "year": 2007,
    "price_usd": 4900,
@@ -45,17 +34,6 @@
    "why": "на 47% дешевше за схожі (≈ $9 250)",
    "link": "https://t.me/ua_autobazar/78023",
    "photo": "data/cars/5935.jpg"
-  },
-  {
-   "title": "BMW 5 Series",
-   "year": 2017,
-   "price_usd": 14800,
-   "city": "Луцьк",
-   "pct": 42,
-   "market_usd": 25500,
-   "why": "на 42% дешевше за схожі (≈ $25 500)",
-   "link": "https://t.me/fidrikcompany/99134",
-   "photo": "data/cars/5827.jpg"
   },
   {
    "title": "Volkswagen Touareg",
@@ -69,48 +47,48 @@
    "photo": "data/cars/5918.jpg"
   },
   {
-   "title": "Volkswagen Passat",
+   "title": "Renault Megane",
+   "year": 2011,
+   "price_usd": 5900,
+   "city": "Запоріжжя",
+   "pct": 22,
+   "market_usd": 7550,
+   "why": "на 22% дешевше за схожі (≈ $7 550)",
+   "link": "https://t.me/avto1_zp/16896",
+   "photo": "data/cars/5974.jpg"
+  },
+  {
+   "title": "Skoda Octavia",
    "year": 2017,
-   "price_usd": 8800,
-   "city": "Луцьк",
-   "pct": 36,
-   "market_usd": 13750,
-   "why": "на 36% дешевше за схожі (≈ $13 750)",
-   "link": "https://t.me/fidrikcompany/99104",
-   "photo": "data/cars/5822.jpg"
+   "price_usd": 10200,
+   "city": "Житомир",
+   "pct": 17,
+   "market_usd": 12300,
+   "why": "на 17% дешевше за схожі (≈ $12 300)",
+   "link": "https://t.me/KievavtoSale/18206",
+   "photo": "data/cars/5976.jpg"
   },
   {
-   "title": "Mercedes-Benz E-Class",
-   "year": 2019,
-   "price_usd": 21400,
+   "title": "Nissan Rogue",
+   "year": 2016,
+   "price_usd": 10490,
    "city": "",
-   "pct": 36,
-   "market_usd": 33450,
-   "why": "на 36% дешевше за схожі (≈ $33 450)",
-   "link": "https://t.me/Select_Auto_Korea/27731",
-   "photo": ""
+   "pct": 16,
+   "market_usd": 12500,
+   "why": "на 16% дешевше за схожі (≈ $12 500)",
+   "link": "https://t.me/autofocus_ua_tg/70470",
+   "photo": "data/cars/5927.jpg"
   },
   {
-   "title": "Tesla Model Y",
-   "year": 2023,
-   "price_usd": 17900,
-   "city": "Луцьк",
-   "pct": 32,
-   "market_usd": 26300,
-   "why": "на 32% дешевше за схожі (≈ $26 300)",
-   "link": "https://t.me/fidrikcompany/99164",
-   "photo": "data/cars/5832.jpg"
-  },
-  {
-   "title": "Tesla Model 3",
-   "year": 2018,
-   "price_usd": 11400,
-   "city": "Луцьк",
-   "pct": 28,
-   "market_usd": 15850,
-   "why": "на 28% дешевше за схожі (≈ $15 850)",
-   "link": "https://t.me/fidrikcompany/99154",
-   "photo": "data/cars/5831.jpg"
+   "title": "BMW 5 Series",
+   "year": 2014,
+   "price_usd": 12800,
+   "city": "",
+   "pct": 16,
+   "market_usd": 15250,
+   "why": "на 16% дешевше за схожі (≈ $15 250)",
+   "link": "https://t.me/autobazar_nikolaev/41187",
+   "photo": "data/cars/6019.jpg"
   }
  ]
 }
