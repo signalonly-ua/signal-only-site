@@ -1,0 +1,33 @@
+{
+ "updated": "2026-11-05T09:37:33+00:00",
+ "news": [
+  {
+   "title": "У Львові лікарі врятували хлопчика з надважкою травмою",
+   "source": "Укрінформ: регіони",
+   "link": "https://www.ukrinform.ua/rubric-regions/4181571-u-lvovi-likari-vratuvali-hlopcika-z-nadvazkou-travmou.html",
+   "photo": "data/news/29d11531d38c.jpg",
+   "date": "2026-11-05"
+  },
+  {
+   "title": "Вперше в історії: два українських клуба дізнались суперників в плей-оф футзальної ЛЧ",
+   "source": "РБК-Україна",
+   "link": "https://sport.rbc.ua/rus/football/vpershe-istoriyi-dva-ukrayinskih-kluba-diznalis-1793796728.html",
+   "photo": "data/news/18b7e19f8c7b.jpg",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "Ось що рекомендують городники зробити восени з медведкою, щоб врятувати майбутній врожай",
+   "source": "ТСН",
+   "link": "https://tsn.ua/other/os-shcho-rekomenduiut-horodnyky-zrobyty-voseny-z-medvedkoiu-shchob-vriatuvaty-maybutniy-vrozay-3207743.html",
+   "photo": "data/news/d39600e5b218.jpg",
+   "date": "2026-11-04"
+  },
+  {
+   "title": "Катерина Бужинська отримала престижну нагороду та зворушила спогадами про початок кар'єри",
+   "source": "ТСН",
+   "link": "https://tsn.ua/glamur/kateryna-buzynska-otrymala-prestyznu-nahorodu-ta-zvorushyla-spohadamy-pro-pochatok-karyery-3207739.html",
+   "photo": "data/news/fa9bf7873fb6.jpg",
+   "date": "2026-11-04"
+  }
+ ]
+}
