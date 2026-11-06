@@ -1,17 +1,50 @@
 {
- "updated": "2026-11-06T11:03:09+00:00",
+ "updated": "2026-11-06T15:03:09+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
-   "title": "Tesla Model 3",
-   "year": 2021,
-   "price_usd": 16900,
+   "title": "Toyota Camry",
+   "year": 2019,
+   "price_usd": 17900,
    "city": "Київ",
-   "pct": 16,
-   "market_usd": 20100,
-   "why": "на 16% дешевше за схожі (≈ $20 100)",
-   "link": "https://t.me/avtodnipro/56848",
-   "photo": "data/cars/5977.jpg"
+   "pct": 30,
+   "market_usd": 25550,
+   "why": "на 30% дешевше за схожі (≈ $25 550)",
+   "link": "https://t.me/autobazarkyiv1/61954",
+   "photo": "data/cars/6143.jpg"
+  },
+  {
+   "title": "Skoda Superb",
+   "year": 2015,
+   "price_usd": 12490,
+   "city": "Київ",
+   "pct": 26,
+   "market_usd": 16900,
+   "why": "на 26% дешевше за схожі (≈ $16 900)",
+   "link": "https://t.me/autoparkua4/85075",
+   "photo": ""
+  },
+  {
+   "title": "Volkswagen Tiguan",
+   "year": 2018,
+   "price_usd": 10400,
+   "city": "Луцьк",
+   "pct": 41,
+   "market_usd": 17650,
+   "why": "на 41% дешевше за схожі (≈ $17 650)",
+   "link": "https://t.me/fidrikcompany/99327",
+   "photo": "data/cars/6165.jpg"
+  },
+  {
+   "title": "Volkswagen Tiguan",
+   "year": 2018,
+   "price_usd": 11200,
+   "city": "Луцьк",
+   "pct": 35,
+   "market_usd": 17250,
+   "why": "на 35% дешевше за схожі (≈ $17 250)",
+   "link": "https://t.me/fidrikcompany/99337",
+   "photo": "data/cars/6166.jpg"
   },
   {
    "title": "Audi A4",
@@ -47,17 +80,6 @@
    "photo": "data/cars/6082.jpg"
   },
   {
-   "title": "Renault Megane",
-   "year": 2011,
-   "price_usd": 5900,
-   "city": "Запоріжжя",
-   "pct": 22,
-   "market_usd": 7550,
-   "why": "на 22% дешевше за схожі (≈ $7 550)",
-   "link": "https://t.me/avto1_zp/16896",
-   "photo": "data/cars/5974.jpg"
-  },
-  {
    "title": "BMW X6",
    "year": 2023,
    "price_usd": 78000,
@@ -69,26 +91,26 @@
    "photo": "data/cars/6100.jpg"
   },
   {
-   "title": "Skoda Octavia",
-   "year": 2017,
-   "price_usd": 10200,
-   "city": "Житомир",
-   "pct": 17,
-   "market_usd": 12300,
-   "why": "на 17% дешевше за схожі (≈ $12 300)",
-   "link": "https://t.me/KievavtoSale/18206",
-   "photo": "data/cars/5976.jpg"
+   "title": "Toyota Land Cruiser",
+   "year": 2013,
+   "price_usd": 24500,
+   "city": "",
+   "pct": 18,
+   "market_usd": 29900,
+   "why": "на 18% дешевше за схожі (≈ $29 900)",
+   "link": "https://t.me/avtobazar_group/211136",
+   "photo": "data/cars/6167.jpg"
   },
   {
-   "title": "BMW 5 Series",
-   "year": 2014,
-   "price_usd": 12800,
+   "title": "Toyota Land Cruiser",
+   "year": 2013,
+   "price_usd": 24800,
    "city": "",
-   "pct": 16,
-   "market_usd": 15250,
-   "why": "на 16% дешевше за схожі (≈ $15 250)",
-   "link": "https://t.me/autobazar_nikolaev/41187",
-   "photo": "data/cars/6019.jpg"
+   "pct": 17,
+   "market_usd": 29900,
+   "why": "на 17% дешевше за схожі (≈ $29 900)",
+   "link": "https://t.me/robota_in_uzhgorod/26049",
+   "photo": "data/cars/6129.jpg"
   }
  ]
 }
