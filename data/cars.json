@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:03:09+00:00",
+ "updated": "2026-11-06T11:03:09+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -14,28 +14,6 @@
    "photo": "data/cars/5977.jpg"
   },
   {
-   "title": "BMW 5 Series",
-   "year": 2007,
-   "price_usd": 4900,
-   "city": "",
-   "pct": 47,
-   "market_usd": 9250,
-   "why": "на 47% дешевше за схожі (≈ $9 250)",
-   "link": "https://t.me/ua_autobazar/78023",
-   "photo": "data/cars/5935.jpg"
-  },
-  {
-   "title": "Volkswagen Touareg",
-   "year": 2016,
-   "price_usd": 13000,
-   "city": "",
-   "pct": 40,
-   "market_usd": 21650,
-   "why": "на 40% дешевше за схожі (≈ $21 650)",
-   "link": "https://t.me/avto_kyiv_adt/26967",
-   "photo": "data/cars/5918.jpg"
-  },
-  {
    "title": "Audi A4",
    "year": 2009,
    "price_usd": 6300,
@@ -45,6 +23,17 @@
    "why": "на 30% дешевше за схожі (≈ $9 000)",
    "link": "https://t.me/avtobazar_group/210839",
    "photo": "data/cars/6075.jpg"
+  },
+  {
+   "title": "Kia Sportage",
+   "year": 2020,
+   "price_usd": 11950,
+   "city": "Луцьк",
+   "pct": 25,
+   "market_usd": 15950,
+   "why": "на 25% дешевше за схожі (≈ $15 950)",
+   "link": "https://t.me/lutsk_autobazar/32637",
+   "photo": "data/cars/6095.jpg"
   },
   {
    "title": "BMW 3 Series",
@@ -69,6 +58,17 @@
    "photo": "data/cars/5974.jpg"
   },
   {
+   "title": "BMW X6",
+   "year": 2023,
+   "price_usd": 78000,
+   "city": "Львів",
+   "pct": 18,
+   "market_usd": 95100,
+   "why": "на 18% дешевше за схожі (≈ $95 100)",
+   "link": "https://t.me/kievavto2/146884",
+   "photo": "data/cars/6100.jpg"
+  },
+  {
    "title": "Skoda Octavia",
    "year": 2017,
    "price_usd": 10200,
@@ -78,17 +78,6 @@
    "why": "на 17% дешевше за схожі (≈ $12 300)",
    "link": "https://t.me/KievavtoSale/18206",
    "photo": "data/cars/5976.jpg"
-  },
-  {
-   "title": "Nissan Rogue",
-   "year": 2016,
-   "price_usd": 10490,
-   "city": "",
-   "pct": 16,
-   "market_usd": 12500,
-   "why": "на 16% дешевше за схожі (≈ $12 500)",
-   "link": "https://t.me/autofocus_ua_tg/70470",
-   "photo": "data/cars/5927.jpg"
   },
   {
    "title": "BMW 5 Series",
