@@ -1,33 +1,33 @@
 {
- "updated": "2026-11-06T09:37:36+00:00",
+ "updated": "2026-11-06T10:37:38+00:00",
  "news": [
+  {
+   "title": "Для трьох знаків Зодіаку новий тиждень стане найщасливішим у році",
+   "source": "УНІАН",
+   "link": "https://www.unian.ua/lite/astrology/goroskop-na-tizhden-ci-znaki-zodiaku-budut-nayshchaslivishimi-hto-voni-13551561.html",
+   "photo": "data/news/57640e502f5a.jpg",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "Тиск 200/100: у Львові медики врятували 24-річну жінку та її новонароджеого сина",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/lviv/1446297-tisk-200100-u-lvovi-mediki-vratuvali-24-ricnu-zinku-ta-ii-novonarodzeogo-sina/",
+   "photo": "data/news/0f3163a0c38a.jpg",
+   "date": "2026-11-06"
+  },
+  {
+   "title": "«Не можу вмістити всю свою вдячність у слово „дякую“». На Львівщині знайшли рідкісного кота-гібрида, якого шукали майже пів року — фото",
+   "source": "NV",
+   "link": "https://nv.ua/ukr/socium/kit-gibrid-yakiy-mayzhe-piv-roku-blukav-lisami-prikarpattya-ta-lvivshchini-nareshti-znayshovsya-foto-50656860.html",
+   "photo": "data/news/c0092b9b80b6.jpg",
+   "date": "2026-11-06"
+  },
   {
    "title": "Тоня Матвієнко зворушила зверненням до доньки, яку народила у 17 років: який вигляд має Уляна зараз",
    "source": "ТСН",
    "link": "https://tsn.ua/glamur/tonia-matviyenko-zvorushyla-zvernenniam-do-donky-iaku-narodyla-u-17-rokiv-iakyy-vyhliad-maye-uliana-zaraz-3209695.html",
    "photo": "data/news/9bc98d0586ce.jpg",
    "date": "2026-11-06"
-  },
-  {
-   "title": "«Виїхав через \"нуль\" на велосипеді». Історія 69-річного нечуючого пенсіонера, який врятувався з окупації і живе в Калуші",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/ivano-frankivsk/1445901-viihav-cerez-nul-na-velosipedi-istoria-69-ricnogo-necuucogo-pensionera-akij-vratuvavsa-z-okupacii-i-zive-v-kalusi/",
-   "photo": "data/news/8ec5bae2508c.jpg",
-   "date": "2026-11-06"
-  },
-  {
-   "title": "Chanel вперше в історії провів показ в Австралії: як минуло грандіозне шоу та хто з зірок завітав",
-   "source": "РБК-Україна",
-   "link": "https://wave.rbc.ua/rus/style/chanel-vpershe-istoriyi-proviv-pokaz-avstraliyi-1793894847.html",
-   "photo": "data/news/712fe01f87b2.jpg",
-   "date": "2026-11-05"
-  },
-  {
-   "title": "Чи зможе людство врятувати Землю від астероїда: місія Hera наближається до розгадки",
-   "source": "ТСН",
-   "link": "https://tsn.ua/nauka_it/chy-zmoze-liudstvo-vriatuvaty-zemliu-vid-asteroyida-misiia-hera-nablyzayetsia-do-rozhadky-3209059.html",
-   "photo": "data/news/743a4f688bae.jpg",
-   "date": "2026-11-05"
   }
  ]
 }
