@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T14:46:53+00:00",
+ "updated": "2026-11-07T18:46:53+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -34,6 +34,28 @@
    "why": "на 57% дешевше за схожі (≈ $23 700)",
    "link": "https://t.me/autobazardnepr/45366",
    "photo": "data/cars/6284.jpg"
+  },
+  {
+   "title": "BMW X5",
+   "year": 2018,
+   "price_usd": 22300,
+   "city": "",
+   "pct": 45,
+   "market_usd": 40550,
+   "why": "на 45% дешевше за схожі (≈ $40 550)",
+   "link": "https://t.me/autobazarzhytomyr/42512",
+   "photo": "data/cars/6358.jpg"
+  },
+  {
+   "title": "Volkswagen Passat",
+   "year": 2015,
+   "price_usd": 8046,
+   "city": "",
+   "pct": 36,
+   "market_usd": 12550,
+   "why": "на 36% дешевше за схожі (≈ $12 550)",
+   "link": "https://t.me/avtobazar_group/211659",
+   "photo": ""
   },
   {
    "title": "Audi A4",
@@ -80,26 +102,15 @@
    "photo": "data/cars/6283.jpg"
   },
   {
-   "title": "Toyota Land Cruiser",
-   "year": 2013,
-   "price_usd": 24500,
-   "city": "",
-   "pct": 18,
-   "market_usd": 29900,
-   "why": "на 18% дешевше за схожі (≈ $29 900)",
-   "link": "https://t.me/avtobazar_group/211136",
-   "photo": "data/cars/6167.jpg"
-  },
-  {
-   "title": "BMW 3 Series",
+   "title": "Kia Sorento",
    "year": 2016,
-   "price_usd": 14300,
-   "city": "Вінниця",
-   "pct": 18,
-   "market_usd": 17450,
-   "why": "на 18% дешевше за схожі (≈ $17 450)",
-   "link": "https://t.me/sgaevskiy/27583",
-   "photo": "data/cars/6266.jpg"
+   "price_usd": 11940,
+   "city": "Львів",
+   "pct": 21,
+   "market_usd": 15100,
+   "why": "на 21% дешевше за схожі (≈ $15 100)",
+   "link": "https://t.me/autoparkua4/85083",
+   "photo": ""
   }
  ]
 }
