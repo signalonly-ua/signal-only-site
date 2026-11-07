@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T21:53:45+00:00",
+ "updated": "2026-11-07T01:53:44+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -45,17 +45,6 @@
    "why": "на 35% дешевше за схожі (≈ $17 250)",
    "link": "https://t.me/fidrikcompany/99337",
    "photo": "data/cars/6166.jpg"
-  },
-  {
-   "title": "Audi A4",
-   "year": 2009,
-   "price_usd": 6300,
-   "city": "Одеса",
-   "pct": 30,
-   "market_usd": 9000,
-   "why": "на 30% дешевше за схожі (≈ $9 000)",
-   "link": "https://t.me/avtobazar_group/210839",
-   "photo": "data/cars/6075.jpg"
   },
   {
    "title": "Kia Sportage",
@@ -111,6 +100,17 @@
    "why": "на 17% дешевше за схожі (≈ $29 900)",
    "link": "https://t.me/robota_in_uzhgorod/26049",
    "photo": "data/cars/6129.jpg"
+  },
+  {
+   "title": "Audi Q5",
+   "year": 2016,
+   "price_usd": 13250,
+   "city": "Кривий Ріг",
+   "pct": 17,
+   "market_usd": 15950,
+   "why": "на 17% дешевше за схожі (≈ $15 950)",
+   "link": "https://t.me/vechirnii20/22056",
+   "photo": "data/cars/6141.jpg"
   }
  ]
 }
