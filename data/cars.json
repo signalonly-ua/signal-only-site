@@ -1,29 +1,7 @@
 {
- "updated": "2026-11-07T10:46:53+00:00",
+ "updated": "2026-11-07T14:46:53+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Toyota Camry",
-   "year": 2019,
-   "price_usd": 17900,
-   "city": "Київ",
-   "pct": 30,
-   "market_usd": 25550,
-   "why": "на 30% дешевше за схожі (≈ $25 550)",
-   "link": "https://t.me/autobazarkyiv1/61954",
-   "photo": "data/cars/6143.jpg"
-  },
-  {
-   "title": "Skoda Superb",
-   "year": 2015,
-   "price_usd": 12490,
-   "city": "Київ",
-   "pct": 26,
-   "market_usd": 16900,
-   "why": "на 26% дешевше за схожі (≈ $16 900)",
-   "link": "https://t.me/autoparkua4/85075",
-   "photo": ""
-  },
   {
    "title": "Toyota Camry",
    "year": 2012,
@@ -34,6 +12,17 @@
    "why": "на 18% дешевше за схожі (≈ $12 050)",
    "link": "https://t.me/imperiya_auto/93913",
    "photo": "data/cars/6253.jpg"
+  },
+  {
+   "title": "Audi Q5",
+   "year": 2018,
+   "price_usd": 19900,
+   "city": "Київ",
+   "pct": 15,
+   "market_usd": 23400,
+   "why": "на 15% дешевше за схожі (≈ $23 400)",
+   "link": "https://t.me/imperiya_auto/93934",
+   "photo": "data/cars/6322.jpg"
   },
   {
    "title": "Toyota Land Cruiser",
@@ -47,28 +36,6 @@
    "photo": "data/cars/6284.jpg"
   },
   {
-   "title": "Volkswagen Tiguan",
-   "year": 2018,
-   "price_usd": 10400,
-   "city": "Луцьк",
-   "pct": 41,
-   "market_usd": 17650,
-   "why": "на 41% дешевше за схожі (≈ $17 650)",
-   "link": "https://t.me/fidrikcompany/99327",
-   "photo": "data/cars/6165.jpg"
-  },
-  {
-   "title": "Volkswagen Tiguan",
-   "year": 2018,
-   "price_usd": 11200,
-   "city": "Луцьк",
-   "pct": 35,
-   "market_usd": 17250,
-   "why": "на 35% дешевше за схожі (≈ $17 250)",
-   "link": "https://t.me/fidrikcompany/99337",
-   "photo": "data/cars/6166.jpg"
-  },
-  {
    "title": "Audi A4",
    "year": 2009,
    "price_usd": 6300,
@@ -78,6 +45,17 @@
    "why": "на 29% дешевше за схожі (≈ $8 850)",
    "link": "https://t.me/avtobazar_group/211337",
    "photo": "data/cars/6259.jpg"
+  },
+  {
+   "title": "Audi Q8",
+   "year": 2019,
+   "price_usd": 34900,
+   "city": "",
+   "pct": 26,
+   "market_usd": 47150,
+   "why": "на 26% дешевше за схожі (≈ $47 150)",
+   "link": "https://t.me/autobazarchernihivua/35469",
+   "photo": "data/cars/6311.jpg"
   },
   {
    "title": "BMW X7",
@@ -111,6 +89,17 @@
    "why": "на 18% дешевше за схожі (≈ $29 900)",
    "link": "https://t.me/avtobazar_group/211136",
    "photo": "data/cars/6167.jpg"
+  },
+  {
+   "title": "BMW 3 Series",
+   "year": 2016,
+   "price_usd": 14300,
+   "city": "Вінниця",
+   "pct": 18,
+   "market_usd": 17450,
+   "why": "на 18% дешевше за схожі (≈ $17 450)",
+   "link": "https://t.me/sgaevskiy/27583",
+   "photo": "data/cars/6266.jpg"
   }
  ]
 }
