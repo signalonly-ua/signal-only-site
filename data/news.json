@@ -1,11 +1,18 @@
 {
- "updated": "2026-11-07T08:37:33+00:00",
+ "updated": "2026-11-07T09:37:33+00:00",
  "news": [
   {
    "title": "7 дівчаток і хлопчик народилися в автомобілях «швидкої» на Чернігівщині з початку року: як парамедики приймають пологи",
    "source": "Суспільне",
    "link": "https://suspilne.media/chernihiv/1446405-7-divcatok-i-hlopcik-narodilisa-v-avtomobilah-svidkoi-na-cernigivsini-z-pocatku-roku-ak-paramediki-prijmaut-pologi/",
    "photo": "data/news/88e39439b8e9.jpg",
+   "date": "2026-11-07"
+  },
+  {
+   "title": "США пропонують винагороду в розмірі $20 млн за інформацію про \"ядерну програму Ірану\"",
+   "source": "Європейська правда",
+   "link": "https://www.eurointegration.com.ua/news/2026/11/7/7249492/",
+   "photo": "data/news/71e164953643.jpg",
    "date": "2026-11-07"
   },
   {
@@ -20,13 +27,6 @@
    "source": "ТСН",
    "link": "https://tsn.ua/politika/yevhen-khmara-prysviatyv-nahorodu-liudyna-roku-fondu-nadiia-valeriiu-dubiliu-ta-viti-prysiazniuk-3210043.html",
    "photo": "data/news/ac45c76bca56.jpg",
-   "date": "2026-11-06"
-  },
-  {
-   "title": "Тоня Матвієнко зворушила зверненням до доньки, яку народила у 17 років: який вигляд має Уляна зараз",
-   "source": "ТСН",
-   "link": "https://tsn.ua/glamur/tonia-matviyenko-zvorushyla-zvernenniam-do-donky-iaku-narodyla-u-17-rokiv-iakyy-vyhliad-maye-uliana-zaraz-3209695.html",
-   "photo": "data/news/9bc98d0586ce.jpg",
    "date": "2026-11-06"
   }
  ]
