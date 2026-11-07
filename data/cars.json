@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T06:46:53+00:00",
+ "updated": "2026-11-07T10:46:53+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -25,6 +25,28 @@
    "photo": ""
   },
   {
+   "title": "Toyota Camry",
+   "year": 2012,
+   "price_usd": 9900,
+   "city": "Київ",
+   "pct": 18,
+   "market_usd": 12050,
+   "why": "на 18% дешевше за схожі (≈ $12 050)",
+   "link": "https://t.me/imperiya_auto/93913",
+   "photo": "data/cars/6253.jpg"
+  },
+  {
+   "title": "Toyota Land Cruiser",
+   "year": 2007,
+   "price_usd": 10200,
+   "city": "",
+   "pct": 57,
+   "market_usd": 23700,
+   "why": "на 57% дешевше за схожі (≈ $23 700)",
+   "link": "https://t.me/autobazardnepr/45366",
+   "photo": "data/cars/6284.jpg"
+  },
+  {
    "title": "Volkswagen Tiguan",
    "year": 2018,
    "price_usd": 10400,
@@ -47,15 +69,15 @@
    "photo": "data/cars/6166.jpg"
   },
   {
-   "title": "Kia Sportage",
-   "year": 2020,
-   "price_usd": 11950,
-   "city": "Луцьк",
-   "pct": 25,
-   "market_usd": 15950,
-   "why": "на 25% дешевше за схожі (≈ $15 950)",
-   "link": "https://t.me/lutsk_autobazar/32637",
-   "photo": "data/cars/6095.jpg"
+   "title": "Audi A4",
+   "year": 2009,
+   "price_usd": 6300,
+   "city": "Одеса",
+   "pct": 29,
+   "market_usd": 8850,
+   "why": "на 29% дешевше за схожі (≈ $8 850)",
+   "link": "https://t.me/avtobazar_group/211337",
+   "photo": "data/cars/6259.jpg"
   },
   {
    "title": "BMW X7",
@@ -69,15 +91,15 @@
    "photo": "data/cars/6233.jpg"
   },
   {
-   "title": "BMW X6",
-   "year": 2023,
-   "price_usd": 78000,
-   "city": "Львів",
-   "pct": 18,
-   "market_usd": 95100,
-   "why": "на 18% дешевше за схожі (≈ $95 100)",
-   "link": "https://t.me/kievavto2/146884",
-   "photo": "data/cars/6100.jpg"
+   "title": "Audi Q8",
+   "year": 2019,
+   "price_usd": 37750,
+   "city": "Кривий Ріг",
+   "pct": 21,
+   "market_usd": 47800,
+   "why": "на 21% дешевше за схожі (≈ $47 800)",
+   "link": "https://t.me/vechirnii20/22086",
+   "photo": "data/cars/6283.jpg"
   },
   {
    "title": "Toyota Land Cruiser",
@@ -89,28 +111,6 @@
    "why": "на 18% дешевше за схожі (≈ $29 900)",
    "link": "https://t.me/avtobazar_group/211136",
    "photo": "data/cars/6167.jpg"
-  },
-  {
-   "title": "Toyota Land Cruiser",
-   "year": 2013,
-   "price_usd": 24800,
-   "city": "",
-   "pct": 17,
-   "market_usd": 29900,
-   "why": "на 17% дешевше за схожі (≈ $29 900)",
-   "link": "https://t.me/robota_in_uzhgorod/26049",
-   "photo": "data/cars/6129.jpg"
-  },
-  {
-   "title": "Audi Q5",
-   "year": 2016,
-   "price_usd": 13250,
-   "city": "Кривий Ріг",
-   "pct": 17,
-   "market_usd": 15950,
-   "why": "на 17% дешевше за схожі (≈ $15 950)",
-   "link": "https://t.me/vechirnii20/22056",
-   "photo": "data/cars/6141.jpg"
   }
  ]
 }

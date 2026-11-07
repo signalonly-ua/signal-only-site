@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-07T10:37:35+00:00",
+ "updated": "2026-11-07T11:37:35+00:00",
  "news": [
+  {
+   "title": "Вперше в історії. Українка Марія Желяскова стала другою Віце Міс на конкурсі Miss Globe 2026",
+   "source": "NV",
+   "link": "https://life.nv.ua/ukr/znamenitosti/mariya-zhelyaskova-zdobula-titul-drugoji-vice-mis-na-miss-globe-2026-istorichna-peremoga-foto-50657167.html",
+   "photo": "data/news/49983530a06f.jpg",
+   "date": "2026-11-07"
+  },
   {
    "title": "7 дівчаток і хлопчик народилися в автомобілях «швидкої» на Чернігівщині з початку року: як парамедики приймають пологи",
    "source": "Суспільне",
@@ -9,17 +16,17 @@
    "date": "2026-11-07"
   },
   {
+   "title": "США пропонують винагороду в розмірі $20 млн за інформацію про \"ядерну програму Ірану\"",
+   "source": "Європейська правда",
+   "link": "https://www.eurointegration.com.ua/news/2026/11/7/7249492/",
+   "photo": "data/news/71e164953643.jpg",
+   "date": "2026-11-07"
+  },
+  {
    "title": "Зеленський вручив нагороди залізничникам",
    "source": "Укрінформ: суспільство",
    "link": "https://www.ukrinform.ua/rubric-society/4182247-zelenskij-vruciv-nagorodi-zaliznicnikam.html",
    "photo": "data/news/d4366871c2b5.jpg",
-   "date": "2026-11-06"
-  },
-  {
-   "title": "Євген Хмара присвятив нагороду «Людина року» фонду «Надія», Валерію Дубілю та Віті Присяжнюк",
-   "source": "ТСН",
-   "link": "https://tsn.ua/politika/yevhen-khmara-prysviatyv-nahorodu-liudyna-roku-fondu-nadiia-valeriiu-dubiliu-ta-viti-prysiazniuk-3210043.html",
-   "photo": "data/news/ac45c76bca56.jpg",
    "date": "2026-11-06"
   }
  ]
