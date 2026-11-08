@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-07T23:10:26+00:00",
+ "updated": "2026-11-08T01:10:26+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Пекар, Бухгалтер, Бариста",
+   "city": "",
+   "district": "",
+   "salary": "",
+   "employment": "",
+   "date": "2026-11-08T00:27:17+00:00",
+   "link": "https://t.me/kyiv_jobs/14084"
+  },
   {
    "position": "Офіціант, Бармен",
    "city": "Київ",
@@ -172,15 +181,6 @@
    "employment": "",
    "date": "2026-11-07T17:13:13+00:00",
    "link": "https://t.me/kharkov_robota_vakansiiq/42763"
-  },
-  {
-   "position": "Кур'єр, Водій",
-   "city": "Чернівці",
-   "district": "",
-   "salary": "від 35 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-07T16:15:12+00:00",
-   "link": "https://t.me/workua_chernivtsi/64501"
   }
  ]
 }
