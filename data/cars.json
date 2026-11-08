@@ -1,17 +1,28 @@
 {
- "updated": "2026-11-08T06:46:53+00:00",
+ "updated": "2026-11-08T10:46:53+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
-   "title": "Toyota Camry",
-   "year": 2012,
-   "price_usd": 9900,
+   "title": "Skoda Superb",
+   "year": 2015,
+   "price_usd": 6990,
    "city": "Київ",
-   "pct": 18,
-   "market_usd": 12050,
-   "why": "на 18% дешевше за схожі (≈ $12 050)",
-   "link": "https://t.me/imperiya_auto/93913",
-   "photo": "data/cars/6253.jpg"
+   "pct": 56,
+   "market_usd": 15900,
+   "why": "на 56% дешевше за схожі (≈ $15 900)",
+   "link": "https://t.me/autofocus_ua_tg/70720",
+   "photo": "data/cars/6399.jpg"
+  },
+  {
+   "title": "Audi A6",
+   "year": 2021,
+   "price_usd": 27990,
+   "city": "Київ",
+   "pct": 19,
+   "market_usd": 34550,
+   "why": "на 19% дешевше за схожі (≈ $34 550)",
+   "link": "https://t.me/autofocus_ua_tg/70740",
+   "photo": "data/cars/6418.jpg"
   },
   {
    "title": "Audi Q5",
@@ -23,17 +34,6 @@
    "why": "на 15% дешевше за схожі (≈ $23 400)",
    "link": "https://t.me/imperiya_auto/93934",
    "photo": "data/cars/6322.jpg"
-  },
-  {
-   "title": "Toyota Land Cruiser",
-   "year": 2007,
-   "price_usd": 10200,
-   "city": "",
-   "pct": 57,
-   "market_usd": 23700,
-   "why": "на 57% дешевше за схожі (≈ $23 700)",
-   "link": "https://t.me/autobazardnepr/45366",
-   "photo": "data/cars/6284.jpg"
   },
   {
    "title": "BMW X5",
@@ -58,15 +58,15 @@
    "photo": ""
   },
   {
-   "title": "Audi A4",
-   "year": 2009,
-   "price_usd": 6300,
-   "city": "Одеса",
+   "title": "BMW 5 Series",
+   "year": 2001,
+   "price_usd": 3950,
+   "city": "",
    "pct": 29,
-   "market_usd": 8850,
-   "why": "на 29% дешевше за схожі (≈ $8 850)",
-   "link": "https://t.me/avtobazar_group/211337",
-   "photo": "data/cars/6259.jpg"
+   "market_usd": 5550,
+   "why": "на 29% дешевше за схожі (≈ $5 550)",
+   "link": "https://t.me/autobazar_kharkiv/44640",
+   "photo": "data/cars/6425.jpg"
   },
   {
    "title": "Audi Q8",
@@ -78,17 +78,6 @@
    "why": "на 26% дешевше за схожі (≈ $47 150)",
    "link": "https://t.me/autobazarchernihivua/35469",
    "photo": "data/cars/6311.jpg"
-  },
-  {
-   "title": "Audi Q8",
-   "year": 2019,
-   "price_usd": 37750,
-   "city": "Кривий Ріг",
-   "pct": 21,
-   "market_usd": 47800,
-   "why": "на 21% дешевше за схожі (≈ $47 800)",
-   "link": "https://t.me/vechirnii20/22086",
-   "photo": "data/cars/6283.jpg"
   },
   {
    "title": "Kia Sorento",
@@ -111,6 +100,17 @@
    "why": "на 21% дешевше за схожі (≈ $10 450)",
    "link": "https://t.me/autoparkua4/85084",
    "photo": ""
+  },
+  {
+   "title": "BMW X3",
+   "year": 2017,
+   "price_usd": 15500,
+   "city": "Луцьк",
+   "pct": 20,
+   "market_usd": 19400,
+   "why": "на 20% дешевше за схожі (≈ $19 400)",
+   "link": "https://t.me/Avto_Odesa/30013",
+   "photo": "data/cars/6345.jpg"
   }
  ]
 }
