@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T14:46:54+00:00",
+ "updated": "2026-11-08T18:46:55+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -25,28 +25,6 @@
    "photo": "data/cars/6418.jpg"
   },
   {
-   "title": "BMW X5",
-   "year": 2018,
-   "price_usd": 22300,
-   "city": "",
-   "pct": 45,
-   "market_usd": 40550,
-   "why": "на 45% дешевше за схожі (≈ $40 550)",
-   "link": "https://t.me/autobazarzhytomyr/42512",
-   "photo": "data/cars/6358.jpg"
-  },
-  {
-   "title": "Volkswagen Passat",
-   "year": 2015,
-   "price_usd": 8046,
-   "city": "",
-   "pct": 36,
-   "market_usd": 12550,
-   "why": "на 36% дешевше за схожі (≈ $12 550)",
-   "link": "https://t.me/avtobazar_group/211659",
-   "photo": ""
-  },
-  {
    "title": "Porsche Panamera",
    "year": 2017,
    "price_usd": 32900,
@@ -69,6 +47,28 @@
    "photo": "data/cars/6425.jpg"
   },
   {
+   "title": "BMW 5 Series",
+   "year": 2013,
+   "price_usd": 10000,
+   "city": "",
+   "pct": 28,
+   "market_usd": 13900,
+   "why": "на 28% дешевше за схожі (≈ $13 900)",
+   "link": "https://t.me/autobazarkhmelnytskyiua/36819",
+   "photo": "data/cars/6482.jpg"
+  },
+  {
+   "title": "Skoda Fabia",
+   "year": 2008,
+   "price_usd": 4000,
+   "city": "Запоріжжя",
+   "pct": 25,
+   "market_usd": 5350,
+   "why": "на 25% дешевше за схожі (≈ $5 350)",
+   "link": "https://t.me/avto1_zp/17056",
+   "photo": "data/cars/6496.jpg"
+  },
+  {
    "title": "Ford Escape",
    "year": 2020,
    "price_usd": 11900,
@@ -80,37 +80,37 @@
    "photo": "data/cars/6460.jpg"
   },
   {
-   "title": "Kia Sorento",
-   "year": 2016,
-   "price_usd": 11940,
-   "city": "Львів",
-   "pct": 21,
-   "market_usd": 15100,
-   "why": "на 21% дешевше за схожі (≈ $15 100)",
-   "link": "https://t.me/autoparkua4/85083",
-   "photo": ""
-  },
-  {
-   "title": "Hyundai Sonata",
-   "year": 2015,
-   "price_usd": 8240,
-   "city": "Львів",
-   "pct": 21,
-   "market_usd": 10450,
-   "why": "на 21% дешевше за схожі (≈ $10 450)",
-   "link": "https://t.me/autoparkua4/85084",
-   "photo": ""
-  },
-  {
-   "title": "BMW X3",
-   "year": 2017,
-   "price_usd": 15500,
-   "city": "Луцьк",
+   "title": "Nissan Rogue",
+   "year": 2018,
+   "price_usd": 11500,
+   "city": "Черкаси",
    "pct": 20,
-   "market_usd": 19400,
-   "why": "на 20% дешевше за схожі (≈ $19 400)",
-   "link": "https://t.me/Avto_Odesa/30013",
-   "photo": "data/cars/6345.jpg"
+   "market_usd": 14400,
+   "why": "на 20% дешевше за схожі (≈ $14 400)",
+   "link": "https://t.me/avtobazar_group/211758",
+   "photo": "data/cars/6396.jpg"
+  },
+  {
+   "title": "Porsche Panamera",
+   "year": 2017,
+   "price_usd": 42990,
+   "city": "",
+   "pct": 17,
+   "market_usd": 51800,
+   "why": "на 17% дешевше за схожі (≈ $51 800)",
+   "link": "https://t.me/autofocus_ua_tg/70751",
+   "photo": "data/cars/6437.jpg"
+  },
+  {
+   "title": "Skoda Superb",
+   "year": 2017,
+   "price_usd": 15750,
+   "city": "Одеса",
+   "pct": 16,
+   "market_usd": 18750,
+   "why": "на 16% дешевше за схожі (≈ $18 750)",
+   "link": "https://t.me/avtobazar_group/211857",
+   "photo": "data/cars/6426.jpg"
   }
  ]
 }
