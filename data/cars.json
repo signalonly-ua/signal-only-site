@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T10:46:53+00:00",
+ "updated": "2026-11-08T14:46:54+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -25,17 +25,6 @@
    "photo": "data/cars/6418.jpg"
   },
   {
-   "title": "Audi Q5",
-   "year": 2018,
-   "price_usd": 19900,
-   "city": "Київ",
-   "pct": 15,
-   "market_usd": 23400,
-   "why": "на 15% дешевше за схожі (≈ $23 400)",
-   "link": "https://t.me/imperiya_auto/93934",
-   "photo": "data/cars/6322.jpg"
-  },
-  {
    "title": "BMW X5",
    "year": 2018,
    "price_usd": 22300,
@@ -58,6 +47,17 @@
    "photo": ""
   },
   {
+   "title": "Porsche Panamera",
+   "year": 2017,
+   "price_usd": 32900,
+   "city": "Одеса",
+   "pct": 32,
+   "market_usd": 48400,
+   "why": "на 32% дешевше за схожі (≈ $48 400)",
+   "link": "https://t.me/autoodesa/64473",
+   "photo": "data/cars/6446.jpg"
+  },
+  {
    "title": "BMW 5 Series",
    "year": 2001,
    "price_usd": 3950,
@@ -69,15 +69,15 @@
    "photo": "data/cars/6425.jpg"
   },
   {
-   "title": "Audi Q8",
-   "year": 2019,
-   "price_usd": 34900,
-   "city": "",
-   "pct": 26,
-   "market_usd": 47150,
-   "why": "на 26% дешевше за схожі (≈ $47 150)",
-   "link": "https://t.me/autobazarchernihivua/35469",
-   "photo": "data/cars/6311.jpg"
+   "title": "Ford Escape",
+   "year": 2020,
+   "price_usd": 11900,
+   "city": "Луцьк",
+   "pct": 23,
+   "market_usd": 15450,
+   "why": "на 23% дешевше за схожі (≈ $15 450)",
+   "link": "https://t.me/lutsk_autobazar/32715",
+   "photo": "data/cars/6460.jpg"
   },
   {
    "title": "Kia Sorento",
