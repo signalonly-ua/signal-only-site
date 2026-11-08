@@ -26,6 +26,12 @@ try {
         if ((Test-Path $newsPy) -and (Test-Path $newsScript)) {
             try { & $newsPy $newsScript | Out-Null } catch { Log "news: $_" }
         }
+        # Карта загроз (alert-map.html): знімок даних бота раз на годину
+        $mapSrc = 'C:\Users\Maxig\projects\alarm-bot\data\web'
+        if (Test-Path "$mapSrc\live.json") {
+            New-Item -ItemType Directory -Force "$site\data\alarm" | Out-Null
+            Copy-Item "$mapSrc\live.json","$mapSrc\zones.json" "$site\data\alarm" -Force
+        }
         git add -A -- data
         $changes = git diff --cached --name-only -- data
         if (-not $changes) { Log 'data: без змін'; exit 0 }
