@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T09:37:28+00:00",
+ "updated": "2026-11-08T10:37:29+00:00",
  "news": [
   {
    "title": "США оголосили винагороду в $20 млн за інформацію про ядерну програму Ірану",
@@ -16,17 +16,17 @@
    "date": "2026-11-08"
   },
   {
-   "title": "Забарний отримав нагороду у Франції після матчу, в якому він забив переможний гол",
-   "source": "NV",
-   "link": "https://sport.nv.ua/ukr/football/pszh-peremoga-nad-trua-zavdyaki-golu-zabarnogo-ta-viznannya-naykrashchim-gravcem-50657276.html",
-   "photo": "data/news/5a927ae7bcd3.jpg",
-   "date": "2026-11-08"
-  },
-  {
    "title": "США оголосили винагороду $20 млн за інформацію про ядерну програму Ірану",
    "source": "Суспільне",
    "link": "https://suspilne.media/1447511-ssa-ogolosili-vinagorodu-20-mln-za-informaciu-pro-adernu-programu-iranu/",
    "photo": "data/news/289752e2288c.jpg",
+   "date": "2026-11-07"
+  },
+  {
+   "title": "5 знаків Зодіаку вийдуть із періоду невдач: астролог Пінглі назвав щасливчиків листопада",
+   "source": "РБК-Україна",
+   "link": "https://styler.rbc.ua/rus/horoscopes/5-znakiv-zodiaku-viydut-iz-periodu-nevdach-1793966623.html",
+   "photo": "data/news/6473c19ac690.jpg",
    "date": "2026-11-07"
   }
  ]
