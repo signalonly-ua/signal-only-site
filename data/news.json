@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-08T21:37:32+00:00",
+ "updated": "2026-11-08T22:37:29+00:00",
  "news": [
+  {
+   "title": "\"Ювентус\" двічі врятувався від поразки: чим завершилася гольова битва з \"Фіорентиною\"",
+   "source": "РБК-Україна",
+   "link": "https://sport.rbc.ua/rus/football/yuventus-dvichi-vryatuvavsya-vid-porazki-1794176426.html",
+   "photo": "data/news/167dca5ec221.jpg",
+   "date": "2026-11-08"
+  },
   {
    "title": "Народилася у США, але повернулася до України: учасниця \"Голосу-14\" розчулила тренерів своєю історією",
    "source": "ТСН",
@@ -21,13 +28,6 @@
    "link": "https://styler.rbc.ua/rus/useful/kislitsya-zasohla-listopadi-k-vryatuvati-1793966384.html",
    "photo": "data/news/e2e07cfed86a.jpg",
    "date": "2026-11-08"
-  },
-  {
-   "title": "5 знаків Зодіаку вийдуть із періоду невдач: астролог Пінглі назвав щасливчиків листопада",
-   "source": "РБК-Україна",
-   "link": "https://styler.rbc.ua/rus/horoscopes/5-znakiv-zodiaku-viydut-iz-periodu-nevdach-1793966623.html",
-   "photo": "data/news/6473c19ac690.jpg",
-   "date": "2026-11-07"
   }
  ]
 }
