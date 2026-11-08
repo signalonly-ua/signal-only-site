@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T02:46:53+00:00",
+ "updated": "2026-11-08T06:46:53+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -80,17 +80,6 @@
    "photo": "data/cars/6311.jpg"
   },
   {
-   "title": "BMW X7",
-   "year": 2023,
-   "price_usd": 68000,
-   "city": "Луцьк",
-   "pct": 24,
-   "market_usd": 89450,
-   "why": "на 24% дешевше за схожі (≈ $89 450)",
-   "link": "https://t.me/fidrikcompany/99876",
-   "photo": "data/cars/6233.jpg"
-  },
-  {
    "title": "Audi Q8",
    "year": 2019,
    "price_usd": 37750,
@@ -110,6 +99,17 @@
    "market_usd": 15100,
    "why": "на 21% дешевше за схожі (≈ $15 100)",
    "link": "https://t.me/autoparkua4/85083",
+   "photo": ""
+  },
+  {
+   "title": "Hyundai Sonata",
+   "year": 2015,
+   "price_usd": 8240,
+   "city": "Львів",
+   "pct": 21,
+   "market_usd": 10450,
+   "why": "на 21% дешевше за схожі (≈ $10 450)",
+   "link": "https://t.me/autoparkua4/85084",
    "photo": ""
   }
  ]
