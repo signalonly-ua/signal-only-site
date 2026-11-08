@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-08T07:37:28+00:00",
+ "updated": "2026-11-08T08:37:27+00:00",
  "news": [
+  {
+   "title": "США оголосили винагороду в $20 млн за інформацію про ядерну програму Ірану",
+   "source": "NV",
+   "link": "https://nv.ua/ukr/world/countries/yaderna-programa-iranu-ssha-ogolosili-vinagorodu-20-mln-za-informaciyu-50657288.html",
+   "photo": "data/news/8cd9f08de143.jpg",
+   "date": "2026-11-08"
+  },
+  {
+   "title": "Застрягла на острівці посеред річки. На Прикарпатті надзвичайники врятували собаку",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/ivano-frankivsk/1447579-zastragla-na-ostrivci-posered-ricki-na-prikarpatti-nadzvicajniki-vratuvali-sobaku/",
+   "photo": "data/news/ab128f2a1e7b.jpg",
+   "date": "2026-11-08"
+  },
   {
    "title": "Забарний отримав нагороду у Франції після матчу, в якому він забив переможний гол",
    "source": "NV",
@@ -13,20 +27,6 @@
    "source": "Суспільне",
    "link": "https://suspilne.media/1447511-ssa-ogolosili-vinagorodu-20-mln-za-informaciu-pro-adernu-programu-iranu/",
    "photo": "data/news/289752e2288c.jpg",
-   "date": "2026-11-07"
-  },
-  {
-   "title": "5 знаків Зодіаку вийдуть із періоду невдач: астролог Пінглі назвав щасливчиків листопада",
-   "source": "РБК-Україна",
-   "link": "https://styler.rbc.ua/rus/horoscopes/5-znakiv-zodiaku-viydut-iz-periodu-nevdach-1793966623.html",
-   "photo": "data/news/6473c19ac690.jpg",
-   "date": "2026-11-07"
-  },
-  {
-   "title": "Люди, які народилися в ці місяці, розквітають із настанням холодів",
-   "source": "УНІАН",
-   "link": "https://www.unian.ua/lite/astrology/numerologiya-lyudi-yaki-narodilisya-v-ci-misyaci-rozkvitayut-iz-nastannyam-holodiv-13552947.html",
-   "photo": "data/news/a8b40f102c71.jpg",
    "date": "2026-11-07"
   }
  ]
