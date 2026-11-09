@@ -1,28 +1,116 @@
 {
- "updated": "2026-11-09T16:09:17+00:00",
+ "updated": "2026-11-09T20:09:17+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
-   "title": "BMW 5 Series",
-   "year": 2013,
-   "price_usd": 10000,
-   "city": "",
-   "pct": 28,
-   "market_usd": 13900,
-   "why": "на 28% дешевше за схожі (≈ $13 900)",
-   "link": "https://t.me/autobazarkhmelnytskyiua/36819",
-   "photo": "data/cars/6482.jpg"
+   "title": "Volkswagen Passat",
+   "year": 2012,
+   "price_usd": 6800,
+   "city": "Київ",
+   "pct": 27,
+   "market_usd": 9300,
+   "why": "на 27% дешевше за схожі (≈ $9 300)",
+   "link": "https://t.me/auto_residence_ua/19143",
+   "photo": "data/cars/6526.jpg"
   },
   {
-   "title": "Skoda Fabia",
-   "year": 2008,
-   "price_usd": 4000,
-   "city": "Запоріжжя",
-   "pct": 25,
-   "market_usd": 5350,
-   "why": "на 25% дешевше за схожі (≈ $5 350)",
-   "link": "https://t.me/avto1_zp/17056",
-   "photo": "data/cars/6496.jpg"
+   "title": "Jaguar I-Pace",
+   "year": 2019,
+   "price_usd": 11200,
+   "city": "Луцьк",
+   "pct": 48,
+   "market_usd": 21550,
+   "why": "на 48% дешевше за схожі (≈ $21 550)",
+   "link": "https://t.me/fidrikcompany/100029",
+   "photo": "data/cars/6578.jpg"
+  },
+  {
+   "title": "Mercedes-Benz GLE",
+   "year": 2019,
+   "price_usd": 23000,
+   "city": "Львів",
+   "pct": 42,
+   "market_usd": 39650,
+   "why": "на 42% дешевше за схожі (≈ $39 650)",
+   "link": "https://t.me/GoldCarsLviv/37425",
+   "photo": "data/cars/6519.jpg"
+  },
+  {
+   "title": "Toyota Land Cruiser Prado",
+   "year": 2007,
+   "price_usd": 12200,
+   "city": "",
+   "pct": 32,
+   "market_usd": 17950,
+   "why": "на 32% дешевше за схожі (≈ $17 950)",
+   "link": "https://t.me/autobazar_kharkiv/44691",
+   "photo": "data/cars/6529.jpg"
+  },
+  {
+   "title": "Kia Sportage",
+   "year": 2017,
+   "price_usd": 12500,
+   "city": "",
+   "pct": 26,
+   "market_usd": 16900,
+   "why": "на 26% дешевше за схожі (≈ $16 900)",
+   "link": "https://t.me/metra_avto/8063",
+   "photo": ""
+  },
+  {
+   "title": "Audi Q5",
+   "year": 2018,
+   "price_usd": 17000,
+   "city": "Львів",
+   "pct": 23,
+   "market_usd": 22100,
+   "why": "на 23% дешевше за схожі (≈ $22 100)",
+   "link": "https://t.me/avtobazar_group/212490",
+   "photo": "data/cars/6615.jpg"
+  },
+  {
+   "title": "BMW X7",
+   "year": 2019,
+   "price_usd": 36000,
+   "city": "Луцьк",
+   "pct": 20,
+   "market_usd": 45000,
+   "why": "на 20% дешевше за схожі (≈ $45 000)",
+   "link": "https://t.me/avto_lutsk1/8474",
+   "photo": "data/cars/6564.jpg"
+  },
+  {
+   "title": "BMW X5",
+   "year": 2009,
+   "price_usd": 11000,
+   "city": "",
+   "pct": 19,
+   "market_usd": 13600,
+   "why": "на 19% дешевше за схожі (≈ $13 600)",
+   "link": "https://t.me/autobazarcherkasyua/34845",
+   "photo": "data/cars/6534.jpg"
+  },
+  {
+   "title": "Hyundai Santa FE",
+   "year": 2019,
+   "price_usd": 15950,
+   "city": "Кривий Ріг",
+   "pct": 19,
+   "market_usd": 19700,
+   "why": "на 19% дешевше за схожі (≈ $19 700)",
+   "link": "https://t.me/vechirnii20/22197",
+   "photo": "data/cars/6608.jpg"
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2019,
+   "price_usd": 24200,
+   "city": "",
+   "pct": 19,
+   "market_usd": 29900,
+   "why": "на 19% дешевше за схожі (≈ $29 900)",
+   "link": "https://t.me/autobazarlvivua/47982",
+   "photo": "data/cars/6622.jpg"
   }
  ]
 }

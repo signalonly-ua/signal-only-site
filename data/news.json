@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-09T19:37:32+00:00",
+ "updated": "2026-11-09T20:37:57+00:00",
  "news": [
+  {
+   "title": "«За внесок у розвиток культури». Зеленський нагородив Дашу Астаф'єву орденом княгині Ольги",
+   "source": "NV",
+   "link": "https://nv.ua/ukr/kultura/dasha-astaf-yeva-jiji-nagorodili-ordenom-knyagini-olgi-za-vnesok-u-kulturu-50657727.html",
+   "photo": "data/news/f7157447e976.jpg",
+   "date": "2026-11-09"
+  },
   {
    "title": "Зеленський нагородив Астаф’єву орденом княгині Ольги",
    "source": "Українська правда",
@@ -17,16 +24,9 @@
   },
   {
    "title": "Зеленський вручив нагороди десантникам",
-   "source": "Укрінформ",
+   "source": "Укрінформ: фронт",
    "link": "https://www.ukrinform.ua/rubric-ato/4183055-zelenskij-vruciv-nagorodi-desantnikam.html",
    "photo": "data/news/985d668f96d5.jpg",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "Плотницький отримав першу нагороду MVP сезону та провів 300-й матч у Суперлізі за «Перуджу»",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/sport/1448683-plotnickij-otrimav-persu-nagorodu-mvp-sezonu-ta-proviv-300-j-matc-u-superlizi-za-perudzu/",
-   "photo": "data/news/6ae3858a21cb.jpg",
    "date": "2026-11-09"
   }
  ]
