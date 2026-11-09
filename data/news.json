@@ -1,11 +1,18 @@
 {
- "updated": "2026-11-09T07:37:27+00:00",
+ "updated": "2026-11-09T08:37:28+00:00",
  "news": [
   {
-   "title": "На Житомирщині до Дня Десантно-штурмових військ нагородили військовослужбовців 199 навчального центру",
+   "title": "Дівчаток більше: скільки дітей народилося на Миколаївщині протягом тижня",
    "source": "Суспільне",
-   "link": "https://suspilne.media/zhytomyr/1448047-na-zitomirsini-do-dna-desantno-sturmovih-vijsk-nagorodili-vijskovosluzbovciv-199-navcalnogo-centru/",
-   "photo": "data/news/86061f5da84d.jpg",
+   "link": "https://suspilne.media/mykolaiv/1448153-divcatok-bilse-skilki-ditej-narodilosa-na-mikolaivsini-protagom-tizna-2/",
+   "photo": "data/news/64e07d9c529a.jpg",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "У Черкасах протягом тижня народилося майже 30 дітей",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/cherkasy/1448137-u-cerkasah-protagom-tizna-narodilosa-majze-30-ditej-3/",
+   "photo": "data/news/df03fda8d80a.jpg",
    "date": "2026-11-09"
   },
   {
@@ -20,13 +27,6 @@
    "source": "ТСН",
    "link": "https://tsn.ua/glamur/narodylasia-u-ssha-ale-povernulasia-do-ukrayiny-uchasnytsia-holosu-14-rozchulyla-treneriv-svoyeiu-istoriyeiu-3211299.html",
    "photo": "data/news/a7e3ac222071.jpg",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Секрет щасливого шлюбу виявився набагато простішим: науковці назвали головну умову",
-   "source": "ТСН",
-   "link": "https://tsn.ua/other/sekret-shchaslyvoho-shliubu-vyiavyvsia-nabahato-prostishym-naukovtsi-nazvaly-holovnu-umovu-3211295.html",
-   "photo": "data/news/cf62c25250c3.jpg",
    "date": "2026-11-08"
   }
  ]
