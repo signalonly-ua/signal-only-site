@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T12:37:31+00:00",
+ "updated": "2026-11-09T13:37:38+00:00",
  "news": [
   {
    "title": "Каблучка українського бренду KOCHUT отримала престижну нагороду в Мілані",
@@ -16,18 +16,18 @@
    "date": "2026-11-09"
   },
   {
-   "title": "Один із найрізноманітніших акторів свого покоління: Роберт Паттінсон отримає нагороду American Cinematheque Award",
-   "source": "NV",
-   "link": "https://nv.ua/ukr/kultura/robert-pattinson-stane-laureatom-american-cinematheque-award-yuviley-kar-yeri-50657497.html",
-   "photo": "data/news/2961f23a8906.jpg",
-   "date": "2026-11-09"
-  },
-  {
    "title": "Дівчаток більше: скільки дітей народилося на Миколаївщині протягом тижня",
    "source": "Суспільне",
    "link": "https://suspilne.media/mykolaiv/1448153-divcatok-bilse-skilki-ditej-narodilosa-na-mikolaivsini-protagom-tizna-2/",
    "photo": "data/news/64e07d9c529a.jpg",
    "date": "2026-11-09"
+  },
+  {
+   "title": "\"Ювентус\" двічі врятувався від поразки: чим завершилася гольова битва з \"Фіорентиною\"",
+   "source": "РБК-Україна",
+   "link": "https://sport.rbc.ua/rus/football/yuventus-dvichi-vryatuvavsya-vid-porazki-1794176426.html",
+   "photo": "data/news/167dca5ec221.jpg",
+   "date": "2026-11-08"
   }
  ]
 }
