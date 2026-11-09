@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-09T13:37:38+00:00",
+ "updated": "2026-11-09T14:37:33+00:00",
  "news": [
+  {
+   "title": "«Я думав, що помру». Піаніста круїзного лайнера врятували після дев’яти годин у Тихому океані",
+   "source": "NV",
+   "link": "https://nv.ua/ukr/world/countries/pianist-ovation-of-the-seas-proviv-9-godin-u-tihomu-okeani-ribalki-vryatuvali-yogo-bilya-kaliforniji-50657593.html",
+   "photo": "data/news/228ba4096e64.jpg",
+   "date": "2026-11-09"
+  },
   {
    "title": "Каблучка українського бренду KOCHUT отримала престижну нагороду в Мілані",
    "source": "РБК-Україна",
@@ -21,13 +28,6 @@
    "link": "https://suspilne.media/mykolaiv/1448153-divcatok-bilse-skilki-ditej-narodilosa-na-mikolaivsini-protagom-tizna-2/",
    "photo": "data/news/64e07d9c529a.jpg",
    "date": "2026-11-09"
-  },
-  {
-   "title": "\"Ювентус\" двічі врятувався від поразки: чим завершилася гольова битва з \"Фіорентиною\"",
-   "source": "РБК-Україна",
-   "link": "https://sport.rbc.ua/rus/football/yuventus-dvichi-vryatuvavsya-vid-porazki-1794176426.html",
-   "photo": "data/news/167dca5ec221.jpg",
-   "date": "2026-11-08"
   }
  ]
 }
