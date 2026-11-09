@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T03:11:46+00:00",
+ "updated": "2026-11-09T07:11:46+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -80,17 +80,6 @@
    "photo": "data/cars/6460.jpg"
   },
   {
-   "title": "Nissan Rogue",
-   "year": 2018,
-   "price_usd": 11500,
-   "city": "Черкаси",
-   "pct": 20,
-   "market_usd": 14400,
-   "why": "на 20% дешевше за схожі (≈ $14 400)",
-   "link": "https://t.me/avtobazar_group/211758",
-   "photo": "data/cars/6396.jpg"
-  },
-  {
    "title": "Porsche Panamera",
    "year": 2017,
    "price_usd": 42990,
@@ -111,6 +100,17 @@
    "why": "на 16% дешевше за схожі (≈ $18 750)",
    "link": "https://t.me/avtobazar_group/211857",
    "photo": "data/cars/6426.jpg"
+  },
+  {
+   "title": "Toyota Land Cruiser",
+   "year": 2020,
+   "price_usd": 54400,
+   "city": "",
+   "pct": 15,
+   "market_usd": 64000,
+   "why": "на 15% дешевше за схожі (≈ $64 000)",
+   "link": "https://t.me/autobazarkhmelnytskyiua/36809",
+   "photo": "data/cars/6408.jpg"
   }
  ]
 }
