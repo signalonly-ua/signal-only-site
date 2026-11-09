@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-09T18:37:53+00:00",
+ "updated": "2026-11-09T19:37:32+00:00",
  "news": [
+  {
+   "title": "Зеленський нагородив Астаф’єву орденом княгині Ольги",
+   "source": "Українська правда",
+   "link": "https://www.pravda.com.ua/news/2026/11/09/8062034/",
+   "photo": "data/news/e07da4aa44c1.jpg",
+   "date": "2026-11-09"
+  },
   {
    "title": "Шість звичок собаки, які свідчать про те, що він щасливий у вашому домі",
    "source": "ТСН",
@@ -20,13 +27,6 @@
    "source": "Суспільне",
    "link": "https://suspilne.media/sport/1448683-plotnickij-otrimav-persu-nagorodu-mvp-sezonu-ta-proviv-300-j-matc-u-superlizi-za-perudzu/",
    "photo": "data/news/6ae3858a21cb.jpg",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "Херсонці здобули 16 нагород та командне срібло на Всеукраїнському відкритому кубку з кіокушин БуДо карате",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/kherson/1448611-hersonci-zdobuli-16-nagorod-ta-komandne-sriblo-na-vseukrainskomu-vidkritomu-kubku-z-kiokusin-budo-karate/",
-   "photo": "data/news/700441430bfe.jpg",
    "date": "2026-11-09"
   }
  ]
