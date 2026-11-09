@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-09T03:10:27+00:00",
+ "updated": "2026-11-09T05:10:28+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Кухар",
+   "city": "Київ",
+   "district": "Оболонський р-н",
+   "salary": "2 400 грн/зміна",
+   "employment": "Повна зайнятість (5/2) · Нічні зміни · Стажування",
+   "date": "2026-11-09T04:59:03+00:00",
+   "link": "https://t.me/rabota_kieve_chate/106385"
+  },
+  {
+   "position": "Пекар",
+   "city": "",
+   "district": "",
+   "salary": "від 40 000 грн",
+   "employment": "Нічні зміни",
+   "date": "2026-11-09T04:21:29+00:00",
+   "link": "https://t.me/erobota_kyiv/192303"
+  },
   {
    "position": "Комплектувальник, Пакувальник",
    "city": "Львів",
@@ -163,24 +181,6 @@
    "employment": "Повна зайнятість · Позмінно (3/4)",
    "date": "2026-11-08T17:12:52+00:00",
    "link": "https://t.me/workua_kyiv/91931"
-  },
-  {
-   "position": "Пекар",
-   "city": "Київ",
-   "district": "Печерський р-н",
-   "salary": "",
-   "employment": "Позмінно",
-   "date": "2026-11-08T17:04:26+00:00",
-   "link": "https://t.me/kiev_rabota_podrabotka/42078"
-  },
-  {
-   "position": "Юрист",
-   "city": "Київ",
-   "district": "Подільський р-н",
-   "salary": "від 50 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-08T17:01:49+00:00",
-   "link": "https://t.me/workua_kyiv/91930"
   }
  ]
 }
