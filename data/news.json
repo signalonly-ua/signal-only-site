@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-09T16:37:32+00:00",
+ "updated": "2026-11-09T17:37:34+00:00",
  "news": [
+  {
+   "title": "Шість звичок собаки, які свідчать про те, що він щасливий у вашому домі",
+   "source": "ТСН",
+   "link": "https://tsn.ua/other/shist-zvychok-sobaky-iaki-svidchat-pro-te-shcho-vin-shchaslyvyy-u-vashomu-domi-3205771.html",
+   "photo": "data/news/75e0fabc8d17.jpg",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Зеленський вручив нагороди десантникам",
+   "source": "Укрінформ",
+   "link": "https://www.ukrinform.ua/rubric-ato/4183055-zelenskij-vruciv-nagorodi-desantnikam.html",
+   "photo": "data/news/985d668f96d5.jpg",
+   "date": "2026-11-09"
+  },
   {
    "title": "Плотницький отримав першу нагороду MVP сезону та провів 300-й матч у Суперлізі за «Перуджу»",
    "source": "Суспільне",
@@ -14,20 +28,6 @@
    "link": "https://suspilne.media/kherson/1448611-hersonci-zdobuli-16-nagorod-ta-komandne-sriblo-na-vseukrainskomu-vidkritomu-kubku-z-kiokusin-budo-karate/",
    "photo": "data/news/700441430bfe.jpg",
    "date": "2026-11-09"
-  },
-  {
-   "title": "Каблучка українського бренду KOCHUT отримала престижну нагороду в Мілані",
-   "source": "РБК-Україна",
-   "link": "https://wave.rbc.ua/rus/style/kabluchka-ukrayinskogo-brendu-kochut-otrimala-1793965960.html",
-   "photo": "data/news/939af4ebb26c.jpg",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "\"Ювентус\" двічі врятувався від поразки: чим завершилася гольова битва з \"Фіорентиною\"",
-   "source": "РБК-Україна",
-   "link": "https://sport.rbc.ua/rus/football/yuventus-dvichi-vryatuvavsya-vid-porazki-1794176426.html",
-   "photo": "data/news/167dca5ec221.jpg",
-   "date": "2026-11-08"
   }
  ]
 }
