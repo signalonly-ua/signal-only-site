@@ -1,18 +1,7 @@
 {
- "updated": "2026-11-09T11:11:46+00:00",
+ "updated": "2026-11-09T15:11:46+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Porsche Panamera",
-   "year": 2017,
-   "price_usd": 32900,
-   "city": "Одеса",
-   "pct": 32,
-   "market_usd": 48400,
-   "why": "на 32% дешевше за схожі (≈ $48 400)",
-   "link": "https://t.me/autoodesa/64473",
-   "photo": "data/cars/6446.jpg"
-  },
   {
    "title": "BMW 5 Series",
    "year": 2013,
@@ -34,28 +23,6 @@
    "why": "на 25% дешевше за схожі (≈ $5 350)",
    "link": "https://t.me/avto1_zp/17056",
    "photo": "data/cars/6496.jpg"
-  },
-  {
-   "title": "Ford Escape",
-   "year": 2020,
-   "price_usd": 11900,
-   "city": "Луцьк",
-   "pct": 23,
-   "market_usd": 15450,
-   "why": "на 23% дешевше за схожі (≈ $15 450)",
-   "link": "https://t.me/lutsk_autobazar/32715",
-   "photo": "data/cars/6460.jpg"
-  },
-  {
-   "title": "Porsche Panamera",
-   "year": 2017,
-   "price_usd": 42990,
-   "city": "",
-   "pct": 17,
-   "market_usd": 51800,
-   "why": "на 17% дешевше за схожі (≈ $51 800)",
-   "link": "https://t.me/autofocus_ua_tg/70751",
-   "photo": "data/cars/6437.jpg"
   }
  ]
 }
