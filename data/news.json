@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-09T09:37:28+00:00",
+ "updated": "2026-11-09T10:37:28+00:00",
  "news": [
+  {
+   "title": "Один із найрізноманітніших акторів свого покоління: Роберт Паттінсон отримає нагороду American Cinematheque Award",
+   "source": "NV",
+   "link": "https://nv.ua/ukr/kultura/robert-pattinson-stane-laureatom-american-cinematheque-award-yuviley-kar-yeri-50657497.html",
+   "photo": "data/news/2961f23a8906.jpg",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "У Тернополі в пологовому відділенні народилося понад 1100 немовлят",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/ternopil/1448305-u-ternopoli-v-pologovomu-viddilenni-narodilosa-ponad-1100-nemovlat/",
+   "photo": "data/news/464920155664.jpg",
+   "date": "2026-11-09"
+  },
   {
    "title": "Дівчаток більше: скільки дітей народилося на Миколаївщині протягом тижня",
    "source": "Суспільне",
@@ -9,24 +23,10 @@
    "date": "2026-11-09"
   },
   {
-   "title": "У Черкасах протягом тижня народилося майже 30 дітей",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/cherkasy/1448137-u-cerkasah-protagom-tizna-narodilosa-majze-30-ditej-3/",
-   "photo": "data/news/df03fda8d80a.jpg",
-   "date": "2026-11-09"
-  },
-  {
    "title": "\"Ювентус\" двічі врятувався від поразки: чим завершилася гольова битва з \"Фіорентиною\"",
    "source": "РБК-Україна",
    "link": "https://sport.rbc.ua/rus/football/yuventus-dvichi-vryatuvavsya-vid-porazki-1794176426.html",
    "photo": "data/news/167dca5ec221.jpg",
-   "date": "2026-11-08"
-  },
-  {
-   "title": "Народилася у США, але повернулася до України: учасниця \"Голосу-14\" розчулила тренерів своєю історією",
-   "source": "ТСН",
-   "link": "https://tsn.ua/glamur/narodylasia-u-ssha-ale-povernulasia-do-ukrayiny-uchasnytsia-holosu-14-rozchulyla-treneriv-svoyeiu-istoriyeiu-3211299.html",
-   "photo": "data/news/a7e3ac222071.jpg",
    "date": "2026-11-08"
   }
  ]
