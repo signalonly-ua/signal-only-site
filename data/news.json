@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-09T11:37:31+00:00",
+ "updated": "2026-11-09T12:37:31+00:00",
  "news": [
+  {
+   "title": "Каблучка українського бренду KOCHUT отримала престижну нагороду в Мілані",
+   "source": "РБК-Україна",
+   "link": "https://wave.rbc.ua/rus/style/kabluchka-ukrayinskogo-brendu-kochut-otrimala-1793965960.html",
+   "photo": "data/news/939af4ebb26c.jpg",
+   "date": "2026-11-09"
+  },
   {
    "title": "У Тернополі в пологовому з початку року народилося понад 1100 немовлят",
    "source": "Суспільне",
@@ -21,13 +28,6 @@
    "link": "https://suspilne.media/mykolaiv/1448153-divcatok-bilse-skilki-ditej-narodilosa-na-mikolaivsini-protagom-tizna-2/",
    "photo": "data/news/64e07d9c529a.jpg",
    "date": "2026-11-09"
-  },
-  {
-   "title": "\"Ювентус\" двічі врятувався від поразки: чим завершилася гольова битва з \"Фіорентиною\"",
-   "source": "РБК-Україна",
-   "link": "https://sport.rbc.ua/rus/football/yuventus-dvichi-vryatuvavsya-vid-porazki-1794176426.html",
-   "photo": "data/news/167dca5ec221.jpg",
-   "date": "2026-11-08"
   }
  ]
 }
