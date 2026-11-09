@@ -1,29 +1,7 @@
 {
- "updated": "2026-11-09T07:11:46+00:00",
+ "updated": "2026-11-09T11:11:46+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Skoda Superb",
-   "year": 2015,
-   "price_usd": 6990,
-   "city": "Київ",
-   "pct": 56,
-   "market_usd": 15900,
-   "why": "на 56% дешевше за схожі (≈ $15 900)",
-   "link": "https://t.me/autofocus_ua_tg/70720",
-   "photo": "data/cars/6399.jpg"
-  },
-  {
-   "title": "Audi A6",
-   "year": 2021,
-   "price_usd": 27990,
-   "city": "Київ",
-   "pct": 19,
-   "market_usd": 34550,
-   "why": "на 19% дешевше за схожі (≈ $34 550)",
-   "link": "https://t.me/autofocus_ua_tg/70740",
-   "photo": "data/cars/6418.jpg"
-  },
   {
    "title": "Porsche Panamera",
    "year": 2017,
@@ -34,17 +12,6 @@
    "why": "на 32% дешевше за схожі (≈ $48 400)",
    "link": "https://t.me/autoodesa/64473",
    "photo": "data/cars/6446.jpg"
-  },
-  {
-   "title": "BMW 5 Series",
-   "year": 2001,
-   "price_usd": 3950,
-   "city": "",
-   "pct": 29,
-   "market_usd": 5550,
-   "why": "на 29% дешевше за схожі (≈ $5 550)",
-   "link": "https://t.me/autobazar_kharkiv/44640",
-   "photo": "data/cars/6425.jpg"
   },
   {
    "title": "BMW 5 Series",
@@ -89,28 +56,6 @@
    "why": "на 17% дешевше за схожі (≈ $51 800)",
    "link": "https://t.me/autofocus_ua_tg/70751",
    "photo": "data/cars/6437.jpg"
-  },
-  {
-   "title": "Skoda Superb",
-   "year": 2017,
-   "price_usd": 15750,
-   "city": "Одеса",
-   "pct": 16,
-   "market_usd": 18750,
-   "why": "на 16% дешевше за схожі (≈ $18 750)",
-   "link": "https://t.me/avtobazar_group/211857",
-   "photo": "data/cars/6426.jpg"
-  },
-  {
-   "title": "Toyota Land Cruiser",
-   "year": 2020,
-   "price_usd": 54400,
-   "city": "",
-   "pct": 15,
-   "market_usd": 64000,
-   "why": "на 15% дешевше за схожі (≈ $64 000)",
-   "link": "https://t.me/autobazarkhmelnytskyiua/36809",
-   "photo": "data/cars/6408.jpg"
   }
  ]
 }
