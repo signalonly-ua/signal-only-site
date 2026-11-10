@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-10T16:37:44+00:00",
+ "updated": "2026-11-10T17:37:37+00:00",
  "news": [
+  {
+   "title": "«Передаю вам батьківський лизь». У Пса Патрона та його «дружини» народились цуценята — опубліковані фото",
+   "source": "NV",
+   "link": "https://nv.ua/ukr/lifestyle/pes-patron-stav-batkom-v-merezhi-opublikuvali-foto-yogo-cucenyat-50658045.html",
+   "photo": "data/news/a32d1991751a.jpg",
+   "date": "2026-11-10"
+  },
   {
    "title": "Президент нагородив митців і призначив державні стипендії 139 діячам культури",
    "source": "Укрінформ: культура",
@@ -21,13 +28,6 @@
    "link": "https://sport.rbc.ua/rus/football/mourinyu-ta-mbappe-pidkorili-la-ligu-real-1794297519.html",
    "photo": "data/news/284ae631cfc7.jpg",
    "date": "2026-11-10"
-  },
-  {
-   "title": "Шість звичок собаки, які свідчать про те, що він щасливий у вашому домі",
-   "source": "ТСН",
-   "link": "https://tsn.ua/other/shist-zvychok-sobaky-iaki-svidchat-pro-te-shcho-vin-shchaslyvyy-u-vashomu-domi-3205771.html",
-   "photo": "data/news/75e0fabc8d17.jpg",
-   "date": "2026-11-09"
   }
  ]
 }
