@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-09T23:10:28+00:00",
+ "updated": "2026-11-10T01:10:28+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Менеджер з продажу",
+   "city": "Київ",
+   "district": "",
+   "salary": "від 62 250 грн",
+   "employment": "",
+   "date": "2026-11-10T00:47:52+00:00",
+   "link": "https://t.me/podrabotka_kiev/2089367"
+  },
+  {
+   "position": "Менеджер з продажу, Менеджер з підтримки клієнтів",
+   "city": "Київ",
+   "district": "",
+   "salary": "",
+   "employment": "",
+   "date": "2026-11-09T23:36:09+00:00",
+   "link": "https://t.me/podrabotka_kiev/2089300"
+  },
   {
    "position": "Працівник складу",
    "city": "Львів",
@@ -163,24 +181,6 @@
    "employment": "",
    "date": "2026-11-09T17:53:33+00:00",
    "link": "https://t.me/kyiv_jobs/14202"
-  },
-  {
-   "position": "Адміністратор",
-   "city": "Запоріжжя",
-   "district": "",
-   "salary": "",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-09T17:50:45+00:00",
-   "link": "https://t.me/workua_zaporizhzhya/64826"
-  },
-  {
-   "position": "Адміністратор",
-   "city": "Львів",
-   "district": "",
-   "salary": "від 20 000 грн",
-   "employment": "Неповна / підробіток",
-   "date": "2026-11-09T17:50:45+00:00",
-   "link": "https://t.me/workua_lviv/84833"
   }
  ]
 }
