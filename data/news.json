@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-09T23:37:34+00:00",
+ "updated": "2026-11-10T00:37:33+00:00",
  "news": [
+  {
+   "title": "У Львові лікарі врятували чотирирічну дівчинку, в бронхах якої виявили будівельний шуруп",
+   "source": "Укрінформ",
+   "link": "https://www.ukrinform.ua/rubric-regions/4183139-u-lvovi-likari-vratuvali-cotiriricnu-divcinku-v-bronhah-akoi-viavili-budivelnij-surup.html",
+   "photo": "data/news/d3697c8fda02.jpg",
+   "date": "2026-11-10"
+  },
   {
    "title": "«За внесок у розвиток культури». Зеленський нагородив Дашу Астаф'єву орденом княгині Ольги",
    "source": "NV",
@@ -20,13 +27,6 @@
    "source": "ТСН",
    "link": "https://tsn.ua/other/shist-zvychok-sobaky-iaki-svidchat-pro-te-shcho-vin-shchaslyvyy-u-vashomu-domi-3205771.html",
    "photo": "data/news/75e0fabc8d17.jpg",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "Зеленський вручив нагороди десантникам",
-   "source": "Укрінформ: фронт",
-   "link": "https://www.ukrinform.ua/rubric-ato/4183055-zelenskij-vruciv-nagorodi-desantnikam.html",
-   "photo": "data/news/985d668f96d5.jpg",
    "date": "2026-11-09"
   }
  ]
