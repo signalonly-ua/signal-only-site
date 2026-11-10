@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:37:32+00:00",
+ "updated": "2026-11-10T05:37:35+00:00",
  "news": [
   {
    "title": "У Львові лікарі врятували чотирирічну дівчинку, в бронхах якої виявили будівельний шуруп",
@@ -7,13 +7,6 @@
    "link": "https://www.ukrinform.ua/rubric-regions/4183139-u-lvovi-likari-vratuvali-cotiriricnu-divcinku-v-bronhah-akoi-viavili-budivelnij-surup.html",
    "photo": "data/news/d3697c8fda02.jpg",
    "date": "2026-11-10"
-  },
-  {
-   "title": "Зеленський нагородив Астаф'єву орденом княгині Ольги",
-   "source": "Українська правда",
-   "link": "https://www.pravda.com.ua/news/2026/11/09/8062034/",
-   "photo": "data/news/e07da4aa44c1.jpg",
-   "date": "2026-11-09"
   },
   {
    "title": "Шість звичок собаки, які свідчать про те, що він щасливий у вашому домі",
@@ -27,6 +20,13 @@
    "source": "Укрінформ: фронт",
    "link": "https://www.ukrinform.ua/rubric-ato/4183055-zelenskij-vruciv-nagorodi-desantnikam.html",
    "photo": "data/news/985d668f96d5.jpg",
+   "date": "2026-11-09"
+  },
+  {
+   "title": "Плотницький отримав першу нагороду MVP сезону та провів 300-й матч у Суперлізі за «Перуджу»",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/sport/1448683-plotnickij-otrimav-persu-nagorodu-mvp-sezonu-ta-proviv-300-j-matc-u-superlizi-za-perudzu/",
+   "photo": "data/news/6ae3858a21cb.jpg",
    "date": "2026-11-09"
   }
  ]
