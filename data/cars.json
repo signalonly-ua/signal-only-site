@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T08:09:17+00:00",
+ "updated": "2026-11-10T12:09:17+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -47,6 +47,17 @@
    "photo": "data/cars/6519.jpg"
   },
   {
+   "title": "Mitsubishi Lancer",
+   "year": 2007,
+   "price_usd": 3600,
+   "city": "Запоріжжя",
+   "pct": 40,
+   "market_usd": 6000,
+   "why": "на 40% дешевше за схожі (≈ $6 000)",
+   "link": "https://t.me/avto1_zp/17120",
+   "photo": "data/cars/6670.jpg"
+  },
+  {
    "title": "Toyota Land Cruiser Prado",
    "year": 2007,
    "price_usd": 12200,
@@ -80,6 +91,17 @@
    "photo": ""
   },
   {
+   "title": "BMW X5",
+   "year": 2021,
+   "price_usd": 39500,
+   "city": "Луцьк",
+   "pct": 25,
+   "market_usd": 52650,
+   "why": "на 25% дешевше за схожі (≈ $52 650)",
+   "link": "https://t.me/avto_lutsk1/8493",
+   "photo": "data/cars/6681.jpg"
+  },
+  {
    "title": "Audi Q5",
    "year": 2018,
    "price_usd": 17000,
@@ -89,28 +111,6 @@
    "why": "на 23% дешевше за схожі (≈ $22 100)",
    "link": "https://t.me/avtobazar_group/212490",
    "photo": "data/cars/6615.jpg"
-  },
-  {
-   "title": "BMW X7",
-   "year": 2019,
-   "price_usd": 36000,
-   "city": "Луцьк",
-   "pct": 20,
-   "market_usd": 45000,
-   "why": "на 20% дешевше за схожі (≈ $45 000)",
-   "link": "https://t.me/avto_lutsk1/8474",
-   "photo": "data/cars/6564.jpg"
-  },
-  {
-   "title": "BMW X5",
-   "year": 2009,
-   "price_usd": 11000,
-   "city": "",
-   "pct": 19,
-   "market_usd": 13600,
-   "why": "на 19% дешевше за схожі (≈ $13 600)",
-   "link": "https://t.me/autobazarcherkasyua/34845",
-   "photo": "data/cars/6534.jpg"
   }
  ]
 }
