@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-10T07:37:32+00:00",
+ "updated": "2026-11-10T08:37:35+00:00",
  "news": [
+  {
+   "title": "Даша Астаф’єва отримала престижну державну нагороду від Зеленського: за що нагородили співачку",
+   "source": "ТСН",
+   "link": "https://tsn.ua/glamur/dasha-astafyeva-otrymala-prestyznu-derzavnu-nahorodu-vid-zelenskoho-za-shcho-nahorodyly-spivachku-3212531.html",
+   "photo": "data/news/fc74a67b8cfd.jpg",
+   "date": "2026-11-10"
+  },
+  {
+   "title": "Моурінью та Мбаппе підкорили Ла Лігу: \"Реал\" отримав одразу дві нагороди жовтня",
+   "source": "РБК-Україна",
+   "link": "https://sport.rbc.ua/rus/football/mourinyu-ta-mbappe-pidkorili-la-ligu-real-1794297519.html",
+   "photo": "data/news/284ae631cfc7.jpg",
+   "date": "2026-11-10"
+  },
   {
    "title": "У Львові лікарі врятували чотирирічну дівчинку, в бронхах якої виявили будівельний шуруп",
    "source": "Укрінформ: регіони",
@@ -13,20 +27,6 @@
    "source": "ТСН",
    "link": "https://tsn.ua/other/shist-zvychok-sobaky-iaki-svidchat-pro-te-shcho-vin-shchaslyvyy-u-vashomu-domi-3205771.html",
    "photo": "data/news/75e0fabc8d17.jpg",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "Зеленський вручив нагороди десантникам",
-   "source": "Укрінформ: фронт",
-   "link": "https://www.ukrinform.ua/rubric-ato/4183055-zelenskij-vruciv-nagorodi-desantnikam.html",
-   "photo": "data/news/985d668f96d5.jpg",
-   "date": "2026-11-09"
-  },
-  {
-   "title": "Плотницький отримав першу нагороду MVP сезону та провів 300-й матч у Суперлізі за «Перуджу»",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/sport/1448683-plotnickij-otrimav-persu-nagorodu-mvp-sezonu-ta-proviv-300-j-matc-u-superlizi-za-perudzu/",
-   "photo": "data/news/6ae3858a21cb.jpg",
    "date": "2026-11-09"
   }
  ]

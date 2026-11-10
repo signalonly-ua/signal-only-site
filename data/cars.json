@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T04:09:17+00:00",
+ "updated": "2026-11-10T08:09:17+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -12,6 +12,17 @@
    "why": "на 27% дешевше за схожі (≈ $9 300)",
    "link": "https://t.me/auto_residence_ua/19143",
    "photo": "data/cars/6526.jpg"
+  },
+  {
+   "title": "BMW X5",
+   "year": 2021,
+   "price_usd": 45000,
+   "city": "Київ",
+   "pct": 15,
+   "market_usd": 52950,
+   "why": "на 15% дешевше за схожі (≈ $52 950)",
+   "link": "https://t.me/kievavto2/147287",
+   "photo": "data/cars/6654.jpg"
   },
   {
    "title": "Jaguar I-Pace",
@@ -45,6 +56,17 @@
    "why": "на 32% дешевше за схожі (≈ $17 950)",
    "link": "https://t.me/autobazar_kharkiv/44691",
    "photo": "data/cars/6529.jpg"
+  },
+  {
+   "title": "Volkswagen Tiguan",
+   "year": 2012,
+   "price_usd": 8700,
+   "city": "Рівне",
+   "pct": 29,
+   "market_usd": 12250,
+   "why": "на 29% дешевше за схожі (≈ $12 250)",
+   "link": "https://t.me/lutsk_autobazar/32736",
+   "photo": "data/cars/6655.jpg"
   },
   {
    "title": "Kia Sportage",
@@ -89,28 +111,6 @@
    "why": "на 19% дешевше за схожі (≈ $13 600)",
    "link": "https://t.me/autobazarcherkasyua/34845",
    "photo": "data/cars/6534.jpg"
-  },
-  {
-   "title": "Hyundai Santa FE",
-   "year": 2019,
-   "price_usd": 15950,
-   "city": "Кривий Ріг",
-   "pct": 19,
-   "market_usd": 19700,
-   "why": "на 19% дешевше за схожі (≈ $19 700)",
-   "link": "https://t.me/vechirnii20/22197",
-   "photo": "data/cars/6608.jpg"
-  },
-  {
-   "title": "BMW 5 Series",
-   "year": 2019,
-   "price_usd": 24200,
-   "city": "",
-   "pct": 19,
-   "market_usd": 29900,
-   "why": "на 19% дешевше за схожі (≈ $29 900)",
-   "link": "https://t.me/autobazarlvivua/47982",
-   "photo": "data/cars/6622.jpg"
   }
  ]
 }
