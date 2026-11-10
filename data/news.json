@@ -1,18 +1,11 @@
 {
- "updated": "2026-11-10T18:37:36+00:00",
+ "updated": "2026-11-10T20:37:40+00:00",
  "news": [
   {
    "title": "Четверо представників культури з Волині отримали держнагороди",
    "source": "Суспільне",
    "link": "https://suspilne.media/lutsk/1449641-cetvero-predstavnikiv-kulturi-z-volini-otrimali-derznagorodi/",
    "photo": "data/news/d9c299367d45.jpg",
-   "date": "2026-11-10"
-  },
-  {
-   "title": "«Передаю вам батьківський лизь». У Пса Патрона та його «дружини» народились цуценята — опубліковані фото",
-   "source": "NV",
-   "link": "https://nv.ua/ukr/lifestyle/pes-patron-stav-batkom-v-merezhi-opublikuvali-foto-yogo-cucenyat-50658045.html",
-   "photo": "data/news/a32d1991751a.jpg",
    "date": "2026-11-10"
   },
   {
@@ -27,6 +20,13 @@
    "source": "ТСН",
    "link": "https://tsn.ua/glamur/dasha-astafyeva-otrymala-prestyznu-derzavnu-nahorodu-vid-zelenskoho-za-shcho-nahorodyly-spivachku-3212531.html",
    "photo": "data/news/fc74a67b8cfd.jpg",
+   "date": "2026-11-10"
+  },
+  {
+   "title": "Моурінью та Мбаппе підкорили Ла Лігу: \"Реал\" отримав одразу дві нагороди жовтня",
+   "source": "РБК-Україна",
+   "link": "https://sport.rbc.ua/rus/football/mourinyu-ta-mbappe-pidkorili-la-ligu-real-1794297519.html",
+   "photo": "data/news/284ae631cfc7.jpg",
    "date": "2026-11-10"
   }
  ]
