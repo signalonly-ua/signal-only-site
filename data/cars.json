@@ -1,18 +1,7 @@
 {
- "updated": "2026-11-11T17:46:03+00:00",
+ "updated": "2026-11-11T21:46:03+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "BMW X5",
-   "year": 2005,
-   "price_usd": 5750,
-   "city": "Біла Церква",
-   "pct": 48,
-   "market_usd": 11050,
-   "why": "на 48% дешевше за схожі (≈ $11 050)",
-   "link": "https://t.me/avtobazar_group/212894",
-   "photo": "data/cars/6811.jpg"
-  },
   {
    "title": "Land Rover Range Rover",
    "year": 2014,
@@ -111,6 +100,17 @@
    "why": "на 18% дешевше за схожі (≈ $14 600)",
    "link": "https://t.me/autofocus_ua_tg/70991",
    "photo": "data/cars/6824.jpg"
+  },
+  {
+   "title": "Volkswagen Passat",
+   "year": 2007,
+   "price_usd": 2650,
+   "city": "Рівне",
+   "pct": 52,
+   "market_usd": 5500,
+   "why": "на 52% дешевше за схожі (≈ $5 500)",
+   "link": "https://t.me/autobazar_kharkiv/44742",
+   "photo": "data/cars/6937.jpg"
   }
  ]
 }
