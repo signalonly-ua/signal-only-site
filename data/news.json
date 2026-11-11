@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-11T15:37:51+00:00",
+ "updated": "2026-11-11T16:38:31+00:00",
  "news": [
+  {
+   "title": "Велика й гарна. Рейнджери відзначили спеціальною нагородою надзвичайно вгодовану ведмедицю з Аляски",
+   "source": "NV",
+   "link": "https://techno.nv.ua/ukr/popscience/vesillya-u-tennessi-perervala-vedmedicya-z-dvoma-vedmezhatami-nespodivaniy-incident-50658242.html",
+   "photo": "data/news/c1be90a8ea66.jpg",
+   "date": "2026-11-11"
+  },
+  {
+   "title": "Хореографиня Ілона Гвоздьова дорікнула президенту Зеленському через нагороди діячам культури: \"Все ще чекаю\"",
+   "source": "РБК-Україна",
+   "link": "https://styler.rbc.ua/rus/people/horeografinya-ilona-gvozdova-doriknula-prezidentu-1794410346.html",
+   "photo": "data/news/3b0149f854bd.jpg",
+   "date": "2026-11-11"
+  },
   {
    "title": "«Все життя пропрацював на залізниці»: онук машиніста передав у музей на Волині нагороди свого діда",
    "source": "Суспільне",
@@ -9,24 +23,10 @@
    "date": "2026-11-11"
   },
   {
-   "title": "Ілона Гвоздьова публічно дорікнула Зеленському та висказалася з приводу відсутності нагород",
+   "title": "Ілона Гвоздьова публічно дорікнула Зеленському та висловилася з приводу відсутності нагород",
    "source": "ТСН",
    "link": "https://tsn.ua/glamur/ilona-hvozdyova-publichno-doriknula-zelenskomu-ta-vyskazalasia-z-pryvodu-vidsutnosti-nahorod-3213871.html",
    "photo": "data/news/09c74da7ae78.jpg",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "Народжені в ці три дні можуть зірвати справжній куш у зрілому віці: хто серед щасливчиків",
-   "source": "УНІАН",
-   "link": "https://www.unian.ua/curiosities/tri-dati-narodzhennya-yakim-usmihnetsya-dolya-naybilsha-udacha-mozhe-chekati-poperedu-13556274.html",
-   "photo": "data/news/134da0db9409.jpg",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "Чотири знаки китайського зодіаку накриє хвиля удачі 11 листопада: хто серед щасливчиків",
-   "source": "ТСН",
-   "link": "https://tsn.ua/astrologiya/chotyry-znaky-kytayskoho-zodiaku-nakryye-khvylia-udachi-11-lystopada-khto-sered-shchaslyvchykiv-3213047.html",
-   "photo": "data/news/59ab72565513.jpg",
    "date": "2026-11-11"
   }
  ]
