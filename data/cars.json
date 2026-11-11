@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T05:46:02+00:00",
+ "updated": "2026-11-11T09:46:03+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -14,6 +14,17 @@
    "photo": "data/cars/6811.jpg"
   },
   {
+   "title": "Land Rover Range Rover",
+   "year": 2014,
+   "price_usd": 19990,
+   "city": "Київ",
+   "pct": 40,
+   "market_usd": 33300,
+   "why": "на 40% дешевше за схожі (≈ $33 300)",
+   "link": "https://t.me/autofocus_ua_tg/71012",
+   "photo": "data/cars/6857.jpg"
+  },
+  {
    "title": "BMW X5",
    "year": 2014,
    "price_usd": 15800,
@@ -23,6 +34,17 @@
    "why": "на 35% дешевше за схожі (≈ $24 300)",
    "link": "https://t.me/avtobazar_group/212941",
    "photo": "data/cars/6818.jpg"
+  },
+  {
+   "title": "Audi A4",
+   "year": 2015,
+   "price_usd": 10199,
+   "city": "Київ",
+   "pct": 28,
+   "market_usd": 14150,
+   "why": "на 28% дешевше за схожі (≈ $14 150)",
+   "link": "https://t.me/KievavtoSale/18235",
+   "photo": "data/cars/6840.jpg"
   },
   {
    "title": "Volkswagen Passat",
@@ -36,15 +58,15 @@
    "photo": "data/cars/6720.jpg"
   },
   {
-   "title": "BMW X5",
-   "year": 2021,
-   "price_usd": 45000,
+   "title": "Kia Sportage",
+   "year": 2015,
+   "price_usd": 11990,
    "city": "Київ",
-   "pct": 15,
-   "market_usd": 52950,
-   "why": "на 15% дешевше за схожі (≈ $52 950)",
-   "link": "https://t.me/kievavto2/147287",
-   "photo": "data/cars/6654.jpg"
+   "pct": 18,
+   "market_usd": 14600,
+   "why": "на 18% дешевше за схожі (≈ $14 600)",
+   "link": "https://t.me/autofocus_ua_tg/70991",
+   "photo": "data/cars/6824.jpg"
   },
   {
    "title": "Volkswagen Passat",
@@ -69,17 +91,6 @@
    "photo": "data/cars/6755.jpg"
   },
   {
-   "title": "Mitsubishi Lancer",
-   "year": 2007,
-   "price_usd": 3600,
-   "city": "Запоріжжя",
-   "pct": 40,
-   "market_usd": 6000,
-   "why": "на 40% дешевше за схожі (≈ $6 000)",
-   "link": "https://t.me/avto1_zp/17120",
-   "photo": "data/cars/6670.jpg"
-  },
-  {
    "title": "Porsche Cayenne",
    "year": 2022,
    "price_usd": 45500,
@@ -91,26 +102,15 @@
    "photo": "data/cars/6810.jpg"
   },
   {
-   "title": "Volkswagen Tiguan",
+   "title": "Audi A6",
    "year": 2012,
-   "price_usd": 8700,
-   "city": "Рівне",
-   "pct": 29,
-   "market_usd": 12250,
-   "why": "на 29% дешевше за схожі (≈ $12 250)",
-   "link": "https://t.me/lutsk_autobazar/32736",
-   "photo": "data/cars/6655.jpg"
-  },
-  {
-   "title": "BMW X5",
-   "year": 2021,
-   "price_usd": 39500,
-   "city": "Луцьк",
-   "pct": 25,
-   "market_usd": 52650,
-   "why": "на 25% дешевше за схожі (≈ $52 650)",
-   "link": "https://t.me/avto_lutsk1/8493",
-   "photo": "data/cars/6681.jpg"
+   "price_usd": 9990,
+   "city": "",
+   "pct": 24,
+   "market_usd": 13150,
+   "why": "на 24% дешевше за схожі (≈ $13 150)",
+   "link": "https://t.me/autofocus_ua_tg/70946",
+   "photo": "data/cars/6737.jpg"
   }
  ]
 }
