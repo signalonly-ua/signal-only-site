@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-11T07:37:36+00:00",
+ "updated": "2026-11-11T08:37:39+00:00",
  "news": [
+  {
+   "title": "Народжені в ці три дні можуть зірвати справжній куш у зрілому віці: хто серед щасливчиків",
+   "source": "УНІАН",
+   "link": "https://www.unian.ua/curiosities/tri-dati-narodzhennya-yakim-usmihnetsya-dolya-naybilsha-udacha-mozhe-chekati-poperedu-13556274.html",
+   "photo": "data/news/134da0db9409.jpg",
+   "date": "2026-11-11"
+  },
   {
    "title": "Чотири знаки китайського зодіаку накриє хвиля удачі 11 листопада: хто серед щасливчиків",
    "source": "ТСН",
@@ -20,13 +27,6 @@
    "source": "Укрінформ: культура",
    "link": "https://www.ukrinform.ua/rubric-culture/4183237-prezident-nagorodiv-mitciv-i-priznaciv-derzavni-stipendii-139-diacam-kulturi.html",
    "photo": "data/news/4205aac6080b.jpg",
-   "date": "2026-11-10"
-  },
-  {
-   "title": "Даша Астаф’єва отримала престижну державну нагороду від Зеленського: за що нагородили співачку",
-   "source": "ТСН",
-   "link": "https://tsn.ua/glamur/dasha-astafyeva-otrymala-prestyznu-derzavnu-nahorodu-vid-zelenskoho-za-shcho-nahorodyly-spivachku-3212531.html",
-   "photo": "data/news/fc74a67b8cfd.jpg",
    "date": "2026-11-10"
   }
  ]
