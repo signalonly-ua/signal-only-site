@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-11T11:37:36+00:00",
+ "updated": "2026-11-11T12:43:04+00:00",
  "news": [
+  {
+   "title": "Вперше в історії. Дві українські оборонні компанії перемогли у тендерах НАТО",
+   "source": "NV",
+   "link": "https://biz.nv.ua/ukr/markets/ukrajinski-oboronni-kompaniji-peremogli-u-tenderah-nato-istorichniy-proriv-u-vidnosinah-50658276.html",
+   "photo": "data/news/d8bb596a6fff.jpg",
+   "date": "2026-11-11"
+  },
   {
    "title": "В Івано-Франківську лікарі врятували 13-річного хлопчика з гострим ішемічним інсультом",
    "source": "Суспільне",
@@ -21,13 +28,6 @@
    "link": "https://tsn.ua/astrologiya/chotyry-znaky-kytayskoho-zodiaku-nakryye-khvylia-udachi-11-lystopada-khto-sered-shchaslyvchykiv-3213047.html",
    "photo": "data/news/59ab72565513.jpg",
    "date": "2026-11-11"
-  },
-  {
-   "title": "Президент нагородив митців і призначив державні стипендії 139 діячам культури",
-   "source": "Укрінформ: культура",
-   "link": "https://www.ukrinform.ua/rubric-culture/4183237-prezident-nagorodiv-mitciv-i-priznaciv-derzavni-stipendii-139-diacam-kulturi.html",
-   "photo": "data/news/4205aac6080b.jpg",
-   "date": "2026-11-10"
   }
  ]
 }
