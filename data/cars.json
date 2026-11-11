@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T09:46:03+00:00",
+ "updated": "2026-11-11T13:46:03+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -25,6 +25,17 @@
    "photo": "data/cars/6857.jpg"
   },
   {
+   "title": "Porsche Macan",
+   "year": 2017,
+   "price_usd": 20000,
+   "city": "Київ",
+   "pct": 39,
+   "market_usd": 32800,
+   "why": "на 39% дешевше за схожі (≈ $32 800)",
+   "link": "https://t.me/auto_residence_ua/19159",
+   "photo": "data/cars/6876.jpg"
+  },
+  {
    "title": "BMW X5",
    "year": 2014,
    "price_usd": 15800,
@@ -36,6 +47,17 @@
    "photo": "data/cars/6818.jpg"
   },
   {
+   "title": "Toyota Camry",
+   "year": 2025,
+   "price_usd": 25900,
+   "city": "Біла Церква",
+   "pct": 30,
+   "market_usd": 37000,
+   "why": "на 30% дешевше за схожі (≈ $37 000)",
+   "link": "https://t.me/imperiya_auto_bila_ts/12073",
+   "photo": "data/cars/6908.jpg"
+  },
+  {
    "title": "Audi A4",
    "year": 2015,
    "price_usd": 10199,
@@ -45,17 +67,6 @@
    "why": "на 28% дешевше за схожі (≈ $14 150)",
    "link": "https://t.me/KievavtoSale/18235",
    "photo": "data/cars/6840.jpg"
-  },
-  {
-   "title": "Volkswagen Passat",
-   "year": 2015,
-   "price_usd": 9500,
-   "city": "Київ",
-   "pct": 24,
-   "market_usd": 12500,
-   "why": "на 24% дешевше за схожі (≈ $12 500)",
-   "link": "https://t.me/KievavtoSale/18227",
-   "photo": "data/cars/6720.jpg"
   },
   {
    "title": "Kia Sportage",
@@ -91,26 +102,15 @@
    "photo": "data/cars/6755.jpg"
   },
   {
-   "title": "Porsche Cayenne",
-   "year": 2022,
-   "price_usd": 45500,
-   "city": "",
-   "pct": 32,
-   "market_usd": 66900,
-   "why": "на 32% дешевше за схожі (≈ $66 900)",
-   "link": "https://t.me/autobazar_poltava_ua/44349",
-   "photo": "data/cars/6810.jpg"
-  },
-  {
-   "title": "Audi A6",
-   "year": 2012,
-   "price_usd": 9990,
-   "city": "",
-   "pct": 24,
-   "market_usd": 13150,
-   "why": "на 24% дешевше за схожі (≈ $13 150)",
-   "link": "https://t.me/autofocus_ua_tg/70946",
-   "photo": "data/cars/6737.jpg"
+   "title": "Audi A4",
+   "year": 2017,
+   "price_usd": 10600,
+   "city": "Луцьк",
+   "pct": 37,
+   "market_usd": 16850,
+   "why": "на 37% дешевше за схожі (≈ $16 850)",
+   "link": "https://t.me/fidrikcompany/100199",
+   "photo": "data/cars/6897.jpg"
   }
  ]
 }
