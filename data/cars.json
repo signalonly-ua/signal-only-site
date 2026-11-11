@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T21:46:02+00:00",
+ "updated": "2026-11-11T01:46:02+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -12,6 +12,17 @@
    "why": "на 48% дешевше за схожі (≈ $11 050)",
    "link": "https://t.me/avtobazar_group/212894",
    "photo": "data/cars/6811.jpg"
+  },
+  {
+   "title": "BMW X5",
+   "year": 2014,
+   "price_usd": 15800,
+   "city": "Київ",
+   "pct": 35,
+   "market_usd": 24300,
+   "why": "на 35% дешевше за схожі (≈ $24 300)",
+   "link": "https://t.me/avtobazar_group/212941",
+   "photo": "data/cars/6818.jpg"
   },
   {
    "title": "Volkswagen Passat",
@@ -100,17 +111,6 @@
    "why": "на 25% дешевше за схожі (≈ $52 650)",
    "link": "https://t.me/avto_lutsk1/8493",
    "photo": "data/cars/6681.jpg"
-  },
-  {
-   "title": "Audi A6",
-   "year": 2012,
-   "price_usd": 9990,
-   "city": "",
-   "pct": 24,
-   "market_usd": 13150,
-   "why": "на 24% дешевше за схожі (≈ $13 150)",
-   "link": "https://t.me/autofocus_ua_tg/70946",
-   "photo": "data/cars/6737.jpg"
   }
  ]
 }
