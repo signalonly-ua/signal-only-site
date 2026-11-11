@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T13:46:03+00:00",
+ "updated": "2026-11-11T17:46:03+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -36,6 +36,17 @@
    "photo": "data/cars/6876.jpg"
   },
   {
+   "title": "BMW 3 Series",
+   "year": 2015,
+   "price_usd": 8500,
+   "city": "Київ",
+   "pct": 37,
+   "market_usd": 13500,
+   "why": "на 37% дешевше за схожі (≈ $13 500)",
+   "link": "https://t.me/KievavtoSale/18241",
+   "photo": "data/cars/6956.jpg"
+  },
+  {
    "title": "BMW X5",
    "year": 2014,
    "price_usd": 15800,
@@ -69,6 +80,28 @@
    "photo": "data/cars/6840.jpg"
   },
   {
+   "title": "BMW X5",
+   "year": 2019,
+   "price_usd": 33000,
+   "city": "Київ",
+   "pct": 27,
+   "market_usd": 45200,
+   "why": "на 27% дешевше за схожі (≈ $45 200)",
+   "link": "https://t.me/kievavto2/147488",
+   "photo": "data/cars/6929.jpg"
+  },
+  {
+   "title": "Toyota Camry",
+   "year": 2019,
+   "price_usd": 24500,
+   "city": "Київ",
+   "pct": 26,
+   "market_usd": 33100,
+   "why": "на 26% дешевше за схожі (≈ $33 100)",
+   "link": "https://t.me/kievavto2/147476",
+   "photo": "data/cars/6916.jpg"
+  },
+  {
    "title": "Kia Sportage",
    "year": 2015,
    "price_usd": 11990,
@@ -78,39 +111,6 @@
    "why": "на 18% дешевше за схожі (≈ $14 600)",
    "link": "https://t.me/autofocus_ua_tg/70991",
    "photo": "data/cars/6824.jpg"
-  },
-  {
-   "title": "Volkswagen Passat",
-   "year": 2010,
-   "price_usd": 3850,
-   "city": "Рівне",
-   "pct": 47,
-   "market_usd": 7250,
-   "why": "на 47% дешевше за схожі (≈ $7 250)",
-   "link": "https://t.me/autobazarivanofrankivsk/43009",
-   "photo": "data/cars/6779.jpg"
-  },
-  {
-   "title": "Toyota Camry",
-   "year": 2019,
-   "price_usd": 18000,
-   "city": "Житомир",
-   "pct": 41,
-   "market_usd": 30500,
-   "why": "на 41% дешевше за схожі (≈ $30 500)",
-   "link": "https://t.me/avtobazar_group/212760",
-   "photo": "data/cars/6755.jpg"
-  },
-  {
-   "title": "Audi A4",
-   "year": 2017,
-   "price_usd": 10600,
-   "city": "Луцьк",
-   "pct": 37,
-   "market_usd": 16850,
-   "why": "на 37% дешевше за схожі (≈ $16 850)",
-   "link": "https://t.me/fidrikcompany/100199",
-   "photo": "data/cars/6897.jpg"
   }
  ]
 }
