@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T03:39:40+00:00",
+ "updated": "2026-11-12T07:39:40+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -80,17 +80,6 @@
    "photo": "data/cars/6916.jpg"
   },
   {
-   "title": "Kia Sportage",
-   "year": 2015,
-   "price_usd": 11990,
-   "city": "Київ",
-   "pct": 18,
-   "market_usd": 14600,
-   "why": "на 18% дешевше за схожі (≈ $14 600)",
-   "link": "https://t.me/autofocus_ua_tg/70991",
-   "photo": "data/cars/6824.jpg"
-  },
-  {
    "title": "Volkswagen Passat",
    "year": 2007,
    "price_usd": 2650,
@@ -111,6 +100,17 @@
    "why": "на 41% дешевше за схожі (≈ $10 700)",
    "link": "https://t.me/avto1_zp/17221",
    "photo": "data/cars/6958.jpg"
+  },
+  {
+   "title": "Audi A4",
+   "year": 2017,
+   "price_usd": 10600,
+   "city": "Луцьк",
+   "pct": 37,
+   "market_usd": 16850,
+   "why": "на 37% дешевше за схожі (≈ $16 850)",
+   "link": "https://t.me/fidrikcompany/100199",
+   "photo": "data/cars/6897.jpg"
   }
  ]
 }
