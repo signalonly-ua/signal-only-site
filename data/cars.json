@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T21:46:03+00:00",
+ "updated": "2026-11-11T23:39:41+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -34,17 +34,6 @@
    "why": "на 37% дешевше за схожі (≈ $13 500)",
    "link": "https://t.me/KievavtoSale/18241",
    "photo": "data/cars/6956.jpg"
-  },
-  {
-   "title": "BMW X5",
-   "year": 2014,
-   "price_usd": 15800,
-   "city": "Київ",
-   "pct": 35,
-   "market_usd": 24300,
-   "why": "на 35% дешевше за схожі (≈ $24 300)",
-   "link": "https://t.me/avtobazar_group/212941",
-   "photo": "data/cars/6818.jpg"
   },
   {
    "title": "Toyota Camry",
@@ -111,6 +100,17 @@
    "why": "на 52% дешевше за схожі (≈ $5 500)",
    "link": "https://t.me/autobazar_kharkiv/44742",
    "photo": "data/cars/6937.jpg"
+  },
+  {
+   "title": "Hyundai Sonata",
+   "year": 2016,
+   "price_usd": 6300,
+   "city": "Запоріжжя",
+   "pct": 41,
+   "market_usd": 10700,
+   "why": "на 41% дешевше за схожі (≈ $10 700)",
+   "link": "https://t.me/avto1_zp/17221",
+   "photo": "data/cars/6958.jpg"
   }
  ]
 }
