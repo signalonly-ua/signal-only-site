@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T11:39:40+00:00",
+ "updated": "2026-11-12T15:39:41+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -14,37 +14,15 @@
    "photo": "data/cars/6956.jpg"
   },
   {
-   "title": "Toyota Camry",
-   "year": 2025,
-   "price_usd": 25900,
-   "city": "Біла Церква",
-   "pct": 30,
-   "market_usd": 37000,
-   "why": "на 30% дешевше за схожі (≈ $37 000)",
-   "link": "https://t.me/imperiya_auto_bila_ts/12073",
-   "photo": "data/cars/6908.jpg"
-  },
-  {
-   "title": "BMW X5",
-   "year": 2019,
-   "price_usd": 33000,
+   "title": "Mercedes-Benz E-Class",
+   "year": 2016,
+   "price_usd": 19000,
    "city": "Київ",
-   "pct": 27,
-   "market_usd": 45200,
-   "why": "на 27% дешевше за схожі (≈ $45 200)",
-   "link": "https://t.me/kievavto2/147488",
-   "photo": "data/cars/6929.jpg"
-  },
-  {
-   "title": "Toyota Camry",
-   "year": 2019,
-   "price_usd": 24500,
-   "city": "Київ",
-   "pct": 26,
-   "market_usd": 33100,
-   "why": "на 26% дешевше за схожі (≈ $33 100)",
-   "link": "https://t.me/kievavto2/147476",
-   "photo": "data/cars/6916.jpg"
+   "pct": 28,
+   "market_usd": 26400,
+   "why": "на 28% дешевше за схожі (≈ $26 400)",
+   "link": "https://t.me/kievavto2/147574",
+   "photo": "data/cars/7068.jpg"
   },
   {
    "title": "BMW 5 Series",
@@ -56,17 +34,6 @@
    "why": "на 16% дешевше за схожі (≈ $26 800)",
    "link": "https://t.me/kievavto2/147552",
    "photo": "data/cars/7038.jpg"
-  },
-  {
-   "title": "Volkswagen Passat",
-   "year": 2007,
-   "price_usd": 2650,
-   "city": "Рівне",
-   "pct": 52,
-   "market_usd": 5500,
-   "why": "на 52% дешевше за схожі (≈ $5 500)",
-   "link": "https://t.me/autobazar_kharkiv/44742",
-   "photo": "data/cars/6937.jpg"
   },
   {
    "title": "Jaguar I-Pace",
@@ -91,6 +58,17 @@
    "photo": "data/cars/6997.jpg"
   },
   {
+   "title": "Nissan Rogue",
+   "year": 2021,
+   "price_usd": 11500,
+   "city": "Луцьк",
+   "pct": 45,
+   "market_usd": 20900,
+   "why": "на 45% дешевше за схожі (≈ $20 900)",
+   "link": "https://t.me/fidrikcompany/100371",
+   "photo": "data/cars/7073.jpg"
+  },
+  {
    "title": "Hyundai Sonata",
    "year": 2016,
    "price_usd": 6300,
@@ -111,6 +89,28 @@
    "why": "на 41% дешевше за схожі (≈ $16 800)",
    "link": "https://t.me/fidrikcompany/100331",
    "photo": "data/cars/7042.jpg"
+  },
+  {
+   "title": "Ford Fusion",
+   "year": 2016,
+   "price_usd": 5900,
+   "city": "Луцьк",
+   "pct": 39,
+   "market_usd": 9650,
+   "why": "на 39% дешевше за схожі (≈ $9 650)",
+   "link": "https://t.me/fidrikcompany/100311",
+   "photo": "data/cars/7031.jpg"
+  },
+  {
+   "title": "BMW X3",
+   "year": 2020,
+   "price_usd": 15500,
+   "city": "Луцьк",
+   "pct": 37,
+   "market_usd": 24600,
+   "why": "на 37% дешевше за схожі (≈ $24 600)",
+   "link": "https://t.me/fidrikcompany/100361",
+   "photo": "data/cars/7062.jpg"
   }
  ]
 }
