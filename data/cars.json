@@ -1,29 +1,7 @@
 {
- "updated": "2026-11-12T07:39:40+00:00",
+ "updated": "2026-11-12T11:39:40+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Land Rover Range Rover",
-   "year": 2014,
-   "price_usd": 19990,
-   "city": "Київ",
-   "pct": 40,
-   "market_usd": 33300,
-   "why": "на 40% дешевше за схожі (≈ $33 300)",
-   "link": "https://t.me/autofocus_ua_tg/71012",
-   "photo": "data/cars/6857.jpg"
-  },
-  {
-   "title": "Porsche Macan",
-   "year": 2017,
-   "price_usd": 20000,
-   "city": "Київ",
-   "pct": 39,
-   "market_usd": 32800,
-   "why": "на 39% дешевше за схожі (≈ $32 800)",
-   "link": "https://t.me/auto_residence_ua/19159",
-   "photo": "data/cars/6876.jpg"
-  },
   {
    "title": "BMW 3 Series",
    "year": 2015,
@@ -45,17 +23,6 @@
    "why": "на 30% дешевше за схожі (≈ $37 000)",
    "link": "https://t.me/imperiya_auto_bila_ts/12073",
    "photo": "data/cars/6908.jpg"
-  },
-  {
-   "title": "Audi A4",
-   "year": 2015,
-   "price_usd": 10199,
-   "city": "Київ",
-   "pct": 28,
-   "market_usd": 14150,
-   "why": "на 28% дешевше за схожі (≈ $14 150)",
-   "link": "https://t.me/KievavtoSale/18235",
-   "photo": "data/cars/6840.jpg"
   },
   {
    "title": "BMW X5",
@@ -80,6 +47,17 @@
    "photo": "data/cars/6916.jpg"
   },
   {
+   "title": "BMW 5 Series",
+   "year": 2018,
+   "price_usd": 22500,
+   "city": "Київ",
+   "pct": 16,
+   "market_usd": 26800,
+   "why": "на 16% дешевше за схожі (≈ $26 800)",
+   "link": "https://t.me/kievavto2/147552",
+   "photo": "data/cars/7038.jpg"
+  },
+  {
    "title": "Volkswagen Passat",
    "year": 2007,
    "price_usd": 2650,
@@ -89,6 +67,28 @@
    "why": "на 52% дешевше за схожі (≈ $5 500)",
    "link": "https://t.me/autobazar_kharkiv/44742",
    "photo": "data/cars/6937.jpg"
+  },
+  {
+   "title": "Jaguar I-Pace",
+   "year": 2019,
+   "price_usd": 10500,
+   "city": "Луцьк",
+   "pct": 47,
+   "market_usd": 19800,
+   "why": "на 47% дешевше за схожі (≈ $19 800)",
+   "link": "https://t.me/fidrikcompany/100341",
+   "photo": "data/cars/7048.jpg"
+  },
+  {
+   "title": "Volvo XC60",
+   "year": 2019,
+   "price_usd": 12900,
+   "city": "Луцьк",
+   "pct": 46,
+   "market_usd": 23900,
+   "why": "на 46% дешевше за схожі (≈ $23 900)",
+   "link": "https://t.me/fidrikcompany/100291",
+   "photo": "data/cars/6997.jpg"
   },
   {
    "title": "Hyundai Sonata",
@@ -104,13 +104,13 @@
   {
    "title": "Audi A4",
    "year": 2017,
-   "price_usd": 10600,
+   "price_usd": 9900,
    "city": "Луцьк",
-   "pct": 37,
-   "market_usd": 16850,
-   "why": "на 37% дешевше за схожі (≈ $16 850)",
-   "link": "https://t.me/fidrikcompany/100199",
-   "photo": "data/cars/6897.jpg"
+   "pct": 41,
+   "market_usd": 16800,
+   "why": "на 41% дешевше за схожі (≈ $16 800)",
+   "link": "https://t.me/fidrikcompany/100331",
+   "photo": "data/cars/7042.jpg"
   }
  ]
 }
