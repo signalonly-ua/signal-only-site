@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-12T16:37:41+00:00",
+ "updated": "2026-11-12T17:37:38+00:00",
  "news": [
+  {
+   "title": "Гегсет нагородив військового, який зробив йому зауваження біля могили Невідомого солдата",
+   "source": "Європейська правда",
+   "link": "https://www.eurointegration.com.ua/news/2026/11/12/7249887/",
+   "photo": "data/news/08519852cf19.jpg",
+   "date": "2026-11-12"
+  },
   {
    "title": "83-річний Роберт Де Ніро вийшов у світ із молодою коханою, яка народила йому сьому дитину",
    "source": "ТСН",
@@ -21,13 +28,6 @@
    "link": "https://www.bbc.com/ukrainian/articles/c38x0l07jn84o?at_medium=RSS&at_campaign=rss",
    "photo": "data/news/676f988692e6.jpg",
    "date": "2026-11-12"
-  },
-  {
-   "title": "Хореографиня Ілона Гвоздьова дорікнула президенту Зеленському через нагороди діячам культури: \"Все ще чекаю\"",
-   "source": "РБК-Україна",
-   "link": "https://styler.rbc.ua/rus/people/horeografinya-ilona-gvozdova-doriknula-prezidentu-1794410346.html",
-   "photo": "data/news/3b0149f854bd.jpg",
-   "date": "2026-11-11"
   }
  ]
 }
