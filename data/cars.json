@@ -1,18 +1,7 @@
 {
- "updated": "2026-11-12T15:39:41+00:00",
+ "updated": "2026-11-12T19:39:41+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "BMW 3 Series",
-   "year": 2015,
-   "price_usd": 8500,
-   "city": "Київ",
-   "pct": 37,
-   "market_usd": 13500,
-   "why": "на 37% дешевше за схожі (≈ $13 500)",
-   "link": "https://t.me/KievavtoSale/18241",
-   "photo": "data/cars/6956.jpg"
-  },
   {
    "title": "Mercedes-Benz E-Class",
    "year": 2016,
@@ -69,17 +58,6 @@
    "photo": "data/cars/7073.jpg"
   },
   {
-   "title": "Hyundai Sonata",
-   "year": 2016,
-   "price_usd": 6300,
-   "city": "Запоріжжя",
-   "pct": 41,
-   "market_usd": 10700,
-   "why": "на 41% дешевше за схожі (≈ $10 700)",
-   "link": "https://t.me/avto1_zp/17221",
-   "photo": "data/cars/6958.jpg"
-  },
-  {
    "title": "Audi A4",
    "year": 2017,
    "price_usd": 9900,
@@ -111,6 +89,28 @@
    "why": "на 37% дешевше за схожі (≈ $24 600)",
    "link": "https://t.me/fidrikcompany/100361",
    "photo": "data/cars/7062.jpg"
+  },
+  {
+   "title": "Mercedes-Benz GLS-Class",
+   "year": 2019,
+   "price_usd": 40000,
+   "city": "",
+   "pct": 33,
+   "market_usd": 59700,
+   "why": "на 33% дешевше за схожі (≈ $59 700)",
+   "link": "https://t.me/parkgarageAUTO_ua/1022",
+   "photo": "data/cars/7078.jpg"
+  },
+  {
+   "title": "Tesla Model Y",
+   "year": 2023,
+   "price_usd": 17900,
+   "city": "Луцьк",
+   "pct": 26,
+   "market_usd": 24200,
+   "why": "на 26% дешевше за схожі (≈ $24 200)",
+   "link": "https://t.me/fidrikcompany/100301",
+   "photo": "data/cars/7027.jpg"
   }
  ]
 }
