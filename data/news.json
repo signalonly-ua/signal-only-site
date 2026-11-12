@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-12T13:37:39+00:00",
+ "updated": "2026-11-12T14:37:34+00:00",
  "news": [
+  {
+   "title": "83-річний Роберт Де Ніро вийшов у світ із молодою коханою, яка народила йому сьому дитину",
+   "source": "ТСН",
+   "link": "https://tsn.ua/glamur/83-richnyy-robert-de-niro-vyyshov-u-svit-iz-molodoiu-kokhanoiu-iaka-narodyla-yomu-syomu-dytynu-3214939.html",
+   "photo": "data/news/06dcd787b8c3.jpg",
+   "date": "2026-11-12"
+  },
   {
    "title": "Стася Ровінська у сльозах показала образи від ексчоловіка після розлучення: \"Народила людині трьох дітей\"",
    "source": "ТСН",
@@ -20,13 +27,6 @@
    "source": "РБК-Україна",
    "link": "https://styler.rbc.ua/rus/people/horeografinya-ilona-gvozdova-doriknula-prezidentu-1794410346.html",
    "photo": "data/news/3b0149f854bd.jpg",
-   "date": "2026-11-11"
-  },
-  {
-   "title": "Ілона Гвоздьова публічно дорікнула Зеленському та висловилася з приводу відсутності нагород",
-   "source": "ТСН",
-   "link": "https://tsn.ua/glamur/ilona-hvozdyova-publichno-doriknula-zelenskomu-ta-vyskazalasia-z-pryvodu-vidsutnosti-nahorod-3213871.html",
-   "photo": "data/news/09c74da7ae78.jpg",
    "date": "2026-11-11"
   }
  ]
