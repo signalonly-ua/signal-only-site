@@ -1,18 +1,7 @@
 {
- "updated": "2026-11-13T11:39:41+00:00",
+ "updated": "2026-11-13T15:39:41+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Mercedes-Benz E-Class",
-   "year": 2016,
-   "price_usd": 19000,
-   "city": "Київ",
-   "pct": 28,
-   "market_usd": 26400,
-   "why": "на 28% дешевше за схожі (≈ $26 400)",
-   "link": "https://t.me/kievavto2/147574",
-   "photo": "data/cars/7068.jpg"
-  },
   {
    "title": "Audi S5",
    "year": 2019,
@@ -36,15 +25,26 @@
    "photo": "data/cars/7157.jpg"
   },
   {
-   "title": "Nissan Rogue",
-   "year": 2021,
-   "price_usd": 11500,
+   "title": "Land Rover Range Rover Velar",
+   "year": 2020,
+   "price_usd": 18500,
    "city": "Луцьк",
-   "pct": 45,
-   "market_usd": 20900,
-   "why": "на 45% дешевше за схожі (≈ $20 900)",
-   "link": "https://t.me/fidrikcompany/100371",
-   "photo": "data/cars/7073.jpg"
+   "pct": 42,
+   "market_usd": 31900,
+   "why": "на 42% дешевше за схожі (≈ $31 900)",
+   "link": "https://t.me/fidrikcompany/100511",
+   "photo": "data/cars/7249.jpg"
+  },
+  {
+   "title": "BMW X5",
+   "year": 2016,
+   "price_usd": 16940,
+   "city": "Львів",
+   "pct": 38,
+   "market_usd": 27300,
+   "why": "на 38% дешевше за схожі (≈ $27 300)",
+   "link": "https://t.me/autoparkua4/85127",
+   "photo": ""
   },
   {
    "title": "Mercedes-Benz GLE",
@@ -58,59 +58,59 @@
    "photo": "data/cars/7176.jpg"
   },
   {
-   "title": "Mercedes-Benz GLS-Class",
-   "year": 2019,
-   "price_usd": 40000,
-   "city": "",
-   "pct": 33,
-   "market_usd": 59700,
-   "why": "на 33% дешевше за схожі (≈ $59 700)",
-   "link": "https://t.me/parkgarageAUTO_ua/1022",
-   "photo": "data/cars/7078.jpg"
+   "title": "Mercedes-Benz E-Class",
+   "year": 2009,
+   "price_usd": 7999,
+   "city": "Львів",
+   "pct": 30,
+   "market_usd": 11450,
+   "why": "на 30% дешевше за схожі (≈ $11 450)",
+   "link": "https://t.me/GoldCarsLviv/37617",
+   "photo": "data/cars/7216.jpg"
   },
   {
-   "title": "BMW 5 Series",
-   "year": 2012,
-   "price_usd": 10700,
-   "city": "",
-   "pct": 18,
-   "market_usd": 13050,
-   "why": "на 18% дешевше за схожі (≈ $13 050)",
-   "link": "https://t.me/autobazarternopil/42979",
-   "photo": "data/cars/7174.jpg"
+   "title": "Kia Sportage",
+   "year": 2016,
+   "price_usd": 9990,
+   "city": "Львів",
+   "pct": 28,
+   "market_usd": 13900,
+   "why": "на 28% дешевше за схожі (≈ $13 900)",
+   "link": "https://t.me/autoparkua4/85132",
+   "photo": ""
   },
   {
-   "title": "Volkswagen Tiguan",
-   "year": 2017,
-   "price_usd": 13900,
-   "city": "",
-   "pct": 18,
-   "market_usd": 16950,
-   "why": "на 18% дешевше за схожі (≈ $16 950)",
-   "link": "https://t.me/KievavtoSale/18270",
-   "photo": "data/cars/7182.jpg"
+   "title": "Volkswagen Passat",
+   "year": 2015,
+   "price_usd": 9200,
+   "city": "Одеса",
+   "pct": 25,
+   "market_usd": 12250,
+   "why": "на 25% дешевше за схожі (≈ $12 250)",
+   "link": "https://t.me/Avto_Odesa/30484",
+   "photo": "data/cars/7218.jpg"
   },
   {
    "title": "BMW X5",
    "year": 2014,
-   "price_usd": 20300,
-   "city": "",
-   "pct": 16,
-   "market_usd": 24150,
-   "why": "на 16% дешевше за схожі (≈ $24 150)",
-   "link": "https://t.me/autobazar_zp/43961",
-   "photo": "data/cars/7189.jpg"
+   "price_usd": 18700,
+   "city": "Чернівці",
+   "pct": 21,
+   "market_usd": 23650,
+   "why": "на 21% дешевше за схожі (≈ $23 650)",
+   "link": "https://t.me/avto_kyiv_adt/27485",
+   "photo": "data/cars/7230.jpg"
   },
   {
-   "title": "Volkswagen Golf",
-   "year": 2007,
-   "price_usd": 4700,
-   "city": "Запоріжжя",
-   "pct": 15,
-   "market_usd": 5550,
-   "why": "на 15% дешевше за схожі (≈ $5 550)",
-   "link": "https://t.me/avto1_zp/17280",
-   "photo": "data/cars/7126.jpg"
+   "title": "Volkswagen Tiguan",
+   "year": 2012,
+   "price_usd": 9990,
+   "city": "Одеса",
+   "pct": 19,
+   "market_usd": 12350,
+   "why": "на 19% дешевше за схожі (≈ $12 350)",
+   "link": "https://t.me/tvoeauto50/8010",
+   "photo": "data/cars/7261.jpg"
   }
  ]
 }
