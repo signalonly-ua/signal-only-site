@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:39:41+00:00",
+ "updated": "2026-11-13T11:39:41+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -14,15 +14,15 @@
    "photo": "data/cars/7068.jpg"
   },
   {
-   "title": "BMW 5 Series",
-   "year": 2018,
-   "price_usd": 22500,
+   "title": "Audi S5",
+   "year": 2019,
+   "price_usd": 24990,
    "city": "Київ",
-   "pct": 16,
-   "market_usd": 26800,
-   "why": "на 16% дешевше за схожі (≈ $26 800)",
-   "link": "https://t.me/kievavto2/147552",
-   "photo": "data/cars/7038.jpg"
+   "pct": 15,
+   "market_usd": 29400,
+   "why": "на 15% дешевше за схожі (≈ $29 400)",
+   "link": "https://t.me/autofocus_ua_tg/71226",
+   "photo": "data/cars/7210.jpg"
   },
   {
    "title": "Volkswagen Passat",
@@ -36,28 +36,6 @@
    "photo": "data/cars/7157.jpg"
   },
   {
-   "title": "Jaguar I-Pace",
-   "year": 2019,
-   "price_usd": 10500,
-   "city": "Луцьк",
-   "pct": 47,
-   "market_usd": 19800,
-   "why": "на 47% дешевше за схожі (≈ $19 800)",
-   "link": "https://t.me/fidrikcompany/100341",
-   "photo": "data/cars/7048.jpg"
-  },
-  {
-   "title": "Volvo XC60",
-   "year": 2019,
-   "price_usd": 12900,
-   "city": "Луцьк",
-   "pct": 46,
-   "market_usd": 23900,
-   "why": "на 46% дешевше за схожі (≈ $23 900)",
-   "link": "https://t.me/fidrikcompany/100291",
-   "photo": "data/cars/6997.jpg"
-  },
-  {
    "title": "Nissan Rogue",
    "year": 2021,
    "price_usd": 11500,
@@ -69,37 +47,15 @@
    "photo": "data/cars/7073.jpg"
   },
   {
-   "title": "Audi A4",
-   "year": 2017,
-   "price_usd": 9900,
-   "city": "Луцьк",
-   "pct": 41,
-   "market_usd": 16800,
-   "why": "на 41% дешевше за схожі (≈ $16 800)",
-   "link": "https://t.me/fidrikcompany/100331",
-   "photo": "data/cars/7042.jpg"
-  },
-  {
-   "title": "Ford Fusion",
-   "year": 2016,
-   "price_usd": 5900,
-   "city": "Луцьк",
-   "pct": 39,
-   "market_usd": 9650,
-   "why": "на 39% дешевше за схожі (≈ $9 650)",
-   "link": "https://t.me/fidrikcompany/100311",
-   "photo": "data/cars/7031.jpg"
-  },
-  {
-   "title": "BMW X3",
+   "title": "Mercedes-Benz GLE",
    "year": 2020,
-   "price_usd": 15500,
+   "price_usd": 26900,
    "city": "Луцьк",
    "pct": 37,
-   "market_usd": 24600,
-   "why": "на 37% дешевше за схожі (≈ $24 600)",
-   "link": "https://t.me/fidrikcompany/100361",
-   "photo": "data/cars/7062.jpg"
+   "market_usd": 42700,
+   "why": "на 37% дешевше за схожі (≈ $42 700)",
+   "link": "https://t.me/fidrikcompany/100501",
+   "photo": "data/cars/7176.jpg"
   },
   {
    "title": "Mercedes-Benz GLS-Class",
@@ -111,6 +67,50 @@
    "why": "на 33% дешевше за схожі (≈ $59 700)",
    "link": "https://t.me/parkgarageAUTO_ua/1022",
    "photo": "data/cars/7078.jpg"
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2012,
+   "price_usd": 10700,
+   "city": "",
+   "pct": 18,
+   "market_usd": 13050,
+   "why": "на 18% дешевше за схожі (≈ $13 050)",
+   "link": "https://t.me/autobazarternopil/42979",
+   "photo": "data/cars/7174.jpg"
+  },
+  {
+   "title": "Volkswagen Tiguan",
+   "year": 2017,
+   "price_usd": 13900,
+   "city": "",
+   "pct": 18,
+   "market_usd": 16950,
+   "why": "на 18% дешевше за схожі (≈ $16 950)",
+   "link": "https://t.me/KievavtoSale/18270",
+   "photo": "data/cars/7182.jpg"
+  },
+  {
+   "title": "BMW X5",
+   "year": 2014,
+   "price_usd": 20300,
+   "city": "",
+   "pct": 16,
+   "market_usd": 24150,
+   "why": "на 16% дешевше за схожі (≈ $24 150)",
+   "link": "https://t.me/autobazar_zp/43961",
+   "photo": "data/cars/7189.jpg"
+  },
+  {
+   "title": "Volkswagen Golf",
+   "year": 2007,
+   "price_usd": 4700,
+   "city": "Запоріжжя",
+   "pct": 15,
+   "market_usd": 5550,
+   "why": "на 15% дешевше за схожі (≈ $5 550)",
+   "link": "https://t.me/avto1_zp/17280",
+   "photo": "data/cars/7126.jpg"
   }
  ]
 }

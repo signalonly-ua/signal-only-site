@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-13T11:37:36+00:00",
+ "updated": "2026-11-13T12:37:39+00:00",
  "news": [
+  {
+   "title": "Український анімаційний серіал здобув нагороду Ради Європи на CEE Animation Forum",
+   "source": "Укрінформ",
+   "link": "https://www.ukrinform.ua/rubric-culture/4184349-ukrainskij-animacijnij-serial-zdobuv-nagorodu-radi-evropi-na-cee-animation-forum.html",
+   "photo": "data/news/80829fbae892.jpg",
+   "date": "2026-11-13"
+  },
   {
    "title": "Найщасливіші пари роблять це щодня: психолог назвав звичку №1",
    "source": "УНІАН",
@@ -16,17 +23,10 @@
    "date": "2026-11-13"
   },
   {
-   "title": "«Життя вимагає пам'яті». У Харкові відбулося нагородження лауреатів стипендії імені Едуарда Зуба-2026",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/kharkiv/1451427-zitta-vimagae-pamati-u-harkovi-vidbulosa-nagorodzenna-laureativ-stipendii-imeni-eduarda-zuba-2026/",
-   "photo": "data/news/809fe0b864c9.jpg",
-   "date": "2026-11-12"
-  },
-  {
-   "title": "Люди, які народилися в ці місяці, стають найвпевненішими лідерами",
-   "source": "УНІАН",
-   "link": "https://www.unian.ua/lite/astrology/numerologiya-za-misyacem-narodzhennya-koli-narodzhuyutsya-nayvpevnenishi-lideri-13557834.html",
-   "photo": "data/news/ac546b000eed.jpg",
+   "title": "83-річний Роберт Де Ніро вийшов у світ із молодою коханою, яка народила йому сьому дитину",
+   "source": "ТСН",
+   "link": "https://tsn.ua/glamur/83-richnyy-robert-de-niro-vyyshov-u-svit-iz-molodoiu-kokhanoiu-iaka-narodyla-yomu-syomu-dytynu-3214939.html",
+   "photo": "data/news/06dcd787b8c3.jpg",
    "date": "2026-11-12"
   }
  ]
