@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-13T14:37:37+00:00",
+ "updated": "2026-11-13T15:37:42+00:00",
  "news": [
+  {
+   "title": "Зеленський нагородив відзнакою «За мужність та відвагу» 22 бригаду Нацгвардії «Київська Русь»",
+   "source": "Укрінформ",
+   "link": "https://www.ukrinform.ua/rubric-society/4184425-zelenskij-nagorodiv-vidznakou-za-muznist-ta-vidvagu-22-brigadu-nacgvardii-kiivska-rus.html",
+   "photo": "data/news/9b5b01d9792f.jpg",
+   "date": "2026-11-13"
+  },
   {
    "title": "Чому п’ятницю 13-е вважають нещасливим днем: звідки взявся моторошний забобон",
    "source": "ТСН",
@@ -20,13 +27,6 @@
    "source": "УНІАН",
    "link": "https://www.unian.ua/lite/relationships/nayshchaslivishi-pari-roblyat-ce-shchodnya-psiholog-nazvav-zvichku-1-13558356.html",
    "photo": "data/news/5dcd7bed8665.jpg",
-   "date": "2026-11-13"
-  },
-  {
-   "title": "П’ятниця, 13-те, стане початком щасливих змін для чотирьох знаків китайського зодіаку",
-   "source": "ТСН",
-   "link": "https://tsn.ua/astrologiya/piatnytsia-13-te-stane-pochatkom-shchaslyvykh-zmin-dlia-chotyryokh-znakiv-kytayskoho-zodiaku-3215195.html",
-   "photo": "data/news/c849e5935e8b.jpg",
    "date": "2026-11-13"
   }
  ]
