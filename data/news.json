@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T05:37:34+00:00",
+ "updated": "2026-11-13T06:37:38+00:00",
  "news": [
   {
    "title": "П’ятниця, 13-те, стане початком щасливих змін для чотирьох знаків китайського зодіаку",
@@ -7,13 +7,6 @@
    "link": "https://tsn.ua/astrologiya/piatnytsia-13-te-stane-pochatkom-shchaslyvykh-zmin-dlia-chotyryokh-znakiv-kytayskoho-zodiaku-3215195.html",
    "photo": "data/news/c849e5935e8b.jpg",
    "date": "2026-11-13"
-  },
-  {
-   "title": "Українського боксера дискваліфікували на 20 місяців: його позбавлять усіх нагород за рік",
-   "source": "NV",
-   "link": "https://sport.nv.ua/ukr/boxing/danilo-lozan-diskvalifikovaniy-na-20-misyaciv-porushennya-antidopingovih-pravil-50658783.html",
-   "photo": "data/news/85ece7fb0e03.jpg",
-   "date": "2026-11-12"
   },
   {
    "title": "«Життя вимагає пам'яті». У Харкові відбулося нагородження лауреатів стипендії імені Едуарда Зуба-2026",
@@ -27,6 +20,13 @@
    "source": "УНІАН",
    "link": "https://www.unian.ua/lite/astrology/numerologiya-za-misyacem-narodzhennya-koli-narodzhuyutsya-nayvpevnenishi-lideri-13557834.html",
    "photo": "data/news/ac546b000eed.jpg",
+   "date": "2026-11-12"
+  },
+  {
+   "title": "83-річний Роберт Де Ніро вийшов у світ із молодою коханою, яка народила йому сьому дитину",
+   "source": "ТСН",
+   "link": "https://tsn.ua/glamur/83-richnyy-robert-de-niro-vyyshov-u-svit-iz-molodoiu-kokhanoiu-iaka-narodyla-yomu-syomu-dytynu-3214939.html",
+   "photo": "data/news/06dcd787b8c3.jpg",
    "date": "2026-11-12"
   }
  ]
