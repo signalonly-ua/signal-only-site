@@ -1,7 +1,61 @@
 {
- "updated": "2026-11-13T19:10:30+00:00",
+ "updated": "2026-11-13T21:10:30+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Бухгалтер",
+   "city": "Запоріжжя",
+   "district": "",
+   "salary": "від 20 000 грн",
+   "employment": "",
+   "date": "2026-11-13T19:29:15+00:00",
+   "link": "https://t.me/zaporozhe_robota_vakansii/7638"
+  },
+  {
+   "position": "Швачка",
+   "city": "Полтава",
+   "district": "",
+   "salary": "від 20 000 грн",
+   "employment": "",
+   "date": "2026-11-13T19:29:15+00:00",
+   "link": "https://t.me/rabota_robotaq_vakansiiq/6426"
+  },
+  {
+   "position": "Комплектувальник",
+   "city": "Чернівці",
+   "district": "",
+   "salary": "від 24 000 грн",
+   "employment": "Нічні зміни",
+   "date": "2026-11-13T19:26:35+00:00",
+   "link": "https://t.me/vakansii_chernovtsy_rabota2/33355"
+  },
+  {
+   "position": "Менеджер з продажу",
+   "city": "Київ",
+   "district": "Дніпровський р-н",
+   "salary": "від 166 000 грн",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-13T19:26:35+00:00",
+   "link": "https://t.me/rabota_kieve01/798144"
+  },
+  {
+   "position": "Водій",
+   "city": "Луцьк",
+   "district": "",
+   "salary": "від 40 000 грн",
+   "employment": "",
+   "date": "2026-11-13T19:26:35+00:00",
+   "link": "https://t.me/lutskq_rabota_vakansii/6876"
+  },
+  {
+   "position": "Прибиральник",
+   "city": "Київ",
+   "district": "Дарницький р-н",
+   "salary": "від 21 000 грн",
+   "employment": "Позмінно (3/3)",
+   "date": "2026-11-13T19:12:13+00:00",
+   "link": "https://t.me/robota_kiev_the1/628306"
+  },
   {
    "position": "Кухар, Бариста",
    "city": "Київ",
@@ -127,60 +181,6 @@
    "employment": "",
    "date": "2026-11-13T17:32:00+00:00",
    "link": "https://t.me/erobota_kyiv/194062"
-  },
-  {
-   "position": "Продавець-консультант",
-   "city": "Одеса",
-   "district": "",
-   "salary": "від 28 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-13T17:26:13+00:00",
-   "link": "https://t.me/workua_odesa/81241"
-  },
-  {
-   "position": "Пакувальник",
-   "city": "Чернівці",
-   "district": "",
-   "salary": "від 25 000 грн",
-   "employment": "",
-   "date": "2026-11-13T17:26:12+00:00",
-   "link": "https://t.me/vakansii_chernovtsy_rabota2/33354"
-  },
-  {
-   "position": "Зварювальник",
-   "city": "Луцьк",
-   "district": "",
-   "salary": "від 30 000 грн",
-   "employment": "",
-   "date": "2026-11-13T17:26:11+00:00",
-   "link": "https://t.me/lutskq_rabota_vakansii/6875"
-  },
-  {
-   "position": "Кухар",
-   "city": "Одеса",
-   "district": "",
-   "salary": "",
-   "employment": "",
-   "date": "2026-11-13T17:17:37+00:00",
-   "link": "https://t.me/robota_odesa4/45565"
-  },
-  {
-   "position": "Менеджер з продажу",
-   "city": "Одеса",
-   "district": "",
-   "salary": "",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-13T17:14:42+00:00",
-   "link": "https://t.me/workua_odesa/81240"
-  },
-  {
-   "position": "Продавець",
-   "city": "Київ",
-   "district": "Голосіївський р-н",
-   "salary": "від 35 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-13T17:14:42+00:00",
-   "link": "https://t.me/workua_kyiv/92214"
   }
  ]
 }

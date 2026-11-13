@@ -1,7 +1,18 @@
 {
- "updated": "2026-11-13T19:39:41+00:00",
+ "updated": "2026-11-13T21:25:34+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
+  {
+   "title": "Peugeot 207",
+   "year": 2008,
+   "price_usd": 3500,
+   "city": "Київ",
+   "pct": 35,
+   "market_usd": 5400,
+   "why": "на 35% дешевше за схожі (≈ $5 400)",
+   "link": "https://t.me/avtobazar_group/214155",
+   "photo": "data/cars/7324.jpg"
+  },
   {
    "title": "Audi S5",
    "year": 2019,
@@ -100,17 +111,6 @@
    "why": "на 28% дешевше за схожі (≈ $13 900)",
    "link": "https://t.me/autoparkua4/85132",
    "photo": ""
-  },
-  {
-   "title": "Audi Q7",
-   "year": 2017,
-   "price_usd": 18700,
-   "city": "",
-   "pct": 28,
-   "market_usd": 25950,
-   "why": "на 28% дешевше за схожі (≈ $25 950)",
-   "link": "https://t.me/lubeautouzhgorod/2817",
-   "photo": "data/cars/7297.jpg"
   }
  ]
 }
