@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T21:25:34+00:00",
+ "updated": "2026-11-13T21:59:16+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -36,28 +36,6 @@
    "photo": "data/cars/7157.jpg"
   },
   {
-   "title": "Tesla Model 3",
-   "year": 2021,
-   "price_usd": 10400,
-   "city": "Луцьк",
-   "pct": 48,
-   "market_usd": 20000,
-   "why": "на 48% дешевше за схожі (≈ $20 000)",
-   "link": "https://t.me/fidrikcompany/100631",
-   "photo": "data/cars/7319.jpg"
-  },
-  {
-   "title": "Land Rover Range Rover Velar",
-   "year": 2020,
-   "price_usd": 18500,
-   "city": "Луцьк",
-   "pct": 42,
-   "market_usd": 31900,
-   "why": "на 42% дешевше за схожі (≈ $31 900)",
-   "link": "https://t.me/fidrikcompany/100511",
-   "photo": "data/cars/7249.jpg"
-  },
-  {
    "title": "BMW X5",
    "year": 2016,
    "price_usd": 16940,
@@ -67,28 +45,6 @@
    "why": "на 38% дешевше за схожі (≈ $27 300)",
    "link": "https://t.me/autoparkua4/85127",
    "photo": ""
-  },
-  {
-   "title": "Mercedes-Benz GLE",
-   "year": 2020,
-   "price_usd": 26900,
-   "city": "Луцьк",
-   "pct": 37,
-   "market_usd": 42700,
-   "why": "на 37% дешевше за схожі (≈ $42 700)",
-   "link": "https://t.me/fidrikcompany/100501",
-   "photo": "data/cars/7176.jpg"
-  },
-  {
-   "title": "Volkswagen Passat",
-   "year": 2021,
-   "price_usd": 10500,
-   "city": "",
-   "pct": 36,
-   "market_usd": 16400,
-   "why": "на 36% дешевше за схожі (≈ $16 400)",
-   "link": "https://t.me/lubeautouzhgorod/2797",
-   "photo": "data/cars/7293.jpg"
   },
   {
    "title": "Mercedes-Benz E-Class",
@@ -111,6 +67,50 @@
    "why": "на 28% дешевше за схожі (≈ $13 900)",
    "link": "https://t.me/autoparkua4/85132",
    "photo": ""
+  },
+  {
+   "title": "Volkswagen Passat",
+   "year": 2015,
+   "price_usd": 9200,
+   "city": "Одеса",
+   "pct": 25,
+   "market_usd": 12250,
+   "why": "на 25% дешевше за схожі (≈ $12 250)",
+   "link": "https://t.me/Avto_Odesa/30484",
+   "photo": "data/cars/7218.jpg"
+  },
+  {
+   "title": "BMW X5",
+   "year": 2014,
+   "price_usd": 18700,
+   "city": "Чернівці",
+   "pct": 21,
+   "market_usd": 23650,
+   "why": "на 21% дешевше за схожі (≈ $23 650)",
+   "link": "https://t.me/avto_kyiv_adt/27485",
+   "photo": "data/cars/7230.jpg"
+  },
+  {
+   "title": "Volkswagen Tiguan",
+   "year": 2012,
+   "price_usd": 9990,
+   "city": "Одеса",
+   "pct": 19,
+   "market_usd": 12350,
+   "why": "на 19% дешевше за схожі (≈ $12 350)",
+   "link": "https://t.me/tvoeauto50/8010",
+   "photo": "data/cars/7261.jpg"
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2012,
+   "price_usd": 10700,
+   "city": "",
+   "pct": 18,
+   "market_usd": 13050,
+   "why": "на 18% дешевше за схожі (≈ $13 050)",
+   "link": "https://t.me/autobazarternopil/42979",
+   "photo": "data/cars/7174.jpg"
   }
  ]
 }
