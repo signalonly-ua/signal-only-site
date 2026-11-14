@@ -1,18 +1,7 @@
 {
- "updated": "2026-11-14T16:46:47+00:00",
+ "updated": "2026-11-14T20:46:47+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Peugeot 207",
-   "year": 2008,
-   "price_usd": 3500,
-   "city": "Київ",
-   "pct": 35,
-   "market_usd": 5400,
-   "why": "на 35% дешевше за схожі (≈ $5 400)",
-   "link": "https://t.me/avtobazar_group/214155",
-   "photo": "data/cars/7324.jpg"
-  },
   {
    "title": "Mercedes-Benz C-Class",
    "year": 2015,
@@ -78,6 +67,28 @@
    "why": "на 22% дешевше за схожі (≈ $7 300)",
    "link": "https://t.me/autoexpert_kropyvnytskyi/5341",
    "photo": "data/cars/7407.jpg"
+  },
+  {
+   "title": "Volkswagen Passat",
+   "year": 2002,
+   "price_usd": 3200,
+   "city": "Тернопіль",
+   "pct": 20,
+   "market_usd": 4000,
+   "why": "на 20% дешевше за схожі (≈ $4 000)",
+   "link": "https://t.me/avtobazar_group/214524",
+   "photo": "data/cars/7454.jpg"
+  },
+  {
+   "title": "Renault Megane",
+   "year": 2010,
+   "price_usd": 5000,
+   "city": "Запоріжжя",
+   "pct": 17,
+   "market_usd": 6000,
+   "why": "на 17% дешевше за схожі (≈ $6 000)",
+   "link": "https://t.me/avto1_zp/17400",
+   "photo": "data/cars/7459.jpg"
   },
   {
    "title": "Volkswagen Golf",
