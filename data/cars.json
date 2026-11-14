@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T05:59:16+00:00",
+ "updated": "2026-11-14T08:46:46+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -25,17 +25,6 @@
    "photo": "data/cars/7210.jpg"
   },
   {
-   "title": "Volkswagen Passat",
-   "year": 2007,
-   "price_usd": 2500,
-   "city": "Рівне",
-   "pct": 55,
-   "market_usd": 5550,
-   "why": "на 55% дешевше за схожі (≈ $5 550)",
-   "link": "https://t.me/autobazarchernivtsi/43528",
-   "photo": "data/cars/7157.jpg"
-  },
-  {
    "title": "BMW X5",
    "year": 2016,
    "price_usd": 16940,
@@ -45,6 +34,17 @@
    "why": "на 38% дешевше за схожі (≈ $27 300)",
    "link": "https://t.me/autoparkua4/85127",
    "photo": ""
+  },
+  {
+   "title": "Toyota Camry",
+   "year": 2019,
+   "price_usd": 21500,
+   "city": "Львів",
+   "pct": 37,
+   "market_usd": 34150,
+   "why": "на 37% дешевше за схожі (≈ $34 150)",
+   "link": "https://t.me/avtobazar_group/214233",
+   "photo": "data/cars/7341.jpg"
   },
   {
    "title": "Mercedes-Benz E-Class",
