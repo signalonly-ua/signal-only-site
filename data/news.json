@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-14T14:37:33+00:00",
+ "updated": "2026-11-14T15:37:36+00:00",
  "news": [
+  {
+   "title": "Вперше в історії: робот самостійно побудував споруду в космосі без допомоги астронавтів",
+   "source": "ТСН",
+   "link": "https://tsn.ua/nauka_it/vpershe-v-istoriyi-robot-samostiyno-pobuduvav-sporudu-v-kosmosi-bez-dopomohy-astronavtiv-3216879.html",
+   "photo": "data/news/45f5de17307b.jpg",
+   "date": "2026-11-14"
+  },
   {
    "title": "32 поверхи пішки й перехід по тросу: що чекає на учасників \"Зважених та щасливих\" у новому випуску",
    "source": "РБК-Україна",
@@ -20,13 +27,6 @@
    "source": "Укрінформ",
    "link": "https://www.ukrinform.ua/rubric-sports/4184651-ukraina-zdobula-na-litnij-unackij-olimpiadi-devat-nagorod-zokrema-tri-zolota.html",
    "photo": "data/news/0d7ef0f7acc1.jpg",
-   "date": "2026-11-14"
-  },
-  {
-   "title": "«Головне — щоб донька була щасливою»: Світоліна зізналася, у яких стосунках вона з Монфісом після розлучення",
-   "source": "NV",
-   "link": "https://sport.nv.ua/ukr/tennis/svitolina-rozpovila-pro-stosunki-z-monfisom-rozluchennya-z-gaelem-50659161.html",
-   "photo": "data/news/e918e214f979.jpg",
    "date": "2026-11-14"
   }
  ]
