@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-14T10:37:51+00:00",
+ "updated": "2026-11-14T11:37:36+00:00",
  "news": [
+  {
+   "title": "Україна здобула на літній юнацькій Олімпіаді дев'ять нагород, зокрема три золота",
+   "source": "Укрінформ",
+   "link": "https://www.ukrinform.ua/rubric-sports/4184651-ukraina-zdobula-na-litnij-unackij-olimpiadi-devat-nagorod-zokrema-tri-zolota.html",
+   "photo": "data/news/0d7ef0f7acc1.jpg",
+   "date": "2026-11-14"
+  },
   {
    "title": "«Головне — щоб донька була щасливою»: Світоліна зізналася, у яких стосунках вона з Монфісом після розлучення",
    "source": "NV",
@@ -21,13 +28,6 @@
    "link": "https://www.unian.ua/lite/astrology/misyachniy-kalendar-na-listopad-2026-roku-spriyatlivi-ta-nespriyatlivi-dni-misyacya-13541679.html",
    "photo": "data/news/42fc76a937d3.jpg",
    "date": "2026-11-14"
-  },
-  {
-   "title": "Зеленський нагородив відзнакою «За мужність та відвагу» 22 бригаду Нацгвардії «Київська Русь»",
-   "source": "Укрінформ: суспільство",
-   "link": "https://www.ukrinform.ua/rubric-society/4184425-zelenskij-nagorodiv-vidznakou-za-muznist-ta-vidvagu-22-brigadu-nacgvardii-kiivska-rus.html",
-   "photo": "data/news/9b5b01d9792f.jpg",
-   "date": "2026-11-13"
   }
  ]
 }
