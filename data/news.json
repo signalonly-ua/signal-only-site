@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-14T11:37:36+00:00",
+ "updated": "2026-11-14T12:37:40+00:00",
  "news": [
+  {
+   "title": "32 поверхи пішки й перехід по тросу: що чекає на учасників \"Зважених та щасливих\" у новому випуску",
+   "source": "РБК-Україна",
+   "link": "https://styler.rbc.ua/rus/people/32-poverhi-pishki-y-perehid-trosu-shcho-chekae-1794653074.html",
+   "photo": "data/news/cad141901403.jpg",
+   "date": "2026-11-14"
+  },
+  {
+   "title": "Фікус пожовтів у листопаді: як врятувати кімнатну рослину та підготувати до зими",
+   "source": "РБК-Україна",
+   "link": "https://styler.rbc.ua/rus/useful/fikus-pozhovtiv-listopadi-k-vryatuvati-kimnatnu-1794243485.html",
+   "photo": "data/news/d3789f168f2c.jpg",
+   "date": "2026-11-14"
+  },
   {
    "title": "Україна здобула на літній юнацькій Олімпіаді дев'ять нагород, зокрема три золота",
    "source": "Укрінформ",
@@ -13,20 +27,6 @@
    "source": "NV",
    "link": "https://sport.nv.ua/ukr/tennis/svitolina-rozpovila-pro-stosunki-z-monfisom-rozluchennya-z-gaelem-50659161.html",
    "photo": "data/news/e918e214f979.jpg",
-   "date": "2026-11-14"
-  },
-  {
-   "title": "Три знаки Зодіаку ось-ось зірвуть куш: Всесвіт підготував для них нагороду",
-   "source": "УНІАН",
-   "link": "https://www.unian.ua/lite/astrology/goroskop-2026-ci-znaki-zodiaku-os-os-zirvut-kush-vsesvit-pidgotuvav-dlya-nih-nagorodu-13559478.html",
-   "photo": "data/news/1d1e008b7b09.jpg",
-   "date": "2026-11-14"
-  },
-  {
-   "title": "Три небезпечні дати та вісім щасливих днів: яким буде місячний календар на листопад 2026",
-   "source": "УНІАН",
-   "link": "https://www.unian.ua/lite/astrology/misyachniy-kalendar-na-listopad-2026-roku-spriyatlivi-ta-nespriyatlivi-dni-misyacya-13541679.html",
-   "photo": "data/news/42fc76a937d3.jpg",
    "date": "2026-11-14"
   }
  ]
