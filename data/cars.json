@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T12:46:46+00:00",
+ "updated": "2026-11-14T16:46:47+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -14,6 +14,17 @@
    "photo": "data/cars/7324.jpg"
   },
   {
+   "title": "Mercedes-Benz C-Class",
+   "year": 2015,
+   "price_usd": 14000,
+   "city": "Київ",
+   "pct": 20,
+   "market_usd": 17500,
+   "why": "на 20% дешевше за схожі (≈ $17 500)",
+   "link": "https://t.me/kievavto2/147941",
+   "photo": "data/cars/7433.jpg"
+  },
+  {
    "title": "Audi Q7",
    "year": 2017,
    "price_usd": 14900,
@@ -23,6 +34,17 @@
    "why": "на 42% дешевше за схожі (≈ $25 700)",
    "link": "https://t.me/kievavto2/147895",
    "photo": "data/cars/7382.jpg"
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2002,
+   "price_usd": 4100,
+   "city": "",
+   "pct": 38,
+   "market_usd": 6600,
+   "why": "на 38% дешевше за схожі (≈ $6 600)",
+   "link": "https://t.me/autobazarcherkasyua/34929",
+   "photo": "data/cars/7404.jpg"
   },
   {
    "title": "Toyota Camry",
@@ -36,17 +58,6 @@
    "photo": "data/cars/7341.jpg"
   },
   {
-   "title": "Kia Sportage",
-   "year": 2016,
-   "price_usd": 9990,
-   "city": "Львів",
-   "pct": 28,
-   "market_usd": 13900,
-   "why": "на 28% дешевше за схожі (≈ $13 900)",
-   "link": "https://t.me/autoparkua4/85132",
-   "photo": ""
-  },
-  {
    "title": "Mitsubishi Outlander",
    "year": 2016,
    "price_usd": 11500,
@@ -58,15 +69,15 @@
    "photo": "data/cars/7371.jpg"
   },
   {
-   "title": "Volkswagen Tiguan",
-   "year": 2012,
-   "price_usd": 9990,
-   "city": "Одеса",
-   "pct": 19,
-   "market_usd": 12350,
-   "why": "на 19% дешевше за схожі (≈ $12 350)",
-   "link": "https://t.me/tvoeauto50/8010",
-   "photo": "data/cars/7261.jpg"
+   "title": "Skoda Octavia",
+   "year": 2010,
+   "price_usd": 5700,
+   "city": "Кропивницький",
+   "pct": 22,
+   "market_usd": 7300,
+   "why": "на 22% дешевше за схожі (≈ $7 300)",
+   "link": "https://t.me/autoexpert_kropyvnytskyi/5341",
+   "photo": "data/cars/7407.jpg"
   },
   {
    "title": "Volkswagen Golf",
@@ -78,6 +89,17 @@
    "why": "на 16% дешевше за схожі (≈ $8 950)",
    "link": "https://t.me/avtobazar_group/214199",
    "photo": "data/cars/7334.jpg"
+  },
+  {
+   "title": "Land Rover Range Rover",
+   "year": 2013,
+   "price_usd": 23990,
+   "city": "Одеса",
+   "pct": 15,
+   "market_usd": 28200,
+   "why": "на 15% дешевше за схожі (≈ $28 200)",
+   "link": "https://t.me/tvoeauto50/8040",
+   "photo": "data/cars/7443.jpg"
   }
  ]
 }
