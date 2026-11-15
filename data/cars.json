@@ -1,22 +1,39 @@
 {
- "updated": "2026-11-15T11:38:42+00:00",
+ "updated": "2026-11-15T15:38:42+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
-   "title": "Mercedes-Benz C-Class",
-   "year": 2015,
-   "price_usd": 14000,
+   "title": "Toyota Camry",
+   "year": 2020,
+   "price_usd": 21900,
    "city": "Київ",
-   "pct": 20,
-   "market_usd": 17500,
-   "why": "на 20% дешевше за схожі (≈ $17 500)",
-   "link": "https://t.me/kievavto2/147941",
-   "photo": "data/cars/7433.jpg",
+   "pct": 23,
+   "market_usd": 28450,
+   "why": "на 23% дешевше за схожі (≈ $28 450)",
+   "link": "https://t.me/imperiya_auto/94346",
+   "photo": "data/cars/7534.jpg",
    "photos": [
-    "data/cars/7433.jpg",
-    "data/cars/7433_2.jpg",
-    "data/cars/7433_3.jpg",
-    "data/cars/7433_4.jpg"
+    "data/cars/7534.jpg",
+    "data/cars/7534_2.jpg",
+    "data/cars/7534_3.jpg",
+    "data/cars/7534_4.jpg"
+   ]
+  },
+  {
+   "title": "BMW X5",
+   "year": 2011,
+   "price_usd": 11990,
+   "city": "Київ",
+   "pct": 23,
+   "market_usd": 15550,
+   "why": "на 23% дешевше за схожі (≈ $15 550)",
+   "link": "https://t.me/autofocus_ua_tg/71450",
+   "photo": "data/cars/7570.jpg",
+   "photos": [
+    "data/cars/7570.jpg",
+    "data/cars/7570_2.jpg",
+    "data/cars/7570_3.jpg",
+    "data/cars/7570_4.jpg"
    ]
   },
   {
@@ -37,23 +54,6 @@
    ]
   },
   {
-   "title": "BMW 5 Series",
-   "year": 2002,
-   "price_usd": 4100,
-   "city": "",
-   "pct": 38,
-   "market_usd": 6600,
-   "why": "на 38% дешевше за схожі (≈ $6 600)",
-   "link": "https://t.me/autobazarcherkasyua/34929",
-   "photo": "data/cars/7404.jpg",
-   "photos": [
-    "data/cars/7404.jpg",
-    "data/cars/7404_2.jpg",
-    "data/cars/7404_3.jpg",
-    "data/cars/7404_4.jpg"
-   ]
-  },
-  {
    "title": "Mazda 6",
    "year": 2009,
    "price_usd": 4550,
@@ -71,17 +71,20 @@
    ]
   },
   {
-   "title": "Skoda Octavia",
-   "year": 2010,
-   "price_usd": 5700,
-   "city": "Кропивницький",
-   "pct": 22,
-   "market_usd": 7300,
-   "why": "на 22% дешевше за схожі (≈ $7 300)",
-   "link": "https://t.me/autoexpert_kropyvnytskyi/5341",
-   "photo": "data/cars/7407.jpg",
+   "title": "Toyota Land Cruiser",
+   "year": 2008,
+   "price_usd": 15999,
+   "city": "Львів",
+   "pct": 21,
+   "market_usd": 20250,
+   "why": "на 21% дешевше за схожі (≈ $20 250)",
+   "link": "https://t.me/GoldCarsLviv/37692",
+   "photo": "data/cars/7553.jpg",
    "photos": [
-    "data/cars/7407.jpg"
+    "data/cars/7553.jpg",
+    "data/cars/7553_2.jpg",
+    "data/cars/7553_3.jpg",
+    "data/cars/7553_4.jpg"
    ]
   },
   {
