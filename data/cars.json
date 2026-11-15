@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T07:38:42+00:00",
+ "updated": "2026-11-15T11:38:42+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -37,23 +37,6 @@
    ]
   },
   {
-   "title": "Audi Q7",
-   "year": 2017,
-   "price_usd": 14900,
-   "city": "Львів",
-   "pct": 42,
-   "market_usd": 25700,
-   "why": "на 42% дешевше за схожі (≈ $25 700)",
-   "link": "https://t.me/kievavto2/147895",
-   "photo": "data/cars/7382.jpg",
-   "photos": [
-    "data/cars/7382.jpg",
-    "data/cars/7382_2.jpg",
-    "data/cars/7382_3.jpg",
-    "data/cars/7382_4.jpg"
-   ]
-  },
-  {
    "title": "BMW 5 Series",
    "year": 2002,
    "price_usd": 4100,
@@ -71,20 +54,20 @@
    ]
   },
   {
-   "title": "Mitsubishi Outlander",
-   "year": 2016,
-   "price_usd": 11500,
-   "city": "Дніпро",
-   "pct": 22,
-   "market_usd": 14750,
-   "why": "на 22% дешевше за схожі (≈ $14 750)",
-   "link": "https://t.me/avtobazar_group/214326",
-   "photo": "data/cars/7371.jpg",
+   "title": "Mazda 6",
+   "year": 2009,
+   "price_usd": 4550,
+   "city": "Рівне",
+   "pct": 33,
+   "market_usd": 6800,
+   "why": "на 33% дешевше за схожі (≈ $6 800)",
+   "link": "https://t.me/lutsk_autobazar/32861",
+   "photo": "data/cars/7513.jpg",
    "photos": [
-    "data/cars/7371.jpg",
-    "data/cars/7371_2.jpg",
-    "data/cars/7371_3.jpg",
-    "data/cars/7371_4.jpg"
+    "data/cars/7513.jpg",
+    "data/cars/7513_2.jpg",
+    "data/cars/7513_3.jpg",
+    "data/cars/7513_4.jpg"
    ]
   },
   {
