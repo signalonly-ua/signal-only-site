@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-15T17:10:28+00:00",
+ "updated": "2026-11-15T19:10:29+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Автомийник",
+   "city": "",
+   "district": "",
+   "salary": "",
+   "employment": "",
+   "date": "2026-11-15T18:42:46+00:00",
+   "link": "https://t.me/robota_odesa4/45867"
+  },
+  {
+   "position": "Автослюсар",
+   "city": "Київ",
+   "district": "Дарницький р-н",
+   "salary": "від 20 000 грн",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-15T18:00:27+00:00",
+   "link": "https://t.me/workua_kyiv/92318"
+  },
+  {
+   "position": "Продавець",
+   "city": "Харків",
+   "district": "",
+   "salary": "",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-15T17:49:46+00:00",
+   "link": "https://t.me/workua_kharkiv/72878"
+  },
+  {
+   "position": "Офіціант",
+   "city": "Київ",
+   "district": "Подільський р-н",
+   "salary": "від 40 000 грн",
+   "employment": "",
+   "date": "2026-11-15T17:49:46+00:00",
+   "link": "https://t.me/robota_kiev_the1/629770"
+  },
+  {
+   "position": "Бариста",
+   "city": "Полтава",
+   "district": "",
+   "salary": "від 13 000 грн",
+   "employment": "Позмінно (6/1)",
+   "date": "2026-11-15T17:33:49+00:00",
+   "link": "https://t.me/rabota_robotaq_vakansiiq/6437"
+  },
+  {
+   "position": "SMM-менеджер",
+   "city": "Хмельницький",
+   "district": "",
+   "salary": "",
+   "employment": "Повна зайнятість · Неповна / підробіток",
+   "date": "2026-11-15T17:25:36+00:00",
+   "link": "https://t.me/workua_khmelnytskyi/65108"
+  },
+  {
+   "position": "Адміністратор",
+   "city": "Черкаси",
+   "district": "",
+   "salary": "від 10 000 грн",
+   "employment": "Повна зайнятість · Неповна / підробіток · Нічні зміни",
+   "date": "2026-11-15T17:25:35+00:00",
+   "link": "https://t.me/workua_cherkasy/63000"
+  },
+  {
+   "position": "Адміністратор",
+   "city": "Тернопіль",
+   "district": "",
+   "salary": "",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-15T17:12:12+00:00",
+   "link": "https://t.me/workua_ternopil/65557"
+  },
   {
    "position": "Бариста",
    "city": "Київ",
@@ -109,78 +181,6 @@
    "employment": "Повна зайнятість",
    "date": "2026-11-15T15:51:19+00:00",
    "link": "https://t.me/workua_kharkiv/72875"
-  },
-  {
-   "position": "Кухар",
-   "city": "Дніпро",
-   "district": "",
-   "salary": "від 20 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-15T15:51:19+00:00",
-   "link": "https://t.me/workua_dnipro/83354"
-  },
-  {
-   "position": "Бариста",
-   "city": "Тернопіль",
-   "district": "",
-   "salary": "від 12 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-15T15:48:27+00:00",
-   "link": "https://t.me/workua_ternopil/65553"
-  },
-  {
-   "position": "Продавець",
-   "city": "Суми",
-   "district": "",
-   "salary": "",
-   "employment": "Повна зайнятість · Позмінно (3/1)",
-   "date": "2026-11-15T15:48:27+00:00",
-   "link": "https://t.me/workua_sumy/45324"
-  },
-  {
-   "position": "Вантажник",
-   "city": "Одеса",
-   "district": "",
-   "salary": "",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-15T15:48:27+00:00",
-   "link": "https://t.me/workua_odesa/81295"
-  },
-  {
-   "position": "Адміністратор, Майстер манікюру",
-   "city": "Львів",
-   "district": "",
-   "salary": "від 23 500 грн",
-   "employment": "Неповна / підробіток",
-   "date": "2026-11-15T15:48:26+00:00",
-   "link": "https://t.me/workua_lviv/85122"
-  },
-  {
-   "position": "Комірник",
-   "city": "Київ",
-   "district": "Дарницький р-н",
-   "salary": "від 35 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-15T15:48:26+00:00",
-   "link": "https://t.me/workua_kyiv/92309"
-  },
-  {
-   "position": "Медсестра",
-   "city": "Київ",
-   "district": "Печерський р-н",
-   "salary": "від 25 000 грн",
-   "employment": "Повна зайнятість (5/2)",
-   "date": "2026-11-15T15:37:26+00:00",
-   "link": "https://t.me/workua_kyiv/92308"
-  },
-  {
-   "position": "Кухар",
-   "city": "Вінниця",
-   "district": "",
-   "salary": "від 28 000 грн",
-   "employment": "Позмінно (3/3)",
-   "date": "2026-11-15T15:31:56+00:00",
-   "link": "https://t.me/vinnitsa_rabota_vakansii/7941"
   }
  ]
 }
