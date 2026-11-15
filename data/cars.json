@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T15:38:42+00:00",
+ "updated": "2026-11-15T19:38:43+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -88,54 +88,37 @@
    ]
   },
   {
-   "title": "Volkswagen Passat",
-   "year": 2002,
-   "price_usd": 3200,
-   "city": "Тернопіль",
-   "pct": 20,
-   "market_usd": 4000,
-   "why": "на 20% дешевше за схожі (≈ $4 000)",
-   "link": "https://t.me/avtobazar_group/214524",
-   "photo": "data/cars/7454.jpg",
-   "photos": [
-    "data/cars/7454.jpg",
-    "data/cars/7454_2.jpg",
-    "data/cars/7454_3.jpg",
-    "data/cars/7454_4.jpg"
-   ]
-  },
-  {
-   "title": "Renault Megane",
-   "year": 2010,
-   "price_usd": 5000,
-   "city": "Запоріжжя",
-   "pct": 17,
-   "market_usd": 6000,
-   "why": "на 17% дешевше за схожі (≈ $6 000)",
-   "link": "https://t.me/avto1_zp/17400",
-   "photo": "data/cars/7459.jpg",
-   "photos": [
-    "data/cars/7459.jpg",
-    "data/cars/7459_2.jpg",
-    "data/cars/7459_3.jpg",
-    "data/cars/7459_4.jpg"
-   ]
-  },
-  {
-   "title": "Land Rover Range Rover",
+   "title": "BMW X5",
    "year": 2013,
-   "price_usd": 23990,
-   "city": "Одеса",
-   "pct": 15,
-   "market_usd": 28200,
-   "why": "на 15% дешевше за схожі (≈ $28 200)",
-   "link": "https://t.me/tvoeauto50/8040",
-   "photo": "data/cars/7443.jpg",
+   "price_usd": 16300,
+   "city": "",
+   "pct": 20,
+   "market_usd": 20400,
+   "why": "на 20% дешевше за схожі (≈ $20 400)",
+   "link": "https://t.me/autobazarvinnytsia/45391",
+   "photo": "data/cars/7593.jpg",
    "photos": [
-    "data/cars/7443.jpg",
-    "data/cars/7443_2.jpg",
-    "data/cars/7443_3.jpg",
-    "data/cars/7443_4.jpg"
+    "data/cars/7593.jpg",
+    "data/cars/7593_2.jpg",
+    "data/cars/7593_3.jpg",
+    "data/cars/7593_4.jpg"
+   ]
+  },
+  {
+   "title": "Toyota Camry",
+   "year": 2018,
+   "price_usd": 22500,
+   "city": "Одеса",
+   "pct": 17,
+   "market_usd": 27100,
+   "why": "на 17% дешевше за схожі (≈ $27 100)",
+   "link": "https://t.me/avtobazar_group/214879",
+   "photo": "data/cars/7575.jpg",
+   "photos": [
+    "data/cars/7575.jpg",
+    "data/cars/7575_2.jpg",
+    "data/cars/7575_3.jpg",
+    "data/cars/7575_4.jpg"
    ]
   }
  ]
