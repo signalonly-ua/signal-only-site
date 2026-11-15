@@ -1,12 +1,19 @@
 {
- "updated": "2026-11-14T23:38:12+00:00",
+ "updated": "2026-11-15T00:37:31+00:00",
  "news": [
   {
-   "title": "Люди, які народилися в ці дні, стануть найкращими господарями для тварин із притулку",
+   "title": "Вперше в історії SpaceX \"впіймала\" корабель Starship після повернення з орбіти",
    "source": "УНІАН",
-   "link": "https://www.unian.ua/curiosities/numerologiya-data-narodzhennya-yakim-lyudyam-varto-vzyati-tvarinu-z-pritulku-13559784.html",
-   "photo": "data/news/fefe84fae67f.jpg",
-   "date": "2026-11-14"
+   "link": "https://www.unian.ua/science/vpershe-v-istoriji-spacex-vpiymala-korabel-starship-pislya-povernennya-z-orbiti-video-13560099.html",
+   "photo": "data/news/0dcd27aca6d1.jpg",
+   "date": "2026-11-15"
+  },
+  {
+   "title": "Це може врятувати ремонт: чому важливо підтримувати в чистоті непомітний отвір у вікнах",
+   "source": "УНІАН",
+   "link": "https://www.unian.ua/curiosities/drenazh-u-viknah-de-roztashovaniy-vidvid-zayvoji-vodi-u-plastikovih-viknah-13559916.html",
+   "photo": "data/news/f91e329f1ebe.jpg",
+   "date": "2026-11-15"
   },
   {
    "title": "У США нагородили творців музики створенної за допомогою штучного інтелекту",
@@ -20,13 +27,6 @@
    "source": "ТСН",
    "link": "https://tsn.ua/nauka_it/vpershe-v-istoriyi-robot-samostiyno-pobuduvav-sporudu-v-kosmosi-bez-dopomohy-astronavtiv-3216879.html",
    "photo": "data/news/45f5de17307b.jpg",
-   "date": "2026-11-14"
-  },
-  {
-   "title": "32 поверхи пішки й перехід по тросу: що чекає на учасників \"Зважених та щасливих\" у новому випуску",
-   "source": "РБК-Україна",
-   "link": "https://styler.rbc.ua/rus/people/32-poverhi-pishki-y-perehid-trosu-shcho-chekae-1794653074.html",
-   "photo": "data/news/cad141901403.jpg",
    "date": "2026-11-14"
   }
  ]

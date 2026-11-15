@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T20:46:47+00:00",
+ "updated": "2026-11-14T23:38:41+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -11,7 +11,13 @@
    "market_usd": 17500,
    "why": "на 20% дешевше за схожі (≈ $17 500)",
    "link": "https://t.me/kievavto2/147941",
-   "photo": "data/cars/7433.jpg"
+   "photo": "data/cars/7433.jpg",
+   "photos": [
+    "data/cars/7433.jpg",
+    "data/cars/7433_2.jpg",
+    "data/cars/7433_3.jpg",
+    "data/cars/7433_4.jpg"
+   ]
   },
   {
    "title": "Audi Q7",
@@ -22,7 +28,13 @@
    "market_usd": 25700,
    "why": "на 42% дешевше за схожі (≈ $25 700)",
    "link": "https://t.me/kievavto2/147895",
-   "photo": "data/cars/7382.jpg"
+   "photo": "data/cars/7382.jpg",
+   "photos": [
+    "data/cars/7382.jpg",
+    "data/cars/7382_2.jpg",
+    "data/cars/7382_3.jpg",
+    "data/cars/7382_4.jpg"
+   ]
   },
   {
    "title": "BMW 5 Series",
@@ -33,7 +45,13 @@
    "market_usd": 6600,
    "why": "на 38% дешевше за схожі (≈ $6 600)",
    "link": "https://t.me/autobazarcherkasyua/34929",
-   "photo": "data/cars/7404.jpg"
+   "photo": "data/cars/7404.jpg",
+   "photos": [
+    "data/cars/7404.jpg",
+    "data/cars/7404_2.jpg",
+    "data/cars/7404_3.jpg",
+    "data/cars/7404_4.jpg"
+   ]
   },
   {
    "title": "Toyota Camry",
@@ -44,7 +62,13 @@
    "market_usd": 34150,
    "why": "на 37% дешевше за схожі (≈ $34 150)",
    "link": "https://t.me/avtobazar_group/214233",
-   "photo": "data/cars/7341.jpg"
+   "photo": "data/cars/7341.jpg",
+   "photos": [
+    "data/cars/7341.jpg",
+    "data/cars/7341_2.jpg",
+    "data/cars/7341_3.jpg",
+    "data/cars/7341_4.jpg"
+   ]
   },
   {
    "title": "Mitsubishi Outlander",
@@ -55,7 +79,13 @@
    "market_usd": 14750,
    "why": "на 22% дешевше за схожі (≈ $14 750)",
    "link": "https://t.me/avtobazar_group/214326",
-   "photo": "data/cars/7371.jpg"
+   "photo": "data/cars/7371.jpg",
+   "photos": [
+    "data/cars/7371.jpg",
+    "data/cars/7371_2.jpg",
+    "data/cars/7371_3.jpg",
+    "data/cars/7371_4.jpg"
+   ]
   },
   {
    "title": "Skoda Octavia",
@@ -66,7 +96,10 @@
    "market_usd": 7300,
    "why": "на 22% дешевше за схожі (≈ $7 300)",
    "link": "https://t.me/autoexpert_kropyvnytskyi/5341",
-   "photo": "data/cars/7407.jpg"
+   "photo": "data/cars/7407.jpg",
+   "photos": [
+    "data/cars/7407.jpg"
+   ]
   },
   {
    "title": "Volkswagen Passat",
@@ -77,7 +110,13 @@
    "market_usd": 4000,
    "why": "на 20% дешевше за схожі (≈ $4 000)",
    "link": "https://t.me/avtobazar_group/214524",
-   "photo": "data/cars/7454.jpg"
+   "photo": "data/cars/7454.jpg",
+   "photos": [
+    "data/cars/7454.jpg",
+    "data/cars/7454_2.jpg",
+    "data/cars/7454_3.jpg",
+    "data/cars/7454_4.jpg"
+   ]
   },
   {
    "title": "Renault Megane",
@@ -88,7 +127,13 @@
    "market_usd": 6000,
    "why": "на 17% дешевше за схожі (≈ $6 000)",
    "link": "https://t.me/avto1_zp/17400",
-   "photo": "data/cars/7459.jpg"
+   "photo": "data/cars/7459.jpg",
+   "photos": [
+    "data/cars/7459.jpg",
+    "data/cars/7459_2.jpg",
+    "data/cars/7459_3.jpg",
+    "data/cars/7459_4.jpg"
+   ]
   },
   {
    "title": "Volkswagen Golf",
@@ -99,7 +144,13 @@
    "market_usd": 8950,
    "why": "на 16% дешевше за схожі (≈ $8 950)",
    "link": "https://t.me/avtobazar_group/214199",
-   "photo": "data/cars/7334.jpg"
+   "photo": "data/cars/7334.jpg",
+   "photos": [
+    "data/cars/7334.jpg",
+    "data/cars/7334_2.jpg",
+    "data/cars/7334_3.jpg",
+    "data/cars/7334_4.jpg"
+   ]
   },
   {
    "title": "Land Rover Range Rover",
@@ -110,7 +161,13 @@
    "market_usd": 28200,
    "why": "на 15% дешевше за схожі (≈ $28 200)",
    "link": "https://t.me/tvoeauto50/8040",
-   "photo": "data/cars/7443.jpg"
+   "photo": "data/cars/7443.jpg",
+   "photos": [
+    "data/cars/7443.jpg",
+    "data/cars/7443_2.jpg",
+    "data/cars/7443_3.jpg",
+    "data/cars/7443_4.jpg"
+   ]
   }
  ]
 }
