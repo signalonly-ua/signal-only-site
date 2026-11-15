@@ -1,18 +1,11 @@
 {
- "updated": "2026-11-15T17:37:38+00:00",
+ "updated": "2026-11-15T18:37:40+00:00",
  "news": [
   {
    "title": "Названо 5 знаків зодіаку, яким до кінця 2026 року пощастить із грошима: хто ці щасливці",
    "source": "ТСН",
    "link": "https://tsn.ua/other/nazvano-5-znakiv-zodiaku-iakym-do-kintsia-2026-roku-poshchastyt-iz-hroshyma-khto-tsi-shchaslyvtsi-3217199.html",
    "photo": "data/news/c5dd3509749f.jpg",
-   "date": "2026-11-15"
-  },
-  {
-   "title": "У Полтавській ТГ протягом тижня народилося 56 дітей",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/poltava/1452949-u-poltavskij-tg-protagom-tizna-narodilosa-56-ditej/",
-   "photo": "data/news/874be7248191.jpg",
    "date": "2026-11-15"
   },
   {
@@ -27,6 +20,13 @@
    "source": "РБК-Україна",
    "link": "https://styler.rbc.ua/rus/useful/fikus-pozhovtiv-listopadi-k-vryatuvati-kimnatnu-1794243485.html",
    "photo": "data/news/d3789f168f2c.jpg",
+   "date": "2026-11-14"
+  },
+  {
+   "title": "Україна здобула на літній юнацькій Олімпіаді дев'ять нагород, зокрема три золота",
+   "source": "Укрінформ: спорт",
+   "link": "https://www.ukrinform.ua/rubric-sports/4184651-ukraina-zdobula-na-litnij-unackij-olimpiadi-devat-nagorod-zokrema-tri-zolota.html",
+   "photo": "data/news/0d7ef0f7acc1.jpg",
    "date": "2026-11-14"
   }
  ]
