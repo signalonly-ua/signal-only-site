@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T03:38:41+00:00",
+ "updated": "2026-11-15T07:38:42+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -17,6 +17,23 @@
     "data/cars/7433_2.jpg",
     "data/cars/7433_3.jpg",
     "data/cars/7433_4.jpg"
+   ]
+  },
+  {
+   "title": "Skoda Octavia",
+   "year": 2011,
+   "price_usd": 4250,
+   "city": "Рівне",
+   "pct": 46,
+   "market_usd": 7850,
+   "why": "на 46% дешевше за схожі (≈ $7 850)",
+   "link": "https://t.me/ua_autobazar/78436",
+   "photo": "data/cars/7482.jpg",
+   "photos": [
+    "data/cars/7482.jpg",
+    "data/cars/7482_2.jpg",
+    "data/cars/7482_3.jpg",
+    "data/cars/7482_4.jpg"
    ]
   },
   {
@@ -51,23 +68,6 @@
     "data/cars/7404_2.jpg",
     "data/cars/7404_3.jpg",
     "data/cars/7404_4.jpg"
-   ]
-  },
-  {
-   "title": "Toyota Camry",
-   "year": 2019,
-   "price_usd": 21500,
-   "city": "Львів",
-   "pct": 37,
-   "market_usd": 34150,
-   "why": "на 37% дешевше за схожі (≈ $34 150)",
-   "link": "https://t.me/avtobazar_group/214233",
-   "photo": "data/cars/7341.jpg",
-   "photos": [
-    "data/cars/7341.jpg",
-    "data/cars/7341_2.jpg",
-    "data/cars/7341_3.jpg",
-    "data/cars/7341_4.jpg"
    ]
   },
   {
@@ -133,23 +133,6 @@
     "data/cars/7459_2.jpg",
     "data/cars/7459_3.jpg",
     "data/cars/7459_4.jpg"
-   ]
-  },
-  {
-   "title": "Volkswagen Golf",
-   "year": 2013,
-   "price_usd": 7500,
-   "city": "Луцьк",
-   "pct": 16,
-   "market_usd": 8950,
-   "why": "на 16% дешевше за схожі (≈ $8 950)",
-   "link": "https://t.me/avtobazar_group/214199",
-   "photo": "data/cars/7334.jpg",
-   "photos": [
-    "data/cars/7334.jpg",
-    "data/cars/7334_2.jpg",
-    "data/cars/7334_3.jpg",
-    "data/cars/7334_4.jpg"
    ]
   },
   {
