@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-15T05:37:37+00:00",
+ "updated": "2026-11-15T06:37:34+00:00",
  "news": [
+  {
+   "title": "У Полтавській ТГ протягом тижня народилося 56 дітей",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/poltava/1452949-u-poltavskij-tg-protagom-tizna-narodilosa-56-ditej/",
+   "photo": "data/news/874be7248191.jpg",
+   "date": "2026-11-15"
+  },
   {
    "title": "Вперше в історії SpaceX \"впіймала\" корабель Starship після повернення з орбіти",
    "source": "УНІАН",
@@ -9,24 +16,17 @@
    "date": "2026-11-15"
   },
   {
-   "title": "Це може врятувати ремонт: чому важливо підтримувати в чистоті непомітний отвір у вікнах",
+   "title": "Люди, які народилися в ці дні, стануть найкращими господарями для тварин із притулку",
    "source": "УНІАН",
-   "link": "https://www.unian.ua/curiosities/drenazh-u-viknah-de-roztashovaniy-vidvid-zayvoji-vodi-u-plastikovih-viknah-13559916.html",
-   "photo": "data/news/f91e329f1ebe.jpg",
-   "date": "2026-11-15"
+   "link": "https://www.unian.ua/curiosities/numerologiya-data-narodzhennya-yakim-lyudyam-varto-vzyati-tvarinu-z-pritulku-13559784.html",
+   "photo": "data/news/fefe84fae67f.jpg",
+   "date": "2026-11-14"
   },
   {
    "title": "У США нагородили творців музики створенної за допомогою штучного інтелекту",
    "source": "Суспільне",
    "link": "https://suspilne.media/culture/1453083-u-ssa-nagorodili-tvorciv-muziki-stvorennoi-za-dopomogou-stucnogo-intelektu/",
    "photo": "data/news/51ef7bab4992.jpg",
-   "date": "2026-11-14"
-  },
-  {
-   "title": "Вперше в історії: робот самостійно побудував споруду в космосі без допомоги астронавтів",
-   "source": "ТСН",
-   "link": "https://tsn.ua/nauka_it/vpershe-v-istoriyi-robot-samostiyno-pobuduvav-sporudu-v-kosmosi-bez-dopomohy-astronavtiv-3216879.html",
-   "photo": "data/news/45f5de17307b.jpg",
    "date": "2026-11-14"
   }
  ]
