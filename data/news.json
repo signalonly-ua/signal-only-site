@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-16T20:37:26+00:00",
+ "updated": "2026-11-16T21:37:25+00:00",
  "news": [
+  {
+   "title": "Зеленський зустрівся з аграріями та відзначив їх державними нагородами",
+   "source": "Укрінформ",
+   "link": "https://www.ukrinform.ua/rubric-society/4185345-zelenskij-zustrivsa-z-agrariami-ta-vidznaciv-ih-derzavnimi-nagorodami.html",
+   "photo": "data/news/c44718d47715.jpg",
+   "date": "2026-11-16"
+  },
   {
    "title": "Спортсмени з Чернігівщини здобули нагороди на чемпіонаті світу з бодібілдингу та фітнесу",
    "source": "Суспільне",
@@ -20,13 +27,6 @@
    "source": "Укрінформ: світ",
    "link": "https://www.ukrinform.ua/rubric-world/4185146-bila-beregiv-bolgarii-zatonulo-sudno-iz-zernom-ekipaz-vratuvali.html",
    "photo": "data/news/58c8625b9dad.jpg",
-   "date": "2026-11-16"
-  },
-  {
-   "title": "Загубилося, але не розгубилося: на Алясці нагородили ведмежа, яке саме відшукало маму в лісі",
-   "source": "ТСН",
-   "link": "https://tsn.ua/tsikavinki/zahubyvsia-ale-ne-rozhubyvsia-na-aliastsi-nahorodyly-vedmeza-iake-same-vidshukalo-mamu-v-lisi-3217875.html",
-   "photo": "data/news/1864445e5878.jpg",
    "date": "2026-11-16"
   }
  ]
