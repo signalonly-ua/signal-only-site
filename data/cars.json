@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T19:38:43+00:00",
+ "updated": "2026-11-15T23:38:43+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -102,6 +102,23 @@
     "data/cars/7593_2.jpg",
     "data/cars/7593_3.jpg",
     "data/cars/7593_4.jpg"
+   ]
+  },
+  {
+   "title": "Volkswagen Passat",
+   "year": 2010,
+   "price_usd": 5900,
+   "city": "",
+   "pct": 18,
+   "market_usd": 7200,
+   "why": "на 18% дешевше за схожі (≈ $7 200)",
+   "link": "https://t.me/avtobazar_group/214998",
+   "photo": "data/cars/7609.jpg",
+   "photos": [
+    "data/cars/7609.jpg",
+    "data/cars/7609_2.jpg",
+    "data/cars/7609_3.jpg",
+    "data/cars/7609_4.jpg"
    ]
   },
   {
