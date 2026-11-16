@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-16T15:37:25+00:00",
+ "updated": "2026-11-16T16:37:25+00:00",
  "news": [
+  {
+   "title": "У Житомирі з пологового виписали хлопчика вагою 4,8 кілограма, якого народили природним шляхом",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/zhytomyr/1453678-u-zitomiri-z-pologovogo-vipisali-hlopcika-vagou-48-kilograma-akogo-narodili-prirodnim-slahom/",
+   "photo": "data/news/6544b6bdf091.jpg",
+   "date": "2026-11-16"
+  },
   {
    "title": "Baby2Baby Gala 2026. Кеті Перрі з Джастіном Трюдо, гігантський капелюх Cardi B та почесна нагорода для Демі Мур",
    "source": "NV",
@@ -21,13 +28,6 @@
    "link": "https://tsn.ua/tsikavinki/zahubyvsia-ale-ne-rozhubyvsia-na-aliastsi-nahorodyly-vedmeza-iake-same-vidshukalo-mamu-v-lisi-3217875.html",
    "photo": "data/news/1864445e5878.jpg",
    "date": "2026-11-16"
-  },
-  {
-   "title": "Після золота – бронза: Україна здобула ще одну нагороду на Гран-прі Загреба",
-   "source": "РБК-Україна",
-   "link": "https://sport.rbc.ua/rus/othersport/pislya-zolota-bronza-ukrayina-zdobula-shche-1794769315.html",
-   "photo": "data/news/28d4bd2f9c3f.jpg",
-   "date": "2026-11-15"
   }
  ]
 }

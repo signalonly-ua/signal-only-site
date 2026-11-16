@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-16T12:27:03+00:00",
+ "updated": "2026-11-16T16:27:04+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
    "title": "BMW X5",
-   "year": 2011,
-   "price_usd": 11990,
-   "city": "Київ",
-   "pct": 23,
-   "market_usd": 15550,
-   "why": "на 23% дешевше за схожі (≈ $15 550)",
-   "link": "https://t.me/autofocus_ua_tg/71450",
-   "photo": "data/cars/7570.jpg",
+   "year": 2018,
+   "price_usd": 25900,
+   "city": "Біла Церква",
+   "pct": 37,
+   "market_usd": 41100,
+   "why": "на 37% дешевше за схожі (≈ $41 100)",
+   "link": "https://t.me/imperiya_auto_bila_ts/12151",
+   "photo": "data/cars/7721.jpg",
    "photos": [
-    "data/cars/7570.jpg",
-    "data/cars/7570_2.jpg",
-    "data/cars/7570_3.jpg",
-    "data/cars/7570_4.jpg"
+    "data/cars/7721.jpg",
+    "data/cars/7721_2.jpg",
+    "data/cars/7721_3.jpg",
+    "data/cars/7721_4.jpg"
    ]
   },
   {
@@ -100,23 +100,6 @@
    ]
   },
   {
-   "title": "Toyota Land Cruiser",
-   "year": 2008,
-   "price_usd": 15999,
-   "city": "Львів",
-   "pct": 21,
-   "market_usd": 20250,
-   "why": "на 21% дешевше за схожі (≈ $20 250)",
-   "link": "https://t.me/GoldCarsLviv/37692",
-   "photo": "data/cars/7553.jpg",
-   "photos": [
-    "data/cars/7553.jpg",
-    "data/cars/7553_2.jpg",
-    "data/cars/7553_3.jpg",
-    "data/cars/7553_4.jpg"
-   ]
-  },
-  {
    "title": "BMW 5 Series",
    "year": 2013,
    "price_usd": 11499,
@@ -165,6 +148,23 @@
     "data/cars/7641_2.jpg",
     "data/cars/7641_3.jpg",
     "data/cars/7641_4.jpg"
+   ]
+  },
+  {
+   "title": "Volkswagen Passat",
+   "year": 2010,
+   "price_usd": 5900,
+   "city": "",
+   "pct": 18,
+   "market_usd": 7200,
+   "why": "на 18% дешевше за схожі (≈ $7 200)",
+   "link": "https://t.me/avtobazar_group/214998",
+   "photo": "data/cars/7609.jpg",
+   "photos": [
+    "data/cars/7609.jpg",
+    "data/cars/7609_2.jpg",
+    "data/cars/7609_3.jpg",
+    "data/cars/7609_4.jpg"
    ]
   }
  ]
