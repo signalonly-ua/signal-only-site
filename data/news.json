@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-16T19:37:26+00:00",
+ "updated": "2026-11-16T20:37:26+00:00",
  "news": [
+  {
+   "title": "Спортсмени з Чернігівщини здобули нагороди на чемпіонаті світу з бодібілдингу та фітнесу",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/chernihiv/1453716-sportsmeni-z-cernigivsini-zdobuli-nagorodi-na-cempionati-svitu-z-bodibildingu-ta-fitnesu/",
+   "photo": "data/news/30b71f34bbb1.jpg",
+   "date": "2026-11-16"
+  },
   {
    "title": "У Житомирі з пологового виписали хлопчика вагою 4,8 кілограма, якого народили природним шляхом",
    "source": "Суспільне",
@@ -21,13 +28,6 @@
    "link": "https://tsn.ua/tsikavinki/zahubyvsia-ale-ne-rozhubyvsia-na-aliastsi-nahorodyly-vedmeza-iake-same-vidshukalo-mamu-v-lisi-3217875.html",
    "photo": "data/news/1864445e5878.jpg",
    "date": "2026-11-16"
-  },
-  {
-   "title": "Після золота – бронза: Україна здобула ще одну нагороду на Гран-прі Загреба",
-   "source": "РБК-Україна",
-   "link": "https://sport.rbc.ua/rus/othersport/pislya-zolota-bronza-ukrayina-zdobula-shche-1794769315.html",
-   "photo": "data/news/28d4bd2f9c3f.jpg",
-   "date": "2026-11-15"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T16:27:04+00:00",
+ "updated": "2026-11-16T20:27:04+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -117,23 +117,6 @@
    ]
   },
   {
-   "title": "BMW X5",
-   "year": 2013,
-   "price_usd": 16300,
-   "city": "",
-   "pct": 20,
-   "market_usd": 20400,
-   "why": "на 20% дешевше за схожі (≈ $20 400)",
-   "link": "https://t.me/autobazarvinnytsia/45391",
-   "photo": "data/cars/7593.jpg",
-   "photos": [
-    "data/cars/7593.jpg",
-    "data/cars/7593_2.jpg",
-    "data/cars/7593_3.jpg",
-    "data/cars/7593_4.jpg"
-   ]
-  },
-  {
    "title": "Volkswagen Tiguan",
    "year": 2014,
    "price_usd": 10900,
@@ -151,20 +134,37 @@
    ]
   },
   {
-   "title": "Volkswagen Passat",
-   "year": 2010,
-   "price_usd": 5900,
+   "title": "BMW X3",
+   "year": 2023,
+   "price_usd": 42000,
+   "city": "Одеса",
+   "pct": 18,
+   "market_usd": 51200,
+   "why": "на 18% дешевше за схожі (≈ $51 200)",
+   "link": "https://t.me/autobazarkyiv1/62188",
+   "photo": "data/cars/7652.jpg",
+   "photos": [
+    "data/cars/7652.jpg",
+    "data/cars/7652_2.jpg",
+    "data/cars/7652_3.jpg",
+    "data/cars/7652_4.jpg"
+   ]
+  },
+  {
+   "title": "Porsche Panamera",
+   "year": 2017,
+   "price_usd": 39990,
    "city": "",
    "pct": 18,
-   "market_usd": 7200,
-   "why": "на 18% дешевше за схожі (≈ $7 200)",
-   "link": "https://t.me/avtobazar_group/214998",
-   "photo": "data/cars/7609.jpg",
+   "market_usd": 48750,
+   "why": "на 18% дешевше за схожі (≈ $48 750)",
+   "link": "https://t.me/autofocus_ua_tg/71526",
+   "photo": "data/cars/7710.jpg",
    "photos": [
-    "data/cars/7609.jpg",
-    "data/cars/7609_2.jpg",
-    "data/cars/7609_3.jpg",
-    "data/cars/7609_4.jpg"
+    "data/cars/7710.jpg",
+    "data/cars/7710_2.jpg",
+    "data/cars/7710_3.jpg",
+    "data/cars/7710_4.jpg"
    ]
   }
  ]
