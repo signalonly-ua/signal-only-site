@@ -1,24 +1,7 @@
 {
- "updated": "2026-11-16T08:27:03+00:00",
+ "updated": "2026-11-16T12:27:03+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Toyota Camry",
-   "year": 2020,
-   "price_usd": 21900,
-   "city": "Київ",
-   "pct": 23,
-   "market_usd": 28450,
-   "why": "на 23% дешевше за схожі (≈ $28 450)",
-   "link": "https://t.me/imperiya_auto/94346",
-   "photo": "data/cars/7534.jpg",
-   "photos": [
-    "data/cars/7534.jpg",
-    "data/cars/7534_2.jpg",
-    "data/cars/7534_3.jpg",
-    "data/cars/7534_4.jpg"
-   ]
-  },
   {
    "title": "BMW X5",
    "year": 2011,
@@ -37,6 +20,40 @@
    ]
   },
   {
+   "title": "Volkswagen Passat",
+   "year": 2016,
+   "price_usd": 10499,
+   "city": "Київ",
+   "pct": 20,
+   "market_usd": 13100,
+   "why": "на 20% дешевше за схожі (≈ $13 100)",
+   "link": "https://t.me/avtobazar_ukraina/93450",
+   "photo": "data/cars/7656.jpg",
+   "photos": [
+    "data/cars/7656.jpg",
+    "data/cars/7656_2.jpg",
+    "data/cars/7656_3.jpg",
+    "data/cars/7656_4.jpg"
+   ]
+  },
+  {
+   "title": "BMW 3 Series",
+   "year": 2021,
+   "price_usd": 12700,
+   "city": "",
+   "pct": 60,
+   "market_usd": 31750,
+   "why": "на 60% дешевше за схожі (≈ $31 750)",
+   "link": "https://t.me/ua_autobazar/78456",
+   "photo": "data/cars/7668.jpg",
+   "photos": [
+    "data/cars/7668.jpg",
+    "data/cars/7668_2.jpg",
+    "data/cars/7668_3.jpg",
+    "data/cars/7668_4.jpg"
+   ]
+  },
+  {
    "title": "Toyota Camry",
    "year": 2020,
    "price_usd": 16900,
@@ -49,20 +66,37 @@
    "photos": []
   },
   {
-   "title": "Mazda 6",
-   "year": 2009,
-   "price_usd": 4550,
-   "city": "Рівне",
-   "pct": 33,
-   "market_usd": 6800,
-   "why": "на 33% дешевше за схожі (≈ $6 800)",
-   "link": "https://t.me/lutsk_autobazar/32861",
-   "photo": "data/cars/7513.jpg",
+   "title": "BMW X5",
+   "year": 2015,
+   "price_usd": 18000,
+   "city": "",
+   "pct": 26,
+   "market_usd": 24300,
+   "why": "на 26% дешевше за схожі (≈ $24 300)",
+   "link": "https://t.me/OGAN_AUTO/11066",
+   "photo": "data/cars/7685.jpg",
    "photos": [
-    "data/cars/7513.jpg",
-    "data/cars/7513_2.jpg",
-    "data/cars/7513_3.jpg",
-    "data/cars/7513_4.jpg"
+    "data/cars/7685.jpg",
+    "data/cars/7685_2.jpg",
+    "data/cars/7685_3.jpg",
+    "data/cars/7685_4.jpg"
+   ]
+  },
+  {
+   "title": "Volkswagen Touareg",
+   "year": 2014,
+   "price_usd": 18000,
+   "city": "Запоріжжя",
+   "pct": 22,
+   "market_usd": 23100,
+   "why": "на 22% дешевше за схожі (≈ $23 100)",
+   "link": "https://t.me/avto1_zp/17482",
+   "photo": "data/cars/7657.jpg",
+   "photos": [
+    "data/cars/7657.jpg",
+    "data/cars/7657_2.jpg",
+    "data/cars/7657_3.jpg",
+    "data/cars/7657_4.jpg"
    ]
   },
   {
@@ -80,6 +114,23 @@
     "data/cars/7553_2.jpg",
     "data/cars/7553_3.jpg",
     "data/cars/7553_4.jpg"
+   ]
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2013,
+   "price_usd": 11499,
+   "city": "Одеса",
+   "pct": 21,
+   "market_usd": 14550,
+   "why": "на 21% дешевше за схожі (≈ $14 550)",
+   "link": "https://t.me/imperiya_auto/94398",
+   "photo": "data/cars/7706.jpg",
+   "photos": [
+    "data/cars/7706.jpg",
+    "data/cars/7706_2.jpg",
+    "data/cars/7706_3.jpg",
+    "data/cars/7706_4.jpg"
    ]
   },
   {
@@ -114,40 +165,6 @@
     "data/cars/7641_2.jpg",
     "data/cars/7641_3.jpg",
     "data/cars/7641_4.jpg"
-   ]
-  },
-  {
-   "title": "Volkswagen Passat",
-   "year": 2010,
-   "price_usd": 5900,
-   "city": "",
-   "pct": 18,
-   "market_usd": 7200,
-   "why": "на 18% дешевше за схожі (≈ $7 200)",
-   "link": "https://t.me/avtobazar_group/214998",
-   "photo": "data/cars/7609.jpg",
-   "photos": [
-    "data/cars/7609.jpg",
-    "data/cars/7609_2.jpg",
-    "data/cars/7609_3.jpg",
-    "data/cars/7609_4.jpg"
-   ]
-  },
-  {
-   "title": "Toyota Camry",
-   "year": 2018,
-   "price_usd": 22500,
-   "city": "Одеса",
-   "pct": 17,
-   "market_usd": 27100,
-   "why": "на 17% дешевше за схожі (≈ $27 100)",
-   "link": "https://t.me/avtobazar_group/214879",
-   "photo": "data/cars/7575.jpg",
-   "photos": [
-    "data/cars/7575.jpg",
-    "data/cars/7575_2.jpg",
-    "data/cars/7575_3.jpg",
-    "data/cars/7575_4.jpg"
    ]
   }
  ]

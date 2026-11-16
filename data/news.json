@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-16T11:37:28+00:00",
+ "updated": "2026-11-16T12:37:31+00:00",
  "news": [
+  {
+   "title": "Біля берегів Болгарії затонуло судно із зерном, екіпаж врятували",
+   "source": "Укрінформ",
+   "link": "https://www.ukrinform.ua/rubric-world/4185146-bila-beregiv-bolgarii-zatonulo-sudno-iz-zernom-ekipaz-vratuvali.html",
+   "photo": "data/news/58c8625b9dad.jpg",
+   "date": "2026-11-16"
+  },
   {
    "title": "Дівчаток більше: 67 дітей народилися на Миколаївщині протягом тижня",
    "source": "Суспільне",
@@ -21,13 +28,6 @@
    "link": "https://tsn.ua/tsikavinki/zahubyvsia-ale-ne-rozhubyvsia-na-aliastsi-nahorodyly-vedmeza-iake-same-vidshukalo-mamu-v-lisi-3217875.html",
    "photo": "data/news/1864445e5878.jpg",
    "date": "2026-11-16"
-  },
-  {
-   "title": "Після золота – бронза: Україна здобула ще одну нагороду на Гран-прі Загреба",
-   "source": "РБК-Україна",
-   "link": "https://sport.rbc.ua/rus/othersport/pislya-zolota-bronza-ukrayina-zdobula-shche-1794769315.html",
-   "photo": "data/news/28d4bd2f9c3f.jpg",
-   "date": "2026-11-15"
   }
  ]
 }
