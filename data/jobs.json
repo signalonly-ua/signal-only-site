@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-16T03:10:35+00:00",
+ "updated": "2026-11-16T05:10:35+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Дизайнер",
+   "city": "Київ",
+   "district": "",
+   "salary": "",
+   "employment": "",
+   "date": "2026-11-16T04:35:56+00:00",
+   "link": "https://t.me/robota_kiev_the1/629994"
+  },
   {
    "position": "Офіціант",
    "city": "Київ",
@@ -172,15 +181,6 @@
    "employment": "Повна зайнятість",
    "date": "2026-11-15T16:13:35+00:00",
    "link": "https://t.me/workua_rivne/64043"
-  },
-  {
-   "position": "Пакувальник",
-   "city": "",
-   "district": "",
-   "salary": "від 42 000 грн",
-   "employment": "Позмінно",
-   "date": "2026-11-15T16:10:57+00:00",
-   "link": "https://t.me/rabota_vinnitsa7/430528"
   }
  ]
 }
