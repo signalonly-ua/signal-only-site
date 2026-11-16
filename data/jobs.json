@@ -1,186 +1,186 @@
 {
- "updated": "2026-11-16T09:10:35+00:00",
+ "updated": "2026-11-16T11:06:45+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
-  {
-   "position": "Комплектувальник",
-   "city": "Полтава",
-   "district": "",
-   "salary": "від 25 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-16T09:04:20+00:00",
-   "link": "https://t.me/rabota_robotaq_vakansiiq/6441"
-  },
-  {
-   "position": "Водій",
-   "city": "Харків",
-   "district": "",
-   "salary": "від 30 000 грн",
-   "employment": "",
-   "date": "2026-11-16T09:04:18+00:00",
-   "link": "https://t.me/kharkov_robota_vakansiiq/42872"
-  },
-  {
-   "position": "Комірник",
-   "city": "Черкаси",
-   "district": "",
-   "salary": "від 22 000 грн",
-   "employment": "",
-   "date": "2026-11-16T09:04:17+00:00",
-   "link": "https://t.me/cherkasyrobota_ua/9881"
-  },
   {
    "position": "Водій",
    "city": "Вінниця",
    "district": "",
-   "salary": "від 45 000 грн",
+   "salary": "від 40 000 грн",
    "employment": "Повна зайнятість",
-   "date": "2026-11-16T09:01:08+00:00",
-   "link": "https://t.me/workua_vinnytsya/71037"
+   "date": "2026-11-16T11:01:25+00:00",
+   "link": "https://t.me/workua_vinnytsya/71047"
   },
   {
-   "position": "Продавець-консультант",
-   "city": "Харків",
-   "district": "",
-   "salary": "від 35 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-16T09:01:04+00:00",
-   "link": "https://t.me/workua_kharkiv/72889"
-  },
-  {
-   "position": "Медсестра",
-   "city": "Дніпро",
-   "district": "",
-   "salary": "від 30 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-16T09:01:03+00:00",
-   "link": "https://t.me/workua_dnipro/83369"
-  },
-  {
-   "position": "Комірник, Продавець",
-   "city": "",
-   "district": "",
-   "salary": "від 33 000 грн",
-   "employment": "",
-   "date": "2026-11-16T09:01:02+00:00",
-   "link": "https://t.me/rabota_vakansiicherkassy/6505"
-  },
-  {
-   "position": "Кухар",
-   "city": "",
+   "position": "Водій",
+   "city": "Чернігів",
    "district": "",
    "salary": "",
-   "employment": "",
-   "date": "2026-11-16T08:57:56+00:00",
-   "link": "https://t.me/chernovtsy_rabota/26075"
-  },
-  {
-   "position": "Адміністратор",
-   "city": "",
-   "district": "",
-   "salary": "від 40 000 грн",
    "employment": "Повна зайнятість (5/2)",
-   "date": "2026-11-16T08:51:57+00:00",
-   "link": "https://t.me/robota_odesa4/45961"
+   "date": "2026-11-16T11:01:20+00:00",
+   "link": "https://t.me/workua_chernihiv/50191"
   },
   {
-   "position": "Адміністратор, Бариста",
-   "city": "Полтава",
-   "district": "",
-   "salary": "від 22 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-16T08:48:53+00:00",
-   "link": "https://t.me/workua_poltava/62018"
-  },
-  {
-   "position": "Водій",
-   "city": "Миколаїв",
-   "district": "",
-   "salary": "від 20 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-16T08:48:52+00:00",
-   "link": "https://t.me/workua_mykolaiv/52637"
-  },
-  {
-   "position": "Водій",
+   "position": "Кухар, Касир",
    "city": "Київ",
-   "district": "",
-   "salary": "від 40 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-16T08:48:51+00:00",
-   "link": "https://t.me/workua_kyiv/92328"
+   "district": "Подільський р-н",
+   "salary": "100-200 грн",
+   "employment": "Стажування",
+   "date": "2026-11-16T10:58:21+00:00",
+   "link": "https://t.me/podrabotka_kiev/2096031"
   },
   {
    "position": "Вантажник",
+   "city": "Київ",
+   "district": "Дніпровський р-н",
+   "salary": "від 32 000 грн",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-16T10:49:38+00:00",
+   "link": "https://t.me/workua_kyiv/92338"
+  },
+  {
+   "position": "Касир",
    "city": "Хмельницький",
    "district": "",
-   "salary": "195 грн/год",
-   "employment": "Повна зайнятість · Неповна / підробіток",
-   "date": "2026-11-16T08:48:51+00:00",
-   "link": "https://t.me/workua_khmelnytskyi/65118"
+   "salary": "від 27 000 грн",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-16T10:49:37+00:00",
+   "link": "https://t.me/workua_khmelnytskyi/65128"
   },
   {
    "position": "Менеджер з продажу",
    "city": "Чернівці",
    "district": "",
+   "salary": "від 25 000 грн",
+   "employment": "Неповна / підробіток",
+   "date": "2026-11-16T10:49:36+00:00",
+   "link": "https://t.me/workua_chernivtsi/64811"
+  },
+  {
+   "position": "Вантажник",
+   "city": "Київ",
+   "district": "Оболонський р-н",
+   "salary": "2 310 грн/зміна",
+   "employment": "Нічні зміни",
+   "date": "2026-11-16T10:46:37+00:00",
+   "link": "https://t.me/erobota_kyiv/194794"
+  },
+  {
+   "position": "Прибиральник",
+   "city": "Чернівці",
+   "district": "",
    "salary": "",
+   "employment": "Повна зайнятість (5/2)",
+   "date": "2026-11-16T10:40:48+00:00",
+   "link": "https://t.me/chernovtsy_rabota/26078"
+  },
+  {
+   "position": "Пекар",
+   "city": "Ужгород",
+   "district": "",
+   "salary": "від 36 000 грн",
    "employment": "Повна зайнятість",
-   "date": "2026-11-16T08:48:49+00:00",
-   "link": "https://t.me/workua_chernivtsi/64801"
+   "date": "2026-11-16T10:37:51+00:00",
+   "link": "https://t.me/workua_uzhhorod/57748"
   },
   {
-   "position": "Продавець, Касир, Вантажник",
-   "city": "Київ",
-   "district": "Передмістя",
-   "salary": "",
-   "employment": "",
-   "date": "2026-11-16T08:48:45+00:00",
-   "link": "https://t.me/rabota_kieve01/800531"
+   "position": "Кур'єр",
+   "city": "Тернопіль",
+   "district": "",
+   "salary": "від 35 000 грн",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-16T10:37:51+00:00",
+   "link": "https://t.me/workua_ternopil/65576"
   },
   {
-   "position": "Прибиральник, Кухар, Вантажник",
-   "city": "Київ",
-   "district": "Шевченківський р-н",
-   "salary": "1 100 грн/зміна",
-   "employment": "Позмінно (28/1) · Нічні зміни",
-   "date": "2026-11-16T08:48:44+00:00",
-   "link": "https://t.me/erobota_kyiv/194727"
+   "position": "Автослюсар, Водій",
+   "city": "Суми",
+   "district": "",
+   "salary": "від 30 000 грн",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-16T10:37:51+00:00",
+   "link": "https://t.me/workua_sumy/45339"
+  },
+  {
+   "position": "Помічник керівника",
+   "city": "Рівне",
+   "district": "",
+   "salary": "від 10 000 грн",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-16T10:37:51+00:00",
+   "link": "https://t.me/workua_rivne/64062"
+  },
+  {
+   "position": "Вантажник",
+   "city": "Кропивницький",
+   "district": "",
+   "salary": "від 27 000 грн",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-16T10:37:49+00:00",
+   "link": "https://t.me/workua_kropyvnytskyi/51459"
+  },
+  {
+   "position": "Продавець",
+   "city": "Харків",
+   "district": "",
+   "salary": "від 16 200 грн",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-16T10:37:48+00:00",
+   "link": "https://t.me/workua_kharkiv/72897"
+  },
+  {
+   "position": "Мерчендайзер",
+   "city": "Дніпро",
+   "district": "",
+   "salary": "від 29 000 грн",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-16T10:37:48+00:00",
+   "link": "https://t.me/workua_dnipro/83377"
+  },
+  {
+   "position": "Адміністратор",
+   "city": "Чернівці",
+   "district": "",
+   "salary": "від 29 000 грн",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-16T10:37:47+00:00",
+   "link": "https://t.me/workua_chernivtsi/64810"
+  },
+  {
+   "position": "Вантажник",
+   "city": "Черкаси",
+   "district": "",
+   "salary": "від 30 500 грн",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-16T10:37:47+00:00",
+   "link": "https://t.me/workua_cherkasy/63019"
   },
   {
    "position": "Кухар",
    "city": "Київ",
-   "district": "Печерський р-н",
-   "salary": "2 100 грн/зміна",
-   "employment": "",
-   "date": "2026-11-16T08:45:38+00:00",
-   "link": "https://t.me/kyiv_jobs/14592"
-  },
-  {
-   "position": "Офіціант",
-   "city": "Київ",
    "district": "Подільський р-н",
-   "salary": "",
+   "salary": "2 500 грн/зміна",
    "employment": "",
-   "date": "2026-11-16T08:45:38+00:00",
-   "link": "https://t.me/kyiv_jobs/14591"
+   "date": "2026-11-16T10:28:56+00:00",
+   "link": "https://t.me/podrabotka_kiev/2096011"
   },
   {
-   "position": "Бармен",
-   "city": "Київ",
-   "district": "Дніпровський р-н",
-   "salary": "50 грн",
-   "employment": "Позмінно (3/3)",
-   "date": "2026-11-16T08:45:37+00:00",
-   "link": "https://t.me/kiev_robota_pra/1406090"
-  },
-  {
-   "position": "Логіст",
-   "city": "Хмельницький",
+   "position": "Адміністратор, Прибиральник",
+   "city": "",
    "district": "",
-   "salary": "від 35 000 грн",
+   "salary": "від 24 000 грн",
+   "employment": "Позмінно (2/2)",
+   "date": "2026-11-16T10:28:55+00:00",
+   "link": "https://t.me/kyiv_jobs/14604"
+  },
+  {
+   "position": "Прибиральник",
+   "city": "Запоріжжя",
+   "district": "",
+   "salary": "від 14 000 грн",
    "employment": "Повна зайнятість",
-   "date": "2026-11-16T08:39:45+00:00",
-   "link": "https://t.me/workua_dnipro/83367"
+   "date": "2026-11-16T10:25:58+00:00",
+   "link": "https://t.me/workua_zaporizhzhya/65076"
   }
  ]
 }
