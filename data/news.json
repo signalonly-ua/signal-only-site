@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-16T14:37:26+00:00",
+ "updated": "2026-11-16T15:37:25+00:00",
  "news": [
+  {
+   "title": "Baby2Baby Gala 2026. Кеті Перрі з Джастіном Трюдо, гігантський капелюх Cardi B та почесна нагорода для Демі Мур",
+   "source": "NV",
+   "link": "https://life.nv.ua/ukr/znamenitosti/baby2baby-gala-2026-demi-mur-otrimala-vidznaku-keti-perri-z-dzhastinom-tryudo-z-yavilisya-na-ceremoniji-50659661.html",
+   "photo": "data/news/7005e01dac23.jpg",
+   "date": "2026-11-16"
+  },
   {
    "title": "Біля берегів Болгарії затонуло судно із зерном, екіпаж врятували",
    "source": "Укрінформ: світ",
@@ -9,25 +16,18 @@
    "date": "2026-11-16"
   },
   {
-   "title": "Дівчаток більше: 67 дітей народилися на Миколаївщині протягом тижня",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/mykolaiv/1453490-divcatok-bilse-67-ditej-narodilisa-na-mikolaivsini-protagom-tizna/",
-   "photo": "data/news/c3958a83c6c0.jpg",
-   "date": "2026-11-16"
-  },
-  {
-   "title": "У пологовому центрі в Тернополі з початку року народилось півтори тисячі дітей",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/ternopil/1453497-u-pologovomu-centri-v-ternopoli-narodilosa-pivtori-tisaci-ditej/",
-   "photo": "data/news/f576b5533ab6.jpg",
-   "date": "2026-11-16"
-  },
-  {
    "title": "Загубилося, але не розгубилося: на Алясці нагородили ведмежа, яке саме відшукало маму в лісі",
    "source": "ТСН",
    "link": "https://tsn.ua/tsikavinki/zahubyvsia-ale-ne-rozhubyvsia-na-aliastsi-nahorodyly-vedmeza-iake-same-vidshukalo-mamu-v-lisi-3217875.html",
    "photo": "data/news/1864445e5878.jpg",
    "date": "2026-11-16"
+  },
+  {
+   "title": "Після золота – бронза: Україна здобула ще одну нагороду на Гран-прі Загреба",
+   "source": "РБК-Україна",
+   "link": "https://sport.rbc.ua/rus/othersport/pislya-zolota-bronza-ukrayina-zdobula-shche-1794769315.html",
+   "photo": "data/news/28d4bd2f9c3f.jpg",
+   "date": "2026-11-15"
   }
  ]
 }
