@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T16:10:14+00:00",
+ "updated": "2026-11-17T20:10:15+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -17,6 +17,40 @@
     "data/cars/7943_2.jpg",
     "data/cars/7943_3.jpg",
     "data/cars/7943_4.jpg"
+   ]
+  },
+  {
+   "title": "Mazda 3",
+   "year": 2023,
+   "price_usd": 12500,
+   "city": "Київ",
+   "pct": 37,
+   "market_usd": 19850,
+   "why": "на 37% дешевше за схожі (≈ $19 850)",
+   "link": "https://t.me/avtobazar_group/215956",
+   "photo": "data/cars/7977.jpg",
+   "photos": [
+    "data/cars/7977.jpg",
+    "data/cars/7977_2.jpg",
+    "data/cars/7977_3.jpg",
+    "data/cars/7977_4.jpg"
+   ]
+  },
+  {
+   "title": "Lexus RX",
+   "year": 2022,
+   "price_usd": 42499,
+   "city": "Київ",
+   "pct": 15,
+   "market_usd": 50000,
+   "why": "на 15% дешевше за схожі (≈ $50 000)",
+   "link": "https://t.me/avtobazar_group/215942",
+   "photo": "data/cars/7971.jpg",
+   "photos": [
+    "data/cars/7971.jpg",
+    "data/cars/7971_2.jpg",
+    "data/cars/7971_3.jpg",
+    "data/cars/7971_4.jpg"
    ]
   },
   {
@@ -135,40 +169,6 @@
     "data/cars/7945_2.jpg",
     "data/cars/7945_3.jpg",
     "data/cars/7945_4.jpg"
-   ]
-  },
-  {
-   "title": "Skoda Superb",
-   "year": 2012,
-   "price_usd": 8250,
-   "city": "Кривий Ріг",
-   "pct": 20,
-   "market_usd": 10300,
-   "why": "на 20% дешевше за схожі (≈ $10 300)",
-   "link": "https://t.me/vechirnii20/22407",
-   "photo": "data/cars/7922.jpg",
-   "photos": [
-    "data/cars/7922.jpg",
-    "data/cars/7922_2.jpg",
-    "data/cars/7922_3.jpg",
-    "data/cars/7922_4.jpg"
-   ]
-  },
-  {
-   "title": "Toyota Land Cruiser",
-   "year": 2013,
-   "price_usd": 24000,
-   "city": "Ужгород",
-   "pct": 20,
-   "market_usd": 30000,
-   "why": "на 20% дешевше за схожі (≈ $30 000)",
-   "link": "https://t.me/avtobazar_group/215890",
-   "photo": "data/cars/7948.jpg",
-   "photos": [
-    "data/cars/7948.jpg",
-    "data/cars/7948_2.jpg",
-    "data/cars/7948_3.jpg",
-    "data/cars/7948_4.jpg"
    ]
   }
  ]
