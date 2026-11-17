@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-17T03:10:34+00:00",
+ "updated": "2026-11-17T05:10:34+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Дизайнер, HR-менеджер",
+   "city": "Київ",
+   "district": "",
+   "salary": "",
+   "employment": "",
+   "date": "2026-11-17T04:58:51+00:00",
+   "link": "https://t.me/robota_kiev_the1/630834"
+  },
+  {
+   "position": "Дизайнер",
+   "city": "Київ",
+   "district": "Дніпровський р-н",
+   "salary": "",
+   "employment": "",
+   "date": "2026-11-17T04:21:25+00:00",
+   "link": "https://t.me/robota_kiev_the1/630823"
+  },
   {
    "position": "Дизайнер",
    "city": "Київ",
@@ -163,24 +181,6 @@
    "employment": "Позмінно",
    "date": "2026-11-16T17:49:05+00:00",
    "link": "https://t.me/podrabotka_kiev/2096258"
-  },
-  {
-   "position": "Менеджер з продажу",
-   "city": "Одеса",
-   "district": "",
-   "salary": "від 28 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-16T17:37:29+00:00",
-   "link": "https://t.me/workua_odesa/81353"
-  },
-  {
-   "position": "Кухар, Пекар",
-   "city": "Луцьк",
-   "district": "",
-   "salary": "від 31 200 грн",
-   "employment": "",
-   "date": "2026-11-16T17:34:30+00:00",
-   "link": "https://t.me/lutskq_rabota_vakansii/6896"
   }
  ]
 }
