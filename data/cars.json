@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T08:27:05+00:00",
+ "updated": "2026-11-17T12:27:06+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -17,40 +17,6 @@
     "data/cars/7721_2.jpg",
     "data/cars/7721_3.jpg",
     "data/cars/7721_4.jpg"
-   ]
-  },
-  {
-   "title": "Volkswagen Passat",
-   "year": 2016,
-   "price_usd": 10499,
-   "city": "Київ",
-   "pct": 20,
-   "market_usd": 13100,
-   "why": "на 20% дешевше за схожі (≈ $13 100)",
-   "link": "https://t.me/avtobazar_ukraina/93450",
-   "photo": "data/cars/7656.jpg",
-   "photos": [
-    "data/cars/7656.jpg",
-    "data/cars/7656_2.jpg",
-    "data/cars/7656_3.jpg",
-    "data/cars/7656_4.jpg"
-   ]
-  },
-  {
-   "title": "BMW 3 Series",
-   "year": 2021,
-   "price_usd": 12700,
-   "city": "",
-   "pct": 60,
-   "market_usd": 31750,
-   "why": "на 60% дешевше за схожі (≈ $31 750)",
-   "link": "https://t.me/ua_autobazar/78456",
-   "photo": "data/cars/7668.jpg",
-   "photos": [
-    "data/cars/7668.jpg",
-    "data/cars/7668_2.jpg",
-    "data/cars/7668_3.jpg",
-    "data/cars/7668_4.jpg"
    ]
   },
   {
@@ -87,54 +53,20 @@
    ]
   },
   {
-   "title": "BMW X5",
-   "year": 2015,
-   "price_usd": 18000,
+   "title": "Skoda Octavia",
+   "year": 2012,
+   "price_usd": 6600,
    "city": "",
-   "pct": 26,
-   "market_usd": 24300,
-   "why": "на 26% дешевше за схожі (≈ $24 300)",
-   "link": "https://t.me/OGAN_AUTO/11066",
-   "photo": "data/cars/7685.jpg",
-   "photos": [
-    "data/cars/7685.jpg",
-    "data/cars/7685_2.jpg",
-    "data/cars/7685_3.jpg",
-    "data/cars/7685_4.jpg"
-   ]
-  },
-  {
-   "title": "Volkswagen Touareg",
-   "year": 2014,
-   "price_usd": 18000,
-   "city": "Запоріжжя",
-   "pct": 22,
-   "market_usd": 23100,
-   "why": "на 22% дешевше за схожі (≈ $23 100)",
-   "link": "https://t.me/avto1_zp/17482",
-   "photo": "data/cars/7657.jpg",
-   "photos": [
-    "data/cars/7657.jpg",
-    "data/cars/7657_2.jpg",
-    "data/cars/7657_3.jpg",
-    "data/cars/7657_4.jpg"
-   ]
-  },
-  {
-   "title": "BMW 5 Series",
-   "year": 2013,
-   "price_usd": 11499,
-   "city": "Одеса",
    "pct": 21,
-   "market_usd": 14550,
-   "why": "на 21% дешевше за схожі (≈ $14 550)",
-   "link": "https://t.me/imperiya_auto/94398",
-   "photo": "data/cars/7706.jpg",
+   "market_usd": 8350,
+   "why": "на 21% дешевше за схожі (≈ $8 350)",
+   "link": "https://t.me/avtobazar_group/215762",
+   "photo": "data/cars/7882.jpg",
    "photos": [
-    "data/cars/7706.jpg",
-    "data/cars/7706_2.jpg",
-    "data/cars/7706_3.jpg",
-    "data/cars/7706_4.jpg"
+    "data/cars/7882.jpg",
+    "data/cars/7882_2.jpg",
+    "data/cars/7882_3.jpg",
+    "data/cars/7882_4.jpg"
    ]
   },
   {
@@ -155,20 +87,88 @@
    ]
   },
   {
-   "title": "BMW X3",
-   "year": 2023,
-   "price_usd": 42000,
-   "city": "Одеса",
+   "title": "BMW 5 Series",
+   "year": 2017,
+   "price_usd": 20800,
+   "city": "Вінниця",
    "pct": 18,
-   "market_usd": 51200,
-   "why": "на 18% дешевше за схожі (≈ $51 200)",
-   "link": "https://t.me/autobazarkyiv1/62188",
-   "photo": "data/cars/7652.jpg",
+   "market_usd": 25350,
+   "why": "на 18% дешевше за схожі (≈ $25 350)",
+   "link": "https://t.me/kievavto2/148122",
+   "photo": "data/cars/7724.jpg",
    "photos": [
-    "data/cars/7652.jpg",
-    "data/cars/7652_2.jpg",
-    "data/cars/7652_3.jpg",
-    "data/cars/7652_4.jpg"
+    "data/cars/7724.jpg",
+    "data/cars/7724_2.jpg",
+    "data/cars/7724_3.jpg",
+    "data/cars/7724_4.jpg"
+   ]
+  },
+  {
+   "title": "Audi A4",
+   "year": 2017,
+   "price_usd": 13700,
+   "city": "Львів",
+   "pct": 18,
+   "market_usd": 16700,
+   "why": "на 18% дешевше за схожі (≈ $16 700)",
+   "link": "https://t.me/GoldCarsLviv/37792",
+   "photo": "data/cars/7871.jpg",
+   "photos": [
+    "data/cars/7871.jpg",
+    "data/cars/7871_2.jpg",
+    "data/cars/7871_3.jpg",
+    "data/cars/7871_4.jpg"
+   ]
+  },
+  {
+   "title": "Mercedes-Benz GLS-Class",
+   "year": 2018,
+   "price_usd": 33299,
+   "city": "",
+   "pct": 17,
+   "market_usd": 40100,
+   "why": "на 17% дешевше за схожі (≈ $40 100)",
+   "link": "https://t.me/avtobazar_group/215317",
+   "photo": "data/cars/7754.jpg",
+   "photos": [
+    "data/cars/7754.jpg",
+    "data/cars/7754_2.jpg",
+    "data/cars/7754_3.jpg",
+    "data/cars/7754_4.jpg"
+   ]
+  },
+  {
+   "title": "Volkswagen Passat",
+   "year": 2010,
+   "price_usd": 5999,
+   "city": "Запоріжжя",
+   "pct": 17,
+   "market_usd": 7250,
+   "why": "на 17% дешевше за схожі (≈ $7 250)",
+   "link": "https://t.me/avto1_zp/17533",
+   "photo": "data/cars/7848.jpg",
+   "photos": [
+    "data/cars/7848.jpg",
+    "data/cars/7848_2.jpg",
+    "data/cars/7848_3.jpg",
+    "data/cars/7848_4.jpg"
+   ]
+  },
+  {
+   "title": "Mazda 6",
+   "year": 2008,
+   "price_usd": 5400,
+   "city": "",
+   "pct": 16,
+   "market_usd": 6450,
+   "why": "на 16% дешевше за схожі (≈ $6 450)",
+   "link": "https://t.me/autobazarrivneua/37488",
+   "photo": "data/cars/7731.jpg",
+   "photos": [
+    "data/cars/7731.jpg",
+    "data/cars/7731_2.jpg",
+    "data/cars/7731_3.jpg",
+    "data/cars/7731_4.jpg"
    ]
   }
  ]
