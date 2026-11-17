@@ -1,22 +1,56 @@
 {
- "updated": "2026-11-17T12:27:06+00:00",
+ "updated": "2026-11-17T16:10:14+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
-   "title": "BMW X5",
-   "year": 2018,
-   "price_usd": 25900,
-   "city": "Біла Церква",
-   "pct": 37,
-   "market_usd": 41100,
-   "why": "на 37% дешевше за схожі (≈ $41 100)",
-   "link": "https://t.me/imperiya_auto_bila_ts/12151",
-   "photo": "data/cars/7721.jpg",
+   "title": "Toyota Camry",
+   "year": 2022,
+   "price_usd": 31000,
+   "city": "Київ",
+   "pct": 42,
+   "market_usd": 53450,
+   "why": "на 42% дешевше за схожі (≈ $53 450)",
+   "link": "https://t.me/kievavto2/148273",
+   "photo": "data/cars/7943.jpg",
    "photos": [
-    "data/cars/7721.jpg",
-    "data/cars/7721_2.jpg",
-    "data/cars/7721_3.jpg",
-    "data/cars/7721_4.jpg"
+    "data/cars/7943.jpg",
+    "data/cars/7943_2.jpg",
+    "data/cars/7943_3.jpg",
+    "data/cars/7943_4.jpg"
+   ]
+  },
+  {
+   "title": "Hyundai Tucson",
+   "year": 2007,
+   "price_usd": 3650,
+   "city": "Рівне",
+   "pct": 51,
+   "market_usd": 7450,
+   "why": "на 51% дешевше за схожі (≈ $7 450)",
+   "link": "https://t.me/ua_autobazar/78530",
+   "photo": "data/cars/7921.jpg",
+   "photos": [
+    "data/cars/7921.jpg",
+    "data/cars/7921_2.jpg",
+    "data/cars/7921_3.jpg",
+    "data/cars/7921_4.jpg"
+   ]
+  },
+  {
+   "title": "Toyota Avensis",
+   "year": 2007,
+   "price_usd": 3250,
+   "city": "Рівне",
+   "pct": 46,
+   "market_usd": 6000,
+   "why": "на 46% дешевше за схожі (≈ $6 000)",
+   "link": "https://t.me/autobazarcherkasyua/34987",
+   "photo": "data/cars/7944.jpg",
+   "photos": [
+    "data/cars/7944.jpg",
+    "data/cars/7944_2.jpg",
+    "data/cars/7944_3.jpg",
+    "data/cars/7944_4.jpg"
    ]
   },
   {
@@ -53,6 +87,23 @@
    ]
   },
   {
+   "title": "Ford Focus",
+   "year": 2013,
+   "price_usd": 5200,
+   "city": "",
+   "pct": 25,
+   "market_usd": 6950,
+   "why": "на 25% дешевше за схожі (≈ $6 950)",
+   "link": "https://t.me/autobazarkhmelnytskyiua/37011",
+   "photo": "data/cars/7960.jpg",
+   "photos": [
+    "data/cars/7960.jpg",
+    "data/cars/7960_2.jpg",
+    "data/cars/7960_3.jpg",
+    "data/cars/7960_4.jpg"
+   ]
+  },
+  {
    "title": "Skoda Octavia",
    "year": 2012,
    "price_usd": 6600,
@@ -70,105 +121,54 @@
    ]
   },
   {
-   "title": "Renault Megane",
-   "year": 2011,
-   "price_usd": 6100,
-   "city": "",
-   "pct": 19,
-   "market_usd": 7550,
-   "why": "на 19% дешевше за схожі (≈ $7 550)",
-   "link": "https://t.me/autosellkyiv/67049",
-   "photo": "data/cars/7819.jpg",
-   "photos": [
-    "data/cars/7819.jpg",
-    "data/cars/7819_2.jpg",
-    "data/cars/7819_3.jpg",
-    "data/cars/7819_4.jpg"
-   ]
-  },
-  {
    "title": "BMW 5 Series",
-   "year": 2017,
-   "price_usd": 20800,
-   "city": "Вінниця",
-   "pct": 18,
-   "market_usd": 25350,
-   "why": "на 18% дешевше за схожі (≈ $25 350)",
-   "link": "https://t.me/kievavto2/148122",
-   "photo": "data/cars/7724.jpg",
-   "photos": [
-    "data/cars/7724.jpg",
-    "data/cars/7724_2.jpg",
-    "data/cars/7724_3.jpg",
-    "data/cars/7724_4.jpg"
-   ]
-  },
-  {
-   "title": "Audi A4",
-   "year": 2017,
-   "price_usd": 13700,
-   "city": "Львів",
-   "pct": 18,
-   "market_usd": 16700,
-   "why": "на 18% дешевше за схожі (≈ $16 700)",
-   "link": "https://t.me/GoldCarsLviv/37792",
-   "photo": "data/cars/7871.jpg",
-   "photos": [
-    "data/cars/7871.jpg",
-    "data/cars/7871_2.jpg",
-    "data/cars/7871_3.jpg",
-    "data/cars/7871_4.jpg"
-   ]
-  },
-  {
-   "title": "Mercedes-Benz GLS-Class",
-   "year": 2018,
-   "price_usd": 33299,
+   "year": 2002,
+   "price_usd": 5200,
    "city": "",
-   "pct": 17,
-   "market_usd": 40100,
-   "why": "на 17% дешевше за схожі (≈ $40 100)",
-   "link": "https://t.me/avtobazar_group/215317",
-   "photo": "data/cars/7754.jpg",
+   "pct": 21,
+   "market_usd": 6600,
+   "why": "на 21% дешевше за схожі (≈ $6 600)",
+   "link": "https://t.me/autobazarivanofrankivsk/43170",
+   "photo": "data/cars/7945.jpg",
    "photos": [
-    "data/cars/7754.jpg",
-    "data/cars/7754_2.jpg",
-    "data/cars/7754_3.jpg",
-    "data/cars/7754_4.jpg"
+    "data/cars/7945.jpg",
+    "data/cars/7945_2.jpg",
+    "data/cars/7945_3.jpg",
+    "data/cars/7945_4.jpg"
    ]
   },
   {
-   "title": "Volkswagen Passat",
-   "year": 2010,
-   "price_usd": 5999,
-   "city": "Запоріжжя",
-   "pct": 17,
-   "market_usd": 7250,
-   "why": "на 17% дешевше за схожі (≈ $7 250)",
-   "link": "https://t.me/avto1_zp/17533",
-   "photo": "data/cars/7848.jpg",
+   "title": "Skoda Superb",
+   "year": 2012,
+   "price_usd": 8250,
+   "city": "Кривий Ріг",
+   "pct": 20,
+   "market_usd": 10300,
+   "why": "на 20% дешевше за схожі (≈ $10 300)",
+   "link": "https://t.me/vechirnii20/22407",
+   "photo": "data/cars/7922.jpg",
    "photos": [
-    "data/cars/7848.jpg",
-    "data/cars/7848_2.jpg",
-    "data/cars/7848_3.jpg",
-    "data/cars/7848_4.jpg"
+    "data/cars/7922.jpg",
+    "data/cars/7922_2.jpg",
+    "data/cars/7922_3.jpg",
+    "data/cars/7922_4.jpg"
    ]
   },
   {
-   "title": "Mazda 6",
-   "year": 2008,
-   "price_usd": 5400,
-   "city": "",
-   "pct": 16,
-   "market_usd": 6450,
-   "why": "на 16% дешевше за схожі (≈ $6 450)",
-   "link": "https://t.me/autobazarrivneua/37488",
-   "photo": "data/cars/7731.jpg",
+   "title": "Toyota Land Cruiser",
+   "year": 2013,
+   "price_usd": 24000,
+   "city": "Ужгород",
+   "pct": 20,
+   "market_usd": 30000,
+   "why": "на 20% дешевше за схожі (≈ $30 000)",
+   "link": "https://t.me/avtobazar_group/215890",
+   "photo": "data/cars/7948.jpg",
    "photos": [
-    "data/cars/7731.jpg",
-    "data/cars/7731_2.jpg",
-    "data/cars/7731_3.jpg",
-    "data/cars/7731_4.jpg"
+    "data/cars/7948.jpg",
+    "data/cars/7948_2.jpg",
+    "data/cars/7948_3.jpg",
+    "data/cars/7948_4.jpg"
    ]
   }
  ]
