@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T20:27:04+00:00",
+ "updated": "2026-11-17T00:27:05+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -51,6 +51,22 @@
     "data/cars/7668_2.jpg",
     "data/cars/7668_3.jpg",
     "data/cars/7668_4.jpg"
+   ]
+  },
+  {
+   "title": "Volkswagen Passat",
+   "year": 2015,
+   "price_usd": 7186,
+   "city": "",
+   "pct": 42,
+   "market_usd": 12400,
+   "why": "на 42% дешевше за схожі (≈ $12 400)",
+   "link": "https://t.me/avtobazar_group/215473",
+   "photo": "data/cars/7803.jpg",
+   "photos": [
+    "data/cars/7803.jpg",
+    "data/cars/7803_2.jpg",
+    "data/cars/7803_3.jpg"
    ]
   },
   {
@@ -148,23 +164,6 @@
     "data/cars/7652_2.jpg",
     "data/cars/7652_3.jpg",
     "data/cars/7652_4.jpg"
-   ]
-  },
-  {
-   "title": "Porsche Panamera",
-   "year": 2017,
-   "price_usd": 39990,
-   "city": "",
-   "pct": 18,
-   "market_usd": 48750,
-   "why": "на 18% дешевше за схожі (≈ $48 750)",
-   "link": "https://t.me/autofocus_ua_tg/71526",
-   "photo": "data/cars/7710.jpg",
-   "photos": [
-    "data/cars/7710.jpg",
-    "data/cars/7710_2.jpg",
-    "data/cars/7710_3.jpg",
-    "data/cars/7710_4.jpg"
    ]
   }
  ]
