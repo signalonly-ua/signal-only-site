@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-17T13:37:26+00:00",
+ "updated": "2026-11-17T14:37:29+00:00",
  "news": [
+  {
+   "title": "«Мій рот щасливий». Євген Клопотенко назвав п’ять закладів Києва, обов’язкових для іноземців",
+   "source": "NV",
+   "link": "https://nv.ua/ukr/food/restaurants/ukrajinska-jizha-v-kiyevi-p-yat-zakladiv-vid-klopotenka-dlya-inozemciv-50659843.html",
+   "photo": "data/news/f847e16da014.jpg",
+   "date": "2026-11-17"
+  },
   {
    "title": "Спортсмени із Сумщини здобули 14 нагород на чемпіонаті світу з військово-спортивних багатоборств у Польщі",
    "source": "Суспільне",
@@ -10,7 +17,7 @@
   },
   {
    "title": "Зеленський нагородив відзнакою «За мужність та відвагу» 53-тю бригаду Сухопутних військ",
-   "source": "Укрінформ",
+   "source": "Укрінформ: фронт",
    "link": "https://www.ukrinform.ua/rubric-ato/4185588-zelenskij-nagorodiv-vidznakou-za-muznist-ta-vidvagu-53tu-brigadu-suhoputnih-vijsk.html",
    "photo": "data/news/59385d796c39.jpg",
    "date": "2026-11-17"
@@ -21,13 +28,6 @@
    "link": "https://tsn.ua/ukrayina/u-zaporizzi-z-pid-zavaliv-vriatuvaly-51-richnu-zinku-shcho-vidomo-pro-yiyi-stan-3218711.html",
    "photo": "data/news/d665acf53a39.jpg",
    "date": "2026-11-17"
-  },
-  {
-   "title": "Зеленський зустрівся з аграріями та відзначив їх державними нагородами",
-   "source": "Укрінформ: суспільство",
-   "link": "https://www.ukrinform.ua/rubric-society/4185345-zelenskij-zustrivsa-z-agrariami-ta-vidznaciv-ih-derzavnimi-nagorodami.html",
-   "photo": "data/news/c44718d47715.jpg",
-   "date": "2026-11-16"
   }
  ]
 }
