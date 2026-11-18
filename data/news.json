@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-18T10:37:25+00:00",
+ "updated": "2026-11-18T11:37:26+00:00",
  "news": [
+  {
+   "title": "Вижив після удару струмом у 6000 вольт: у Львові лікарі врятували руку електромонтеру",
+   "source": "Укрінформ",
+   "link": "https://www.ukrinform.ua/rubric-regions/4185962-viziv-pisla-udaru-strumom-u-6000-volt-u-lvovi-likari-vratuvali-ruku-elektromonteru.html",
+   "photo": "data/news/db56f8c85e7e.jpg",
+   "date": "2026-11-18"
+  },
   {
    "title": "«Як я залишився живий, не розумію». Львівські медики врятували електрика, якого уразило струмом у 6000 вольт",
    "source": "NV",
@@ -20,13 +27,6 @@
    "source": "Суспільне",
    "link": "https://suspilne.media/sumy/1454406-ak-a-zalisivsa-zivij-ne-rozumiu-u-lvovi-vratuvali-ruku-elektromonteru-iz-sum-akogo-vrazilo-strumom-u-6000-v/",
    "photo": "data/news/34d9fdf6b1b2.jpg",
-   "date": "2026-11-18"
-  },
-  {
-   "title": "Гроші та успіх надовго: чотири знаки китайського зодіаку стануть щасливчиками 18 листопада",
-   "source": "ТСН",
-   "link": "https://tsn.ua/astrologiya/hroshi-ta-uspikh-nadovho-chotyry-znaky-kytayskoho-zodiaku-stanut-shchaslyvchykamy-18-lystopada-3219583.html",
-   "photo": "data/news/28aa99b60aee.jpg",
    "date": "2026-11-18"
   }
  ]
