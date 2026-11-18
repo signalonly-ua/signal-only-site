@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-18T09:37:28+00:00",
+ "updated": "2026-11-18T10:37:25+00:00",
  "news": [
+  {
+   "title": "«Як я залишився живий, не розумію». Львівські медики врятували електрика, якого уразило струмом у 6000 вольт",
+   "source": "NV",
+   "link": "https://nv.ua/ukr/socium/udar-strumom-u-6000-volt-lvivski-mediki-vryatuvali-elektrika-z-sum-cherez-opik-vin-vtrativ-ruku-50660226.html",
+   "photo": "data/news/e793974d4518.jpg",
+   "date": "2026-11-18"
+  },
+  {
+   "title": "На Львівщині надзвичайники врятували корову, яка загрузла в озері",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/lviv/1454445-na-lvivsini-nadzvicajniki-vratuvali-korovu-aka-zagruzla-v-ozeri/",
+   "photo": "data/news/b6280a8c6986.jpg",
+   "date": "2026-11-18"
+  },
   {
    "title": "«Як я залишився живий – не розумію»: у Львові врятували руку електромонтеру із Сум, якого вразило струмом у 6000 В",
    "source": "Суспільне",
@@ -9,25 +23,11 @@
    "date": "2026-11-18"
   },
   {
-   "title": "Дім, де не можеш заснути, або Місця щасливих людей: Христина Морозова про відчуття дому",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/culture/1453845-dim-de-ne-mozes-zasnuti-abo-misca-saslivih-ludej-hristina-morozova-pro-vidcutta-domu/",
-   "photo": "data/news/c30dff5bebe9.jpg",
-   "date": "2026-11-18"
-  },
-  {
    "title": "Гроші та успіх надовго: чотири знаки китайського зодіаку стануть щасливчиками 18 листопада",
    "source": "ТСН",
    "link": "https://tsn.ua/astrologiya/hroshi-ta-uspikh-nadovho-chotyry-znaky-kytayskoho-zodiaku-stanut-shchaslyvchykamy-18-lystopada-3219583.html",
    "photo": "data/news/28aa99b60aee.jpg",
    "date": "2026-11-18"
-  },
-  {
-   "title": "Астролог Хейл назвала щасливчиків: яким знакам Зодіаку прогнозують успіх до 22 листопада",
-   "source": "РБК-Україна",
-   "link": "https://styler.rbc.ua/rus/horoscopes/astrolog-heyl-nazvala-shchaslivchikiv-kim-1794913664.html",
-   "photo": "data/news/9bc0cf1a2f9e.jpg",
-   "date": "2026-11-17"
   }
  ]
 }
