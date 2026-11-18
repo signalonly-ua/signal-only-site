@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:10:17+00:00",
+ "updated": "2026-11-18T20:10:17+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -20,20 +20,20 @@
    ]
   },
   {
-   "title": "Mazda 3",
-   "year": 2023,
-   "price_usd": 12500,
+   "title": "BMW X7",
+   "year": 2021,
+   "price_usd": 52000,
    "city": "Київ",
-   "pct": 37,
-   "market_usd": 19850,
-   "why": "на 37% дешевше за схожі (≈ $19 850)",
-   "link": "https://t.me/avtobazar_group/215956",
-   "photo": "data/cars/7977.jpg",
+   "pct": 22,
+   "market_usd": 66650,
+   "why": "на 22% дешевше за схожі (≈ $66 650)",
+   "link": "https://t.me/kievavto2/148410",
+   "photo": "data/cars/8125.jpg",
    "photos": [
-    "data/cars/7977.jpg",
-    "data/cars/7977_2.jpg",
-    "data/cars/7977_3.jpg",
-    "data/cars/7977_4.jpg"
+    "data/cars/8125.jpg",
+    "data/cars/8125_2.jpg",
+    "data/cars/8125_3.jpg",
+    "data/cars/8125_4.jpg"
    ]
   },
   {
@@ -51,23 +51,6 @@
     "data/cars/8013_2.jpg",
     "data/cars/8013_3.jpg",
     "data/cars/8013_4.jpg"
-   ]
-  },
-  {
-   "title": "Lexus RX",
-   "year": 2022,
-   "price_usd": 42499,
-   "city": "Київ",
-   "pct": 15,
-   "market_usd": 50000,
-   "why": "на 15% дешевше за схожі (≈ $50 000)",
-   "link": "https://t.me/avtobazar_group/215942",
-   "photo": "data/cars/7971.jpg",
-   "photos": [
-    "data/cars/7971.jpg",
-    "data/cars/7971_2.jpg",
-    "data/cars/7971_3.jpg",
-    "data/cars/7971_4.jpg"
    ]
   },
   {
@@ -148,6 +131,23 @@
     "data/cars/8027_2.jpg",
     "data/cars/8027_3.jpg",
     "data/cars/8027_4.jpg"
+   ]
+  },
+  {
+   "title": "Renault Megane",
+   "year": 2010,
+   "price_usd": 5000,
+   "city": "",
+   "pct": 17,
+   "market_usd": 6000,
+   "why": "на 17% дешевше за схожі (≈ $6 000)",
+   "link": "https://t.me/autobazar_zp/44074",
+   "photo": "data/cars/8129.jpg",
+   "photos": [
+    "data/cars/8129.jpg",
+    "data/cars/8129_2.jpg",
+    "data/cars/8129_3.jpg",
+    "data/cars/8129_4.jpg"
    ]
   },
   {
