@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T04:10:15+00:00",
+ "updated": "2026-11-18T08:10:16+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -34,6 +34,23 @@
     "data/cars/7977_2.jpg",
     "data/cars/7977_3.jpg",
     "data/cars/7977_4.jpg"
+   ]
+  },
+  {
+   "title": "BMW X6",
+   "year": 2024,
+   "price_usd": 75000,
+   "city": "Київ",
+   "pct": 21,
+   "market_usd": 94950,
+   "why": "на 21% дешевше за схожі (≈ $94 950)",
+   "link": "https://t.me/kievavto2/148334",
+   "photo": "data/cars/8013.jpg",
+   "photos": [
+    "data/cars/8013.jpg",
+    "data/cars/8013_2.jpg",
+    "data/cars/8013_3.jpg",
+    "data/cars/8013_4.jpg"
    ]
   },
   {
@@ -85,23 +102,6 @@
     "data/cars/7944_2.jpg",
     "data/cars/7944_3.jpg",
     "data/cars/7944_4.jpg"
-   ]
-  },
-  {
-   "title": "BMW X5",
-   "year": 2013,
-   "price_usd": 12100,
-   "city": "Луцьк",
-   "pct": 40,
-   "market_usd": 20150,
-   "why": "на 40% дешевше за схожі (≈ $20 150)",
-   "link": "https://t.me/avtobazar_group/215573",
-   "photo": "data/cars/7810.jpg",
-   "photos": [
-    "data/cars/7810.jpg",
-    "data/cars/7810_2.jpg",
-    "data/cars/7810_3.jpg",
-    "data/cars/7810_4.jpg"
    ]
   },
   {
