@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-18T12:10:16+00:00",
+ "updated": "2026-11-18T16:10:17+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
-   "title": "Toyota Camry",
-   "year": 2022,
-   "price_usd": 31000,
-   "city": "Київ",
-   "pct": 42,
-   "market_usd": 53450,
-   "why": "на 42% дешевше за схожі (≈ $53 450)",
-   "link": "https://t.me/kievavto2/148273",
-   "photo": "data/cars/7943.jpg",
+   "title": "BMW X5",
+   "year": 2005,
+   "price_usd": 5600,
+   "city": "Біла Церква",
+   "pct": 49,
+   "market_usd": 11000,
+   "why": "на 49% дешевше за схожі (≈ $11 000)",
+   "link": "https://t.me/avtobazar_group/216397",
+   "photo": "data/cars/8084.jpg",
    "photos": [
-    "data/cars/7943.jpg",
-    "data/cars/7943_2.jpg",
-    "data/cars/7943_3.jpg",
-    "data/cars/7943_4.jpg"
+    "data/cars/8084.jpg",
+    "data/cars/8084_2.jpg",
+    "data/cars/8084_3.jpg",
+    "data/cars/8084_4.jpg"
    ]
   },
   {
@@ -83,54 +83,37 @@
    "photos": []
   },
   {
-   "title": "Hyundai Tucson",
-   "year": 2007,
-   "price_usd": 3650,
-   "city": "Рівне",
-   "pct": 51,
-   "market_usd": 7450,
-   "why": "на 51% дешевше за схожі (≈ $7 450)",
-   "link": "https://t.me/ua_autobazar/78530",
-   "photo": "data/cars/7921.jpg",
+   "title": "BMW X5",
+   "year": 2005,
+   "price_usd": 5800,
+   "city": "Одеса",
+   "pct": 47,
+   "market_usd": 10950,
+   "why": "на 47% дешевше за схожі (≈ $10 950)",
+   "link": "https://t.me/avtobazar_group/216314",
+   "photo": "data/cars/8063.jpg",
    "photos": [
-    "data/cars/7921.jpg",
-    "data/cars/7921_2.jpg",
-    "data/cars/7921_3.jpg",
-    "data/cars/7921_4.jpg"
+    "data/cars/8063.jpg",
+    "data/cars/8063_2.jpg",
+    "data/cars/8063_3.jpg",
+    "data/cars/8063_4.jpg"
    ]
   },
   {
-   "title": "Toyota Avensis",
-   "year": 2007,
-   "price_usd": 3250,
-   "city": "Рівне",
-   "pct": 46,
-   "market_usd": 6000,
-   "why": "на 46% дешевше за схожі (≈ $6 000)",
-   "link": "https://t.me/autobazarcherkasyua/34987",
-   "photo": "data/cars/7944.jpg",
-   "photos": [
-    "data/cars/7944.jpg",
-    "data/cars/7944_2.jpg",
-    "data/cars/7944_3.jpg",
-    "data/cars/7944_4.jpg"
-   ]
-  },
-  {
-   "title": "Ford Focus",
-   "year": 2013,
-   "price_usd": 5200,
+   "title": "Volkswagen Golf",
+   "year": 2002,
+   "price_usd": 2300,
    "city": "",
-   "pct": 25,
-   "market_usd": 6950,
-   "why": "на 25% дешевше за схожі (≈ $6 950)",
-   "link": "https://t.me/autobazarkhmelnytskyiua/37011",
-   "photo": "data/cars/7960.jpg",
+   "pct": 30,
+   "market_usd": 3300,
+   "why": "на 30% дешевше за схожі (≈ $3 300)",
+   "link": "https://t.me/robota_in_uzhgorod/26299",
+   "photo": "data/cars/8107.jpg",
    "photos": [
-    "data/cars/7960.jpg",
-    "data/cars/7960_2.jpg",
-    "data/cars/7960_3.jpg",
-    "data/cars/7960_4.jpg"
+    "data/cars/8107.jpg",
+    "data/cars/8107_2.jpg",
+    "data/cars/8107_3.jpg",
+    "data/cars/8107_4.jpg"
    ]
   },
   {
@@ -151,20 +134,37 @@
    ]
   },
   {
-   "title": "BMW 5 Series",
-   "year": 2002,
-   "price_usd": 5200,
+   "title": "BMW 3 Series",
+   "year": 2022,
+   "price_usd": 25000,
    "city": "",
    "pct": 21,
-   "market_usd": 6600,
-   "why": "на 21% дешевше за схожі (≈ $6 600)",
-   "link": "https://t.me/autobazarivanofrankivsk/43170",
-   "photo": "data/cars/7945.jpg",
+   "market_usd": 31650,
+   "why": "на 21% дешевше за схожі (≈ $31 650)",
+   "link": "https://t.me/kievavto2/148344",
+   "photo": "data/cars/8027.jpg",
    "photos": [
-    "data/cars/7945.jpg",
-    "data/cars/7945_2.jpg",
-    "data/cars/7945_3.jpg",
-    "data/cars/7945_4.jpg"
+    "data/cars/8027.jpg",
+    "data/cars/8027_2.jpg",
+    "data/cars/8027_3.jpg",
+    "data/cars/8027_4.jpg"
+   ]
+  },
+  {
+   "title": "Audi A6",
+   "year": 2007,
+   "price_usd": 6500,
+   "city": "",
+   "pct": 16,
+   "market_usd": 7750,
+   "why": "на 16% дешевше за схожі (≈ $7 750)",
+   "link": "https://t.me/avtobazar_group/216300",
+   "photo": "data/cars/8056.jpg",
+   "photos": [
+    "data/cars/8056.jpg",
+    "data/cars/8056_2.jpg",
+    "data/cars/8056_3.jpg",
+    "data/cars/8056_4.jpg"
    ]
   }
  ]
