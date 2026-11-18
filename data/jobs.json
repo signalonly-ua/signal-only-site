@@ -1,7 +1,43 @@
 {
- "updated": "2026-11-18T19:10:34+00:00",
+ "updated": "2026-11-18T21:10:34+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Кухар",
+   "city": "Київ",
+   "district": "Голосіївський р-н",
+   "salary": "1 800 грн",
+   "employment": "",
+   "date": "2026-11-18T20:06:25+00:00",
+   "link": "https://t.me/kiev_rabota8/69349"
+  },
+  {
+   "position": "Кухар",
+   "city": "Вінниця",
+   "district": "",
+   "salary": "від 32 000 грн",
+   "employment": "",
+   "date": "2026-11-18T19:29:49+00:00",
+   "link": "https://t.me/vinnitsa_rabota_vakansii/7966"
+  },
+  {
+   "position": "Кухар",
+   "city": "Івано-Франківськ",
+   "district": "",
+   "salary": "",
+   "employment": "Позмінно",
+   "date": "2026-11-18T19:27:02+00:00",
+   "link": "https://t.me/rabotaq_podrabotkaq_if/32016"
+  },
+  {
+   "position": "Касир",
+   "city": "Київ",
+   "district": "Подільський р-н",
+   "salary": "від 20 000 грн",
+   "employment": "",
+   "date": "2026-11-18T19:27:02+00:00",
+   "link": "https://t.me/erobota_kyiv/195729"
+  },
   {
    "position": "Касир",
    "city": "Київ",
@@ -145,42 +181,6 @@
    "employment": "Позмінно (7/7)",
    "date": "2026-11-18T17:28:48+00:00",
    "link": "https://t.me/kyiv_jobs/14784"
-  },
-  {
-   "position": "Касир, Продавець",
-   "city": "Київ",
-   "district": "Солом'янський р-н",
-   "salary": "від 29 000 грн",
-   "employment": "Повна зайнятість · Позмінно (3/3)",
-   "date": "2026-11-18T17:25:53+00:00",
-   "link": "https://t.me/workua_kyiv/92485"
-  },
-  {
-   "position": "Продавець-консультант",
-   "city": "Суми",
-   "district": "",
-   "salary": "",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-18T17:25:53+00:00",
-   "link": "https://t.me/sumy_rabota_robota_podrabotka2/49139"
-  },
-  {
-   "position": "Пакувальник",
-   "city": "Кропивницький",
-   "district": "",
-   "salary": "",
-   "employment": "",
-   "date": "2026-11-18T17:25:53+00:00",
-   "link": "https://t.me/robota_rabota_kropivnitsky_2/28185"
-  },
-  {
-   "position": "Комплектувальник",
-   "city": "Івано-Франківськ",
-   "district": "",
-   "salary": "від 39 000 грн",
-   "employment": "Стажування",
-   "date": "2026-11-18T17:25:53+00:00",
-   "link": "https://t.me/rabotaq_podrabotkaq_if/32013"
   }
  ]
 }
