@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-18T21:37:26+00:00",
+ "updated": "2026-11-18T22:37:26+00:00",
  "news": [
+  {
+   "title": "Мем, що дратував маму, врятував їй життя: 5-річний хлопчик вразив диспетчерів швидкої",
+   "source": "ТСН",
+   "link": "https://tsn.ua/svit/mem-shcho-dratuvav-mamu-vriatuvav-yiy-zyttia-5-richnyy-khlopchyk-vrazyv-dyspetcheriv-shvydkoyi-3220771.html",
+   "photo": "data/news/56ca051a7eb8.jpg",
+   "date": "2026-11-18"
+  },
   {
    "title": "«Діти щасливі». Миколаївській спецшколі передали книжки в межах міжнародного проєкту Books for Ukraine",
    "source": "Суспільне",
@@ -20,13 +27,6 @@
    "source": "Укрінформ: суспільство",
    "link": "https://www.ukrinform.ua/rubric-society/4186027-zelenskij-nagorodiv-488-serzantiv-i-starsin-zsu.html",
    "photo": "data/news/13e09af6d6f0.jpg",
-   "date": "2026-11-18"
-  },
-  {
-   "title": "Вижив після удару струмом у 6000 вольт: у Львові лікарі врятували руку електромонтеру",
-   "source": "Укрінформ: регіони",
-   "link": "https://www.ukrinform.ua/rubric-regions/4185962-viziv-pisla-udaru-strumom-u-6000-volt-u-lvovi-likari-vratuvali-ruku-elektromonteru.html",
-   "photo": "data/news/db56f8c85e7e.jpg",
    "date": "2026-11-18"
   }
  ]
