@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-18T03:37:25+00:00",
+ "updated": "2026-11-18T04:37:24+00:00",
  "news": [
+  {
+   "title": "Гроші та успіх надовго: чотири знаки китайського зодіаку стануть щасливчиками 18 листопада",
+   "source": "ТСН",
+   "link": "https://tsn.ua/astrologiya/hroshi-ta-uspikh-nadovho-chotyry-znaky-kytayskoho-zodiaku-stanut-shchaslyvchykamy-18-lystopada-3219583.html",
+   "photo": "data/news/28aa99b60aee.jpg",
+   "date": "2026-11-18"
+  },
   {
    "title": "Астролог Хейл назвала щасливчиків: яким знакам Зодіаку прогнозують успіх до 22 листопада",
    "source": "РБК-Україна",
@@ -20,13 +27,6 @@
    "source": "УНІАН",
    "link": "https://www.unian.ua/lite/astrology/numerologiya-za-misyacem-narodzhennya-ci-lyudi-mayut-naykazkovishu-auru-13562475.html",
    "photo": "data/news/0e02bddb7481.jpg",
-   "date": "2026-11-17"
-  },
-  {
-   "title": "Президент відзначив державними нагородами з нагоди Дня працівників радіо, телебачення та зв'язку: повний список",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/culture/1454228-prezident-vidznaciv-derzavnimi-nagorodami-z-nagodi-dna-pracivnikiv-radio-telebacenna-ta-zvazku-povnij-spisok/",
-   "photo": "data/news/82931ee00160.jpg",
    "date": "2026-11-17"
   }
  ]
