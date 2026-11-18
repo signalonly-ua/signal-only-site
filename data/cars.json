@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:10:15+00:00",
+ "updated": "2026-11-18T00:10:15+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -88,22 +88,6 @@
    ]
   },
   {
-   "title": "Volkswagen Passat",
-   "year": 2015,
-   "price_usd": 7186,
-   "city": "",
-   "pct": 42,
-   "market_usd": 12400,
-   "why": "на 42% дешевше за схожі (≈ $12 400)",
-   "link": "https://t.me/avtobazar_group/215473",
-   "photo": "data/cars/7803.jpg",
-   "photos": [
-    "data/cars/7803.jpg",
-    "data/cars/7803_2.jpg",
-    "data/cars/7803_3.jpg"
-   ]
-  },
-  {
    "title": "BMW X5",
    "year": 2013,
    "price_usd": 12100,
@@ -169,6 +153,23 @@
     "data/cars/7945_2.jpg",
     "data/cars/7945_3.jpg",
     "data/cars/7945_4.jpg"
+   ]
+  },
+  {
+   "title": "Skoda Superb",
+   "year": 2012,
+   "price_usd": 8250,
+   "city": "Кривий Ріг",
+   "pct": 20,
+   "market_usd": 10300,
+   "why": "на 20% дешевше за схожі (≈ $10 300)",
+   "link": "https://t.me/vechirnii20/22407",
+   "photo": "data/cars/7922.jpg",
+   "photos": [
+    "data/cars/7922.jpg",
+    "data/cars/7922_2.jpg",
+    "data/cars/7922_3.jpg",
+    "data/cars/7922_4.jpg"
    ]
   }
  ]
