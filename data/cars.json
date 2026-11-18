@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T08:10:16+00:00",
+ "updated": "2026-11-18T12:10:16+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -71,6 +71,18 @@
    ]
   },
   {
+   "title": "Volkswagen Passat",
+   "year": 2015,
+   "price_usd": 10290,
+   "city": "Київ",
+   "pct": 15,
+   "market_usd": 12100,
+   "why": "на 15% дешевше за схожі (≈ $12 100)",
+   "link": "https://t.me/autoparkua4/85180",
+   "photo": "",
+   "photos": []
+  },
+  {
    "title": "Hyundai Tucson",
    "year": 2007,
    "price_usd": 3650,
@@ -123,19 +135,19 @@
   },
   {
    "title": "Skoda Octavia",
-   "year": 2012,
-   "price_usd": 6600,
-   "city": "",
-   "pct": 21,
-   "market_usd": 8350,
-   "why": "на 21% дешевше за схожі (≈ $8 350)",
-   "link": "https://t.me/avtobazar_group/215762",
-   "photo": "data/cars/7882.jpg",
+   "year": 2020,
+   "price_usd": 14000,
+   "city": "Львів",
+   "pct": 23,
+   "market_usd": 18200,
+   "why": "на 23% дешевше за схожі (≈ $18 200)",
+   "link": "https://t.me/avtobazar_group/216257",
+   "photo": "data/cars/8050.jpg",
    "photos": [
-    "data/cars/7882.jpg",
-    "data/cars/7882_2.jpg",
-    "data/cars/7882_3.jpg",
-    "data/cars/7882_4.jpg"
+    "data/cars/8050.jpg",
+    "data/cars/8050_2.jpg",
+    "data/cars/8050_3.jpg",
+    "data/cars/8050_4.jpg"
    ]
   },
   {
@@ -153,23 +165,6 @@
     "data/cars/7945_2.jpg",
     "data/cars/7945_3.jpg",
     "data/cars/7945_4.jpg"
-   ]
-  },
-  {
-   "title": "Skoda Superb",
-   "year": 2012,
-   "price_usd": 8250,
-   "city": "Кривий Ріг",
-   "pct": 20,
-   "market_usd": 10300,
-   "why": "на 20% дешевше за схожі (≈ $10 300)",
-   "link": "https://t.me/vechirnii20/22407",
-   "photo": "data/cars/7922.jpg",
-   "photos": [
-    "data/cars/7922.jpg",
-    "data/cars/7922_2.jpg",
-    "data/cars/7922_3.jpg",
-    "data/cars/7922_4.jpg"
    ]
   }
  ]
