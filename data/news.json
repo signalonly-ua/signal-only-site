@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-19T17:37:27+00:00",
+ "updated": "2026-11-19T18:37:31+00:00",
  "news": [
+  {
+   "title": "Кузьма Скрябін врятував відому акторку в Парижі: вона розповіла про моторошний випадок",
+   "source": "ТСН",
+   "link": "https://tsn.ua/glamur/kuzma-skriabin-uriatuvav-vidomu-aktorku-v-paryzi-vona-rozpovila-pro-motoroshnyy-vypadok-3221691.html",
+   "photo": "data/news/84f923aaf9ee.jpg",
+   "date": "2026-11-19"
+  },
   {
    "title": "Люди, які народилися в ці 3 місяці, найщасливіші на самоті",
    "source": "УНІАН",
@@ -20,13 +27,6 @@
    "source": "Суспільне",
    "link": "https://suspilne.media/ternopil/1455059-alea-vdacnosti-na-ternopilsini-pereselenci-posadili-dereva/",
    "photo": "data/news/fe2a35c9ccd9.jpg",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Світоліна та Костюк претендують на нагороди WTA Awards",
-   "source": "Укрінформ: спорт",
-   "link": "https://www.ukrinform.ua/rubric-sports/4186442-svitolina-ta-kostuk-pretenduut-na-nagorodi-wta-awards.html",
-   "photo": "data/news/6f25a8b72021.jpg",
    "date": "2026-11-19"
   }
  ]
