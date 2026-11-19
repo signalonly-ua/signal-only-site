@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-19T10:37:25+00:00",
+ "updated": "2026-11-19T11:37:28+00:00",
  "news": [
+  {
+   "title": "Закарпатська танцювальна студія здобула три нагороди на чемпіонаті World of Dance у Відні",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/uzhhorod/1454926-tancuvalna-studia-z-mukaceva-zdobula-tri-nagorodi-na-cempionati-world-dance-u-vidni/",
+   "photo": "data/news/ad24ebad810c.jpg",
+   "date": "2026-11-19"
+  },
   {
    "title": "Фіалка в'яне восени: як знайти причину та врятувати кімнатну рослину",
    "source": "РБК-Україна",
@@ -21,13 +28,6 @@
    "link": "https://suspilne.media/1454749-u-ssa-namagautsa-vratuvati-begemota-fionu-aka-prokovtnula-vazanu-sapku/",
    "photo": "data/news/35242dfe4ffe.jpg",
    "date": "2026-11-19"
-  },
-  {
-   "title": "Мем, що дратував маму, врятував їй життя: 5-річний хлопчик вразив диспетчерів швидкої",
-   "source": "ТСН",
-   "link": "https://tsn.ua/svit/mem-shcho-dratuvav-mamu-vriatuvav-yiy-zyttia-5-richnyy-khlopchyk-vrazyv-dyspetcheriv-shvydkoyi-3220771.html",
-   "photo": "data/news/56ca051a7eb8.jpg",
-   "date": "2026-11-18"
   }
  ]
 }
