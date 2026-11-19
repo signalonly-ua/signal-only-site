@@ -1,24 +1,7 @@
 {
- "updated": "2026-11-19T12:10:18+00:00",
+ "updated": "2026-11-19T16:10:19+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "BMW X5",
-   "year": 2005,
-   "price_usd": 5600,
-   "city": "Біла Церква",
-   "pct": 49,
-   "market_usd": 11000,
-   "why": "на 49% дешевше за схожі (≈ $11 000)",
-   "link": "https://t.me/avtobazar_group/216397",
-   "photo": "data/cars/8084.jpg",
-   "photos": [
-    "data/cars/8084.jpg",
-    "data/cars/8084_2.jpg",
-    "data/cars/8084_3.jpg",
-    "data/cars/8084_4.jpg"
-   ]
-  },
   {
    "title": "Peugeot 207",
    "year": 2008,
@@ -88,37 +71,52 @@
    ]
   },
   {
-   "title": "BMW X5",
-   "year": 2005,
-   "price_usd": 5800,
-   "city": "Одеса",
-   "pct": 47,
-   "market_usd": 10950,
-   "why": "на 47% дешевше за схожі (≈ $10 950)",
-   "link": "https://t.me/avtobazar_group/216314",
-   "photo": "data/cars/8063.jpg",
+   "title": "Opel Insignia",
+   "year": 2012,
+   "price_usd": 5200,
+   "city": "",
+   "pct": 31,
+   "market_usd": 7550,
+   "why": "на 31% дешевше за схожі (≈ $7 550)",
+   "link": "https://t.me/hardlux_auto/11855",
+   "photo": "data/cars/8233.jpg",
    "photos": [
-    "data/cars/8063.jpg",
-    "data/cars/8063_2.jpg",
-    "data/cars/8063_3.jpg",
-    "data/cars/8063_4.jpg"
+    "data/cars/8233.jpg",
+    "data/cars/8233_2.jpg",
+    "data/cars/8233_3.jpg",
+    "data/cars/8233_4.jpg"
    ]
   },
   {
-   "title": "Volkswagen Golf",
-   "year": 2002,
-   "price_usd": 2300,
-   "city": "",
-   "pct": 30,
-   "market_usd": 3300,
-   "why": "на 30% дешевше за схожі (≈ $3 300)",
-   "link": "https://t.me/robota_in_uzhgorod/26299",
-   "photo": "data/cars/8107.jpg",
+   "title": "Skoda Fabia",
+   "year": 2009,
+   "price_usd": 3900,
+   "city": "Запоріжжя",
+   "pct": 26,
+   "market_usd": 5250,
+   "why": "на 26% дешевше за схожі (≈ $5 250)",
+   "link": "https://t.me/avto1_zp/17670",
+   "photo": "data/cars/8226.jpg",
    "photos": [
-    "data/cars/8107.jpg",
-    "data/cars/8107_2.jpg",
-    "data/cars/8107_3.jpg",
-    "data/cars/8107_4.jpg"
+    "data/cars/8226.jpg",
+    "data/cars/8226_2.jpg"
+   ]
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2003,
+   "price_usd": 6400,
+   "city": "",
+   "pct": 18,
+   "market_usd": 7800,
+   "why": "на 18% дешевше за схожі (≈ $7 800)",
+   "link": "https://t.me/autobazarvinnytsia/45481",
+   "photo": "data/cars/8249.jpg",
+   "photos": [
+    "data/cars/8249.jpg",
+    "data/cars/8249_2.jpg",
+    "data/cars/8249_3.jpg",
+    "data/cars/8249_4.jpg"
    ]
   },
   {
