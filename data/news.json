@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-19T03:37:26+00:00",
+ "updated": "2026-11-19T04:37:26+00:00",
  "news": [
+  {
+   "title": "Надбавка до пенсії за державні нагороди: за які ордени українцям доплачують",
+   "source": "РБК-Україна",
+   "link": "https://www.rbc.ua/rus/news/nadbavka-pensiyi-derzhavni-nagorodi-ki-ordeni-1795007392.html",
+   "photo": "data/news/2f4e943c255e.jpg",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "У США намагаються врятувати бегемота Фіону, яка проковтнула в'язану шапку",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/1454749-u-ssa-namagautsa-vratuvati-begemota-fionu-aka-prokovtnula-vazanu-sapku/",
+   "photo": "data/news/35242dfe4ffe.jpg",
+   "date": "2026-11-19"
+  },
   {
    "title": "Мем, що дратував маму, врятував їй життя: 5-річний хлопчик вразив диспетчерів швидкої",
    "source": "ТСН",
@@ -13,20 +27,6 @@
    "source": "Суспільне",
    "link": "https://suspilne.media/mykolaiv/1454687-diti-saslivi-mikolaivskij-specskoli-peredali-knizki-v-mezah-miznarodnogo-proektu-books-ukraine/",
    "photo": "data/news/8078bf59cea9.jpg",
-   "date": "2026-11-18"
-  },
-  {
-   "title": "Брати Дарденни отримають нагороду Європейської кіноакадемії за життєві досягнення",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/culture/1454591-brati-dardenni-otrimaut-nagorodu-evropejskoi-kinoakademii-za-zittevi-dosagnenna/",
-   "photo": "data/news/ffdc56c3e50c.jpg",
-   "date": "2026-11-18"
-  },
-  {
-   "title": "Зеленський нагородив 488 сержантів і старшин ЗСУ",
-   "source": "Укрінформ: суспільство",
-   "link": "https://www.ukrinform.ua/rubric-society/4186027-zelenskij-nagorodiv-488-serzantiv-i-starsin-zsu.html",
-   "photo": "data/news/13e09af6d6f0.jpg",
    "date": "2026-11-18"
   }
  ]
