@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-19T08:37:32+00:00",
+ "updated": "2026-11-19T09:37:26+00:00",
  "news": [
+  {
+   "title": "Фіалка в'яне восени: як знайти причину та врятувати кімнатну рослину",
+   "source": "РБК-Україна",
+   "link": "https://styler.rbc.ua/rus/useful/fialka-v-yane-voseni-k-znayti-prichinu-ta-1795079443.html",
+   "photo": "data/news/195b9b77d136.jpg",
+   "date": "2026-11-19"
+  },
   {
    "title": "Надбавка до пенсії за державні нагороди: за які ордени українцям доплачують",
    "source": "РБК-Україна",
@@ -20,13 +27,6 @@
    "source": "ТСН",
    "link": "https://tsn.ua/svit/mem-shcho-dratuvav-mamu-vriatuvav-yiy-zyttia-5-richnyy-khlopchyk-vrazyv-dyspetcheriv-shvydkoyi-3220771.html",
    "photo": "data/news/56ca051a7eb8.jpg",
-   "date": "2026-11-18"
-  },
-  {
-   "title": "«Діти щасливі». Миколаївській спецшколі передали книжки в межах міжнародного проєкту Books for Ukraine",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/mykolaiv/1454687-diti-saslivi-mikolaivskij-specskoli-peredali-knizki-v-mezah-miznarodnogo-proektu-books-ukraine/",
-   "photo": "data/news/8078bf59cea9.jpg",
    "date": "2026-11-18"
   }
  ]
