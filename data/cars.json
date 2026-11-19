@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T08:10:18+00:00",
+ "updated": "2026-11-19T12:10:18+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -37,6 +37,23 @@
    ]
   },
   {
+   "title": "Porsche Cayenne",
+   "year": 2013,
+   "price_usd": 15900,
+   "city": "Київ",
+   "pct": 23,
+   "market_usd": 20650,
+   "why": "на 23% дешевше за схожі (≈ $20 650)",
+   "link": "https://t.me/imperiya_auto/94526",
+   "photo": "data/cars/8190.jpg",
+   "photos": [
+    "data/cars/8190.jpg",
+    "data/cars/8190_2.jpg",
+    "data/cars/8190_3.jpg",
+    "data/cars/8190_4.jpg"
+   ]
+  },
+  {
    "title": "BMW X7",
    "year": 2021,
    "price_usd": 52000,
@@ -54,16 +71,21 @@
    ]
   },
   {
-   "title": "Volkswagen Passat",
-   "year": 2015,
-   "price_usd": 10290,
-   "city": "Київ",
-   "pct": 15,
-   "market_usd": 12100,
-   "why": "на 15% дешевше за схожі (≈ $12 100)",
-   "link": "https://t.me/autoparkua4/85180",
-   "photo": "",
-   "photos": []
+   "title": "Volvo V50",
+   "year": 2009,
+   "price_usd": 3100,
+   "city": "Рівне",
+   "pct": 51,
+   "market_usd": 6350,
+   "why": "на 51% дешевше за схожі (≈ $6 350)",
+   "link": "https://t.me/robota_in_lutsk/27502",
+   "photo": "data/cars/8207.jpg",
+   "photos": [
+    "data/cars/8207.jpg",
+    "data/cars/8207_2.jpg",
+    "data/cars/8207_3.jpg",
+    "data/cars/8207_4.jpg"
+   ]
   },
   {
    "title": "BMW X5",
@@ -100,40 +122,6 @@
    ]
   },
   {
-   "title": "Skoda Octavia",
-   "year": 2020,
-   "price_usd": 14000,
-   "city": "Львів",
-   "pct": 23,
-   "market_usd": 18200,
-   "why": "на 23% дешевше за схожі (≈ $18 200)",
-   "link": "https://t.me/avtobazar_group/216257",
-   "photo": "data/cars/8050.jpg",
-   "photos": [
-    "data/cars/8050.jpg",
-    "data/cars/8050_2.jpg",
-    "data/cars/8050_3.jpg",
-    "data/cars/8050_4.jpg"
-   ]
-  },
-  {
-   "title": "BMW 3 Series",
-   "year": 2022,
-   "price_usd": 25000,
-   "city": "",
-   "pct": 21,
-   "market_usd": 31650,
-   "why": "на 21% дешевше за схожі (≈ $31 650)",
-   "link": "https://t.me/kievavto2/148344",
-   "photo": "data/cars/8027.jpg",
-   "photos": [
-    "data/cars/8027.jpg",
-    "data/cars/8027_2.jpg",
-    "data/cars/8027_3.jpg",
-    "data/cars/8027_4.jpg"
-   ]
-  },
-  {
    "title": "Renault Megane",
    "year": 2010,
    "price_usd": 5000,
@@ -151,20 +139,20 @@
    ]
   },
   {
-   "title": "Audi A6",
-   "year": 2007,
-   "price_usd": 6500,
-   "city": "",
-   "pct": 16,
-   "market_usd": 7750,
-   "why": "на 16% дешевше за схожі (≈ $7 750)",
-   "link": "https://t.me/avtobazar_group/216300",
-   "photo": "data/cars/8056.jpg",
+   "title": "BMW X5",
+   "year": 2022,
+   "price_usd": 46500,
+   "city": "Луцьк",
+   "pct": 15,
+   "market_usd": 54700,
+   "why": "на 15% дешевше за схожі (≈ $54 700)",
+   "link": "https://t.me/avto_lutsk1/8562",
+   "photo": "data/cars/8179.jpg",
    "photos": [
-    "data/cars/8056.jpg",
-    "data/cars/8056_2.jpg",
-    "data/cars/8056_3.jpg",
-    "data/cars/8056_4.jpg"
+    "data/cars/8179.jpg",
+    "data/cars/8179_2.jpg",
+    "data/cars/8179_3.jpg",
+    "data/cars/8179_4.jpg"
    ]
   }
  ]

@@ -1,11 +1,18 @@
 {
- "updated": "2026-11-19T11:37:28+00:00",
+ "updated": "2026-11-19T12:37:25+00:00",
  "news": [
   {
-   "title": "Закарпатська танцювальна студія здобула три нагороди на чемпіонаті World of Dance у Відні",
+   "title": "Співачка Елла Ленґлі встановила рекорд премії CMA Awards, здобувши шість нагород за вечір",
    "source": "Суспільне",
-   "link": "https://suspilne.media/uzhhorod/1454926-tancuvalna-studia-z-mukaceva-zdobula-tri-nagorodi-na-cempionati-world-dance-u-vidni/",
-   "photo": "data/news/ad24ebad810c.jpg",
+   "link": "https://suspilne.media/culture/1454956-spivacka-ella-lengli-vstanovila-rekord-premii-cma-awards-zdobuvsi-sist-nagorod-za-vecir/",
+   "photo": "data/news/311d3e2cca70.jpg",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Український півострів очима молоді. У Житомирі нагородили переможців конкурсу есе і відеоесе «Листи до вільного Криму»",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/crimea/1454915-ukrainskij-pivostriv-ocima-molodi-u-zitomiri-nagorodili-peremozciv-konkursu-ese-i-videoese-listi-do-vilnogo-krimu/",
+   "photo": "data/news/7452217bce0b.jpg",
    "date": "2026-11-19"
   },
   {
@@ -20,13 +27,6 @@
    "source": "РБК-Україна",
    "link": "https://www.rbc.ua/rus/news/nadbavka-pensiyi-derzhavni-nagorodi-ki-ordeni-1795007392.html",
    "photo": "data/news/2f4e943c255e.jpg",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "У США намагаються врятувати бегемота Фіону, яка проковтнула в'язану шапку",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/1454749-u-ssa-namagautsa-vratuvati-begemota-fionu-aka-prokovtnula-vazanu-sapku/",
-   "photo": "data/news/35242dfe4ffe.jpg",
    "date": "2026-11-19"
   }
  ]
