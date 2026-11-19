@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T04:10:17+00:00",
+ "updated": "2026-11-19T08:10:18+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -51,23 +51,6 @@
     "data/cars/8125_2.jpg",
     "data/cars/8125_3.jpg",
     "data/cars/8125_4.jpg"
-   ]
-  },
-  {
-   "title": "BMW X6",
-   "year": 2024,
-   "price_usd": 75000,
-   "city": "Київ",
-   "pct": 21,
-   "market_usd": 94950,
-   "why": "на 21% дешевше за схожі (≈ $94 950)",
-   "link": "https://t.me/kievavto2/148334",
-   "photo": "data/cars/8013.jpg",
-   "photos": [
-    "data/cars/8013.jpg",
-    "data/cars/8013_2.jpg",
-    "data/cars/8013_3.jpg",
-    "data/cars/8013_4.jpg"
    ]
   },
   {
@@ -165,6 +148,23 @@
     "data/cars/8129_2.jpg",
     "data/cars/8129_3.jpg",
     "data/cars/8129_4.jpg"
+   ]
+  },
+  {
+   "title": "Audi A6",
+   "year": 2007,
+   "price_usd": 6500,
+   "city": "",
+   "pct": 16,
+   "market_usd": 7750,
+   "why": "на 16% дешевше за схожі (≈ $7 750)",
+   "link": "https://t.me/avtobazar_group/216300",
+   "photo": "data/cars/8056.jpg",
+   "photos": [
+    "data/cars/8056.jpg",
+    "data/cars/8056_2.jpg",
+    "data/cars/8056_3.jpg",
+    "data/cars/8056_4.jpg"
    ]
   }
  ]
