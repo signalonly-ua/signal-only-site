@@ -1,7 +1,16 @@
 {
- "updated": "2026-11-19T03:10:33+00:00",
+ "updated": "2026-11-19T05:10:33+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Кухар",
+   "city": "",
+   "district": "",
+   "salary": "",
+   "employment": "Позмінно (4/2)",
+   "date": "2026-11-19T05:07:26+00:00",
+   "link": "https://t.me/erobota_kyiv/195808"
+  },
   {
    "position": "Кухар",
    "city": "Київ",
@@ -172,15 +181,6 @@
    "employment": "",
    "date": "2026-11-18T17:28:48+00:00",
    "link": "https://t.me/vinnitsa_rabota_vakansii/7965"
-  },
-  {
-   "position": "Кухар, Офіціант",
-   "city": "Київ",
-   "district": "Оболонський р-н",
-   "salary": "2 000 грн/зміна",
-   "employment": "Позмінно (7/7)",
-   "date": "2026-11-18T17:28:48+00:00",
-   "link": "https://t.me/kyiv_jobs/14784"
   }
  ]
 }
