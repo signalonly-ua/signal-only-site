@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-20T03:37:26+00:00",
+ "updated": "2026-11-20T04:37:25+00:00",
  "news": [
+  {
+   "title": "Для чотирьох знаків китайського зодіаку 20 листопада завершиться складний період: хто ці щасливчики",
+   "source": "ТСН",
+   "link": "https://tsn.ua/astrologiya/dlia-chotyryokh-znakiv-kytayskoho-zodiaku-20-lystopada-zavershytsia-skladnyy-period-khto-tsi-shchaslyvchyky-3221547.html",
+   "photo": "data/news/a16c859570a3.jpg",
+   "date": "2026-11-20"
+  },
   {
    "title": "Кузьма Скрябін врятував відому акторку в Парижі: вона розповіла про моторошний випадок",
    "source": "ТСН",
@@ -20,13 +27,6 @@
    "source": "УНІАН",
    "link": "https://www.unian.ua/curiosities/psiholog-poyasniv-chomu-lyudi-narodzheni-u-1960-1970-rokah-mogli-mati-shchaslivishe-ditinstvo-13565064.html",
    "photo": "data/news/b653369e523d.jpg",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "«Алея вдячності»: на Тернопільщині переселенці посадили дерева",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/ternopil/1455059-alea-vdacnosti-na-ternopilsini-pereselenci-posadili-dereva/",
-   "photo": "data/news/fe2a35c9ccd9.jpg",
    "date": "2026-11-19"
   }
  ]
