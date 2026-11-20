@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-20T12:10:20+00:00",
+ "updated": "2026-11-20T16:10:21+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
+  {
+   "title": "Audi Q5",
+   "year": 2014,
+   "price_usd": 10800,
+   "city": "Київ",
+   "pct": 27,
+   "market_usd": 14800,
+   "why": "на 27% дешевше за схожі (≈ $14 800)",
+   "link": "https://t.me/auto_residence_ua/19222",
+   "photo": "data/cars/8413.jpg",
+   "photos": [
+    "data/cars/8413.jpg",
+    "data/cars/8413_2.jpg",
+    "data/cars/8413_3.jpg",
+    "data/cars/8413_4.jpg"
+   ]
+  },
   {
    "title": "BMW 5 Series",
    "year": 2016,
@@ -116,38 +133,6 @@
    ]
   },
   {
-   "title": "Opel Insignia",
-   "year": 2012,
-   "price_usd": 5200,
-   "city": "",
-   "pct": 31,
-   "market_usd": 7550,
-   "why": "на 31% дешевше за схожі (≈ $7 550)",
-   "link": "https://t.me/hardlux_auto/11855",
-   "photo": "data/cars/8233.jpg",
-   "photos": [
-    "data/cars/8233.jpg",
-    "data/cars/8233_2.jpg",
-    "data/cars/8233_3.jpg",
-    "data/cars/8233_4.jpg"
-   ]
-  },
-  {
-   "title": "Skoda Fabia",
-   "year": 2009,
-   "price_usd": 3900,
-   "city": "Запоріжжя",
-   "pct": 26,
-   "market_usd": 5250,
-   "why": "на 26% дешевше за схожі (≈ $5 250)",
-   "link": "https://t.me/avto1_zp/17670",
-   "photo": "data/cars/8226.jpg",
-   "photos": [
-    "data/cars/8226.jpg",
-    "data/cars/8226_2.jpg"
-   ]
-  },
-  {
    "title": "Toyota Camry",
    "year": 2023,
    "price_usd": 44000,
@@ -162,6 +147,23 @@
     "data/cars/8272_2.jpg",
     "data/cars/8272_3.jpg",
     "data/cars/8272_4.jpg"
+   ]
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2009,
+   "price_usd": 7600,
+   "city": "",
+   "pct": 24,
+   "market_usd": 10000,
+   "why": "на 24% дешевше за схожі (≈ $10 000)",
+   "link": "https://t.me/avto_kyiv_adt/27880",
+   "photo": "data/cars/8305.jpg",
+   "photos": [
+    "data/cars/8305.jpg",
+    "data/cars/8305_2.jpg",
+    "data/cars/8305_3.jpg",
+    "data/cars/8305_4.jpg"
    ]
   }
  ]
