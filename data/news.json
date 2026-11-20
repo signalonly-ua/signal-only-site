@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-20T09:37:28+00:00",
+ "updated": "2026-11-20T10:37:27+00:00",
  "news": [
-  {
-   "title": "«Будете мені вдячні»: Усик назвав помилку, якої не дозволить припуститися своїм дітям",
-   "source": "NV",
-   "link": "https://sport.nv.ua/ukr/boxing/oleksandr-usik-ociniv-znannya-angliyskoji-movi-vazhlivist-jiji-vivchennya-dlya-ditey-50660875.html",
-   "photo": "data/news/5da937c7f599.jpg",
-   "date": "2026-11-20"
-  },
   {
    "title": "Для чотирьох знаків китайського зодіаку 20 листопада завершиться складний період: хто ці щасливчики",
    "source": "ТСН",
@@ -23,10 +16,17 @@
    "date": "2026-11-19"
   },
   {
-   "title": "Люди, які народилися в ці 3 місяці, найщасливіші на самоті",
-   "source": "УНІАН",
-   "link": "https://www.unian.ua/lite/astrology/numerologiya-za-misyacem-narodzhennya-ci-lyudi-nayshchaslivishi-na-samoti-13565190.html",
-   "photo": "data/news/02b4f08a8a50.jpg",
+   "title": "Світоліна та Костюк претендують на нагороди WTA Awards",
+   "source": "Укрінформ: спорт",
+   "link": "https://www.ukrinform.ua/rubric-sports/4186442-svitolina-ta-kostuk-pretenduut-na-nagorodi-wta-awards.html",
+   "photo": "data/news/6f25a8b72021.jpg",
+   "date": "2026-11-19"
+  },
+  {
+   "title": "Фіалка в'яне восени: як знайти причину та врятувати кімнатну рослину",
+   "source": "РБК-Україна",
+   "link": "https://styler.rbc.ua/rus/useful/fialka-v-yane-voseni-k-znayti-prichinu-ta-1795079443.html",
+   "photo": "data/news/195b9b77d136.jpg",
    "date": "2026-11-19"
   }
  ]
