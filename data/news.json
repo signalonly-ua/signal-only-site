@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-20T11:37:27+00:00",
+ "updated": "2026-11-20T12:37:27+00:00",
  "news": [
+  {
+   "title": "Сімейний відпочинок нового формату: Apartel Kosyno здобув нагороду Best Destination Resort",
+   "source": "УНІАН",
+   "link": "https://www.unian.ua/tourism/news/simeyniy-vidpochinok-novogo-formatu-apartel-kosyno-zdobuv-nagorodu-best-destination-resort-13566000.html",
+   "photo": "data/news/f3b728463f42.jpg",
+   "date": "2026-11-20"
+  },
+  {
+   "title": "1520 двієнь і 14 трієнь: у Києві із початку повномасштабного вторгнення народилися понад 90 тис. дітей",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/kyiv/1455372-1520-dvien-i-14-trien-u-kievi-iz-pocatku-povnomasstabnogo-vtorgnenna-narodilisa-ponad-90-tis-ditej/",
+   "photo": "data/news/7841c55d3d55.jpg",
+   "date": "2026-11-20"
+  },
   {
    "title": "Світоліна та Костюк претендують на нагороди WTA Awards: у яких номінаціях представлені українки",
    "source": "NV",
@@ -14,20 +28,6 @@
    "link": "https://tsn.ua/astrologiya/dlia-chotyryokh-znakiv-kytayskoho-zodiaku-20-lystopada-zavershytsia-skladnyy-period-khto-tsi-shchaslyvchyky-3221547.html",
    "photo": "data/news/a16c859570a3.jpg",
    "date": "2026-11-20"
-  },
-  {
-   "title": "Кузьма Скрябін врятував відому акторку в Парижі: вона розповіла про моторошний випадок",
-   "source": "ТСН",
-   "link": "https://tsn.ua/glamur/kuzma-skriabin-uriatuvav-vidomu-aktorku-v-paryzi-vona-rozpovila-pro-motoroshnyy-vypadok-3221691.html",
-   "photo": "data/news/84f923aaf9ee.jpg",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Світоліна та Костюк претендують на нагороди WTA Awards",
-   "source": "Укрінформ: спорт",
-   "link": "https://www.ukrinform.ua/rubric-sports/4186442-svitolina-ta-kostuk-pretenduut-na-nagorodi-wta-awards.html",
-   "photo": "data/news/6f25a8b72021.jpg",
-   "date": "2026-11-19"
   }
  ]
 }

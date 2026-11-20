@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T08:10:20+00:00",
+ "updated": "2026-11-20T12:10:20+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -28,40 +28,6 @@
    "photo": "data/cars/8286.jpg",
    "photos": [
     "data/cars/8286.jpg"
-   ]
-  },
-  {
-   "title": "Porsche Cayenne",
-   "year": 2013,
-   "price_usd": 15900,
-   "city": "Київ",
-   "pct": 23,
-   "market_usd": 20650,
-   "why": "на 23% дешевше за схожі (≈ $20 650)",
-   "link": "https://t.me/imperiya_auto/94526",
-   "photo": "data/cars/8190.jpg",
-   "photos": [
-    "data/cars/8190.jpg",
-    "data/cars/8190_2.jpg",
-    "data/cars/8190_3.jpg",
-    "data/cars/8190_4.jpg"
-   ]
-  },
-  {
-   "title": "Volvo V50",
-   "year": 2009,
-   "price_usd": 3100,
-   "city": "Рівне",
-   "pct": 51,
-   "market_usd": 6350,
-   "why": "на 51% дешевше за схожі (≈ $6 350)",
-   "link": "https://t.me/robota_in_lutsk/27502",
-   "photo": "data/cars/8207.jpg",
-   "photos": [
-    "data/cars/8207.jpg",
-    "data/cars/8207_2.jpg",
-    "data/cars/8207_3.jpg",
-    "data/cars/8207_4.jpg"
    ]
   },
   {
@@ -96,6 +62,23 @@
     "data/cars/8321_2.jpg",
     "data/cars/8321_3.jpg",
     "data/cars/8321_4.jpg"
+   ]
+  },
+  {
+   "title": "BMW X5",
+   "year": 2019,
+   "price_usd": 28000,
+   "city": "Львів",
+   "pct": 37,
+   "market_usd": 44450,
+   "why": "на 37% дешевше за схожі (≈ $44 450)",
+   "link": "https://t.me/kievavto2/148547",
+   "photo": "data/cars/8353.jpg",
+   "photos": [
+    "data/cars/8353.jpg",
+    "data/cars/8353_2.jpg",
+    "data/cars/8353_3.jpg",
+    "data/cars/8353_4.jpg"
    ]
   },
   {
@@ -162,6 +145,23 @@
    "photos": [
     "data/cars/8226.jpg",
     "data/cars/8226_2.jpg"
+   ]
+  },
+  {
+   "title": "Toyota Camry",
+   "year": 2023,
+   "price_usd": 44000,
+   "city": "",
+   "pct": 24,
+   "market_usd": 57900,
+   "why": "на 24% дешевше за схожі (≈ $57 900)",
+   "link": "https://t.me/kievavto2/148490",
+   "photo": "data/cars/8272.jpg",
+   "photos": [
+    "data/cars/8272.jpg",
+    "data/cars/8272_2.jpg",
+    "data/cars/8272_3.jpg",
+    "data/cars/8272_4.jpg"
    ]
   }
  ]
