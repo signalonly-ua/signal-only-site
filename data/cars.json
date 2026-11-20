@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:10:21+00:00",
+ "updated": "2026-11-20T20:10:21+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -17,51 +17,6 @@
     "data/cars/8413_2.jpg",
     "data/cars/8413_3.jpg",
     "data/cars/8413_4.jpg"
-   ]
-  },
-  {
-   "title": "BMW 5 Series",
-   "year": 2016,
-   "price_usd": 18500,
-   "city": "Київ",
-   "pct": 25,
-   "market_usd": 24650,
-   "why": "на 25% дешевше за схожі (≈ $24 650)",
-   "link": "https://t.me/avto_kyiv_adt/27862",
-   "photo": "data/cars/8285.jpg",
-   "photos": [
-    "data/cars/8285.jpg"
-   ]
-  },
-  {
-   "title": "Toyota Camry",
-   "year": 2021,
-   "price_usd": 29000,
-   "city": "Київ",
-   "pct": 25,
-   "market_usd": 38650,
-   "why": "на 25% дешевше за схожі (≈ $38 650)",
-   "link": "https://t.me/avto_kyiv_adt/27863",
-   "photo": "data/cars/8286.jpg",
-   "photos": [
-    "data/cars/8286.jpg"
-   ]
-  },
-  {
-   "title": "BMW X5",
-   "year": 2003,
-   "price_usd": 4800,
-   "city": "",
-   "pct": 44,
-   "market_usd": 8550,
-   "why": "на 44% дешевше за схожі (≈ $8 550)",
-   "link": "https://t.me/autobazarchernihivua/35658",
-   "photo": "data/cars/8298.jpg",
-   "photos": [
-    "data/cars/8298.jpg",
-    "data/cars/8298_2.jpg",
-    "data/cars/8298_3.jpg",
-    "data/cars/8298_4.jpg"
    ]
   },
   {
@@ -99,23 +54,6 @@
    ]
   },
   {
-   "title": "Volkswagen Tiguan",
-   "year": 2015,
-   "price_usd": 8500,
-   "city": "Львів",
-   "pct": 35,
-   "market_usd": 13100,
-   "why": "на 35% дешевше за схожі (≈ $13 100)",
-   "link": "https://t.me/avtobazar_group/216877",
-   "photo": "data/cars/8267.jpg",
-   "photos": [
-    "data/cars/8267.jpg",
-    "data/cars/8267_2.jpg",
-    "data/cars/8267_3.jpg",
-    "data/cars/8267_4.jpg"
-   ]
-  },
-  {
    "title": "BMW 5 Series",
    "year": 2016,
    "price_usd": 16400,
@@ -133,23 +71,6 @@
    ]
   },
   {
-   "title": "Toyota Camry",
-   "year": 2023,
-   "price_usd": 44000,
-   "city": "",
-   "pct": 24,
-   "market_usd": 57900,
-   "why": "на 24% дешевше за схожі (≈ $57 900)",
-   "link": "https://t.me/kievavto2/148490",
-   "photo": "data/cars/8272.jpg",
-   "photos": [
-    "data/cars/8272.jpg",
-    "data/cars/8272_2.jpg",
-    "data/cars/8272_3.jpg",
-    "data/cars/8272_4.jpg"
-   ]
-  },
-  {
    "title": "BMW 5 Series",
    "year": 2009,
    "price_usd": 7600,
@@ -164,6 +85,74 @@
     "data/cars/8305_2.jpg",
     "data/cars/8305_3.jpg",
     "data/cars/8305_4.jpg"
+   ]
+  },
+  {
+   "title": "Ford Focus",
+   "year": 2011,
+   "price_usd": 5300,
+   "city": "Луцьк",
+   "pct": 23,
+   "market_usd": 6900,
+   "why": "на 23% дешевше за схожі (≈ $6 900)",
+   "link": "https://t.me/lutsk_autobazar/32938",
+   "photo": "data/cars/8449.jpg",
+   "photos": [
+    "data/cars/8449.jpg",
+    "data/cars/8449_2.jpg",
+    "data/cars/8449_3.jpg",
+    "data/cars/8449_4.jpg"
+   ]
+  },
+  {
+   "title": "Volkswagen Golf",
+   "year": 2006,
+   "price_usd": 4200,
+   "city": "",
+   "pct": 16,
+   "market_usd": 5000,
+   "why": "на 16% дешевше за схожі (≈ $5 000)",
+   "link": "https://t.me/autobazarrivneua/37606",
+   "photo": "data/cars/8405.jpg",
+   "photos": [
+    "data/cars/8405.jpg",
+    "data/cars/8405_2.jpg",
+    "data/cars/8405_3.jpg",
+    "data/cars/8405_4.jpg"
+   ]
+  },
+  {
+   "title": "BMW X5",
+   "year": 2010,
+   "price_usd": 12200,
+   "city": "",
+   "pct": 15,
+   "market_usd": 14350,
+   "why": "на 15% дешевше за схожі (≈ $14 350)",
+   "link": "https://t.me/autobazarkropyvnytskyiua/36188",
+   "photo": "data/cars/8383.jpg",
+   "photos": [
+    "data/cars/8383.jpg",
+    "data/cars/8383_2.jpg",
+    "data/cars/8383_3.jpg",
+    "data/cars/8383_4.jpg"
+   ]
+  },
+  {
+   "title": "BMW 3 Series",
+   "year": 2004,
+   "price_usd": 4900,
+   "city": "",
+   "pct": 15,
+   "market_usd": 5750,
+   "why": "на 15% дешевше за схожі (≈ $5 750)",
+   "link": "https://t.me/robota_in_uzhgorod/26359",
+   "photo": "data/cars/8412.jpg",
+   "photos": [
+    "data/cars/8412.jpg",
+    "data/cars/8412_2.jpg",
+    "data/cars/8412_3.jpg",
+    "data/cars/8412_4.jpg"
    ]
   }
  ]
