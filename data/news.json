@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T13:37:29+00:00",
+ "updated": "2026-11-20T14:37:27+00:00",
  "news": [
   {
    "title": "Сімейний відпочинок нового формату: Apartel Kosyno здобув нагороду Best Destination Resort",
@@ -16,18 +16,18 @@
    "date": "2026-11-20"
   },
   {
-   "title": "Світоліна та Костюк претендують на нагороди WTA Awards: у яких номінаціях представлені українки",
-   "source": "NV",
-   "link": "https://sport.nv.ua/ukr/tennis/svitolina-ta-kostyuk-pretenduyut-na-golovni-nagorodi-sezonu-wta-50660978.html",
-   "photo": "data/news/6558ef37df88.jpg",
-   "date": "2026-11-20"
-  },
-  {
    "title": "Для чотирьох знаків китайського зодіаку 20 листопада завершиться складний період: хто ці щасливчики",
    "source": "ТСН",
    "link": "https://tsn.ua/astrologiya/dlia-chotyryokh-znakiv-kytayskoho-zodiaku-20-lystopada-zavershytsia-skladnyy-period-khto-tsi-shchaslyvchyky-3221547.html",
    "photo": "data/news/a16c859570a3.jpg",
    "date": "2026-11-20"
+  },
+  {
+   "title": "Кузьма Скрябін врятував відому акторку в Парижі: вона розповіла про моторошний випадок",
+   "source": "ТСН",
+   "link": "https://tsn.ua/glamur/kuzma-skriabin-uriatuvav-vidomu-aktorku-v-paryzi-vona-rozpovila-pro-motoroshnyy-vypadok-3221691.html",
+   "photo": "data/news/84f923aaf9ee.jpg",
+   "date": "2026-11-19"
   }
  ]
 }
