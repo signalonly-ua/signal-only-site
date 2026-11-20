@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-20T07:37:26+00:00",
+ "updated": "2026-11-20T08:37:26+00:00",
  "news": [
+  {
+   "title": "«Будете мені вдячні»: Усик назвав помилку, якої не дозволить припуститися своїм дітям",
+   "source": "NV",
+   "link": "https://sport.nv.ua/ukr/boxing/oleksandr-usik-ociniv-znannya-angliyskoji-movi-vazhlivist-jiji-vivchennya-dlya-ditey-50660875.html",
+   "photo": "data/news/5da937c7f599.jpg",
+   "date": "2026-11-20"
+  },
   {
    "title": "Для чотирьох знаків китайського зодіаку 20 листопада завершиться складний період: хто ці щасливчики",
    "source": "ТСН",
@@ -20,13 +27,6 @@
    "source": "УНІАН",
    "link": "https://www.unian.ua/lite/astrology/numerologiya-za-misyacem-narodzhennya-ci-lyudi-nayshchaslivishi-na-samoti-13565190.html",
    "photo": "data/news/02b4f08a8a50.jpg",
-   "date": "2026-11-19"
-  },
-  {
-   "title": "Люди, народжені у 1960–1970 роках, стали останнім щасливим поколінням, - психолог",
-   "source": "УНІАН",
-   "link": "https://www.unian.ua/curiosities/psiholog-poyasniv-chomu-lyudi-narodzheni-u-1960-1970-rokah-mogli-mati-shchaslivishe-ditinstvo-13565064.html",
-   "photo": "data/news/b653369e523d.jpg",
    "date": "2026-11-19"
   }
  ]
