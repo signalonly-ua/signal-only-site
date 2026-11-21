@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-21T15:37:32+00:00",
+ "updated": "2026-11-21T16:37:53+00:00",
  "news": [
-  {
-   "title": "Ведмежа з Аляски наважилося на \"стрибок віри\" й отримало нагороду",
-   "source": "УНІАН",
-   "link": "https://www.unian.ua/ecology/vedmedi-alyaski-vedmezha-zdivuvalo-reyndzheriv-smilivim-vchinkom-i-otrimalo-nagorodu-13567131.html",
-   "photo": "data/news/37bf940017aa.jpg",
-   "date": "2026-11-21"
-  },
   {
    "title": "Троє дзюдоїстів із Сум повернулися з нагородами з кубка Європи у Ризі",
    "source": "Суспільне",
@@ -16,17 +9,24 @@
    "date": "2026-11-21"
   },
   {
-   "title": "«Моя дружина приготувала йому пасту». Конте розповів, як врятував кар'єру легенди Челсі",
-   "source": "NV",
-   "link": "https://sport.nv.ua/ukr/football/dzhon-terri-chelsi-konte-rozpoviv-yak-dopomig-zahisniku-zalishitisya-v-klubi-50661264.html",
-   "photo": "data/news/2569ba269dde.jpg",
-   "date": "2026-11-21"
-  },
-  {
    "title": "Зеленський вручив відзнаки «Майбутнє України» двом школярам з Івано-Франківщини: кого нагородили",
    "source": "Суспільне",
    "link": "https://suspilne.media/ivano-frankivsk/1455766-zelenskij-vruciv-vidznaki-majbutne-ukraini-dvom-skolaram-z-ivano-frankivsini-kogo-nagorodili/",
    "photo": "data/news/763ebc23ec1d.jpg",
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Українські дзюдоїсти без нагород завершили виступ на юніорському ЧС-2026 в Узбекистані",
+   "source": "Укрінформ: спорт",
+   "link": "https://www.ukrinform.ua/rubric-sports/4187079-ukrainski-dzudoisti-bez-nagorod-zaversili-vistup-na-uniorskomu-cs2026-v-uzbekistani.html",
+   "photo": "data/news/832854dbc118.jpg",
+   "date": "2026-11-21"
+  },
+  {
+   "title": "Фінансовий успіх не за горами: чотири знаки китайського гороскопу стануть щасливчиками 21 листопада",
+   "source": "ТСН",
+   "link": "https://tsn.ua/astrologiya/finansovyy-uspikh-ne-za-horamy-chotyry-znaky-kytayskoho-horoskopu-stanut-shchaslyvchykamy-21-lystopada-3222531.html",
+   "photo": "data/news/84496f8c7452.jpg",
    "date": "2026-11-21"
   }
  ]

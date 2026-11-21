@@ -1,24 +1,7 @@
 {
- "updated": "2026-11-21T12:10:22+00:00",
+ "updated": "2026-11-21T16:10:22+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Audi Q5",
-   "year": 2014,
-   "price_usd": 10800,
-   "city": "Київ",
-   "pct": 27,
-   "market_usd": 14800,
-   "why": "на 27% дешевше за схожі (≈ $14 800)",
-   "link": "https://t.me/auto_residence_ua/19222",
-   "photo": "data/cars/8413.jpg",
-   "photos": [
-    "data/cars/8413.jpg",
-    "data/cars/8413_2.jpg",
-    "data/cars/8413_3.jpg",
-    "data/cars/8413_4.jpg"
-   ]
-  },
   {
    "title": "Volkswagen Passat",
    "year": 2016,
@@ -34,6 +17,23 @@
     "data/cars/8493_2.jpg",
     "data/cars/8493_3.jpg",
     "data/cars/8493_4.jpg"
+   ]
+  },
+  {
+   "title": "Volkswagen Tiguan",
+   "year": 2018,
+   "price_usd": 14900,
+   "city": "Київ",
+   "pct": 18,
+   "market_usd": 18150,
+   "why": "на 18% дешевше за схожі (≈ $18 150)",
+   "link": "https://t.me/kievautotrade/11525",
+   "photo": "data/cars/8532.jpg",
+   "photos": [
+    "data/cars/8532.jpg",
+    "data/cars/8532_2.jpg",
+    "data/cars/8532_3.jpg",
+    "data/cars/8532_4.jpg"
    ]
   },
   {
@@ -71,23 +71,6 @@
    ]
   },
   {
-   "title": "Volkswagen Golf",
-   "year": 2006,
-   "price_usd": 4200,
-   "city": "",
-   "pct": 16,
-   "market_usd": 5000,
-   "why": "на 16% дешевше за схожі (≈ $5 000)",
-   "link": "https://t.me/autobazarrivneua/37606",
-   "photo": "data/cars/8405.jpg",
-   "photos": [
-    "data/cars/8405.jpg",
-    "data/cars/8405_2.jpg",
-    "data/cars/8405_3.jpg",
-    "data/cars/8405_4.jpg"
-   ]
-  },
-  {
    "title": "Ford Fusion",
    "year": 2020,
    "price_usd": 11500,
@@ -105,37 +88,20 @@
    ]
   },
   {
-   "title": "BMW X5",
-   "year": 2010,
-   "price_usd": 12200,
-   "city": "",
-   "pct": 15,
-   "market_usd": 14350,
-   "why": "на 15% дешевше за схожі (≈ $14 350)",
-   "link": "https://t.me/autobazarkropyvnytskyiua/36188",
-   "photo": "data/cars/8383.jpg",
+   "title": "Volkswagen Golf",
+   "year": 2015,
+   "price_usd": 9200,
+   "city": "Вінниця",
+   "pct": 16,
+   "market_usd": 10950,
+   "why": "на 16% дешевше за схожі (≈ $10 950)",
+   "link": "https://t.me/sgaevskiy/28054",
+   "photo": "data/cars/8506.jpg",
    "photos": [
-    "data/cars/8383.jpg",
-    "data/cars/8383_2.jpg",
-    "data/cars/8383_3.jpg",
-    "data/cars/8383_4.jpg"
-   ]
-  },
-  {
-   "title": "BMW 3 Series",
-   "year": 2004,
-   "price_usd": 4900,
-   "city": "",
-   "pct": 15,
-   "market_usd": 5750,
-   "why": "на 15% дешевше за схожі (≈ $5 750)",
-   "link": "https://t.me/robota_in_uzhgorod/26359",
-   "photo": "data/cars/8412.jpg",
-   "photos": [
-    "data/cars/8412.jpg",
-    "data/cars/8412_2.jpg",
-    "data/cars/8412_3.jpg",
-    "data/cars/8412_4.jpg"
+    "data/cars/8506.jpg",
+    "data/cars/8506_2.jpg",
+    "data/cars/8506_3.jpg",
+    "data/cars/8506_4.jpg"
    ]
   }
  ]
