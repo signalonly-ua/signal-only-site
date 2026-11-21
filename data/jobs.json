@@ -1,7 +1,43 @@
 {
- "updated": "2026-11-21T19:10:36+00:00",
+ "updated": "2026-11-21T21:10:36+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Бариста, Адміністратор",
+   "city": "Львів",
+   "district": "",
+   "salary": "від 1 200 грн/зміна",
+   "employment": "Позмінно (2/2)",
+   "date": "2026-11-21T20:54:33+00:00",
+   "link": "https://t.me/lviv_robota/83079"
+  },
+  {
+   "position": "Кухар",
+   "city": "Київ",
+   "district": "Шевченківський р-н",
+   "salary": "2 000 грн/зміна",
+   "employment": "Позмінно (2/2)",
+   "date": "2026-11-21T19:43:48+00:00",
+   "link": "https://t.me/robota_kiev_the1/634100"
+  },
+  {
+   "position": "Фармацевт",
+   "city": "Івано-Франківськ",
+   "district": "",
+   "salary": "",
+   "employment": "",
+   "date": "2026-11-21T19:27:36+00:00",
+   "link": "https://t.me/rabotaq_podrabotkaq_if/32067"
+  },
+  {
+   "position": "Вантажник",
+   "city": "Хмельницький",
+   "district": "",
+   "salary": "від 26 500 грн",
+   "employment": "Позмінно (7/7)",
+   "date": "2026-11-21T19:27:36+00:00",
+   "link": "https://t.me/khmelnitskiyq_rabota_podrabotka/7020"
+  },
   {
    "position": "Бариста",
    "city": "Одеса",
@@ -145,42 +181,6 @@
    "employment": "Повна зайнятість · Неповна / підробіток · Віддалено",
    "date": "2026-11-21T16:08:52+00:00",
    "link": "https://t.me/robotaua_now_remote/142058"
-  },
-  {
-   "position": "Бариста",
-   "city": "Київ",
-   "district": "Деснянський р-н",
-   "salary": "",
-   "employment": "Позмінно (2/2)",
-   "date": "2026-11-21T16:00:30+00:00",
-   "link": "https://t.me/rabota_kieve_chate/111951"
-  },
-  {
-   "position": "Вантажник",
-   "city": "Одеса",
-   "district": "",
-   "salary": "від 29 600 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-21T15:49:33+00:00",
-   "link": "https://t.me/workua_odesa/81605"
-  },
-  {
-   "position": "Комірник",
-   "city": "Хмельницький",
-   "district": "",
-   "salary": "від 32 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-21T15:49:33+00:00",
-   "link": "https://t.me/workua_khmelnytskyi/65361"
-  },
-  {
-   "position": "Менеджер з продажу",
-   "city": "Черкаси",
-   "district": "",
-   "salary": "від 40 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-21T15:49:33+00:00",
-   "link": "https://t.me/workua_cherkasy/63258"
   }
  ]
 }
