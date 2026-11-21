@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-21T14:37:30+00:00",
+ "updated": "2026-11-21T15:37:32+00:00",
  "news": [
+  {
+   "title": "Ведмежа з Аляски наважилося на \"стрибок віри\" й отримало нагороду",
+   "source": "УНІАН",
+   "link": "https://www.unian.ua/ecology/vedmedi-alyaski-vedmezha-zdivuvalo-reyndzheriv-smilivim-vchinkom-i-otrimalo-nagorodu-13567131.html",
+   "photo": "data/news/37bf940017aa.jpg",
+   "date": "2026-11-21"
+  },
   {
    "title": "Троє дзюдоїстів із Сум повернулися з нагородами з кубка Європи у Ризі",
    "source": "Суспільне",
@@ -20,13 +27,6 @@
    "source": "Суспільне",
    "link": "https://suspilne.media/ivano-frankivsk/1455766-zelenskij-vruciv-vidznaki-majbutne-ukraini-dvom-skolaram-z-ivano-frankivsini-kogo-nagorodili/",
    "photo": "data/news/763ebc23ec1d.jpg",
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Українські дзюдоїсти без нагород завершили виступ на юніорському ЧС-2026 в Узбекистані",
-   "source": "Укрінформ: спорт",
-   "link": "https://www.ukrinform.ua/rubric-sports/4187079-ukrainski-dzudoisti-bez-nagorod-zaversili-vistup-na-uniorskomu-cs2026-v-uzbekistani.html",
-   "photo": "data/news/832854dbc118.jpg",
    "date": "2026-11-21"
   }
  ]
