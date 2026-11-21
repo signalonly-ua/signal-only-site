@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-21T18:37:29+00:00",
+ "updated": "2026-11-21T19:37:29+00:00",
  "news": [
+  {
+   "title": "Зібрали понад 17 млн грн на допомогу ЗСУ: Зеленський нагородив трьох дітей зі Львівщини",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/lviv/1455923-zibrali-ponad-17-mln-grn-na-dopomogu-zsu-zelenskij-nagorodiv-troh-ditej-zi-lvivsini/",
+   "photo": "data/news/8f35a08f422c.jpg",
+   "date": "2026-11-21"
+  },
   {
    "title": "\"Карпати\" вперше в історії перемогли \"Зорю\": гол Костенка перервав 18-матчеву серію",
    "source": "РБК-Україна",
@@ -20,13 +27,6 @@
    "source": "Суспільне",
    "link": "https://suspilne.media/sumy/1455525-troe-dzudoistiv-iz-sum-povernulisa-z-nagorodami-z-kubka-evropi-u-rizi/",
    "photo": "data/news/901bebe6ef8e.jpg",
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Зеленський вручив відзнаки «Майбутнє України» двом школярам з Івано-Франківщини: кого нагородили",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/ivano-frankivsk/1455766-zelenskij-vruciv-vidznaki-majbutne-ukraini-dvom-skolaram-z-ivano-frankivsini-kogo-nagorodili/",
-   "photo": "data/news/763ebc23ec1d.jpg",
    "date": "2026-11-21"
   }
  ]
