@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-21T16:37:53+00:00",
+ "updated": "2026-11-21T17:37:35+00:00",
  "news": [
+  {
+   "title": "Ведмежа з Аляски наважилося на \"стрибок віри\" й отримало нагороду",
+   "source": "УНІАН",
+   "link": "https://www.unian.ua/ecology/vedmedi-alyaski-vedmezha-zdivuvalo-reyndzheriv-smilivim-vchinkom-i-otrimalo-nagorodu-13567131.html",
+   "photo": "data/news/37bf940017aa.jpg",
+   "date": "2026-11-21"
+  },
   {
    "title": "Троє дзюдоїстів із Сум повернулися з нагородами з кубка Європи у Ризі",
    "source": "Суспільне",
@@ -20,13 +27,6 @@
    "source": "Укрінформ: спорт",
    "link": "https://www.ukrinform.ua/rubric-sports/4187079-ukrainski-dzudoisti-bez-nagorod-zaversili-vistup-na-uniorskomu-cs2026-v-uzbekistani.html",
    "photo": "data/news/832854dbc118.jpg",
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Фінансовий успіх не за горами: чотири знаки китайського гороскопу стануть щасливчиками 21 листопада",
-   "source": "ТСН",
-   "link": "https://tsn.ua/astrologiya/finansovyy-uspikh-ne-za-horamy-chotyry-znaky-kytayskoho-horoskopu-stanut-shchaslyvchykamy-21-lystopada-3222531.html",
-   "photo": "data/news/84496f8c7452.jpg",
    "date": "2026-11-21"
   }
  ]
