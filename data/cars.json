@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T08:10:22+00:00",
+ "updated": "2026-11-21T12:10:22+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -20,20 +20,37 @@
    ]
   },
   {
-   "title": "BMW X5",
-   "year": 2019,
-   "price_usd": 28000,
-   "city": "Львів",
-   "pct": 37,
-   "market_usd": 44450,
-   "why": "на 37% дешевше за схожі (≈ $44 450)",
-   "link": "https://t.me/kievavto2/148547",
-   "photo": "data/cars/8353.jpg",
+   "title": "Volkswagen Passat",
+   "year": 2016,
+   "price_usd": 9999,
+   "city": "Київ",
+   "pct": 22,
+   "market_usd": 12800,
+   "why": "на 22% дешевше за схожі (≈ $12 800)",
+   "link": "https://t.me/PerekupiKievLive/4258",
+   "photo": "data/cars/8493.jpg",
    "photos": [
-    "data/cars/8353.jpg",
-    "data/cars/8353_2.jpg",
-    "data/cars/8353_3.jpg",
-    "data/cars/8353_4.jpg"
+    "data/cars/8493.jpg",
+    "data/cars/8493_2.jpg",
+    "data/cars/8493_3.jpg",
+    "data/cars/8493_4.jpg"
+   ]
+  },
+  {
+   "title": "Skoda Superb",
+   "year": 2014,
+   "price_usd": 8000,
+   "city": "",
+   "pct": 27,
+   "market_usd": 10950,
+   "why": "на 27% дешевше за схожі (≈ $10 950)",
+   "link": "https://t.me/avtobazar_group/217561",
+   "photo": "data/cars/8477.jpg",
+   "photos": [
+    "data/cars/8477.jpg",
+    "data/cars/8477_2.jpg",
+    "data/cars/8477_3.jpg",
+    "data/cars/8477_4.jpg"
    ]
   },
   {
