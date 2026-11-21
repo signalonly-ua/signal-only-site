@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T21:37:56+00:00",
+ "updated": "2026-11-21T22:37:30+00:00",
  "news": [
   {
    "title": "\"Арсенал\" врятувався від поразки з \"Ньюкаслом\", але втратив шанс відірватися від \"Манчестер Сіті\"",
@@ -16,17 +16,17 @@
    "date": "2026-11-21"
   },
   {
+   "title": "\"Карпати\" вперше в історії перемогли \"Зорю\": гол Костенка перервав 18-матчеву серію",
+   "source": "РБК-Україна",
+   "link": "https://sport.rbc.ua/rus/football/karpati-vpershe-istoriyi-peremogli-zoryu-1795285497.html",
+   "photo": "data/news/b337869f2b3c.jpg",
+   "date": "2026-11-21"
+  },
+  {
    "title": "Ведмежа з Аляски наважилося на \"стрибок віри\" й отримало нагороду",
    "source": "УНІАН",
    "link": "https://www.unian.ua/ecology/vedmedi-alyaski-vedmezha-zdivuvalo-reyndzheriv-smilivim-vchinkom-i-otrimalo-nagorodu-13567131.html",
    "photo": "data/news/37bf940017aa.jpg",
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Троє дзюдоїстів із Сум повернулися з нагородами з кубка Європи у Ризі",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/sumy/1455525-troe-dzudoistiv-iz-sum-povernulisa-z-nagorodami-z-kubka-evropi-u-rizi/",
-   "photo": "data/news/901bebe6ef8e.jpg",
    "date": "2026-11-21"
   }
  ]
