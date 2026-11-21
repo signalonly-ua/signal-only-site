@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-21T03:37:29+00:00",
+ "updated": "2026-11-21T04:37:28+00:00",
  "news": [
+  {
+   "title": "Фінансовий успіх не за горами: чотири знаки китайського гороскопу стануть щасливчиками 21 листопада",
+   "source": "ТСН",
+   "link": "https://tsn.ua/astrologiya/finansovyy-uspikh-ne-za-horamy-chotyry-znaky-kytayskoho-horoskopu-stanut-shchaslyvchykamy-21-lystopada-3222531.html",
+   "photo": "data/news/84496f8c7452.jpg",
+   "date": "2026-11-21"
+  },
   {
    "title": "Президент нагородив відзнакою «Майбутнє України» 15-річну волонтерку з Ніжина Діану Насібову",
    "source": "Суспільне",
@@ -20,13 +27,6 @@
    "source": "УНІАН",
    "link": "https://www.unian.ua/lite/stars/ambasadorka-olympic-dreams-anna-rizatdinova-otrimala-mizhnarodnu-nagorodu-global-excellence-13566291.html",
    "photo": "data/news/523acaccbfa6.jpg",
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Зеленський нагородив учнів і студентів відзнакою «Майбутнє України»",
-   "source": "Укрінформ: суспільство",
-   "link": "https://www.ukrinform.ua/rubric-society/4186914-zelenskij-nagorodiv-ucniv-i-studentiv-vidznakou-majbutne-ukraini.html",
-   "photo": "data/news/0450e522ea09.jpg",
    "date": "2026-11-20"
   }
  ]
