@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-21T19:37:29+00:00",
+ "updated": "2026-11-21T20:37:32+00:00",
  "news": [
+  {
+   "title": "\"Арсенал\" врятувався від поразки з \"Ньюкаслом\", але втратив шанс відірватися від \"Манчестер Сіті\"",
+   "source": "РБК-Україна",
+   "link": "https://sport.rbc.ua/rus/football/arsenal-vryatuvavsya-vid-porazki-nyukaslom-1795290720.html",
+   "photo": "data/news/7709f91bada4.jpg",
+   "date": "2026-11-21"
+  },
   {
    "title": "Зібрали понад 17 млн грн на допомогу ЗСУ: Зеленський нагородив трьох дітей зі Львівщини",
    "source": "Суспільне",
@@ -20,13 +27,6 @@
    "source": "УНІАН",
    "link": "https://www.unian.ua/ecology/vedmedi-alyaski-vedmezha-zdivuvalo-reyndzheriv-smilivim-vchinkom-i-otrimalo-nagorodu-13567131.html",
    "photo": "data/news/37bf940017aa.jpg",
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Троє дзюдоїстів із Сум повернулися з нагородами з кубка Європи у Ризі",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/sumy/1455525-troe-dzudoistiv-iz-sum-povernulisa-z-nagorodami-z-kubka-evropi-u-rizi/",
-   "photo": "data/news/901bebe6ef8e.jpg",
    "date": "2026-11-21"
   }
  ]

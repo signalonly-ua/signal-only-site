@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-21T16:10:22+00:00",
+ "updated": "2026-11-21T20:10:23+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
+  {
+   "title": "Toyota Camry",
+   "year": 2018,
+   "price_usd": 21000,
+   "city": "Київ",
+   "pct": 25,
+   "market_usd": 28000,
+   "why": "на 25% дешевше за схожі (≈ $28 000)",
+   "link": "https://t.me/kievavto2/148692",
+   "photo": "data/cars/8558.jpg",
+   "photos": [
+    "data/cars/8558.jpg",
+    "data/cars/8558_2.jpg",
+    "data/cars/8558_3.jpg",
+    "data/cars/8558_4.jpg"
+   ]
+  },
   {
    "title": "Volkswagen Passat",
    "year": 2016,
@@ -37,6 +54,23 @@
    ]
   },
   {
+   "title": "BMW 3 Series",
+   "year": 2005,
+   "price_usd": 4400,
+   "city": "",
+   "pct": 37,
+   "market_usd": 7000,
+   "why": "на 37% дешевше за схожі (≈ $7 000)",
+   "link": "https://t.me/autobazarkropyvnytskyiua/36210",
+   "photo": "data/cars/8567.jpg",
+   "photos": [
+    "data/cars/8567.jpg",
+    "data/cars/8567_2.jpg",
+    "data/cars/8567_3.jpg",
+    "data/cars/8567_4.jpg"
+   ]
+  },
+  {
    "title": "Skoda Superb",
    "year": 2014,
    "price_usd": 8000,
@@ -54,20 +88,20 @@
    ]
   },
   {
-   "title": "Ford Focus",
-   "year": 2011,
-   "price_usd": 5300,
-   "city": "Луцьк",
-   "pct": 23,
-   "market_usd": 6900,
-   "why": "на 23% дешевше за схожі (≈ $6 900)",
-   "link": "https://t.me/lutsk_autobazar/32938",
-   "photo": "data/cars/8449.jpg",
+   "title": "Opel Insignia",
+   "year": 2012,
+   "price_usd": 5500,
+   "city": "Львів",
+   "pct": 27,
+   "market_usd": 7550,
+   "why": "на 27% дешевше за схожі (≈ $7 550)",
+   "link": "https://t.me/GoldCarsLviv/38044",
+   "photo": "data/cars/8570.jpg",
    "photos": [
-    "data/cars/8449.jpg",
-    "data/cars/8449_2.jpg",
-    "data/cars/8449_3.jpg",
-    "data/cars/8449_4.jpg"
+    "data/cars/8570.jpg",
+    "data/cars/8570_2.jpg",
+    "data/cars/8570_3.jpg",
+    "data/cars/8570_4.jpg"
    ]
   },
   {
@@ -102,6 +136,22 @@
     "data/cars/8506_2.jpg",
     "data/cars/8506_3.jpg",
     "data/cars/8506_4.jpg"
+   ]
+  },
+  {
+   "title": "BMW X5",
+   "year": 2022,
+   "price_usd": 46500,
+   "city": "Луцьк",
+   "pct": 15,
+   "market_usd": 54700,
+   "why": "на 15% дешевше за схожі (≈ $54 700)",
+   "link": "https://t.me/avto_lutsk1/8584",
+   "photo": "data/cars/8553.jpg",
+   "photos": [
+    "data/cars/8553.jpg",
+    "data/cars/8553_2.jpg",
+    "data/cars/8553_3.jpg"
    ]
   }
  ]
