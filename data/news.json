@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-21T07:37:28+00:00",
+ "updated": "2026-11-21T08:37:25+00:00",
  "news": [
+  {
+   "title": "Українські дзюдоїсти без нагород завершили виступ на юніорському ЧС-2026 в Узбекистані",
+   "source": "Укрінформ",
+   "link": "https://www.ukrinform.ua/rubric-sports/4187079-ukrainski-dzudoisti-bez-nagorod-zaversili-vistup-na-uniorskomu-cs2026-v-uzbekistani.html",
+   "photo": "data/news/832854dbc118.jpg",
+   "date": "2026-11-21"
+  },
   {
    "title": "Фінансовий успіх не за горами: чотири знаки китайського гороскопу стануть щасливчиками 21 листопада",
    "source": "ТСН",
@@ -20,13 +27,6 @@
    "source": "Суспільне",
    "link": "https://suspilne.media/kherson/1455636-prezident-nagorodiv-vidznakou-majbutne-ukraini-dvoh-unakiv-z-hersonsini/",
    "photo": "data/news/752286876074.jpg",
-   "date": "2026-11-20"
-  },
-  {
-   "title": "Амбасадорка Olympic Dreams Анна Різатдінова отримала міжнародну нагороду Global Excellence",
-   "source": "УНІАН",
-   "link": "https://www.unian.ua/lite/stars/ambasadorka-olympic-dreams-anna-rizatdinova-otrimala-mizhnarodnu-nagorodu-global-excellence-13566291.html",
-   "photo": "data/news/523acaccbfa6.jpg",
    "date": "2026-11-20"
   }
  ]

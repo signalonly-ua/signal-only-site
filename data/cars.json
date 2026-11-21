@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T04:10:21+00:00",
+ "updated": "2026-11-21T08:10:22+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -20,23 +20,6 @@
    ]
   },
   {
-   "title": "Skoda Octavia",
-   "year": 2011,
-   "price_usd": 4500,
-   "city": "Рівне",
-   "pct": 42,
-   "market_usd": 7750,
-   "why": "на 42% дешевше за схожі (≈ $7 750)",
-   "link": "https://t.me/autobazarcherkasyua/35085",
-   "photo": "data/cars/8321.jpg",
-   "photos": [
-    "data/cars/8321.jpg",
-    "data/cars/8321_2.jpg",
-    "data/cars/8321_3.jpg",
-    "data/cars/8321_4.jpg"
-   ]
-  },
-  {
    "title": "BMW X5",
    "year": 2019,
    "price_usd": 28000,
@@ -51,23 +34,6 @@
     "data/cars/8353_2.jpg",
     "data/cars/8353_3.jpg",
     "data/cars/8353_4.jpg"
-   ]
-  },
-  {
-   "title": "BMW 5 Series",
-   "year": 2016,
-   "price_usd": 16400,
-   "city": "",
-   "pct": 33,
-   "market_usd": 24500,
-   "why": "на 33% дешевше за схожі (≈ $24 500)",
-   "link": "https://t.me/autobazarkhersonua/32562",
-   "photo": "data/cars/8311.jpg",
-   "photos": [
-    "data/cars/8311.jpg",
-    "data/cars/8311_2.jpg",
-    "data/cars/8311_3.jpg",
-    "data/cars/8311_4.jpg"
    ]
   },
   {
@@ -102,6 +68,23 @@
     "data/cars/8405_2.jpg",
     "data/cars/8405_3.jpg",
     "data/cars/8405_4.jpg"
+   ]
+  },
+  {
+   "title": "Ford Fusion",
+   "year": 2020,
+   "price_usd": 11500,
+   "city": "",
+   "pct": 16,
+   "market_usd": 13700,
+   "why": "на 16% дешевше за схожі (≈ $13 700)",
+   "link": "https://t.me/Avto_Odesa/31150",
+   "photo": "data/cars/8461.jpg",
+   "photos": [
+    "data/cars/8461.jpg",
+    "data/cars/8461_2.jpg",
+    "data/cars/8461_3.jpg",
+    "data/cars/8461_4.jpg"
    ]
   },
   {
