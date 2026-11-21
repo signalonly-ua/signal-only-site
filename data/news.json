@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-21T17:37:35+00:00",
+ "updated": "2026-11-21T18:37:29+00:00",
  "news": [
+  {
+   "title": "\"Карпати\" вперше в історії перемогли \"Зорю\": гол Костенка перервав 18-матчеву серію",
+   "source": "РБК-Україна",
+   "link": "https://sport.rbc.ua/rus/football/karpati-vpershe-istoriyi-peremogli-zoryu-1795285497.html",
+   "photo": "data/news/b337869f2b3c.jpg",
+   "date": "2026-11-21"
+  },
   {
    "title": "Ведмежа з Аляски наважилося на \"стрибок віри\" й отримало нагороду",
    "source": "УНІАН",
@@ -20,13 +27,6 @@
    "source": "Суспільне",
    "link": "https://suspilne.media/ivano-frankivsk/1455766-zelenskij-vruciv-vidznaki-majbutne-ukraini-dvom-skolaram-z-ivano-frankivsini-kogo-nagorodili/",
    "photo": "data/news/763ebc23ec1d.jpg",
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Українські дзюдоїсти без нагород завершили виступ на юніорському ЧС-2026 в Узбекистані",
-   "source": "Укрінформ: спорт",
-   "link": "https://www.ukrinform.ua/rubric-sports/4187079-ukrainski-dzudoisti-bez-nagorod-zaversili-vistup-na-uniorskomu-cs2026-v-uzbekistani.html",
-   "photo": "data/news/832854dbc118.jpg",
    "date": "2026-11-21"
   }
  ]
