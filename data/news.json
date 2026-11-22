@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-22T10:37:25+00:00",
+ "updated": "2026-11-22T11:37:24+00:00",
  "news": [
+  {
+   "title": "Для п’яти знаків Зодіаку новий тиждень стане найщасливішим у році",
+   "source": "УНІАН",
+   "link": "https://www.unian.ua/lite/astrology/goroskop-na-tizhden-ci-znaki-zodiaku-budut-golovnimi-shchaslivchikami-13567539.html",
+   "photo": "data/news/6bf1154a96bd.jpg",
+   "date": "2026-11-22"
+  },
   {
    "title": "Світоліна та Костюк претендують на престижні нагороди WTA: як проголосувати за українок",
    "source": "РБК-Україна",
@@ -20,13 +27,6 @@
    "source": "РБК-Україна",
    "link": "https://sport.rbc.ua/rus/football/arsenal-vryatuvavsya-vid-porazki-nyukaslom-1795290720.html",
    "photo": "data/news/7709f91bada4.jpg",
-   "date": "2026-11-21"
-  },
-  {
-   "title": "Зібрали понад 17 млн грн на допомогу ЗСУ: Зеленський нагородив трьох дітей зі Львівщини",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/lviv/1455923-zibrali-ponad-17-mln-grn-na-dopomogu-zsu-zelenskij-nagorodiv-troh-ditej-zi-lvivsini/",
-   "photo": "data/news/8f35a08f422c.jpg",
    "date": "2026-11-21"
   }
  ]
