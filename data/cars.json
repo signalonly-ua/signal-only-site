@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:10:25+00:00",
+ "updated": "2026-11-22T16:10:25+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -51,23 +51,6 @@
     "data/cars/8558_2.jpg",
     "data/cars/8558_3.jpg",
     "data/cars/8558_4.jpg"
-   ]
-  },
-  {
-   "title": "Volkswagen Tiguan",
-   "year": 2018,
-   "price_usd": 14900,
-   "city": "Київ",
-   "pct": 18,
-   "market_usd": 18150,
-   "why": "на 18% дешевше за схожі (≈ $18 150)",
-   "link": "https://t.me/kievautotrade/11525",
-   "photo": "data/cars/8532.jpg",
-   "photos": [
-    "data/cars/8532.jpg",
-    "data/cars/8532_2.jpg",
-    "data/cars/8532_3.jpg",
-    "data/cars/8532_4.jpg"
    ]
   },
   {
@@ -167,6 +150,23 @@
     "data/cars/8603_2.jpg",
     "data/cars/8603_3.jpg",
     "data/cars/8603_4.jpg"
+   ]
+  },
+  {
+   "title": "Ford Fusion",
+   "year": 2020,
+   "price_usd": 11400,
+   "city": "",
+   "pct": 17,
+   "market_usd": 13750,
+   "why": "на 17% дешевше за схожі (≈ $13 750)",
+   "link": "https://t.me/avtobazar_group/217926",
+   "photo": "data/cars/8582.jpg",
+   "photos": [
+    "data/cars/8582.jpg",
+    "data/cars/8582_2.jpg",
+    "data/cars/8582_3.jpg",
+    "data/cars/8582_4.jpg"
    ]
   }
  ]
