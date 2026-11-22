@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T16:10:25+00:00",
+ "updated": "2026-11-22T20:10:26+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -37,23 +37,6 @@
    ]
   },
   {
-   "title": "Toyota Camry",
-   "year": 2018,
-   "price_usd": 21000,
-   "city": "Київ",
-   "pct": 25,
-   "market_usd": 28000,
-   "why": "на 25% дешевше за схожі (≈ $28 000)",
-   "link": "https://t.me/kievavto2/148692",
-   "photo": "data/cars/8558.jpg",
-   "photos": [
-    "data/cars/8558.jpg",
-    "data/cars/8558_2.jpg",
-    "data/cars/8558_3.jpg",
-    "data/cars/8558_4.jpg"
-   ]
-  },
-  {
    "title": "Land Rover Range Rover",
    "year": 2024,
    "price_usd": 132000,
@@ -71,20 +54,71 @@
    ]
   },
   {
-   "title": "BMW 3 Series",
-   "year": 2005,
-   "price_usd": 4400,
+   "title": "Volkswagen Passat",
+   "year": 2007,
+   "price_usd": 3000,
    "city": "",
-   "pct": 37,
-   "market_usd": 7000,
-   "why": "на 37% дешевше за схожі (≈ $7 000)",
-   "link": "https://t.me/autobazarkropyvnytskyiua/36210",
-   "photo": "data/cars/8567.jpg",
+   "pct": 43,
+   "market_usd": 5250,
+   "why": "на 43% дешевше за схожі (≈ $5 250)",
+   "link": "https://t.me/ua_autobazar/78784",
+   "photo": "data/cars/8685.jpg",
    "photos": [
-    "data/cars/8567.jpg",
-    "data/cars/8567_2.jpg",
-    "data/cars/8567_3.jpg",
-    "data/cars/8567_4.jpg"
+    "data/cars/8685.jpg",
+    "data/cars/8685_2.jpg",
+    "data/cars/8685_3.jpg",
+    "data/cars/8685_4.jpg"
+   ]
+  },
+  {
+   "title": "Land Rover Range Rover",
+   "year": 2019,
+   "price_usd": 29500,
+   "city": "Львів",
+   "pct": 37,
+   "market_usd": 46850,
+   "why": "на 37% дешевше за схожі (≈ $46 850)",
+   "link": "https://t.me/kievavto2/148765",
+   "photo": "data/cars/8678.jpg",
+   "photos": [
+    "data/cars/8678.jpg",
+    "data/cars/8678_2.jpg",
+    "data/cars/8678_3.jpg",
+    "data/cars/8678_4.jpg"
+   ]
+  },
+  {
+   "title": "Hyundai Santa FE",
+   "year": 2006,
+   "price_usd": 5900,
+   "city": "Львів",
+   "pct": 34,
+   "market_usd": 8950,
+   "why": "на 34% дешевше за схожі (≈ $8 950)",
+   "link": "https://t.me/GoldCarsLviv/38079",
+   "photo": "data/cars/8673.jpg",
+   "photos": [
+    "data/cars/8673.jpg",
+    "data/cars/8673_2.jpg",
+    "data/cars/8673_3.jpg",
+    "data/cars/8673_4.jpg"
+   ]
+  },
+  {
+   "title": "BMW X3",
+   "year": 2017,
+   "price_usd": 12700,
+   "city": "Луцьк",
+   "pct": 33,
+   "market_usd": 18950,
+   "why": "на 33% дешевше за схожі (≈ $18 950)",
+   "link": "https://t.me/Avto_Odesa/31302",
+   "photo": "data/cars/8689.jpg",
+   "photos": [
+    "data/cars/8689.jpg",
+    "data/cars/8689_2.jpg",
+    "data/cars/8689_3.jpg",
+    "data/cars/8689_4.jpg"
    ]
   },
   {
@@ -119,54 +153,20 @@
    ]
   },
   {
-   "title": "Opel Insignia",
+   "title": "Toyota Land Cruiser",
    "year": 2012,
-   "price_usd": 5500,
-   "city": "Львів",
-   "pct": 27,
-   "market_usd": 7550,
-   "why": "на 27% дешевше за схожі (≈ $7 550)",
-   "link": "https://t.me/GoldCarsLviv/38044",
-   "photo": "data/cars/8570.jpg",
-   "photos": [
-    "data/cars/8570.jpg",
-    "data/cars/8570_2.jpg",
-    "data/cars/8570_3.jpg",
-    "data/cars/8570_4.jpg"
-   ]
-  },
-  {
-   "title": "BMW X3",
-   "year": 2017,
-   "price_usd": 15100,
-   "city": "Луцьк",
-   "pct": 23,
-   "market_usd": 19600,
-   "why": "на 23% дешевше за схожі (≈ $19 600)",
-   "link": "https://t.me/avtobazar_group/218002",
-   "photo": "data/cars/8603.jpg",
-   "photos": [
-    "data/cars/8603.jpg",
-    "data/cars/8603_2.jpg",
-    "data/cars/8603_3.jpg",
-    "data/cars/8603_4.jpg"
-   ]
-  },
-  {
-   "title": "Ford Fusion",
-   "year": 2020,
-   "price_usd": 11400,
+   "price_usd": 20900,
    "city": "",
-   "pct": 17,
-   "market_usd": 13750,
-   "why": "на 17% дешевше за схожі (≈ $13 750)",
-   "link": "https://t.me/avtobazar_group/217926",
-   "photo": "data/cars/8582.jpg",
+   "pct": 24,
+   "market_usd": 27500,
+   "why": "на 24% дешевше за схожі (≈ $27 500)",
+   "link": "https://t.me/autobazarchernihivua/35719",
+   "photo": "data/cars/8677.jpg",
    "photos": [
-    "data/cars/8582.jpg",
-    "data/cars/8582_2.jpg",
-    "data/cars/8582_3.jpg",
-    "data/cars/8582_4.jpg"
+    "data/cars/8677.jpg",
+    "data/cars/8677_2.jpg",
+    "data/cars/8677_3.jpg",
+    "data/cars/8677_4.jpg"
    ]
   }
  ]
