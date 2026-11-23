@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:40:46+00:00",
+ "updated": "2026-11-23T14:40:47+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -17,6 +17,23 @@
     "data/cars/8685_2.jpg",
     "data/cars/8685_3.jpg",
     "data/cars/8685_4.jpg"
+   ]
+  },
+  {
+   "title": "Toyota Camry",
+   "year": 2023,
+   "price_usd": 35000,
+   "city": "",
+   "pct": 39,
+   "market_usd": 57400,
+   "why": "на 39% дешевше за схожі (≈ $57 400)",
+   "link": "https://t.me/kievavto2/148837",
+   "photo": "data/cars/8800.jpg",
+   "photos": [
+    "data/cars/8800.jpg",
+    "data/cars/8800_2.jpg",
+    "data/cars/8800_3.jpg",
+    "data/cars/8800_4.jpg"
    ]
   },
   {
@@ -71,6 +88,23 @@
    ]
   },
   {
+   "title": "Chevrolet Cruze",
+   "year": 2011,
+   "price_usd": 4700,
+   "city": "",
+   "pct": 27,
+   "market_usd": 6450,
+   "why": "на 27% дешевше за схожі (≈ $6 450)",
+   "link": "https://t.me/autobazarkropyvnytskyiua/36235",
+   "photo": "data/cars/8807.jpg",
+   "photos": [
+    "data/cars/8807.jpg",
+    "data/cars/8807_2.jpg",
+    "data/cars/8807_3.jpg",
+    "data/cars/8807_4.jpg"
+   ]
+  },
+  {
    "title": "Toyota Land Cruiser",
    "year": 2012,
    "price_usd": 20900,
@@ -88,6 +122,40 @@
    ]
   },
   {
+   "title": "Audi A3",
+   "year": 2015,
+   "price_usd": 9200,
+   "city": "Львів",
+   "pct": 23,
+   "market_usd": 11950,
+   "why": "на 23% дешевше за схожі (≈ $11 950)",
+   "link": "https://t.me/GoldCarsLviv/38114",
+   "photo": "data/cars/8779.jpg",
+   "photos": [
+    "data/cars/8779.jpg",
+    "data/cars/8779_2.jpg",
+    "data/cars/8779_3.jpg",
+    "data/cars/8779_4.jpg"
+   ]
+  },
+  {
+   "title": "Opel Astra",
+   "year": 2016,
+   "price_usd": 7650,
+   "city": "Запоріжжя",
+   "pct": 23,
+   "market_usd": 9950,
+   "why": "на 23% дешевше за схожі (≈ $9 950)",
+   "link": "https://t.me/avto1_zp/17912",
+   "photo": "data/cars/8780.jpg",
+   "photos": [
+    "data/cars/8780.jpg",
+    "data/cars/8780_2.jpg",
+    "data/cars/8780_3.jpg",
+    "data/cars/8780_4.jpg"
+   ]
+  },
+  {
    "title": "Skoda Octavia",
    "year": 2006,
    "price_usd": 4300,
@@ -102,68 +170,6 @@
     "data/cars/8700_2.jpg",
     "data/cars/8700_3.jpg",
     "data/cars/8700_4.jpg"
-   ]
-  },
-  {
-   "title": "Volkswagen Passat",
-   "year": 2014,
-   "price_usd": 8000,
-   "city": "Львів",
-   "pct": 22,
-   "market_usd": 10250,
-   "why": "на 22% дешевше за схожі (≈ $10 250)",
-   "link": "https://t.me/avtobazar_group/218471",
-   "photo": "data/cars/8708.jpg",
-   "photos": [
-    "data/cars/8708.jpg",
-    "data/cars/8708_2.jpg",
-    "data/cars/8708_3.jpg"
-   ]
-  },
-  {
-   "title": "Mercedes-Benz GL-Class",
-   "year": 2014,
-   "price_usd": 18000,
-   "city": "Одеса",
-   "pct": 21,
-   "market_usd": 22800,
-   "why": "на 21% дешевше за схожі (≈ $22 800)",
-   "link": "https://t.me/auto_price_odesa/16609",
-   "photo": "",
-   "photos": []
-  },
-  {
-   "title": "Subaru Forester",
-   "year": 2016,
-   "price_usd": 9500,
-   "city": "Львів",
-   "pct": 19,
-   "market_usd": 11750,
-   "why": "на 19% дешевше за схожі (≈ $11 750)",
-   "link": "https://t.me/avtobazar_group/218555",
-   "photo": "data/cars/8736.jpg",
-   "photos": [
-    "data/cars/8736.jpg",
-    "data/cars/8736_2.jpg",
-    "data/cars/8736_3.jpg",
-    "data/cars/8736_4.jpg"
-   ]
-  },
-  {
-   "title": "Audi A4",
-   "year": 2002,
-   "price_usd": 3600,
-   "city": "",
-   "pct": 18,
-   "market_usd": 4400,
-   "why": "на 18% дешевше за схожі (≈ $4 400)",
-   "link": "https://t.me/robota_in_lutsk/27584",
-   "photo": "data/cars/8672.jpg",
-   "photos": [
-    "data/cars/8672.jpg",
-    "data/cars/8672_2.jpg",
-    "data/cars/8672_3.jpg",
-    "data/cars/8672_4.jpg"
    ]
   }
  ]

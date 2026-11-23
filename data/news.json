@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T14:37:30+00:00",
+ "updated": "2026-11-23T15:37:35+00:00",
  "news": [
   {
    "title": "Не могли вибратися самостійно: на Рівненщині з котловану новобудови врятували двох дітей",
@@ -16,18 +16,18 @@
    "date": "2026-11-23"
   },
   {
-   "title": "Порівну хлопчиків і дівчаток: скільки дітей народилося за тиждень на Миколаївщині",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/mykolaiv/1456262-porivnu-hlopcikiv-i-divcatok-skilki-ditej-narodilosa-za-tizden-na-mikolaivsini/",
-   "photo": "data/news/61578b2786e3.jpg",
-   "date": "2026-11-23"
-  },
-  {
    "title": "У Димері після 22 годин з-під завалів врятували жінку",
    "source": "УНІАН",
    "link": "https://www.unian.ua/incidents/dimer-pislya-22-godin-z-pid-zavaliv-vryatuvali-zhinku-novini-kiyeva-13568241.html",
    "photo": "data/news/0c77f78bcc25.jpg",
    "date": "2026-11-23"
+  },
+  {
+   "title": "\"Аталанта\" врятувала матч з \"Інтером\" на останніх хвилинах: хет-трик Еспозіто не допоміг міланцям",
+   "source": "РБК-Україна",
+   "link": "https://sport.rbc.ua/rus/football/atalanta-vryatuvala-match-interom-ostannih-1795384912.html",
+   "photo": "data/news/aabe2809bf1c.jpg",
+   "date": "2026-11-22"
   }
  ]
 }
