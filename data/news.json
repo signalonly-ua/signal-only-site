@@ -1,11 +1,18 @@
 {
- "updated": "2026-11-23T11:37:31+00:00",
+ "updated": "2026-11-23T12:37:28+00:00",
  "news": [
   {
    "title": "Вперше в історії: на ТСК не з’явилися всі запрошені — Федорова доправлять примусово",
    "source": "ТСН",
    "link": "https://tsn.ua/ukrayina/vpershe-v-istoriyi-na-tsk-ne-ziavylysia-vsi-zaprosheni-fedorova-dopravliat-prymusovo-3224287.html",
    "photo": "data/news/119bfb69f592.jpg",
+   "date": "2026-11-23"
+  },
+  {
+   "title": "У Києві нагородили службову собаку з Павлограда, який разом з господаркою віднайшла понад 150 тіл воїнів",
+   "source": "NV",
+   "link": "https://nv.ua/ukr/socium/sobaka-z-pavlograda-yaka-razom-z-gospodarkoyu-vidnayshli-ponad-150-til-vojiniv-otrimala-nagorodu-50661318.html",
+   "photo": "data/news/de646aca021e.jpg",
    "date": "2026-11-23"
   },
   {
@@ -20,13 +27,6 @@
    "source": "УНІАН",
    "link": "https://www.unian.ua/incidents/dimer-pislya-22-godin-z-pid-zavaliv-vryatuvali-zhinku-novini-kiyeva-13568241.html",
    "photo": "data/news/0c77f78bcc25.jpg",
-   "date": "2026-11-23"
-  },
-  {
-   "title": "У Черкасах протягом тижня народилося 39 дітей",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/cherkasy/1456233-u-cerkasah-protagom-tizna-narodilosa-39-ditej/",
-   "photo": "data/news/717515746a58.jpg",
    "date": "2026-11-23"
   }
  ]
