@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:40:48+00:00",
+ "updated": "2026-11-23T22:19:02+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -68,6 +68,23 @@
     "data/cars/8807_2.jpg",
     "data/cars/8807_3.jpg",
     "data/cars/8807_4.jpg"
+   ]
+  },
+  {
+   "title": "Volkswagen Golf",
+   "year": 2005,
+   "price_usd": 3750,
+   "city": "Запоріжжя",
+   "pct": 24,
+   "market_usd": 4950,
+   "why": "на 24% дешевше за схожі (≈ $4 950)",
+   "link": "https://t.me/avto1_zp/17943",
+   "photo": "data/cars/8854.jpg",
+   "photos": [
+    "data/cars/8854.jpg",
+    "data/cars/8854_2.jpg",
+    "data/cars/8854_3.jpg",
+    "data/cars/8854_4.jpg"
    ]
   },
   {
@@ -148,23 +165,6 @@
    "link": "https://t.me/auto_price_odesa/16609",
    "photo": "",
    "photos": []
-  },
-  {
-   "title": "Audi A4",
-   "year": 2015,
-   "price_usd": 11000,
-   "city": "Харків",
-   "pct": 21,
-   "market_usd": 13900,
-   "why": "на 21% дешевше за схожі (≈ $13 900)",
-   "link": "https://t.me/avto_kh/105567",
-   "photo": "data/cars/8797.jpg",
-   "photos": [
-    "data/cars/8797.jpg",
-    "data/cars/8797_2.jpg",
-    "data/cars/8797_3.jpg",
-    "data/cars/8797_4.jpg"
-   ]
   }
  ]
 }
