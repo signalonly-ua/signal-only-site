@@ -1,58 +1,7 @@
 {
- "updated": "2026-11-23T06:40:46+00:00",
+ "updated": "2026-11-23T10:40:46+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "BMW X5",
-   "year": 2005,
-   "price_usd": 5500,
-   "city": "Біла Церква",
-   "pct": 48,
-   "market_usd": 10600,
-   "why": "на 48% дешевше за схожі (≈ $10 600)",
-   "link": "https://t.me/avtobazar_group/217959",
-   "photo": "data/cars/8593.jpg",
-   "photos": [
-    "data/cars/8593.jpg",
-    "data/cars/8593_2.jpg",
-    "data/cars/8593_3.jpg",
-    "data/cars/8593_4.jpg"
-   ]
-  },
-  {
-   "title": "Hyundai Sonata",
-   "year": 2013,
-   "price_usd": 5500,
-   "city": "Київ",
-   "pct": 30,
-   "market_usd": 7850,
-   "why": "на 30% дешевше за схожі (≈ $7 850)",
-   "link": "https://t.me/KievavtoSale/18439",
-   "photo": "data/cars/8595.jpg",
-   "photos": [
-    "data/cars/8595.jpg",
-    "data/cars/8595_2.jpg",
-    "data/cars/8595_3.jpg",
-    "data/cars/8595_4.jpg"
-   ]
-  },
-  {
-   "title": "Land Rover Range Rover",
-   "year": 2024,
-   "price_usd": 132000,
-   "city": "Київ",
-   "pct": 16,
-   "market_usd": 157150,
-   "why": "на 16% дешевше за схожі (≈ $157 150)",
-   "link": "https://t.me/kievavto2/148699",
-   "photo": "data/cars/8587.jpg",
-   "photos": [
-    "data/cars/8587.jpg",
-    "data/cars/8587_2.jpg",
-    "data/cars/8587_3.jpg",
-    "data/cars/8587_4.jpg"
-   ]
-  },
   {
    "title": "Volkswagen Passat",
    "year": 2007,
@@ -122,37 +71,6 @@
    ]
   },
   {
-   "title": "Toyota Camry",
-   "year": 2006,
-   "price_usd": 5200,
-   "city": "Запоріжжя",
-   "pct": 32,
-   "market_usd": 7650,
-   "why": "на 32% дешевше за схожі (≈ $7 650)",
-   "link": "https://t.me/avto1_zp/17831",
-   "photo": "data/cars/8590.jpg",
-   "photos": [
-    "data/cars/8590.jpg",
-    "data/cars/8590_2.jpg",
-    "data/cars/8590_3.jpg",
-    "data/cars/8590_4.jpg"
-   ]
-  },
-  {
-   "title": "BMW 3 Series",
-   "year": 2013,
-   "price_usd": 8500,
-   "city": "Львів",
-   "pct": 30,
-   "market_usd": 12150,
-   "why": "на 30% дешевше за схожі (≈ $12 150)",
-   "link": "https://t.me/avtobazar_group/217978",
-   "photo": "data/cars/8598.jpg",
-   "photos": [
-    "data/cars/8598.jpg"
-   ]
-  },
-  {
    "title": "Toyota Land Cruiser",
    "year": 2012,
    "price_usd": 20900,
@@ -167,6 +85,85 @@
     "data/cars/8677_2.jpg",
     "data/cars/8677_3.jpg",
     "data/cars/8677_4.jpg"
+   ]
+  },
+  {
+   "title": "Skoda Octavia",
+   "year": 2006,
+   "price_usd": 4300,
+   "city": "Луцьк",
+   "pct": 22,
+   "market_usd": 5500,
+   "why": "на 22% дешевше за схожі (≈ $5 500)",
+   "link": "https://t.me/avtobazar_group/218401",
+   "photo": "data/cars/8700.jpg",
+   "photos": [
+    "data/cars/8700.jpg",
+    "data/cars/8700_2.jpg",
+    "data/cars/8700_3.jpg",
+    "data/cars/8700_4.jpg"
+   ]
+  },
+  {
+   "title": "Volkswagen Passat",
+   "year": 2014,
+   "price_usd": 8000,
+   "city": "Львів",
+   "pct": 22,
+   "market_usd": 10250,
+   "why": "на 22% дешевше за схожі (≈ $10 250)",
+   "link": "https://t.me/avtobazar_group/218471",
+   "photo": "data/cars/8708.jpg",
+   "photos": [
+    "data/cars/8708.jpg",
+    "data/cars/8708_2.jpg",
+    "data/cars/8708_3.jpg"
+   ]
+  },
+  {
+   "title": "Mercedes-Benz GL-Class",
+   "year": 2014,
+   "price_usd": 18000,
+   "city": "Одеса",
+   "pct": 21,
+   "market_usd": 22800,
+   "why": "на 21% дешевше за схожі (≈ $22 800)",
+   "link": "https://t.me/auto_price_odesa/16609",
+   "photo": "",
+   "photos": []
+  },
+  {
+   "title": "Subaru Forester",
+   "year": 2016,
+   "price_usd": 9500,
+   "city": "Львів",
+   "pct": 19,
+   "market_usd": 11750,
+   "why": "на 19% дешевше за схожі (≈ $11 750)",
+   "link": "https://t.me/avtobazar_group/218555",
+   "photo": "data/cars/8736.jpg",
+   "photos": [
+    "data/cars/8736.jpg",
+    "data/cars/8736_2.jpg",
+    "data/cars/8736_3.jpg",
+    "data/cars/8736_4.jpg"
+   ]
+  },
+  {
+   "title": "Audi A4",
+   "year": 2002,
+   "price_usd": 3600,
+   "city": "",
+   "pct": 18,
+   "market_usd": 4400,
+   "why": "на 18% дешевше за схожі (≈ $4 400)",
+   "link": "https://t.me/robota_in_lutsk/27584",
+   "photo": "data/cars/8672.jpg",
+   "photos": [
+    "data/cars/8672.jpg",
+    "data/cars/8672_2.jpg",
+    "data/cars/8672_3.jpg",
+    "data/cars/8672_4.jpg"
    ]
   }
  ]

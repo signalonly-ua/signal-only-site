@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-23T10:37:31+00:00",
+ "updated": "2026-11-23T11:37:31+00:00",
  "news": [
+  {
+   "title": "Вперше в історії: на ТСК не з’явилися всі запрошені — Федорова доправлять примусово",
+   "source": "ТСН",
+   "link": "https://tsn.ua/ukrayina/vpershe-v-istoriyi-na-tsk-ne-ziavylysia-vsi-zaprosheni-fedorova-dopravliat-prymusovo-3224287.html",
+   "photo": "data/news/119bfb69f592.jpg",
+   "date": "2026-11-23"
+  },
   {
    "title": "Порівну хлопчиків і дівчаток: скільки дітей народилося за тиждень на Миколаївщині",
    "source": "Суспільне",
@@ -21,13 +28,6 @@
    "link": "https://suspilne.media/cherkasy/1456233-u-cerkasah-protagom-tizna-narodilosa-39-ditej/",
    "photo": "data/news/717515746a58.jpg",
    "date": "2026-11-23"
-  },
-  {
-   "title": "\"Аталанта\" врятувала матч з \"Інтером\" на останніх хвилинах: хет-трик Еспозіто не допоміг міланцям",
-   "source": "РБК-Україна",
-   "link": "https://sport.rbc.ua/rus/football/atalanta-vryatuvala-match-interom-ostannih-1795384912.html",
-   "photo": "data/news/aabe2809bf1c.jpg",
-   "date": "2026-11-22"
   }
  ]
 }
