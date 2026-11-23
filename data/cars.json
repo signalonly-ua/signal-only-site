@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-23T14:40:47+00:00",
+ "updated": "2026-11-23T18:40:48+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
-   "title": "Volkswagen Passat",
-   "year": 2007,
-   "price_usd": 3000,
-   "city": "",
-   "pct": 43,
-   "market_usd": 5250,
-   "why": "на 43% дешевше за схожі (≈ $5 250)",
-   "link": "https://t.me/ua_autobazar/78784",
-   "photo": "data/cars/8685.jpg",
+   "title": "Skoda Superb",
+   "year": 2012,
+   "price_usd": 5450,
+   "city": "Рівне",
+   "pct": 45,
+   "market_usd": 9900,
+   "why": "на 45% дешевше за схожі (≈ $9 900)",
+   "link": "https://t.me/robota_in_uzhgorod/26415",
+   "photo": "data/cars/8816.jpg",
    "photos": [
-    "data/cars/8685.jpg",
-    "data/cars/8685_2.jpg",
-    "data/cars/8685_3.jpg",
-    "data/cars/8685_4.jpg"
+    "data/cars/8816.jpg",
+    "data/cars/8816_2.jpg",
+    "data/cars/8816_3.jpg",
+    "data/cars/8816_4.jpg"
    ]
   },
   {
@@ -37,54 +37,20 @@
    ]
   },
   {
-   "title": "Land Rover Range Rover",
-   "year": 2019,
-   "price_usd": 29500,
-   "city": "Львів",
-   "pct": 37,
-   "market_usd": 46850,
-   "why": "на 37% дешевше за схожі (≈ $46 850)",
-   "link": "https://t.me/kievavto2/148765",
-   "photo": "data/cars/8678.jpg",
-   "photos": [
-    "data/cars/8678.jpg",
-    "data/cars/8678_2.jpg",
-    "data/cars/8678_3.jpg",
-    "data/cars/8678_4.jpg"
-   ]
-  },
-  {
-   "title": "Hyundai Santa FE",
-   "year": 2006,
-   "price_usd": 5900,
-   "city": "Львів",
+   "title": "Volkswagen Passat",
+   "year": 2008,
+   "price_usd": 3700,
+   "city": "",
    "pct": 34,
-   "market_usd": 8950,
-   "why": "на 34% дешевше за схожі (≈ $8 950)",
-   "link": "https://t.me/GoldCarsLviv/38079",
-   "photo": "data/cars/8673.jpg",
+   "market_usd": 5600,
+   "why": "на 34% дешевше за схожі (≈ $5 600)",
+   "link": "https://t.me/autobazar_poltava_ua/44662",
+   "photo": "data/cars/8810.jpg",
    "photos": [
-    "data/cars/8673.jpg",
-    "data/cars/8673_2.jpg",
-    "data/cars/8673_3.jpg",
-    "data/cars/8673_4.jpg"
-   ]
-  },
-  {
-   "title": "BMW X3",
-   "year": 2017,
-   "price_usd": 12700,
-   "city": "Луцьк",
-   "pct": 33,
-   "market_usd": 18950,
-   "why": "на 33% дешевше за схожі (≈ $18 950)",
-   "link": "https://t.me/Avto_Odesa/31302",
-   "photo": "data/cars/8689.jpg",
-   "photos": [
-    "data/cars/8689.jpg",
-    "data/cars/8689_2.jpg",
-    "data/cars/8689_3.jpg",
-    "data/cars/8689_4.jpg"
+    "data/cars/8810.jpg",
+    "data/cars/8810_2.jpg",
+    "data/cars/8810_3.jpg",
+    "data/cars/8810_4.jpg"
    ]
   },
   {
@@ -102,23 +68,6 @@
     "data/cars/8807_2.jpg",
     "data/cars/8807_3.jpg",
     "data/cars/8807_4.jpg"
-   ]
-  },
-  {
-   "title": "Toyota Land Cruiser",
-   "year": 2012,
-   "price_usd": 20900,
-   "city": "",
-   "pct": 24,
-   "market_usd": 27500,
-   "why": "на 24% дешевше за схожі (≈ $27 500)",
-   "link": "https://t.me/autobazarchernihivua/35719",
-   "photo": "data/cars/8677.jpg",
-   "photos": [
-    "data/cars/8677.jpg",
-    "data/cars/8677_2.jpg",
-    "data/cars/8677_3.jpg",
-    "data/cars/8677_4.jpg"
    ]
   },
   {
@@ -170,6 +119,51 @@
     "data/cars/8700_2.jpg",
     "data/cars/8700_3.jpg",
     "data/cars/8700_4.jpg"
+   ]
+  },
+  {
+   "title": "Volkswagen Passat",
+   "year": 2014,
+   "price_usd": 8000,
+   "city": "Львів",
+   "pct": 22,
+   "market_usd": 10250,
+   "why": "на 22% дешевше за схожі (≈ $10 250)",
+   "link": "https://t.me/avtobazar_group/218471",
+   "photo": "data/cars/8708.jpg",
+   "photos": [
+    "data/cars/8708.jpg",
+    "data/cars/8708_2.jpg",
+    "data/cars/8708_3.jpg"
+   ]
+  },
+  {
+   "title": "Mercedes-Benz GL-Class",
+   "year": 2014,
+   "price_usd": 18000,
+   "city": "Одеса",
+   "pct": 21,
+   "market_usd": 22800,
+   "why": "на 21% дешевше за схожі (≈ $22 800)",
+   "link": "https://t.me/auto_price_odesa/16609",
+   "photo": "",
+   "photos": []
+  },
+  {
+   "title": "Audi A4",
+   "year": 2015,
+   "price_usd": 11000,
+   "city": "Харків",
+   "pct": 21,
+   "market_usd": 13900,
+   "why": "на 21% дешевше за схожі (≈ $13 900)",
+   "link": "https://t.me/avto_kh/105567",
+   "photo": "data/cars/8797.jpg",
+   "photos": [
+    "data/cars/8797.jpg",
+    "data/cars/8797_2.jpg",
+    "data/cars/8797_3.jpg",
+    "data/cars/8797_4.jpg"
    ]
   }
  ]
