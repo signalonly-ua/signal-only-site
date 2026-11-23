@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-23T08:37:31+00:00",
+ "updated": "2026-11-23T09:37:26+00:00",
  "news": [
+  {
+   "title": "У Димері після 22 годин з-під завалів врятували жінку",
+   "source": "УНІАН",
+   "link": "https://www.unian.ua/incidents/dimer-pislya-22-godin-z-pid-zavaliv-vryatuvali-zhinku-novini-kiyeva-13568241.html",
+   "photo": "data/news/0c77f78bcc25.jpg",
+   "date": "2026-11-23"
+  },
   {
    "title": "У Черкасах протягом тижня народилося 39 дітей",
    "source": "Суспільне",
@@ -20,13 +27,6 @@
    "source": "УНІАН",
    "link": "https://www.unian.ua/war/dimer-ryatuvalniki-vityagnuli-z-pid-zavaliv-7-richnogo-hlopchika-novini-kiyeva-13567962.html",
    "photo": "data/news/963a2783fa54.jpg",
-   "date": "2026-11-22"
-  },
-  {
-   "title": "Люди, які народилися в ці місяці, створені для спокійного й щасливого життя",
-   "source": "УНІАН",
-   "link": "https://www.unian.ua/lite/astrology/numerologiya-za-misyacem-narodzhennya-ci-lyudi-stvoreni-dlya-spokiynogo-y-shchaslivogo-zhittya-13567755.html",
-   "photo": "data/news/800cafebebde.jpg",
    "date": "2026-11-22"
   }
  ]
