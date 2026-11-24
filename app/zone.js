@@ -3,6 +3,7 @@
 (() => {
   const ZONE_KM = 20, VIEW_KM = 60, AGE_MAX = 30;
   const COL = { shahed: '#f59e0b', jet: '#ef4444', cruise: '#a855f7', kab: '#eab308', ballistic: '#dc2626', unknown: '#9ca3af' };
+  const LET = { shahed: 'Ш', jet: 'Р', cruise: 'К', kab: 'А', ballistic: 'Б', unknown: '?' };
   const KINDS = { shahed: 'Шахед / БпЛА', jet: 'Реактивний БпЛА', cruise: 'Крилата ракета', kab: 'КАБ', ballistic: 'Балістика', impact: 'Прильот', unknown: 'Ціль' };
   let map = null, tiles = null, layer = null, lastKey = '', tileErr = 0;
   const e = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
@@ -44,10 +45,10 @@
     return out.sort((a, b) => (a.impact - b.impact) || (a.km - b.km));
   }
   function icon(o) {
-    if (o.impact) return L.divIcon({ className: '', html: '<div class="zimp">💥</div>', iconSize: [20, 20], iconAnchor: [10, 10] });
+    if (o.impact) return L.divIcon({ className: '', html: '<div class="zimp">💥</div>', iconSize: [30, 30], iconAnchor: [15, 15] });
     const arrow = o.heading != null ? '<div class="a" style="transform:rotate(' + o.heading + 'deg)"></div>' : '';
-    return L.divIcon({ className: '', iconSize: [30, 30], iconAnchor: [15, 15],
-      html: '<div class="zt' + (o.area ? ' area' : '') + (o.pass != null && o.pass <= 6 ? ' toward' : '') + '">' + arrow + '<div class="c" style="background:' + (COL[o.kind] || COL.unknown) + '"></div></div>' });
+    return L.divIcon({ className: '', iconSize: [46, 46], iconAnchor: [23, 23],
+      html: '<div class="zt' + (o.area ? ' area' : '') + (o.pass != null && o.pass <= 6 ? ' toward' : '') + '">' + arrow + '<div class="c" style="background:' + (COL[o.kind] || COL.unknown) + '">' + (LET[o.kind] || '?') + '</div></div>' });
   }
   function text(o) {
     if (o.impact) return '💥 Прильот: ' + e(o.label) + ' · ' + o.km + ' км';

@@ -34,11 +34,11 @@ ul{list-style:none;margin:0;padding:0}li{padding:7px 0;border-top:1px solid var(
 #zmap{height:340px;border-radius:14px;overflow:hidden;background:var(--line);z-index:0}
 .zleg{display:flex;flex-wrap:wrap;gap:10px;font-size:12px;color:var(--mut);margin-top:8px}.zleg i.k{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:4px;vertical-align:-1px}
 .k.shahed{background:#f59e0b}.k.jet{background:#ef4444}.k.cruise{background:#a855f7}.k.kab{background:#eab308}.k.ballistic{background:#dc2626}.k.unknown{background:#9ca3af}
-.zt{position:relative;width:30px;height:30px}.zt .c{position:absolute;inset:7px;border-radius:50%;border:2px solid #fff;box-shadow:0 0 0 2px #0006}
-.zt .a{position:absolute;left:50%;top:50%;width:0;height:0;margin:-15px 0 0 -6px;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:11px solid #fff;transform-origin:6px 15px;filter:drop-shadow(0 0 1px #000)}
-.zt.toward .c{animation:zp 1s infinite}.zt.area .c{border-style:dashed;opacity:.7}@keyframes zp{50%{box-shadow:0 0 0 8px #ec489966}}
 .zme{width:16px;height:16px;border-radius:50%;background:#38bdf8;border:3px solid #fff;box-shadow:0 0 0 6px #38bdf855}
-.zimp{font-size:20px;line-height:20px}
 #zList li{display:flex;justify-content:space-between;gap:8px;font-size:14px}
 .leaflet-container{font:inherit}
 .tiles-dark{filter:invert(1) hue-rotate(180deg) brightness(.85) contrast(.9)}
+.zt{position:relative;width:46px;height:46px}.zt .c{position:absolute;inset:9px;border-radius:50%;border:3px solid #fff;box-shadow:0 0 0 2px #0008,0 2px 8px #0009;display:grid;place-items:center;color:#fff;font:800 14px/1 system-ui,sans-serif;text-shadow:0 1px 2px #000}
+.zt .a{position:absolute;left:50%;top:50%;width:0;height:0;margin:-28px 0 0 -11px;border-left:11px solid transparent;border-right:11px solid transparent;border-bottom:20px solid #fff;transform-origin:11px 28px;filter:drop-shadow(0 0 2px #000)}
+.zt.toward .c{animation:zp 1s infinite}.zt.area .c{border-style:dashed;opacity:.75}@keyframes zp{50%{box-shadow:0 0 0 12px #ec489966}}
+.zimp{font-size:30px;line-height:30px}
