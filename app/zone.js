@@ -66,8 +66,9 @@
       L.marker(me, { icon: L.divIcon({ className: '', html: '<div class="zme"></div>', iconSize: [16, 16], iconAnchor: [8, 8] }), zIndexOffset: 1000 }).bindPopup(e(p.name || 'Ваша точка')).addTo(layer);
       for (const o of list) L.marker([o.lat, o.lon], { icon: icon(o) }).bindPopup(text(o)).addTo(layer);
       const far = list.filter(o => !o.impact && !o.area).reduce((m, o) => Math.max(m, o.km), 0);
-      map.fitBounds(L.latLng(me).toBounds(Math.max(ZONE_KM + 3, Math.min(VIEW_KM, far + 5)) * 2000), { animate: false });
-      setTimeout(() => map.invalidateSize(), 60);
+      const bb = L.latLng(me).toBounds(Math.max(ZONE_KM + 3, Math.min(VIEW_KM, far + 5)) * 2000);
+      map.fitBounds(bb, { animate: false });
+      setTimeout(() => { map.invalidateSize(); map.fitBounds(bb, { animate: false }); }, 120);   // розмір блоку відомий лише після показу
     }
     document.getElementById('zInfo').textContent = inZone ? '· ' + inZone + ' у зоні ' + ZONE_KM + ' км' : '· у зоні ' + ZONE_KM + ' км чисто';
     const ageSec = Math.max(0, Date.now() / 1000 - (st.ts || st.now));
