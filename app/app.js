@@ -1,4 +1,4 @@
-/* Signal Alert — статична версія (24.11.2026). Дані: ../data/alarm/app/state.json (оновлюється ~кожні 5 хв), зони й пошук — статичні файли.
+/* Signal Alert — статична версія (24.11.2026). Дані: ../data/alarm/app/state.json (файл сайту ~раз на 10 хв) або живе джерело з ПК раз на хвилину (live_api.json), зони й пошук — статичні файли.
    Рівні для всіх: 🟢 🟡 🟠 🔴 (розрахунок за відкритими даними, не офіційне повідомлення). Прогноз курсу цілі (⚫ 🩷) тут вимкнено навмисно. */
 const $ = id => document.getElementById(id);
 const ICON = { green: '🟢', yellow: '🟡', orange: '🟠', red: '🔴', grey: '⚪' };
@@ -107,7 +107,29 @@ function searchPlaces(q) {
   }
   return out;
 }
+let watchId = null;
+function stopBeacon() { if (watchId !== null) { navigator.geolocation.clearWatch(watchId); watchId = null; } $('beacon').textContent = '📍 Маячок (де я)'; }
+async function nearestAdmin(lat, lon) {          // область і район найближчого пункту (для статусу маячка)
+  await ensurePlaces();
+  let best = null, bd = 1e9;
+  for (const p of placesIdx) { if (p[5] < 1500) continue; const d = (p[3] - lat) ** 2 + ((p[4] - lon) * .65) ** 2; if (d < bd) { bd = d; best = p; } }
+  return best ? { oblast: best[1], district: best[2] } : { oblast: null, district: null };
+}
+$('beacon').onclick = () => {
+  if (watchId !== null) { stopBeacon(); return; }
+  if (!navigator.geolocation) { $('placeName').textContent = 'Геолокація недоступна.'; return; }
+  $('beacon').textContent = '📍 Шукаю вас…';
+  watchId = navigator.geolocation.watchPosition(async pos => {
+    const lat = pos.coords.latitude, lon = pos.coords.longitude;
+    const moved = !place.beacon || km([place.lat, place.lon], [lat, lon]) > 2;
+    const adm = moved || !place.oblast ? await nearestAdmin(lat, lon) : { oblast: place.oblast, district: place.district };
+    place = { name: 'Я тут (маячок)', lat, lon, beacon: true, oblast: adm.oblast, district: adm.district };
+    $('beacon').textContent = '📍 Маячок увімкнено · вимкнути';
+    if (st && st.ok) { pt = pointLevel(st, place); render(); }
+  }, () => { $('placeName').textContent = 'Немає дозволу на геолокацію (Налаштування → Safari → Розташування).'; stopBeacon(); }, { enableHighAccuracy: true, maximumAge: 30000 });
+};
 function setPlace(p) {
+  stopBeacon();
   place = p; ls('sa_place', JSON.stringify(p)); prev = null; shown = null; $('q').value = ''; $('res').hidden = true; refresh();
 }
 function renderMine() {
@@ -117,7 +139,7 @@ function renderMine() {
     setPlace(mine[+c.dataset.i]);
   });
 }
-$('save').onclick = () => { if (!mine.some(m => m.name === place.name && m.oblast === place.oblast)) { mine.push(place); ls('sa_mine', JSON.stringify(mine)); renderMine(); } };
+$('save').onclick = () => { if (place.beacon) return; if (!mine.some(m => m.name === place.name && m.oblast === place.oblast)) { mine.push(place); ls('sa_mine', JSON.stringify(mine)); renderMine(); } };
 let qt = null;
 $('q').oninput = () => {
   clearTimeout(qt);
@@ -133,8 +155,20 @@ $('q').oninput = () => {
 };
 
 /* ---------- стан і звук ---------- */
+async function liveState() {          // живе джерело з ПК (тунель), якщо сайт його оголосив і воно свіже; інакше — файл сайту
+  try {
+    const a = await (await fetch('../data/alarm/app/live_api.json?t=' + Math.floor(Date.now() / 60000), { cache: 'no-store' })).json();
+    if (!a.url || Date.now() / 1000 - a.ts > 1800) return null;
+    const ctl = new AbortController(); const tm = setTimeout(() => ctl.abort(), 8000);
+    const s = await (await fetch(a.url + '/api/state', { cache: 'no-store', signal: ctl.signal })).json();
+    clearTimeout(tm);
+    if (s && s.ok && !s.stale) { s._live = true; return s; }
+  } catch (e) { }
+  return null;
+}
 async function refresh() {
-  try { st = await (await fetch('../data/alarm/app/state.json?t=' + Math.floor(Date.now() / 30000), { cache: 'no-store' })).json(); } catch (e) { st = null; }
+  st = await liveState();
+  if (!st) { try { st = await (await fetch('../data/alarm/app/state.json?t=' + Math.floor(Date.now() / 30000), { cache: 'no-store' })).json(); } catch (e) { st = null; } }
   pt = st && st.ok ? pointLevel(st, place) : null;
   render();
 }
@@ -171,6 +205,7 @@ function render() {
   document.title = (lv === 'green' || lv === 'grey' ? '' : ICON[lv] + ' ') + 'Signal Alert';
   if (prev !== null && prev !== lv && lv !== 'grey' && (RANK.indexOf(lv) >= 1 || lv === 'green')) alertLocal(lv, ICON[lv] + ' ' + place.name + ': ' + T[lv]);
   prev = lv; drawMap();
+  if (window.saZoneUpdate) window.saZoneUpdate(st, place);
 }
 if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js').catch(() => { });
 loadZones().then(refresh); setInterval(refresh, 60000);
