@@ -115,18 +115,42 @@ async function nearestAdmin(lat, lon) {          // область і район
   for (const p of placesIdx) { if (p[5] < 1500) continue; const d = (p[3] - lat) ** 2 + ((p[4] - lon) * .65) ** 2; if (d < bd) { bd = d; best = p; } }
   return best ? { oblast: best[1], district: best[2] } : { oblast: null, district: null };
 }
-$('beacon').onclick = () => {
-  if (watchId !== null) { stopBeacon(); return; }
-  if (!navigator.geolocation) { $('placeName').textContent = 'Геолокація недоступна.'; return; }
-  $('beacon').textContent = '📍 Шукаю вас…';
-  watchId = navigator.geolocation.watchPosition(async pos => {
+function beaconFix(pos) {
+  (async () => {
     const lat = pos.coords.latitude, lon = pos.coords.longitude;
     const moved = !place.beacon || km([place.lat, place.lon], [lat, lon]) > 2;
     const adm = moved || !place.oblast ? await nearestAdmin(lat, lon) : { oblast: place.oblast, district: place.district };
     place = { name: 'Я тут (маячок)', lat, lon, beacon: true, oblast: adm.oblast, district: adm.district };
     $('beacon').textContent = '📍 Маячок увімкнено · вимкнути';
     if (st && st.ok) { pt = pointLevel(st, place); render(); }
-  }, () => { $('placeName').textContent = 'Немає дозволу на геолокацію (Налаштування → Safari → Розташування).'; stopBeacon(); }, { enableHighAccuracy: true, maximumAge: 30000 });
+  })();
+}
+function pickMode(msg) {                       // браузер не дає GPS (Tesla, старі браузери): точку ставимо дотиком на карті
+  window.saPick = true;
+  $('pick').textContent = '🗺 Торкніться карти нижче…';
+  $('placeName').textContent = msg || 'Торкніться карти «Цілі в зоні маячка», щоб поставити свою точку.';
+  try { $('zmap').scrollIntoView({ behavior: 'smooth', block: 'center' }); } catch (e) { }
+}
+window.saMapPick = async (lat, lon) => {
+  window.saPick = false; $('pick').textContent = '🗺 Вказати на карті';
+  const adm = await nearestAdmin(lat, lon);
+  setPlace({ name: 'Точка на карті', lat, lon, oblast: adm.oblast, district: adm.district, manual: true });
+};
+$('pick').onclick = () => { if (window.saPick) { window.saPick = false; $('pick').textContent = '🗺 Вказати на карті'; render(); } else pickMode(); };
+$('beacon').onclick = () => {
+  if (watchId !== null) { stopBeacon(); return; }
+  if (!navigator.geolocation) { pickMode('Цей браузер не дає геолокацію. Торкніться карти нижче, щоб поставити свою точку.'); return; }
+  $('beacon').textContent = '📍 Шукаю вас…';
+  let done = false;
+  const fail = why => {
+    if (done) return; done = true; stopBeacon();
+    pickMode((why === 1 ? 'Немає дозволу на геолокацію. ' : 'Браузер не дав вашу геолокацію (так буває в Tesla). ') + 'Торкніться карти нижче, щоб поставити свою точку.');
+  };
+  const guard = setTimeout(() => fail(3), 12000);  // деякі браузери мовчать і не відповідають взагалі
+  navigator.geolocation.getCurrentPosition(pos => {
+    if (done) return; done = true; clearTimeout(guard); beaconFix(pos);
+    watchId = navigator.geolocation.watchPosition(beaconFix, () => { }, { enableHighAccuracy: false, maximumAge: 30000 });
+  }, err => { clearTimeout(guard); fail(err && err.code); }, { enableHighAccuracy: false, timeout: 10000, maximumAge: 120000 });
 };
 function setPlace(p) {
   stopBeacon();
