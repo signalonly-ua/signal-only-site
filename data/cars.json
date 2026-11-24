@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T09:04:02+00:00",
+ "updated": "2026-11-24T13:04:03+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -71,6 +71,23 @@
    ]
   },
   {
+   "title": "Hyundai Tucson",
+   "year": 2007,
+   "price_usd": 4350,
+   "city": "Рівне",
+   "pct": 40,
+   "market_usd": 7250,
+   "why": "на 40% дешевше за схожі (≈ $7 250)",
+   "link": "https://t.me/ua_autobazar/78864",
+   "photo": "data/cars/8922.jpg",
+   "photos": [
+    "data/cars/8922.jpg",
+    "data/cars/8922_2.jpg",
+    "data/cars/8922_3.jpg",
+    "data/cars/8922_4.jpg"
+   ]
+  },
+  {
    "title": "Toyota Camry",
    "year": 2023,
    "price_usd": 35000,
@@ -122,6 +139,23 @@
    ]
   },
   {
+   "title": "Ford Focus",
+   "year": 2013,
+   "price_usd": 5200,
+   "city": "Запоріжжя",
+   "pct": 26,
+   "market_usd": 7050,
+   "why": "на 26% дешевше за схожі (≈ $7 050)",
+   "link": "https://t.me/avto1_zp/17959",
+   "photo": "data/cars/8904.jpg",
+   "photos": [
+    "data/cars/8904.jpg",
+    "data/cars/8904_2.jpg",
+    "data/cars/8904_3.jpg",
+    "data/cars/8904_4.jpg"
+   ]
+  },
+  {
    "title": "Volkswagen Golf",
    "year": 2005,
    "price_usd": 3750,
@@ -136,40 +170,6 @@
     "data/cars/8854_2.jpg",
     "data/cars/8854_3.jpg",
     "data/cars/8854_4.jpg"
-   ]
-  },
-  {
-   "title": "Audi A3",
-   "year": 2015,
-   "price_usd": 9200,
-   "city": "Львів",
-   "pct": 23,
-   "market_usd": 11950,
-   "why": "на 23% дешевше за схожі (≈ $11 950)",
-   "link": "https://t.me/GoldCarsLviv/38114",
-   "photo": "data/cars/8779.jpg",
-   "photos": [
-    "data/cars/8779.jpg",
-    "data/cars/8779_2.jpg",
-    "data/cars/8779_3.jpg",
-    "data/cars/8779_4.jpg"
-   ]
-  },
-  {
-   "title": "Opel Astra",
-   "year": 2016,
-   "price_usd": 7650,
-   "city": "Запоріжжя",
-   "pct": 23,
-   "market_usd": 9950,
-   "why": "на 23% дешевше за схожі (≈ $9 950)",
-   "link": "https://t.me/avto1_zp/17912",
-   "photo": "data/cars/8780.jpg",
-   "photos": [
-    "data/cars/8780.jpg",
-    "data/cars/8780_2.jpg",
-    "data/cars/8780_3.jpg",
-    "data/cars/8780_4.jpg"
    ]
   }
  ]
