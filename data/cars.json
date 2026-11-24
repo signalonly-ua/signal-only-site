@@ -1,7 +1,58 @@
 {
- "updated": "2026-11-24T05:04:02+00:00",
+ "updated": "2026-11-24T09:04:02+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
+  {
+   "title": "Toyota Camry",
+   "year": 2017,
+   "price_usd": 15500,
+   "city": "Київ",
+   "pct": 37,
+   "market_usd": 24600,
+   "why": "на 37% дешевше за схожі (≈ $24 600)",
+   "link": "https://t.me/imperiya_auto/94745",
+   "photo": "data/cars/8896.jpg",
+   "photos": [
+    "data/cars/8896.jpg",
+    "data/cars/8896_2.jpg",
+    "data/cars/8896_3.jpg",
+    "data/cars/8896_4.jpg"
+   ]
+  },
+  {
+   "title": "Audi A6",
+   "year": 2016,
+   "price_usd": 8700,
+   "city": "",
+   "pct": 49,
+   "market_usd": 17050,
+   "why": "на 49% дешевше за схожі (≈ $17 050)",
+   "link": "https://t.me/autobazar_nikolaev/41573",
+   "photo": "data/cars/8874.jpg",
+   "photos": [
+    "data/cars/8874.jpg",
+    "data/cars/8874_2.jpg",
+    "data/cars/8874_3.jpg",
+    "data/cars/8874_4.jpg"
+   ]
+  },
+  {
+   "title": "Toyota Camry",
+   "year": 2024,
+   "price_usd": 26000,
+   "city": "",
+   "pct": 49,
+   "market_usd": 51000,
+   "why": "на 49% дешевше за схожі (≈ $51 000)",
+   "link": "https://t.me/kievavto2/148910",
+   "photo": "data/cars/8897.jpg",
+   "photos": [
+    "data/cars/8897.jpg",
+    "data/cars/8897_2.jpg",
+    "data/cars/8897_3.jpg",
+    "data/cars/8897_4.jpg"
+   ]
+  },
   {
    "title": "Skoda Superb",
    "year": 2012,
@@ -119,51 +170,6 @@
     "data/cars/8780_2.jpg",
     "data/cars/8780_3.jpg",
     "data/cars/8780_4.jpg"
-   ]
-  },
-  {
-   "title": "Volkswagen Passat",
-   "year": 2014,
-   "price_usd": 8000,
-   "city": "Львів",
-   "pct": 22,
-   "market_usd": 10250,
-   "why": "на 22% дешевше за схожі (≈ $10 250)",
-   "link": "https://t.me/avtobazar_group/218471",
-   "photo": "data/cars/8708.jpg",
-   "photos": [
-    "data/cars/8708.jpg",
-    "data/cars/8708_2.jpg",
-    "data/cars/8708_3.jpg"
-   ]
-  },
-  {
-   "title": "Mercedes-Benz GL-Class",
-   "year": 2014,
-   "price_usd": 18000,
-   "city": "Одеса",
-   "pct": 21,
-   "market_usd": 22800,
-   "why": "на 21% дешевше за схожі (≈ $22 800)",
-   "link": "https://t.me/auto_price_odesa/16609",
-   "photo": "",
-   "photos": []
-  },
-  {
-   "title": "Audi A4",
-   "year": 2015,
-   "price_usd": 11000,
-   "city": "Харків",
-   "pct": 21,
-   "market_usd": 13900,
-   "why": "на 21% дешевше за схожі (≈ $13 900)",
-   "link": "https://t.me/avto_kh/105567",
-   "photo": "data/cars/8797.jpg",
-   "photos": [
-    "data/cars/8797.jpg",
-    "data/cars/8797_2.jpg",
-    "data/cars/8797_3.jpg",
-    "data/cars/8797_4.jpg"
    ]
   }
  ]

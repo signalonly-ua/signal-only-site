@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-24T08:37:28+00:00",
+ "updated": "2026-11-24T09:37:30+00:00",
  "news": [
+  {
+   "title": "Анна Різатдінова отримала нагороду в Нью-Йорку: чим вона зворушила Вупі Голдберг",
+   "source": "РБК-Україна",
+   "link": "https://wave.rbc.ua/rus/stars/anna-rizatdinova-otrimala-nagorodu-nyu-yorku-1795512153.html",
+   "photo": "data/news/abbb9b9c86ab.jpg",
+   "date": "2026-11-24"
+  },
+  {
+   "title": "Кушнер назвав \"головну нагороду\" мирних переговорів щодо України, і це не перемир'я",
+   "source": "УНІАН",
+   "link": "https://www.unian.ua/politics/kushner-rozpoviv-shcho-stane-golovnoyu-nagorodoyu-pislya-zavershennya-viyni-v-ukrajini-13569480.html",
+   "photo": "data/news/4391eeeeee53.jpg",
+   "date": "2026-11-24"
+  },
   {
    "title": "«Це робить мене щасливим». Тренер «Атлетіко» Сімеоне встановив історичний рекорд за перемогами в Ла Лізі",
    "source": "Суспільне",
@@ -13,20 +27,6 @@
    "source": "Суспільне",
    "link": "https://suspilne.media/chernihiv/1456564-znajsli-u-nori-poruc-iz-mertvou-matiru-ukrainski-vijskovi-vratuvali-9-cucenat-v-lisi-na-prikordonni-cernigivsini/",
    "photo": "data/news/6e98637fd75d.jpg",
-   "date": "2026-11-23"
-  },
-  {
-   "title": "У горах Румунії біля кордону знайшли мертвим 52-річного українця, двох його супутників врятували - ЗМІ",
-   "source": "Укрінформ: суспільство",
-   "link": "https://www.ukrinform.ua/rubric-society/4187777-u-gorah-rumunii-bila-kordonu-znajsli-mertvim-52ricnogo-ukrainca-dvoh-jogo-suputnikiv-vratuvali-zmi.html",
-   "photo": "data/news/b667d8d5d23a.jpg",
-   "date": "2026-11-23"
-  },
-  {
-   "title": "Вперше в історії: на ТСК не з’явилися всі запрошені — Федорова доправлять примусово",
-   "source": "ТСН",
-   "link": "https://tsn.ua/ukrayina/vpershe-v-istoriyi-na-tsk-ne-ziavylysia-vsi-zaprosheni-fedorova-dopravliat-prymusovo-3224287.html",
-   "photo": "data/news/119bfb69f592.jpg",
    "date": "2026-11-23"
   }
  ]
