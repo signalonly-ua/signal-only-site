@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T17:04:03+00:00",
+ "updated": "2026-11-24T21:04:03+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -131,20 +131,20 @@
    ]
   },
   {
-   "title": "Volkswagen Golf",
-   "year": 2005,
-   "price_usd": 3750,
-   "city": "Запоріжжя",
-   "pct": 24,
-   "market_usd": 4950,
-   "why": "на 24% дешевше за схожі (≈ $4 950)",
-   "link": "https://t.me/avto1_zp/17943",
-   "photo": "data/cars/8854.jpg",
+   "title": "Nissan Rogue",
+   "year": 2022,
+   "price_usd": 14700,
+   "city": "Полтава",
+   "pct": 25,
+   "market_usd": 19600,
+   "why": "на 25% дешевше за схожі (≈ $19 600)",
+   "link": "https://t.me/avtobazar_group/219389",
+   "photo": "data/cars/9043.jpg",
    "photos": [
-    "data/cars/8854.jpg",
-    "data/cars/8854_2.jpg",
-    "data/cars/8854_3.jpg",
-    "data/cars/8854_4.jpg"
+    "data/cars/9043.jpg",
+    "data/cars/9043_2.jpg",
+    "data/cars/9043_3.jpg",
+    "data/cars/9043_4.jpg"
    ]
   },
   {
