@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T13:04:03+00:00",
+ "updated": "2026-11-24T17:04:03+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -18,6 +18,18 @@
     "data/cars/8896_3.jpg",
     "data/cars/8896_4.jpg"
    ]
+  },
+  {
+   "title": "Mitsubishi Lancer",
+   "year": 2007,
+   "price_usd": 4690,
+   "city": "Київ",
+   "pct": 22,
+   "market_usd": 6000,
+   "why": "на 22% дешевше за схожі (≈ $6 000)",
+   "link": "https://t.me/autoparkua4/85236",
+   "photo": "",
+   "photos": []
   },
   {
    "title": "Audi A6",
@@ -54,20 +66,20 @@
    ]
   },
   {
-   "title": "Skoda Superb",
-   "year": 2012,
-   "price_usd": 5450,
-   "city": "Рівне",
-   "pct": 45,
-   "market_usd": 9900,
-   "why": "на 45% дешевше за схожі (≈ $9 900)",
-   "link": "https://t.me/robota_in_uzhgorod/26415",
-   "photo": "data/cars/8816.jpg",
+   "title": "Daewoo Lanos",
+   "year": 2009,
+   "price_usd": 1700,
+   "city": "Запоріжжя",
+   "pct": 41,
+   "market_usd": 2900,
+   "why": "на 41% дешевше за схожі (≈ $2 900)",
+   "link": "https://t.me/avto1_zp/17984",
+   "photo": "data/cars/8991.jpg",
    "photos": [
-    "data/cars/8816.jpg",
-    "data/cars/8816_2.jpg",
-    "data/cars/8816_3.jpg",
-    "data/cars/8816_4.jpg"
+    "data/cars/8991.jpg",
+    "data/cars/8991_2.jpg",
+    "data/cars/8991_3.jpg",
+    "data/cars/8991_4.jpg"
    ]
   },
   {
@@ -88,54 +100,17 @@
    ]
   },
   {
-   "title": "Toyota Camry",
-   "year": 2023,
-   "price_usd": 35000,
+   "title": "BMW 5 Series",
+   "year": 2013,
+   "price_usd": 8900,
    "city": "",
-   "pct": 39,
-   "market_usd": 57400,
-   "why": "на 39% дешевше за схожі (≈ $57 400)",
-   "link": "https://t.me/kievavto2/148837",
-   "photo": "data/cars/8800.jpg",
+   "pct": 33,
+   "market_usd": 13300,
+   "why": "на 33% дешевше за схожі (≈ $13 300)",
+   "link": "https://t.me/parkgarageAUTO_ua/1038",
+   "photo": "data/cars/8995.jpg",
    "photos": [
-    "data/cars/8800.jpg",
-    "data/cars/8800_2.jpg",
-    "data/cars/8800_3.jpg",
-    "data/cars/8800_4.jpg"
-   ]
-  },
-  {
-   "title": "Volkswagen Passat",
-   "year": 2008,
-   "price_usd": 3700,
-   "city": "",
-   "pct": 34,
-   "market_usd": 5600,
-   "why": "на 34% дешевше за схожі (≈ $5 600)",
-   "link": "https://t.me/autobazar_poltava_ua/44662",
-   "photo": "data/cars/8810.jpg",
-   "photos": [
-    "data/cars/8810.jpg",
-    "data/cars/8810_2.jpg",
-    "data/cars/8810_3.jpg",
-    "data/cars/8810_4.jpg"
-   ]
-  },
-  {
-   "title": "Chevrolet Cruze",
-   "year": 2011,
-   "price_usd": 4700,
-   "city": "",
-   "pct": 27,
-   "market_usd": 6450,
-   "why": "на 27% дешевше за схожі (≈ $6 450)",
-   "link": "https://t.me/autobazarkropyvnytskyiua/36235",
-   "photo": "data/cars/8807.jpg",
-   "photos": [
-    "data/cars/8807.jpg",
-    "data/cars/8807_2.jpg",
-    "data/cars/8807_3.jpg",
-    "data/cars/8807_4.jpg"
+    "data/cars/8995.jpg"
    ]
   },
   {
@@ -171,6 +146,18 @@
     "data/cars/8854_3.jpg",
     "data/cars/8854_4.jpg"
    ]
+  },
+  {
+   "title": "BMW X5",
+   "year": 2016,
+   "price_usd": 20490,
+   "city": "Львів",
+   "pct": 24,
+   "market_usd": 26950,
+   "why": "на 24% дешевше за схожі (≈ $26 950)",
+   "link": "https://t.me/autoparkua4/85233",
+   "photo": "",
+   "photos": []
   }
  ]
 }
