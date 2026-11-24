@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:19:02+00:00",
+ "updated": "2026-11-24T05:04:02+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -122,23 +122,6 @@
    ]
   },
   {
-   "title": "Skoda Octavia",
-   "year": 2006,
-   "price_usd": 4300,
-   "city": "Луцьк",
-   "pct": 22,
-   "market_usd": 5500,
-   "why": "на 22% дешевше за схожі (≈ $5 500)",
-   "link": "https://t.me/avtobazar_group/218401",
-   "photo": "data/cars/8700.jpg",
-   "photos": [
-    "data/cars/8700.jpg",
-    "data/cars/8700_2.jpg",
-    "data/cars/8700_3.jpg",
-    "data/cars/8700_4.jpg"
-   ]
-  },
-  {
    "title": "Volkswagen Passat",
    "year": 2014,
    "price_usd": 8000,
@@ -165,6 +148,23 @@
    "link": "https://t.me/auto_price_odesa/16609",
    "photo": "",
    "photos": []
+  },
+  {
+   "title": "Audi A4",
+   "year": 2015,
+   "price_usd": 11000,
+   "city": "Харків",
+   "pct": 21,
+   "market_usd": 13900,
+   "why": "на 21% дешевше за схожі (≈ $13 900)",
+   "link": "https://t.me/avto_kh/105567",
+   "photo": "data/cars/8797.jpg",
+   "photos": [
+    "data/cars/8797.jpg",
+    "data/cars/8797_2.jpg",
+    "data/cars/8797_3.jpg",
+    "data/cars/8797_4.jpg"
+   ]
   }
  ]
 }
