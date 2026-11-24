@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="uk"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Signal Alert — додаток тривог (бета)</title>
+<meta name="description" content="Signal Alert: статус повітряної тривоги за вашим населеним пунктом і карта областей. Бета-версія, не замінює офіційні сигнали.">
+<meta name="theme-color" content="#0b0f14">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="canonical" href="https://signalonly-ua.github.io/signal-only-site/app/">
+<link rel="stylesheet" href="app.css">
+</head><body>
+<header><b>Signal Alert</b><span id="upd">…</span><button id="theme" aria-label="Тема">◐</button></header>
+<main>
+  <section class="hero">
+    <div class="search"><input id="q" type="search" placeholder="🔎 Населений пункт, район Києва…" autocomplete="off"><ul id="res" hidden></ul></div>
+    <div id="mine" class="chips mine"></div>
+    <div class="row"><button id="save" class="btn2">⭐ У мої місця</button></div>
+    <div id="placeName" class="pname"></div>
+    <div id="dot" class="dot grey"><span id="dotIcon">?</span></div>
+    <h1 id="title">Завантаження…</h1>
+    <p id="sub"></p>
+    <div id="stale" class="warn" hidden>Дані застаріли — перевірте офіційні джерела</div>
+  </section>
+  <section class="card"><h2>Карта <small>· торкніться області</small></h2><svg id="map" viewBox="0 0 100 70" role="img" aria-label="Карта України"></svg></section>
+  <section class="card"><h2>Області з тривогою <small id="aCount"></small></h2><div id="alarms" class="chips"></div></section>
+  <section class="card"><h2>Цілі в повітрі <small id="tCount"></small></h2><ul id="threats"></ul></section>
+  <section class="card"><h2>Останнє</h2><ul id="lines" class="lines"></ul></section>
+  <section class="card"><h2>Налаштування</h2>
+    <label class="set"><input type="checkbox" id="snd" checked> Звук і вібрація при зміні рівня (лише поки сторінка відкрита)</label>
+    <p class="hint">Це бета-версія: дані оновлюються приблизно раз на 10 хвилин, фонових push-сповіщень поки немає. Для миттєвих сповіщень користуйтеся ботом <a href="https://t.me/AirAlerts_TheBot">@AirAlerts_TheBot</a>.</p></section>
+  <p class="disc">Неофіційний засіб оповіщення, не замінює сирену. Слухайтеся офіційних тривог. <a href="../alert.html">Про Signal Alert</a> · <a href="../privacy.html">Конфіденційність</a></p>
+</main>
+<script src="app.js"></script>
+</body></html>
