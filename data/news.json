@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T23:37:44+00:00",
+ "updated": "2026-11-24T00:37:29+00:00",
  "news": [
   {
    "title": "«Це робить мене щасливим». Тренер «Атлетіко» Сімеоне встановив історичний рекорд за перемогами в Ла Лізі",
@@ -16,18 +16,18 @@
    "date": "2026-11-23"
   },
   {
+   "title": "У горах Румунії біля кордону знайшли мертвим 52-річного українця, двох його супутників врятували - ЗМІ",
+   "source": "Укрінформ: суспільство",
+   "link": "https://www.ukrinform.ua/rubric-society/4187777-u-gorah-rumunii-bila-kordonu-znajsli-mertvim-52ricnogo-ukrainca-dvoh-jogo-suputnikiv-vratuvali-zmi.html",
+   "photo": "data/news/b667d8d5d23a.jpg",
+   "date": "2026-11-23"
+  },
+  {
    "title": "Вперше в історії: на ТСК не з’явилися всі запрошені — Федорова доправлять примусово",
    "source": "ТСН",
    "link": "https://tsn.ua/ukrayina/vpershe-v-istoriyi-na-tsk-ne-ziavylysia-vsi-zaprosheni-fedorova-dopravliat-prymusovo-3224287.html",
    "photo": "data/news/119bfb69f592.jpg",
    "date": "2026-11-23"
-  },
-  {
-   "title": "\"Аталанта\" врятувала матч з \"Інтером\" на останніх хвилинах: хет-трик Еспозіто не допоміг міланцям",
-   "source": "РБК-Україна",
-   "link": "https://sport.rbc.ua/rus/football/atalanta-vryatuvala-match-interom-ostannih-1795384912.html",
-   "photo": "data/news/aabe2809bf1c.jpg",
-   "date": "2026-11-22"
   }
  ]
 }
