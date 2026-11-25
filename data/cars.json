@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:51:36+00:00",
+ "updated": "2026-11-25T15:57:25+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -49,6 +49,23 @@
    ]
   },
   {
+   "title": "Dodge Journey",
+   "year": 2018,
+   "price_usd": 9999,
+   "city": "Київ",
+   "pct": 17,
+   "market_usd": 12050,
+   "why": "на 17% дешевше за схожі (≈ $12 050)",
+   "link": "https://t.me/imperiya_auto/94797",
+   "photo": "data/cars/9167.jpg",
+   "photos": [
+    "data/cars/9167.jpg",
+    "data/cars/9167_2.jpg",
+    "data/cars/9167_3.jpg",
+    "data/cars/9167_4.jpg"
+   ]
+  },
+  {
    "title": "Tesla Model 3",
    "year": 2021,
    "price_usd": 9900,
@@ -63,23 +80,6 @@
     "data/cars/9083_2.jpg",
     "data/cars/9083_3.jpg",
     "data/cars/9083_4.jpg"
-   ]
-  },
-  {
-   "title": "Daewoo Lanos",
-   "year": 2009,
-   "price_usd": 1700,
-   "city": "Запоріжжя",
-   "pct": 41,
-   "market_usd": 2900,
-   "why": "на 41% дешевше за схожі (≈ $2 900)",
-   "link": "https://t.me/avto1_zp/17984",
-   "photo": "data/cars/8991.jpg",
-   "photos": [
-    "data/cars/8991.jpg",
-    "data/cars/8991_2.jpg",
-    "data/cars/8991_3.jpg",
-    "data/cars/8991_4.jpg"
    ]
   },
   {
@@ -100,20 +100,6 @@
    ]
   },
   {
-   "title": "BMW 5 Series",
-   "year": 2013,
-   "price_usd": 8900,
-   "city": "",
-   "pct": 33,
-   "market_usd": 13300,
-   "why": "на 33% дешевше за схожі (≈ $13 300)",
-   "link": "https://t.me/parkgarageAUTO_ua/1038",
-   "photo": "data/cars/8995.jpg",
-   "photos": [
-    "data/cars/8995.jpg"
-   ]
-  },
-  {
    "title": "Nissan Rogue",
    "year": 2022,
    "price_usd": 14700,
@@ -131,18 +117,6 @@
    ]
   },
   {
-   "title": "BMW X5",
-   "year": 2016,
-   "price_usd": 20490,
-   "city": "Львів",
-   "pct": 24,
-   "market_usd": 26950,
-   "why": "на 24% дешевше за схожі (≈ $26 950)",
-   "link": "https://t.me/autoparkua4/85233",
-   "photo": "",
-   "photos": []
-  },
-  {
    "title": "Toyota Camry",
    "year": 2008,
    "price_usd": 6582,
@@ -153,6 +127,40 @@
    "link": "https://t.me/avtobazar_group/219322",
    "photo": "",
    "photos": []
+  },
+  {
+   "title": "Daewoo Lanos",
+   "year": 2007,
+   "price_usd": 2000,
+   "city": "Запоріжжя",
+   "pct": 23,
+   "market_usd": 2600,
+   "why": "на 23% дешевше за схожі (≈ $2 600)",
+   "link": "https://t.me/avto1_zp/18023",
+   "photo": "data/cars/9091.jpg",
+   "photos": [
+    "data/cars/9091.jpg",
+    "data/cars/9091_2.jpg",
+    "data/cars/9091_3.jpg",
+    "data/cars/9091_4.jpg"
+   ]
+  },
+  {
+   "title": "Ford Fusion",
+   "year": 2020,
+   "price_usd": 11000,
+   "city": "",
+   "pct": 19,
+   "market_usd": 13600,
+   "why": "на 19% дешевше за схожі (≈ $13 600)",
+   "link": "https://t.me/Avto_Odesa/31410",
+   "photo": "data/cars/9108.jpg",
+   "photos": [
+    "data/cars/9108.jpg",
+    "data/cars/9108_2.jpg",
+    "data/cars/9108_3.jpg",
+    "data/cars/9108_4.jpg"
+   ]
   }
  ]
 }
