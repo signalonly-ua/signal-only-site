@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T15:57:25+00:00",
+ "updated": "2026-11-25T19:19:36+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -18,18 +18,6 @@
     "data/cars/9111_3.jpg",
     "data/cars/9111_4.jpg"
    ]
-  },
-  {
-   "title": "Mitsubishi Lancer",
-   "year": 2007,
-   "price_usd": 4690,
-   "city": "Київ",
-   "pct": 22,
-   "market_usd": 6000,
-   "why": "на 22% дешевше за схожі (≈ $6 000)",
-   "link": "https://t.me/autoparkua4/85236",
-   "photo": "",
-   "photos": []
   },
   {
    "title": "Kia Ceed",
@@ -83,6 +71,23 @@
    ]
   },
   {
+   "title": "BMW X5",
+   "year": 2005,
+   "price_usd": 6900,
+   "city": "",
+   "pct": 37,
+   "market_usd": 10950,
+   "why": "на 37% дешевше за схожі (≈ $10 950)",
+   "link": "https://t.me/autobazar_kharkiv/45092",
+   "photo": "data/cars/9221.jpg",
+   "photos": [
+    "data/cars/9221.jpg",
+    "data/cars/9221_2.jpg",
+    "data/cars/9221_3.jpg",
+    "data/cars/9221_4.jpg"
+   ]
+  },
+  {
    "title": "BMW 5 Series",
    "year": 2015,
    "price_usd": 10300,
@@ -98,6 +103,35 @@
     "data/cars/9097_3.jpg",
     "data/cars/9097_4.jpg"
    ]
+  },
+  {
+   "title": "Opel Astra",
+   "year": 2006,
+   "price_usd": 3000,
+   "city": "Запоріжжя",
+   "pct": 33,
+   "market_usd": 4500,
+   "why": "на 33% дешевше за схожі (≈ $4 500)",
+   "link": "https://t.me/avto1_zp/18069",
+   "photo": "data/cars/9241.jpg",
+   "photos": [
+    "data/cars/9241.jpg",
+    "data/cars/9241_2.jpg",
+    "data/cars/9241_3.jpg",
+    "data/cars/9241_4.jpg"
+   ]
+  },
+  {
+   "title": "Volkswagen Tiguan",
+   "year": 2014,
+   "price_usd": 9500,
+   "city": "Харків",
+   "pct": 26,
+   "market_usd": 12850,
+   "why": "на 26% дешевше за схожі (≈ $12 850)",
+   "link": "https://t.me/autoparkua4/85248",
+   "photo": "",
+   "photos": []
   },
   {
    "title": "Nissan Rogue",
@@ -117,18 +151,6 @@
    ]
   },
   {
-   "title": "Toyota Camry",
-   "year": 2008,
-   "price_usd": 6582,
-   "city": "",
-   "pct": 23,
-   "market_usd": 8550,
-   "why": "на 23% дешевше за схожі (≈ $8 550)",
-   "link": "https://t.me/avtobazar_group/219322",
-   "photo": "",
-   "photos": []
-  },
-  {
    "title": "Daewoo Lanos",
    "year": 2007,
    "price_usd": 2000,
@@ -143,23 +165,6 @@
     "data/cars/9091_2.jpg",
     "data/cars/9091_3.jpg",
     "data/cars/9091_4.jpg"
-   ]
-  },
-  {
-   "title": "Ford Fusion",
-   "year": 2020,
-   "price_usd": 11000,
-   "city": "",
-   "pct": 19,
-   "market_usd": 13600,
-   "why": "на 19% дешевше за схожі (≈ $13 600)",
-   "link": "https://t.me/Avto_Odesa/31410",
-   "photo": "data/cars/9108.jpg",
-   "photos": [
-    "data/cars/9108.jpg",
-    "data/cars/9108_2.jpg",
-    "data/cars/9108_3.jpg",
-    "data/cars/9108_4.jpg"
    ]
   }
  ]
