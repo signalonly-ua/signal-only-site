@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-25T17:37:31+00:00",
+ "updated": "2026-11-25T18:37:27+00:00",
  "news": [
-  {
-   "title": "Збірна України вперше в історії пропустить чемпіонат світу на короткій воді — у федерації назвали причини",
-   "source": "NV",
-   "link": "https://sport.nv.ua/ukr/other-sport/zbirna-ukrajini-z-plavannya-propustit-chempionat-svitu-federaciya-poyasnila-prichini-50662553.html",
-   "photo": "data/news/37a3c0302021.jpg",
-   "date": "2026-11-25"
-  },
   {
    "title": "Педагогів Волині нагородили за професійні здобутки відзнаками Міністерства освіти",
    "source": "Суспільне",
@@ -27,6 +20,13 @@
    "source": "Укрінформ: фронт",
    "link": "https://www.ukrinform.ua/rubric-ato/4188452-desantnik-pid-cas-kurskoi-operacii-vratuvav-vivcarku-aka-teper-vsudi-jogo-suprovodzue.html",
    "photo": "data/news/b7fcdee9962c.jpg",
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Toyota Corolla вперше в історії стане електромобілем: перші деталі",
+   "source": "Autogeek",
+   "link": "https://autogeek.com.ua/toyota-corolla-vpershe-v-istoriyi-stane-elektromobilem-pershi-detali/",
+   "photo": "data/news/176fd0b1605a.jpg",
    "date": "2026-11-25"
   }
  ]
