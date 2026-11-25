@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-25T08:37:27+00:00",
+ "updated": "2026-11-25T09:37:25+00:00",
  "news": [
+  {
+   "title": "Не треба викидати. Як врятувати пересолений холодець: чотири дієві лайфхаки",
+   "source": "NV",
+   "link": "https://nv.ua/ukr/food/eat/holodec-yak-vryatuvati-peresoleniy-bulyon-na-rizdvo-chi-noviy-rik-50662344.html",
+   "photo": "data/news/095ef69e888a.jpg",
+   "date": "2026-11-25"
+  },
   {
    "title": "Врятувати генерала Дуку. Як СБУ явно та неявно намагається допомогти фігуранту справи Карфаген і що це означає — розбір NV",
    "source": "NV",
@@ -20,13 +27,6 @@
    "source": "Суспільне",
    "link": "https://suspilne.media/kharkiv/1457100-prezident-nagorodiv-olega-sinegubova-ta-se-cotiroh-posadovciv-harkivsini/",
    "photo": "data/news/98f0543baeaa.jpg",
-   "date": "2026-11-24"
-  },
-  {
-   "title": "Доля винагородить їх за терпіння: для трьох знаків зодіаку 24 листопада стане особливим днем",
-   "source": "ТСН",
-   "link": "https://tsn.ua/astrologiya/dolia-vynahorodyt-yikh-za-terpinnia-dlia-tryokh-znakiv-zodiaku-24-lystopada-stane-osoblyvym-dnem-3225631.html",
-   "photo": "data/news/78955bece31b.jpg",
    "date": "2026-11-24"
   }
  ]
