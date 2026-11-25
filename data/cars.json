@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T19:19:36+00:00",
+ "updated": "2026-11-25T23:19:37+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -71,6 +71,23 @@
    ]
   },
   {
+   "title": "Mercedes-Benz S-Class",
+   "year": 2006,
+   "price_usd": 6475,
+   "city": "",
+   "pct": 44,
+   "market_usd": 11550,
+   "why": "на 44% дешевше за схожі (≈ $11 550)",
+   "link": "https://t.me/autobazarivanofrankivsk/43359",
+   "photo": "data/cars/9247.jpg",
+   "photos": [
+    "data/cars/9247.jpg",
+    "data/cars/9247_2.jpg",
+    "data/cars/9247_3.jpg",
+    "data/cars/9247_4.jpg"
+   ]
+  },
+  {
    "title": "BMW X5",
    "year": 2005,
    "price_usd": 6900,
@@ -132,23 +149,6 @@
    "link": "https://t.me/autoparkua4/85248",
    "photo": "",
    "photos": []
-  },
-  {
-   "title": "Nissan Rogue",
-   "year": 2022,
-   "price_usd": 14700,
-   "city": "Полтава",
-   "pct": 25,
-   "market_usd": 19600,
-   "why": "на 25% дешевше за схожі (≈ $19 600)",
-   "link": "https://t.me/avtobazar_group/219389",
-   "photo": "data/cars/9043.jpg",
-   "photos": [
-    "data/cars/9043.jpg",
-    "data/cars/9043_2.jpg",
-    "data/cars/9043_3.jpg",
-    "data/cars/9043_4.jpg"
-   ]
   },
   {
    "title": "Daewoo Lanos",
