@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-25T07:51:36+00:00",
+ "updated": "2026-11-25T11:51:36+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
+  {
+   "title": "Kia K5",
+   "year": 2014,
+   "price_usd": 6500,
+   "city": "Київ",
+   "pct": 32,
+   "market_usd": 9550,
+   "why": "на 32% дешевше за схожі (≈ $9 550)",
+   "link": "https://t.me/KievavtoSale/18489",
+   "photo": "data/cars/9111.jpg",
+   "photos": [
+    "data/cars/9111.jpg",
+    "data/cars/9111_2.jpg",
+    "data/cars/9111_3.jpg",
+    "data/cars/9111_4.jpg"
+   ]
+  },
   {
    "title": "Mitsubishi Lancer",
    "year": 2007,
@@ -15,20 +32,37 @@
    "photos": []
   },
   {
-   "title": "Toyota Camry",
-   "year": 2024,
-   "price_usd": 26000,
-   "city": "",
-   "pct": 49,
-   "market_usd": 51000,
-   "why": "на 49% дешевше за схожі (≈ $51 000)",
-   "link": "https://t.me/kievavto2/148910",
-   "photo": "data/cars/8897.jpg",
+   "title": "Kia Ceed",
+   "year": 2009,
+   "price_usd": 4500,
+   "city": "Київ",
+   "pct": 17,
+   "market_usd": 5400,
+   "why": "на 17% дешевше за схожі (≈ $5 400)",
+   "link": "https://t.me/KievavtoSale/18471",
+   "photo": "data/cars/9077.jpg",
    "photos": [
-    "data/cars/8897.jpg",
-    "data/cars/8897_2.jpg",
-    "data/cars/8897_3.jpg",
-    "data/cars/8897_4.jpg"
+    "data/cars/9077.jpg",
+    "data/cars/9077_2.jpg",
+    "data/cars/9077_3.jpg",
+    "data/cars/9077_4.jpg"
+   ]
+  },
+  {
+   "title": "Tesla Model 3",
+   "year": 2021,
+   "price_usd": 9900,
+   "city": "",
+   "pct": 50,
+   "market_usd": 19800,
+   "why": "на 50% дешевше за схожі (≈ $19 800)",
+   "link": "https://t.me/autobazar_nikolaev/41628",
+   "photo": "data/cars/9083.jpg",
+   "photos": [
+    "data/cars/9083.jpg",
+    "data/cars/9083_2.jpg",
+    "data/cars/9083_3.jpg",
+    "data/cars/9083_4.jpg"
    ]
   },
   {
@@ -49,20 +83,20 @@
    ]
   },
   {
-   "title": "Hyundai Tucson",
-   "year": 2007,
-   "price_usd": 4350,
-   "city": "Рівне",
-   "pct": 40,
-   "market_usd": 7250,
-   "why": "на 40% дешевше за схожі (≈ $7 250)",
-   "link": "https://t.me/ua_autobazar/78864",
-   "photo": "data/cars/8922.jpg",
+   "title": "BMW 5 Series",
+   "year": 2015,
+   "price_usd": 10300,
+   "city": "Львів",
+   "pct": 36,
+   "market_usd": 16100,
+   "why": "на 36% дешевше за схожі (≈ $16 100)",
+   "link": "https://t.me/KievavtoSale/18480",
+   "photo": "data/cars/9097.jpg",
    "photos": [
-    "data/cars/8922.jpg",
-    "data/cars/8922_2.jpg",
-    "data/cars/8922_3.jpg",
-    "data/cars/8922_4.jpg"
+    "data/cars/9097.jpg",
+    "data/cars/9097_2.jpg",
+    "data/cars/9097_3.jpg",
+    "data/cars/9097_4.jpg"
    ]
   },
   {
@@ -77,23 +111,6 @@
    "photo": "data/cars/8995.jpg",
    "photos": [
     "data/cars/8995.jpg"
-   ]
-  },
-  {
-   "title": "Ford Focus",
-   "year": 2013,
-   "price_usd": 5200,
-   "city": "Запоріжжя",
-   "pct": 26,
-   "market_usd": 7050,
-   "why": "на 26% дешевше за схожі (≈ $7 050)",
-   "link": "https://t.me/avto1_zp/17959",
-   "photo": "data/cars/8904.jpg",
-   "photos": [
-    "data/cars/8904.jpg",
-    "data/cars/8904_2.jpg",
-    "data/cars/8904_3.jpg",
-    "data/cars/8904_4.jpg"
    ]
   },
   {
@@ -124,23 +141,6 @@
    "link": "https://t.me/autoparkua4/85233",
    "photo": "",
    "photos": []
-  },
-  {
-   "title": "Volkswagen Golf Plus",
-   "year": 2008,
-   "price_usd": 5500,
-   "city": "Умань",
-   "pct": 23,
-   "market_usd": 7150,
-   "why": "на 23% дешевше за схожі (≈ $7 150)",
-   "link": "https://t.me/avtobazar_group/219056",
-   "photo": "data/cars/8907.jpg",
-   "photos": [
-    "data/cars/8907.jpg",
-    "data/cars/8907_2.jpg",
-    "data/cars/8907_3.jpg",
-    "data/cars/8907_4.jpg"
-   ]
   },
   {
    "title": "Toyota Camry",
