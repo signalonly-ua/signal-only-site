@@ -1,24 +1,7 @@
 {
- "updated": "2026-11-25T05:04:04+00:00",
+ "updated": "2026-11-25T07:51:36+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Toyota Camry",
-   "year": 2017,
-   "price_usd": 15500,
-   "city": "Київ",
-   "pct": 37,
-   "market_usd": 24600,
-   "why": "на 37% дешевше за схожі (≈ $24 600)",
-   "link": "https://t.me/imperiya_auto/94745",
-   "photo": "data/cars/8896.jpg",
-   "photos": [
-    "data/cars/8896.jpg",
-    "data/cars/8896_2.jpg",
-    "data/cars/8896_3.jpg",
-    "data/cars/8896_4.jpg"
-   ]
-  },
   {
    "title": "Mitsubishi Lancer",
    "year": 2007,
@@ -30,23 +13,6 @@
    "link": "https://t.me/autoparkua4/85236",
    "photo": "",
    "photos": []
-  },
-  {
-   "title": "Audi A6",
-   "year": 2016,
-   "price_usd": 8700,
-   "city": "",
-   "pct": 49,
-   "market_usd": 17050,
-   "why": "на 49% дешевше за схожі (≈ $17 050)",
-   "link": "https://t.me/autobazar_nikolaev/41573",
-   "photo": "data/cars/8874.jpg",
-   "photos": [
-    "data/cars/8874.jpg",
-    "data/cars/8874_2.jpg",
-    "data/cars/8874_3.jpg",
-    "data/cars/8874_4.jpg"
-   ]
   },
   {
    "title": "Toyota Camry",
@@ -156,6 +122,35 @@
    "market_usd": 26950,
    "why": "на 24% дешевше за схожі (≈ $26 950)",
    "link": "https://t.me/autoparkua4/85233",
+   "photo": "",
+   "photos": []
+  },
+  {
+   "title": "Volkswagen Golf Plus",
+   "year": 2008,
+   "price_usd": 5500,
+   "city": "Умань",
+   "pct": 23,
+   "market_usd": 7150,
+   "why": "на 23% дешевше за схожі (≈ $7 150)",
+   "link": "https://t.me/avtobazar_group/219056",
+   "photo": "data/cars/8907.jpg",
+   "photos": [
+    "data/cars/8907.jpg",
+    "data/cars/8907_2.jpg",
+    "data/cars/8907_3.jpg",
+    "data/cars/8907_4.jpg"
+   ]
+  },
+  {
+   "title": "Toyota Camry",
+   "year": 2008,
+   "price_usd": 6582,
+   "city": "",
+   "pct": 23,
+   "market_usd": 8550,
+   "why": "на 23% дешевше за схожі (≈ $8 550)",
+   "link": "https://t.me/avtobazar_group/219322",
    "photo": "",
    "photos": []
   }
