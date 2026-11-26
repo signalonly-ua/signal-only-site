@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-26T12:37:27+00:00",
+ "updated": "2026-11-26T13:37:25+00:00",
  "news": [
+  {
+   "title": "Як красиво подякувати людині: щирі слова вдячності своїми словами, у прозі та повідомленнях",
+   "source": "ТСН",
+   "link": "https://tsn.ua/other/iak-krasyvo-podiakuvaty-liudyni-shchyri-slova-vdiachnosti-svoyimy-slovamy-u-prozi-ta-povidomlenniakh-3227403.html",
+   "photo": "data/news/8c5c11cc2836.jpg",
+   "date": "2026-11-26"
+  },
   {
    "title": "Чемпіон врятувався: Італія насилу вийшла до півфіналу Кубка Девіса",
    "source": "РБК-Україна",
@@ -21,13 +28,6 @@
    "link": "https://www.unian.ua/lite/astrology/goroskop-na-gruden-2026-ci-znaki-zodiaku-zakriyut-chornu-smugu-i-zabudut-pro-problemi-13571841.html",
    "photo": "data/news/b6444112e625.jpg",
    "date": "2026-11-26"
-  },
-  {
-   "title": "Десантник під час Курської операції врятував вівчарку, яка тепер всюди його супроводжує",
-   "source": "Укрінформ: фронт",
-   "link": "https://www.ukrinform.ua/rubric-ato/4188452-desantnik-pid-cas-kurskoi-operacii-vratuvav-vivcarku-aka-teper-vsudi-jogo-suprovodzue.html",
-   "photo": "data/news/b7fcdee9962c.jpg",
-   "date": "2026-11-25"
   }
  ]
 }
