@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-26T10:37:24+00:00",
+ "updated": "2026-11-26T11:37:52+00:00",
  "news": [
+  {
+   "title": "Американський митець Нік Кейв і павільйон Індії здобули глядацькі нагороди Венеційської бієнале 2026 року",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/culture/1457773-amerikanskij-mitec-nik-kejv-i-paviljon-indii-zdobuli-gladacki-nagorodi-venecijskoi-bienale-2026-roku/",
+   "photo": "data/news/b9272a753192.jpg",
+   "date": "2026-11-26"
+  },
   {
    "title": "Для п’яти знаків Зодіаку грудень стане найщасливішим місяцем року",
    "source": "УНІАН",
@@ -20,13 +27,6 @@
    "source": "Укрінформ: фронт",
    "link": "https://www.ukrinform.ua/rubric-ato/4188452-desantnik-pid-cas-kurskoi-operacii-vratuvav-vivcarku-aka-teper-vsudi-jogo-suprovodzue.html",
    "photo": "data/news/b7fcdee9962c.jpg",
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Toyota Corolla вперше в історії стане електромобілем: перші деталі",
-   "source": "Autogeek",
-   "link": "https://autogeek.com.ua/toyota-corolla-vpershe-v-istoriyi-stane-elektromobilem-pershi-detali/",
-   "photo": "data/news/176fd0b1605a.jpg",
    "date": "2026-11-25"
   }
  ]

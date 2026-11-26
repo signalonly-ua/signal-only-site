@@ -1,41 +1,7 @@
 {
- "updated": "2026-11-26T07:19:37+00:00",
+ "updated": "2026-11-26T11:19:38+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Kia K5",
-   "year": 2014,
-   "price_usd": 6500,
-   "city": "Київ",
-   "pct": 32,
-   "market_usd": 9550,
-   "why": "на 32% дешевше за схожі (≈ $9 550)",
-   "link": "https://t.me/KievavtoSale/18489",
-   "photo": "data/cars/9111.jpg",
-   "photos": [
-    "data/cars/9111.jpg",
-    "data/cars/9111_2.jpg",
-    "data/cars/9111_3.jpg",
-    "data/cars/9111_4.jpg"
-   ]
-  },
-  {
-   "title": "Kia Ceed",
-   "year": 2009,
-   "price_usd": 4500,
-   "city": "Київ",
-   "pct": 17,
-   "market_usd": 5400,
-   "why": "на 17% дешевше за схожі (≈ $5 400)",
-   "link": "https://t.me/KievavtoSale/18471",
-   "photo": "data/cars/9077.jpg",
-   "photos": [
-    "data/cars/9077.jpg",
-    "data/cars/9077_2.jpg",
-    "data/cars/9077_3.jpg",
-    "data/cars/9077_4.jpg"
-   ]
-  },
   {
    "title": "Dodge Journey",
    "year": 2018,
@@ -54,20 +20,20 @@
    ]
   },
   {
-   "title": "Tesla Model 3",
-   "year": 2021,
-   "price_usd": 9900,
-   "city": "",
-   "pct": 50,
-   "market_usd": 19800,
-   "why": "на 50% дешевше за схожі (≈ $19 800)",
-   "link": "https://t.me/autobazar_nikolaev/41628",
-   "photo": "data/cars/9083.jpg",
+   "title": "BMW 5 Series",
+   "year": 2017,
+   "price_usd": 21500,
+   "city": "Київ",
+   "pct": 15,
+   "market_usd": 25300,
+   "why": "на 15% дешевше за схожі (≈ $25 300)",
+   "link": "https://t.me/kievavto2/149136",
+   "photo": "data/cars/9275.jpg",
    "photos": [
-    "data/cars/9083.jpg",
-    "data/cars/9083_2.jpg",
-    "data/cars/9083_3.jpg",
-    "data/cars/9083_4.jpg"
+    "data/cars/9275.jpg",
+    "data/cars/9275_2.jpg",
+    "data/cars/9275_3.jpg",
+    "data/cars/9275_4.jpg"
    ]
   },
   {
@@ -105,23 +71,6 @@
    ]
   },
   {
-   "title": "BMW 5 Series",
-   "year": 2015,
-   "price_usd": 10300,
-   "city": "Львів",
-   "pct": 36,
-   "market_usd": 16100,
-   "why": "на 36% дешевше за схожі (≈ $16 100)",
-   "link": "https://t.me/KievavtoSale/18480",
-   "photo": "data/cars/9097.jpg",
-   "photos": [
-    "data/cars/9097.jpg",
-    "data/cars/9097_2.jpg",
-    "data/cars/9097_3.jpg",
-    "data/cars/9097_4.jpg"
-   ]
-  },
-  {
    "title": "Opel Astra",
    "year": 2006,
    "price_usd": 3000,
@@ -139,6 +88,40 @@
    ]
   },
   {
+   "title": "Mitsubishi Lancer",
+   "year": 2007,
+   "price_usd": 4200,
+   "city": "",
+   "pct": 29,
+   "market_usd": 5900,
+   "why": "на 29% дешевше за схожі (≈ $5 900)",
+   "link": "https://t.me/avtosnab_poltava/4354",
+   "photo": "data/cars/9296.jpg",
+   "photos": [
+    "data/cars/9296.jpg",
+    "data/cars/9296_2.jpg",
+    "data/cars/9296_3.jpg",
+    "data/cars/9296_4.jpg"
+   ]
+  },
+  {
+   "title": "Ford Edge",
+   "year": 2016,
+   "price_usd": 11500,
+   "city": "Одеса",
+   "pct": 29,
+   "market_usd": 16200,
+   "why": "на 29% дешевше за схожі (≈ $16 200)",
+   "link": "https://t.me/avtobazar_group/220035",
+   "photo": "data/cars/9313.jpg",
+   "photos": [
+    "data/cars/9313.jpg",
+    "data/cars/9313_2.jpg",
+    "data/cars/9313_3.jpg",
+    "data/cars/9313_4.jpg"
+   ]
+  },
+  {
    "title": "Volkswagen Tiguan",
    "year": 2014,
    "price_usd": 9500,
@@ -151,20 +134,37 @@
    "photos": []
   },
   {
-   "title": "Daewoo Lanos",
-   "year": 2007,
-   "price_usd": 2000,
-   "city": "Запоріжжя",
-   "pct": 23,
-   "market_usd": 2600,
-   "why": "на 23% дешевше за схожі (≈ $2 600)",
-   "link": "https://t.me/avto1_zp/18023",
-   "photo": "data/cars/9091.jpg",
+   "title": "Skoda Fabia",
+   "year": 2008,
+   "price_usd": 3900,
+   "city": "Львів",
+   "pct": 26,
+   "market_usd": 5250,
+   "why": "на 26% дешевше за схожі (≈ $5 250)",
+   "link": "https://t.me/GoldCarsLviv/38273",
+   "photo": "data/cars/9321.jpg",
    "photos": [
-    "data/cars/9091.jpg",
-    "data/cars/9091_2.jpg",
-    "data/cars/9091_3.jpg",
-    "data/cars/9091_4.jpg"
+    "data/cars/9321.jpg",
+    "data/cars/9321_2.jpg",
+    "data/cars/9321_3.jpg",
+    "data/cars/9321_4.jpg"
+   ]
+  },
+  {
+   "title": "Porsche Cayenne",
+   "year": 2014,
+   "price_usd": 16800,
+   "city": "Умань",
+   "pct": 20,
+   "market_usd": 21000,
+   "why": "на 20% дешевше за схожі (≈ $21 000)",
+   "link": "https://t.me/avtobazar_group/219857",
+   "photo": "data/cars/9252.jpg",
+   "photos": [
+    "data/cars/9252.jpg",
+    "data/cars/9252_2.jpg",
+    "data/cars/9252_3.jpg",
+    "data/cars/9252_4.jpg"
    ]
   }
  ]
