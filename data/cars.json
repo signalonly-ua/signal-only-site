@@ -1,7 +1,24 @@
 {
- "updated": "2026-11-26T15:19:38+00:00",
+ "updated": "2026-11-26T19:19:39+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
+  {
+   "title": "BMW 5 Series",
+   "year": 2017,
+   "price_usd": 18500,
+   "city": "Київ",
+   "pct": 27,
+   "market_usd": 25350,
+   "why": "на 27% дешевше за схожі (≈ $25 350)",
+   "link": "https://t.me/kievavto2/149212",
+   "photo": "data/cars/9399.jpg",
+   "photos": [
+    "data/cars/9399.jpg",
+    "data/cars/9399_2.jpg",
+    "data/cars/9399_3.jpg",
+    "data/cars/9399_4.jpg"
+   ]
+  },
   {
    "title": "Toyota Camry",
    "year": 2018,
@@ -17,6 +34,40 @@
     "data/cars/9366_2.jpg",
     "data/cars/9366_3.jpg",
     "data/cars/9366_4.jpg"
+   ]
+  },
+  {
+   "title": "Mazda CX-30",
+   "year": 2021,
+   "price_usd": 16800,
+   "city": "Київ",
+   "pct": 18,
+   "market_usd": 20500,
+   "why": "на 18% дешевше за схожі (≈ $20 500)",
+   "link": "https://t.me/kievavto2/149222",
+   "photo": "data/cars/9416.jpg",
+   "photos": [
+    "data/cars/9416.jpg",
+    "data/cars/9416_2.jpg",
+    "data/cars/9416_3.jpg",
+    "data/cars/9416_4.jpg"
+   ]
+  },
+  {
+   "title": "Mercedes-Benz C-Class",
+   "year": 2015,
+   "price_usd": 14500,
+   "city": "Біла Церква",
+   "pct": 16,
+   "market_usd": 17250,
+   "why": "на 16% дешевше за схожі (≈ $17 250)",
+   "link": "https://t.me/imperiya_auto_bila_ts/12223",
+   "photo": "data/cars/9398.jpg",
+   "photos": [
+    "data/cars/9398.jpg",
+    "data/cars/9398_2.jpg",
+    "data/cars/9398_3.jpg",
+    "data/cars/9398_4.jpg"
    ]
   },
   {
@@ -54,40 +105,6 @@
    ]
   },
   {
-   "title": "BMW X5",
-   "year": 2005,
-   "price_usd": 6900,
-   "city": "",
-   "pct": 37,
-   "market_usd": 10950,
-   "why": "на 37% дешевше за схожі (≈ $10 950)",
-   "link": "https://t.me/autobazar_kharkiv/45092",
-   "photo": "data/cars/9221.jpg",
-   "photos": [
-    "data/cars/9221.jpg",
-    "data/cars/9221_2.jpg",
-    "data/cars/9221_3.jpg",
-    "data/cars/9221_4.jpg"
-   ]
-  },
-  {
-   "title": "Opel Astra",
-   "year": 2006,
-   "price_usd": 3000,
-   "city": "Запоріжжя",
-   "pct": 33,
-   "market_usd": 4500,
-   "why": "на 33% дешевше за схожі (≈ $4 500)",
-   "link": "https://t.me/avto1_zp/18069",
-   "photo": "data/cars/9241.jpg",
-   "photos": [
-    "data/cars/9241.jpg",
-    "data/cars/9241_2.jpg",
-    "data/cars/9241_3.jpg",
-    "data/cars/9241_4.jpg"
-   ]
-  },
-  {
    "title": "Mitsubishi Lancer",
    "year": 2007,
    "price_usd": 4200,
@@ -120,18 +137,6 @@
     "data/cars/9313_3.jpg",
     "data/cars/9313_4.jpg"
    ]
-  },
-  {
-   "title": "Volkswagen Tiguan",
-   "year": 2014,
-   "price_usd": 9500,
-   "city": "Харків",
-   "pct": 26,
-   "market_usd": 12850,
-   "why": "на 26% дешевше за схожі (≈ $12 850)",
-   "link": "https://t.me/autoparkua4/85248",
-   "photo": "",
-   "photos": []
   },
   {
    "title": "Skoda Fabia",

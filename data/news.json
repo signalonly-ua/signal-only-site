@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-26T18:37:29+00:00",
+ "updated": "2026-11-26T19:37:31+00:00",
  "news": [
+  {
+   "title": "Розслідування «Схем» про «Доктора Зло» отримало нагороду європейського фестивалю Voices",
+   "source": "Радіо Свобода",
+   "link": "https://www.radiosvoboda.org/a/news-skhemy-rozsliduvannya-doktor-zlo-nahoroda-voices/33906518.html",
+   "photo": "data/news/3080abeb8fe4.jpg",
+   "date": "2026-11-26"
+  },
   {
    "title": "Люди, які народилися в ці 4 місяці, ніколи не втрачають молодість душі",
    "source": "УНІАН",
@@ -20,13 +27,6 @@
    "source": "ТСН",
    "link": "https://tsn.ua/other/iak-krasyvo-podiakuvaty-liudyni-shchyri-slova-vdiachnosti-svoyimy-slovamy-u-prozi-ta-povidomlenniakh-3227403.html",
    "photo": "data/news/8c5c11cc2836.jpg",
-   "date": "2026-11-26"
-  },
-  {
-   "title": "Чемпіон врятувався: Італія насилу вийшла до півфіналу Кубка Девіса",
-   "source": "РБК-Україна",
-   "link": "https://sport.rbc.ua/rus/tennis/chempion-vryatuvavsya-italiya-nasilu-viyshla-1795694445.html",
-   "photo": "data/news/ef6224cbdf94.jpg",
    "date": "2026-11-26"
   }
  ]
