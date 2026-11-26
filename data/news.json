@@ -1,11 +1,18 @@
 {
- "updated": "2026-11-26T08:37:27+00:00",
+ "updated": "2026-11-26T09:37:43+00:00",
  "news": [
   {
-   "title": "МЗС: у Польщі врятували чоловіка, який підпалив себе у Варшаві",
-   "source": "Європейська правда",
-   "link": "https://www.eurointegration.com.ua/news/2026/11/26/7250846/",
-   "photo": "data/news/2f922a7d2cf5.jpg",
+   "title": "Для п’яти знаків Зодіаку грудень стане найщасливішим місяцем року",
+   "source": "УНІАН",
+   "link": "https://www.unian.ua/lite/astrology/goroskop-na-gruden-2026-ci-znaki-zodiaku-zakriyut-chornu-smugu-i-zabudut-pro-problemi-13571841.html",
+   "photo": "data/news/b6444112e625.jpg",
+   "date": "2026-11-26"
+  },
+  {
+   "title": "МЗС: У центрі Варшави, з великою ймовірністю, себе підпалив українець. Його вдалося врятувати",
+   "source": "Українська правда",
+   "link": "https://www.pravda.com.ua/news/2026/11/26/8064740/",
+   "photo": "data/news/935ecf640ced.jpg",
    "date": "2026-11-26"
   },
   {
@@ -20,13 +27,6 @@
    "source": "Укрінформ: фронт",
    "link": "https://www.ukrinform.ua/rubric-ato/4188452-desantnik-pid-cas-kurskoi-operacii-vratuvav-vivcarku-aka-teper-vsudi-jogo-suprovodzue.html",
    "photo": "data/news/b7fcdee9962c.jpg",
-   "date": "2026-11-25"
-  },
-  {
-   "title": "Toyota Corolla вперше в історії стане електромобілем: перші деталі",
-   "source": "Autogeek",
-   "link": "https://autogeek.com.ua/toyota-corolla-vpershe-v-istoriyi-stane-elektromobilem-pershi-detali/",
-   "photo": "data/news/176fd0b1605a.jpg",
    "date": "2026-11-25"
   }
  ]
