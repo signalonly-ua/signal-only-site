@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-26T16:37:25+00:00",
+ "updated": "2026-11-26T17:37:25+00:00",
  "news": [
+  {
+   "title": "Зеленський нагородив відзнакою «За мужність та відвагу» ще дві бригади ЗСУ",
+   "source": "Укрінформ",
+   "link": "https://www.ukrinform.ua/rubric-ato/4188997-zelenskij-nagorodiv-vidznakou-za-muznist-ta-vidvagu-se-dvi-brigadi-zsu.html",
+   "photo": "data/news/234e9530b763.jpg",
+   "date": "2026-11-26"
+  },
   {
    "title": "Як красиво подякувати людині: щирі слова вдячності своїми словами, у прозі та повідомленнях",
    "source": "ТСН",
@@ -20,13 +27,6 @@
    "source": "Суспільне",
    "link": "https://suspilne.media/culture/1457773-amerikanskij-mitec-nik-kejv-i-paviljon-indii-zdobuli-gladacki-nagorodi-venecijskoi-bienale-2026-roku/",
    "photo": "data/news/b9272a753192.jpg",
-   "date": "2026-11-26"
-  },
-  {
-   "title": "Для п’яти знаків Зодіаку грудень стане найщасливішим місяцем року",
-   "source": "УНІАН",
-   "link": "https://www.unian.ua/lite/astrology/goroskop-na-gruden-2026-ci-znaki-zodiaku-zakriyut-chornu-smugu-i-zabudut-pro-problemi-13571841.html",
-   "photo": "data/news/b6444112e625.jpg",
    "date": "2026-11-26"
   }
  ]
