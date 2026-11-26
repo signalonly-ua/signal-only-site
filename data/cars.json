@@ -1,22 +1,22 @@
 {
- "updated": "2026-11-26T11:19:38+00:00",
+ "updated": "2026-11-26T15:19:38+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
-   "title": "Dodge Journey",
+   "title": "Toyota Camry",
    "year": 2018,
-   "price_usd": 9999,
-   "city": "Київ",
-   "pct": 17,
-   "market_usd": 12050,
-   "why": "на 17% дешевше за схожі (≈ $12 050)",
-   "link": "https://t.me/imperiya_auto/94797",
-   "photo": "data/cars/9167.jpg",
+   "price_usd": 17900,
+   "city": "Бориспіль",
+   "pct": 20,
+   "market_usd": 22400,
+   "why": "на 20% дешевше за схожі (≈ $22 400)",
+   "link": "https://t.me/ua_autobazar/78990",
+   "photo": "data/cars/9366.jpg",
    "photos": [
-    "data/cars/9167.jpg",
-    "data/cars/9167_2.jpg",
-    "data/cars/9167_3.jpg",
-    "data/cars/9167_4.jpg"
+    "data/cars/9366.jpg",
+    "data/cars/9366_2.jpg",
+    "data/cars/9366_3.jpg",
+    "data/cars/9366_4.jpg"
    ]
   },
   {
