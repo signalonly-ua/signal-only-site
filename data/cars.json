@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T19:19:39+00:00",
+ "updated": "2026-11-26T23:19:40+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -88,23 +88,6 @@
    ]
   },
   {
-   "title": "Mercedes-Benz S-Class",
-   "year": 2006,
-   "price_usd": 6475,
-   "city": "",
-   "pct": 44,
-   "market_usd": 11550,
-   "why": "на 44% дешевше за схожі (≈ $11 550)",
-   "link": "https://t.me/autobazarivanofrankivsk/43359",
-   "photo": "data/cars/9247.jpg",
-   "photos": [
-    "data/cars/9247.jpg",
-    "data/cars/9247_2.jpg",
-    "data/cars/9247_3.jpg",
-    "data/cars/9247_4.jpg"
-   ]
-  },
-  {
    "title": "Mitsubishi Lancer",
    "year": 2007,
    "price_usd": 4200,
@@ -170,6 +153,23 @@
     "data/cars/9252_2.jpg",
     "data/cars/9252_3.jpg",
     "data/cars/9252_4.jpg"
+   ]
+  },
+  {
+   "title": "Volkswagen Golf",
+   "year": 2008,
+   "price_usd": 4900,
+   "city": "Харків",
+   "pct": 20,
+   "market_usd": 6100,
+   "why": "на 20% дешевше за схожі (≈ $6 100)",
+   "link": "https://t.me/avto_kh/105654",
+   "photo": "data/cars/9269.jpg",
+   "photos": [
+    "data/cars/9269.jpg",
+    "data/cars/9269_2.jpg",
+    "data/cars/9269_3.jpg",
+    "data/cars/9269_4.jpg"
    ]
   }
  ]
