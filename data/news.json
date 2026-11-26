@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T09:37:43+00:00",
+ "updated": "2026-11-26T10:37:24+00:00",
  "news": [
   {
    "title": "Для п’яти знаків Зодіаку грудень стане найщасливішим місяцем року",
@@ -16,17 +16,17 @@
    "date": "2026-11-26"
   },
   {
-   "title": "Україна перемогла на міжнародній премії PMI Project of the Year 2026: нагороду здобула програма ПУМБ з розбудови інклюзивності",
-   "source": "NV",
-   "link": "https://biz.nv.ua/ukr/markets/pumb-peremig-na-premiji-pmi-project-of-the-year-2026-detali-proyektu-z-inklyuzivnosti-50662362.html",
-   "photo": "data/news/3ccb484a110d.jpg",
-   "date": "2026-11-26"
-  },
-  {
    "title": "Десантник під час Курської операції врятував вівчарку, яка тепер всюди його супроводжує",
    "source": "Укрінформ: фронт",
    "link": "https://www.ukrinform.ua/rubric-ato/4188452-desantnik-pid-cas-kurskoi-operacii-vratuvav-vivcarku-aka-teper-vsudi-jogo-suprovodzue.html",
    "photo": "data/news/b7fcdee9962c.jpg",
+   "date": "2026-11-25"
+  },
+  {
+   "title": "Toyota Corolla вперше в історії стане електромобілем: перші деталі",
+   "source": "Autogeek",
+   "link": "https://autogeek.com.ua/toyota-corolla-vpershe-v-istoriyi-stane-elektromobilem-pershi-detali/",
+   "photo": "data/news/176fd0b1605a.jpg",
    "date": "2026-11-25"
   }
  ]
