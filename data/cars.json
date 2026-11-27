@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:19:41+00:00",
+ "updated": "2026-11-27T15:19:42+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -20,20 +20,20 @@
    ]
   },
   {
-   "title": "Toyota Camry",
+   "title": "Mercedes-Benz S-Class",
    "year": 2018,
-   "price_usd": 17900,
-   "city": "Бориспіль",
-   "pct": 20,
-   "market_usd": 22400,
-   "why": "на 20% дешевше за схожі (≈ $22 400)",
-   "link": "https://t.me/ua_autobazar/78990",
-   "photo": "data/cars/9366.jpg",
+   "price_usd": 34000,
+   "city": "Київ",
+   "pct": 27,
+   "market_usd": 46600,
+   "why": "на 27% дешевше за схожі (≈ $46 600)",
+   "link": "https://t.me/kievavto2/149321",
+   "photo": "data/cars/9528.jpg",
    "photos": [
-    "data/cars/9366.jpg",
-    "data/cars/9366_2.jpg",
-    "data/cars/9366_3.jpg",
-    "data/cars/9366_4.jpg"
+    "data/cars/9528.jpg",
+    "data/cars/9528_2.jpg",
+    "data/cars/9528_3.jpg",
+    "data/cars/9528_4.jpg"
    ]
   },
   {
@@ -71,6 +71,23 @@
    ]
   },
   {
+   "title": "Mercedes-Benz GLE",
+   "year": 2019,
+   "price_usd": 23000,
+   "city": "Львів",
+   "pct": 42,
+   "market_usd": 39650,
+   "why": "на 42% дешевше за схожі (≈ $39 650)",
+   "link": "https://t.me/GoldCarsLviv/38336",
+   "photo": "data/cars/9518.jpg",
+   "photos": [
+    "data/cars/9518.jpg",
+    "data/cars/9518_2.jpg",
+    "data/cars/9518_3.jpg",
+    "data/cars/9518_4.jpg"
+   ]
+  },
+  {
    "title": "Mitsubishi Outlander",
    "year": 2008,
    "price_usd": 5500,
@@ -85,6 +102,23 @@
     "data/cars/9477_2.jpg",
     "data/cars/9477_3.jpg",
     "data/cars/9477_4.jpg"
+   ]
+  },
+  {
+   "title": "BMW X5",
+   "year": 2012,
+   "price_usd": 10800,
+   "city": "Луцьк",
+   "pct": 35,
+   "market_usd": 16600,
+   "why": "на 35% дешевше за схожі (≈ $16 600)",
+   "link": "https://t.me/lutsk_autobazar/33064",
+   "photo": "data/cars/9511.jpg",
+   "photos": [
+    "data/cars/9511.jpg",
+    "data/cars/9511_2.jpg",
+    "data/cars/9511_3.jpg",
+    "data/cars/9511_4.jpg"
    ]
   },
   {
@@ -122,54 +156,20 @@
    ]
   },
   {
-   "title": "BMW X5",
-   "year": 2016,
-   "price_usd": 21550,
-   "city": "Кривий Ріг",
-   "pct": 20,
-   "market_usd": 26950,
-   "why": "на 20% дешевше за схожі (≈ $26 950)",
-   "link": "https://t.me/vechirnii20/22598",
-   "photo": "data/cars/9359.jpg",
-   "photos": [
-    "data/cars/9359.jpg",
-    "data/cars/9359_2.jpg",
-    "data/cars/9359_3.jpg",
-    "data/cars/9359_4.jpg"
-   ]
-  },
-  {
-   "title": "Ford Fusion",
-   "year": 2020,
-   "price_usd": 10900,
+   "title": "Audi A8",
+   "year": 2012,
+   "price_usd": 11499,
    "city": "",
-   "pct": 17,
-   "market_usd": 13150,
-   "why": "на 17% дешевше за схожі (≈ $13 150)",
-   "link": "https://t.me/avtorynok_odesa/22757",
-   "photo": "data/cars/9354.jpg",
+   "pct": 23,
+   "market_usd": 14950,
+   "why": "на 23% дешевше за схожі (≈ $14 950)",
+   "link": "https://t.me/ua_autobazar/79064",
+   "photo": "data/cars/9548.jpg",
    "photos": [
-    "data/cars/9354.jpg",
-    "data/cars/9354_2.jpg",
-    "data/cars/9354_3.jpg",
-    "data/cars/9354_4.jpg"
-   ]
-  },
-  {
-   "title": "Mazda CX-5",
-   "year": 2015,
-   "price_usd": 11200,
-   "city": "Кременчук",
-   "pct": 17,
-   "market_usd": 13500,
-   "why": "на 17% дешевше за схожі (≈ $13 500)",
-   "link": "https://t.me/avtobazar_group/220229",
-   "photo": "data/cars/9404.jpg",
-   "photos": [
-    "data/cars/9404.jpg",
-    "data/cars/9404_2.jpg",
-    "data/cars/9404_3.jpg",
-    "data/cars/9404_4.jpg"
+    "data/cars/9548.jpg",
+    "data/cars/9548_2.jpg",
+    "data/cars/9548_3.jpg",
+    "data/cars/9548_4.jpg"
    ]
   }
  ]
