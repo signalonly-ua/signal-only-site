@@ -1,24 +1,7 @@
 {
- "updated": "2026-11-27T15:19:42+00:00",
+ "updated": "2026-11-27T19:19:42+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "BMW 5 Series",
-   "year": 2017,
-   "price_usd": 18500,
-   "city": "Київ",
-   "pct": 27,
-   "market_usd": 25350,
-   "why": "на 27% дешевше за схожі (≈ $25 350)",
-   "link": "https://t.me/kievavto2/149212",
-   "photo": "data/cars/9399.jpg",
-   "photos": [
-    "data/cars/9399.jpg",
-    "data/cars/9399_2.jpg",
-    "data/cars/9399_3.jpg",
-    "data/cars/9399_4.jpg"
-   ]
-  },
   {
    "title": "Mercedes-Benz S-Class",
    "year": 2018,
@@ -34,40 +17,6 @@
     "data/cars/9528_2.jpg",
     "data/cars/9528_3.jpg",
     "data/cars/9528_4.jpg"
-   ]
-  },
-  {
-   "title": "Mazda CX-30",
-   "year": 2021,
-   "price_usd": 16800,
-   "city": "Київ",
-   "pct": 18,
-   "market_usd": 20500,
-   "why": "на 18% дешевше за схожі (≈ $20 500)",
-   "link": "https://t.me/kievavto2/149222",
-   "photo": "data/cars/9416.jpg",
-   "photos": [
-    "data/cars/9416.jpg",
-    "data/cars/9416_2.jpg",
-    "data/cars/9416_3.jpg",
-    "data/cars/9416_4.jpg"
-   ]
-  },
-  {
-   "title": "Mercedes-Benz C-Class",
-   "year": 2015,
-   "price_usd": 14500,
-   "city": "Біла Церква",
-   "pct": 16,
-   "market_usd": 17250,
-   "why": "на 16% дешевше за схожі (≈ $17 250)",
-   "link": "https://t.me/imperiya_auto_bila_ts/12223",
-   "photo": "data/cars/9398.jpg",
-   "photos": [
-    "data/cars/9398.jpg",
-    "data/cars/9398_2.jpg",
-    "data/cars/9398_3.jpg",
-    "data/cars/9398_4.jpg"
    ]
   },
   {
@@ -102,6 +51,23 @@
     "data/cars/9477_2.jpg",
     "data/cars/9477_3.jpg",
     "data/cars/9477_4.jpg"
+   ]
+  },
+  {
+   "title": "Audi A4",
+   "year": 2001,
+   "price_usd": 2700,
+   "city": "",
+   "pct": 36,
+   "market_usd": 4200,
+   "why": "на 36% дешевше за схожі (≈ $4 200)",
+   "link": "https://t.me/autobazarlvivua/48480",
+   "photo": "data/cars/9587.jpg",
+   "photos": [
+    "data/cars/9587.jpg",
+    "data/cars/9587_2.jpg",
+    "data/cars/9587_3.jpg",
+    "data/cars/9587_4.jpg"
    ]
   },
   {
@@ -171,6 +137,35 @@
     "data/cars/9548_3.jpg",
     "data/cars/9548_4.jpg"
    ]
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2001,
+   "price_usd": 4500,
+   "city": "",
+   "pct": 20,
+   "market_usd": 5600,
+   "why": "на 20% дешевше за схожі (≈ $5 600)",
+   "link": "https://t.me/autobazarchernivtsi/43863",
+   "photo": "data/cars/9564.jpg",
+   "photos": [
+    "data/cars/9564.jpg",
+    "data/cars/9564_2.jpg",
+    "data/cars/9564_3.jpg",
+    "data/cars/9564_4.jpg"
+   ]
+  },
+  {
+   "title": "Audi S5",
+   "year": 2019,
+   "price_usd": 23490,
+   "city": "",
+   "pct": 19,
+   "market_usd": 29000,
+   "why": "на 19% дешевше за схожі (≈ $29 000)",
+   "link": "https://t.me/autofocus_ua_tg/72035",
+   "photo": "",
+   "photos": []
   }
  ]
 }
