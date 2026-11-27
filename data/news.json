@@ -1,13 +1,6 @@
 {
- "updated": "2026-11-27T12:37:24+00:00",
+ "updated": "2026-11-27T13:37:37+00:00",
  "news": [
-  {
-   "title": "Україна перемогла на міжнародній премії PMI Project of the Year 2026: нагороду здобула програма ПУМБ з розбудови інклюзивності",
-   "source": "NV",
-   "link": "https://biz.nv.ua/ukr/markets/pumb-peremig-na-premiji-pmi-project-of-the-year-2026-detali-proyektu-z-inklyuzivnosti-50662362.html",
-   "photo": "data/news/3ccb484a110d.jpg",
-   "date": "2026-11-27"
-  },
   {
    "title": "Сама прийшла до військових: у КиївЗоо оселилася нутрія, яку врятували під Покровськом",
    "source": "УНІАН",
@@ -23,10 +16,17 @@
    "date": "2026-11-27"
   },
   {
-   "title": "Розслідування «Схем» про «Доктора Зло» отримало нагороду європейського фестивалю Voices",
-   "source": "Радіо Свобода",
-   "link": "https://www.radiosvoboda.org/a/news-skhemy-rozsliduvannya-doktor-zlo-nahoroda-voices/33906518.html",
-   "photo": "data/news/3080abeb8fe4.jpg",
+   "title": "Зеленський нагородив відзнакою «За мужність та відвагу» ще дві бригади ЗСУ",
+   "source": "Укрінформ: фронт",
+   "link": "https://www.ukrinform.ua/rubric-ato/4188997-zelenskij-nagorodiv-vidznakou-za-muznist-ta-vidvagu-se-dvi-brigadi-zsu.html",
+   "photo": "data/news/234e9530b763.jpg",
+   "date": "2026-11-26"
+  },
+  {
+   "title": "Чемпіон врятувався: Італія насилу вийшла до півфіналу Кубка Девіса",
+   "source": "РБК-Україна",
+   "link": "https://sport.rbc.ua/rus/tennis/chempion-vryatuvavsya-italiya-nasilu-viyshla-1795694445.html",
+   "photo": "data/news/ef6224cbdf94.jpg",
    "date": "2026-11-26"
   }
  ]
