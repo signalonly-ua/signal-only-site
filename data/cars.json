@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T03:19:40+00:00",
+ "updated": "2026-11-27T07:19:40+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -88,6 +88,23 @@
    ]
   },
   {
+   "title": "BMW 5 Series",
+   "year": 2000,
+   "price_usd": 3699,
+   "city": "",
+   "pct": 34,
+   "market_usd": 5600,
+   "why": "на 34% дешевше за схожі (≈ $5 600)",
+   "link": "https://t.me/ua_autobazar/79016",
+   "photo": "data/cars/9435.jpg",
+   "photos": [
+    "data/cars/9435.jpg",
+    "data/cars/9435_2.jpg",
+    "data/cars/9435_3.jpg",
+    "data/cars/9435_4.jpg"
+   ]
+  },
+  {
    "title": "Mitsubishi Lancer",
    "year": 2007,
    "price_usd": 4200,
@@ -136,23 +153,6 @@
     "data/cars/9321_2.jpg",
     "data/cars/9321_3.jpg",
     "data/cars/9321_4.jpg"
-   ]
-  },
-  {
-   "title": "Porsche Cayenne",
-   "year": 2014,
-   "price_usd": 16800,
-   "city": "Умань",
-   "pct": 20,
-   "market_usd": 21000,
-   "why": "на 20% дешевше за схожі (≈ $21 000)",
-   "link": "https://t.me/avtobazar_group/219857",
-   "photo": "data/cars/9252.jpg",
-   "photos": [
-    "data/cars/9252.jpg",
-    "data/cars/9252_2.jpg",
-    "data/cars/9252_3.jpg",
-    "data/cars/9252_4.jpg"
    ]
   },
   {
