@@ -1,6 +1,13 @@
 {
- "updated": "2026-11-27T17:37:26+00:00",
+ "updated": "2026-11-27T18:37:27+00:00",
  "news": [
+  {
+   "title": "Люди, які народилися в ці місяці, перебувають під захистом вищих сил",
+   "source": "УНІАН",
+   "link": "https://www.unian.ua/lite/astrology/numerologiya-lyudi-yaki-narodilisya-v-ci-misyaci-perebuvayut-pid-zahistom-vishchih-sil-13573107.html",
+   "photo": "data/news/e4a814e8d80a.jpg",
+   "date": "2026-11-27"
+  },
   {
    "title": "Військові врятували нутрію під Покровськом: тварина проходить реабілітацію в КиївЗоо",
    "source": "Суспільне",
@@ -21,13 +28,6 @@
    "link": "https://www.unian.ua/ecology/nutriya-blindazh-u-kijivskomu-zooparku-yak-viyskovi-vryatuvali-tvarinu-z-pid-pokrovska-13573068.html",
    "photo": "data/news/582efa46e37d.jpg",
    "date": "2026-11-27"
-  },
-  {
-   "title": "Зеленський нагородив відзнакою «За мужність та відвагу» ще дві бригади ЗСУ",
-   "source": "Укрінформ: фронт",
-   "link": "https://www.ukrinform.ua/rubric-ato/4188997-zelenskij-nagorodiv-vidznakou-za-muznist-ta-vidvagu-se-dvi-brigadi-zsu.html",
-   "photo": "data/news/234e9530b763.jpg",
-   "date": "2026-11-26"
   }
  ]
 }
