@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-27T15:37:32+00:00",
+ "updated": "2026-11-27T16:37:25+00:00",
  "news": [
+  {
+   "title": "Військові врятували нутрію під Покровськом: тварина проходить реабілітацію в КиївЗоо",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/kyiv/1458486-vijskovi-vratuvali-nutriu-pid-pokrovskom-tvarina-prohodit-reabilitaciu-v-kiivzoo/",
+   "photo": "data/news/2075c587e75c.jpg",
+   "date": "2026-11-27"
+  },
+  {
+   "title": "Зима 2026-2027 для цих знаків зодіаку буде схожа на справжню казку: хто ці щасливці",
+   "source": "ТСН",
+   "link": "https://tsn.ua/other/zyma-2026-2027-dlia-tsykh-znakiv-zodiaku-bude-skhoza-na-spravzniu-kazku-khto-tsi-shchaslyvtsi-3228483.html",
+   "photo": "data/news/a560bc7dbfb4.jpg",
+   "date": "2026-11-27"
+  },
   {
    "title": "Сама прийшла до військових: у КиївЗоо оселилася нутрія, яку врятували під Покровськом",
    "source": "УНІАН",
@@ -13,13 +27,6 @@
    "source": "Укрінформ: фронт",
    "link": "https://www.ukrinform.ua/rubric-ato/4188997-zelenskij-nagorodiv-vidznakou-za-muznist-ta-vidvagu-se-dvi-brigadi-zsu.html",
    "photo": "data/news/234e9530b763.jpg",
-   "date": "2026-11-26"
-  },
-  {
-   "title": "Чемпіон врятувався: Італія насилу вийшла до півфіналу Кубка Девіса",
-   "source": "РБК-Україна",
-   "link": "https://sport.rbc.ua/rus/tennis/chempion-vryatuvavsya-italiya-nasilu-viyshla-1795694445.html",
-   "photo": "data/news/ef6224cbdf94.jpg",
    "date": "2026-11-26"
   }
  ]
