@@ -1,7 +1,33 @@
 {
- "updated": "2026-11-28T07:19:43+00:00",
+ "updated": "2026-11-28T11:05:04+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
+  {
+   "title": "Kia K5",
+   "year": 2014,
+   "price_usd": 6500,
+   "city": "Київ",
+   "pct": 32,
+   "market_usd": 9550,
+   "why": "на 32% дешевше за схожі (≈ $9 550)",
+   "link": "https://t.me/KievavtoSale/18489",
+   "photo": "",
+   "photos": []
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2017,
+   "price_usd": 18500,
+   "city": "Київ",
+   "pct": 27,
+   "market_usd": 25350,
+   "why": "на 27% дешевше за схожі (≈ $25 350)",
+   "link": "https://t.me/kievavto2/149212",
+   "photo": "data/cars/9399.jpg",
+   "photos": [
+    "data/cars/9399.jpg"
+   ]
+  },
   {
    "title": "Mercedes-Benz S-Class",
    "year": 2018,
@@ -13,11 +39,100 @@
    "link": "https://t.me/kievavto2/149321",
    "photo": "data/cars/9528.jpg",
    "photos": [
-    "data/cars/9528.jpg",
-    "data/cars/9528_2.jpg",
-    "data/cars/9528_3.jpg",
-    "data/cars/9528_4.jpg"
+    "data/cars/9528.jpg"
    ]
+  },
+  {
+   "title": "BMW X5",
+   "year": 2016,
+   "price_usd": 20000,
+   "city": "Київ",
+   "pct": 24,
+   "market_usd": 26300,
+   "why": "на 24% дешевше за схожі (≈ $26 300)",
+   "link": "https://t.me/imperiya_auto/94932",
+   "photo": "data/cars/9632.jpg",
+   "photos": [
+    "data/cars/9632.jpg"
+   ]
+  },
+  {
+   "title": "Toyota Camry",
+   "year": 2018,
+   "price_usd": 17900,
+   "city": "Бориспіль",
+   "pct": 20,
+   "market_usd": 22400,
+   "why": "на 20% дешевше за схожі (≈ $22 400)",
+   "link": "https://t.me/ua_autobazar/78990",
+   "photo": "data/cars/9366.jpg",
+   "photos": [
+    "data/cars/9366.jpg"
+   ]
+  },
+  {
+   "title": "Mazda CX-30",
+   "year": 2021,
+   "price_usd": 16800,
+   "city": "Київ",
+   "pct": 18,
+   "market_usd": 20500,
+   "why": "на 18% дешевше за схожі (≈ $20 500)",
+   "link": "https://t.me/kievavto2/149222",
+   "photo": "data/cars/9416.jpg",
+   "photos": [
+    "data/cars/9416.jpg"
+   ]
+  },
+  {
+   "title": "Dodge Journey",
+   "year": 2018,
+   "price_usd": 9999,
+   "city": "Київ",
+   "pct": 17,
+   "market_usd": 12050,
+   "why": "на 17% дешевше за схожі (≈ $12 050)",
+   "link": "https://t.me/imperiya_auto/94797",
+   "photo": "",
+   "photos": []
+  },
+  {
+   "title": "Mercedes-Benz C-Class",
+   "year": 2015,
+   "price_usd": 14500,
+   "city": "Біла Церква",
+   "pct": 16,
+   "market_usd": 17250,
+   "why": "на 16% дешевше за схожі (≈ $17 250)",
+   "link": "https://t.me/imperiya_auto_bila_ts/12223",
+   "photo": "data/cars/9398.jpg",
+   "photos": [
+    "data/cars/9398.jpg"
+   ]
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2017,
+   "price_usd": 21500,
+   "city": "Київ",
+   "pct": 15,
+   "market_usd": 25300,
+   "why": "на 15% дешевше за схожі (≈ $25 300)",
+   "link": "https://t.me/kievavto2/149136",
+   "photo": "",
+   "photos": []
+  },
+  {
+   "title": "Mercedes-Benz S-Class",
+   "year": 2006,
+   "price_usd": 6475,
+   "city": "",
+   "pct": 44,
+   "market_usd": 11550,
+   "why": "на 44% дешевше за схожі (≈ $11 550)",
+   "link": "https://t.me/autobazarivanofrankivsk/43359",
+   "photo": "",
+   "photos": []
   },
   {
    "title": "Mercedes-Benz GLE",
@@ -54,6 +169,18 @@
    ]
   },
   {
+   "title": "BMW X5",
+   "year": 2005,
+   "price_usd": 6900,
+   "city": "",
+   "pct": 37,
+   "market_usd": 10950,
+   "why": "на 37% дешевше за схожі (≈ $10 950)",
+   "link": "https://t.me/autobazar_kharkiv/45092",
+   "photo": "",
+   "photos": []
+  },
+  {
    "title": "Audi A4",
    "year": 2001,
    "price_usd": 2700,
@@ -88,6 +215,59 @@
    ]
   },
   {
+   "title": "BMW 5 Series",
+   "year": 2000,
+   "price_usd": 3699,
+   "city": "",
+   "pct": 34,
+   "market_usd": 5600,
+   "why": "на 34% дешевше за схожі (≈ $5 600)",
+   "link": "https://t.me/ua_autobazar/79016",
+   "photo": "data/cars/9435.jpg",
+   "photos": [
+    "data/cars/9435.jpg",
+    "data/cars/9435_2.jpg",
+    "data/cars/9435_3.jpg",
+    "data/cars/9435_4.jpg"
+   ]
+  },
+  {
+   "title": "Opel Astra",
+   "year": 2006,
+   "price_usd": 3000,
+   "city": "Запоріжжя",
+   "pct": 33,
+   "market_usd": 4500,
+   "why": "на 33% дешевше за схожі (≈ $4 500)",
+   "link": "https://t.me/avto1_zp/18069",
+   "photo": "",
+   "photos": []
+  },
+  {
+   "title": "Mitsubishi Lancer",
+   "year": 2007,
+   "price_usd": 4200,
+   "city": "",
+   "pct": 29,
+   "market_usd": 5900,
+   "why": "на 29% дешевше за схожі (≈ $5 900)",
+   "link": "https://t.me/avtosnab_poltava/4354",
+   "photo": "",
+   "photos": []
+  },
+  {
+   "title": "Ford Edge",
+   "year": 2016,
+   "price_usd": 11500,
+   "city": "Одеса",
+   "pct": 29,
+   "market_usd": 16200,
+   "why": "на 29% дешевше за схожі (≈ $16 200)",
+   "link": "https://t.me/avtobazar_group/220035",
+   "photo": "",
+   "photos": []
+  },
+  {
    "title": "Ford Edge",
    "year": 2016,
    "price_usd": 11499,
@@ -105,6 +285,32 @@
    ]
   },
   {
+   "title": "Volkswagen Tiguan",
+   "year": 2014,
+   "price_usd": 9500,
+   "city": "Харків",
+   "pct": 26,
+   "market_usd": 12850,
+   "why": "на 26% дешевше за схожі (≈ $12 850)",
+   "link": "https://t.me/autoparkua4/85248",
+   "photo": "",
+   "photos": []
+  },
+  {
+   "title": "Skoda Fabia",
+   "year": 2008,
+   "price_usd": 3900,
+   "city": "Львів",
+   "pct": 26,
+   "market_usd": 5250,
+   "why": "на 26% дешевше за схожі (≈ $5 250)",
+   "link": "https://t.me/GoldCarsLviv/38273",
+   "photo": "data/cars/9321.jpg",
+   "photos": [
+    "data/cars/9321.jpg"
+   ]
+  },
+  {
    "title": "Audi A8",
    "year": 2012,
    "price_usd": 11499,
@@ -115,10 +321,7 @@
    "link": "https://t.me/ua_autobazar/79064",
    "photo": "data/cars/9548.jpg",
    "photos": [
-    "data/cars/9548.jpg",
-    "data/cars/9548_2.jpg",
-    "data/cars/9548_3.jpg",
-    "data/cars/9548_4.jpg"
+    "data/cars/9548.jpg"
    ]
   },
   {
@@ -132,10 +335,45 @@
    "link": "https://t.me/avtobazar_group/220848",
    "photo": "data/cars/9601.jpg",
    "photos": [
-    "data/cars/9601.jpg",
-    "data/cars/9601_2.jpg",
-    "data/cars/9601_3.jpg",
-    "data/cars/9601_4.jpg"
+    "data/cars/9601.jpg"
+   ]
+  },
+  {
+   "title": "Porsche Cayenne",
+   "year": 2014,
+   "price_usd": 16800,
+   "city": "Умань",
+   "pct": 20,
+   "market_usd": 21000,
+   "why": "на 20% дешевше за схожі (≈ $21 000)",
+   "link": "https://t.me/avtobazar_group/219857",
+   "photo": "",
+   "photos": []
+  },
+  {
+   "title": "Volkswagen Golf",
+   "year": 2008,
+   "price_usd": 4900,
+   "city": "Харків",
+   "pct": 20,
+   "market_usd": 6100,
+   "why": "на 20% дешевше за схожі (≈ $6 100)",
+   "link": "https://t.me/avto_kh/105654",
+   "photo": "",
+   "photos": []
+  },
+  {
+   "title": "BMW X5",
+   "year": 2016,
+   "price_usd": 21550,
+   "city": "Кривий Ріг",
+   "pct": 20,
+   "market_usd": 26950,
+   "why": "на 20% дешевше за схожі (≈ $26 950)",
+   "link": "https://t.me/vechirnii20/22598",
+   "photo": "data/cars/9359.jpg",
+   "photos": [
+    "data/cars/9359.jpg"
    ]
   },
   {
@@ -149,11 +387,20 @@
    "link": "https://t.me/autobazarchernivtsi/43863",
    "photo": "data/cars/9564.jpg",
    "photos": [
-    "data/cars/9564.jpg",
-    "data/cars/9564_2.jpg",
-    "data/cars/9564_3.jpg",
-    "data/cars/9564_4.jpg"
+    "data/cars/9564.jpg"
    ]
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2014,
+   "price_usd": 11800,
+   "city": "Одеса",
+   "pct": 19,
+   "market_usd": 14550,
+   "why": "на 19% дешевше за схожі (≈ $14 550)",
+   "link": "https://t.me/auto_price_odesa/16652",
+   "photo": "",
+   "photos": []
   },
   {
    "title": "Audi S5",
@@ -166,6 +413,142 @@
    "link": "https://t.me/autofocus_ua_tg/72035",
    "photo": "",
    "photos": []
+  },
+  {
+   "title": "Audi Q7",
+   "year": 2020,
+   "price_usd": 31000,
+   "city": "Одеса",
+   "pct": 19,
+   "market_usd": 38250,
+   "why": "на 19% дешевше за схожі (≈ $38 250)",
+   "link": "https://t.me/kievavto2/149409",
+   "photo": "data/cars/9633.jpg",
+   "photos": [
+    "data/cars/9633.jpg"
+   ]
+  },
+  {
+   "title": "BMW X5",
+   "year": 2014,
+   "price_usd": 18450,
+   "city": "Львів",
+   "pct": 17,
+   "market_usd": 22250,
+   "why": "на 17% дешевше за схожі (≈ $22 250)",
+   "link": "https://t.me/imperiya_auto/94822",
+   "photo": "",
+   "photos": []
+  },
+  {
+   "title": "Ford Fusion",
+   "year": 2020,
+   "price_usd": 10900,
+   "city": "",
+   "pct": 17,
+   "market_usd": 13150,
+   "why": "на 17% дешевше за схожі (≈ $13 150)",
+   "link": "https://t.me/avtorynok_odesa/22757",
+   "photo": "data/cars/9354.jpg",
+   "photos": [
+    "data/cars/9354.jpg"
+   ]
+  },
+  {
+   "title": "Mazda CX-5",
+   "year": 2015,
+   "price_usd": 11200,
+   "city": "Кременчук",
+   "pct": 17,
+   "market_usd": 13500,
+   "why": "на 17% дешевше за схожі (≈ $13 500)",
+   "link": "https://t.me/avtobazar_group/220229",
+   "photo": "data/cars/9404.jpg",
+   "photos": [
+    "data/cars/9404.jpg"
+   ]
+  },
+  {
+   "title": "Volkswagen Tiguan",
+   "year": 2011,
+   "price_usd": 9000,
+   "city": "Запоріжжя",
+   "pct": 17,
+   "market_usd": 10850,
+   "why": "на 17% дешевше за схожі (≈ $10 850)",
+   "link": "https://t.me/avto1_zp/18158",
+   "photo": "data/cars/9497.jpg",
+   "photos": [
+    "data/cars/9497.jpg"
+   ]
+  },
+  {
+   "title": "Volkswagen Passat",
+   "year": 2007,
+   "price_usd": 4600,
+   "city": "",
+   "pct": 16,
+   "market_usd": 5500,
+   "why": "на 16% дешевше за схожі (≈ $5 500)",
+   "link": "https://t.me/autobazarlvivua/48434",
+   "photo": "data/cars/9357.jpg",
+   "photos": [
+    "data/cars/9357.jpg"
+   ]
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2018,
+   "price_usd": 23000,
+   "city": "Кропивницький",
+   "pct": 16,
+   "market_usd": 27400,
+   "why": "на 16% дешевше за схожі (≈ $27 400)",
+   "link": "https://t.me/kievavto2/149400",
+   "photo": "data/cars/9621.jpg",
+   "photos": [
+    "data/cars/9621.jpg"
+   ]
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 2014,
+   "price_usd": 12300,
+   "city": "Луцьк",
+   "pct": 15,
+   "market_usd": 14450,
+   "why": "на 15% дешевше за схожі (≈ $14 450)",
+   "link": "https://t.me/auto_ua777/25211",
+   "photo": "",
+   "photos": []
+  },
+  {
+   "title": "Jeep Cherokee",
+   "year": 2015,
+   "price_usd": 11500,
+   "city": "Одеса",
+   "pct": 15,
+   "market_usd": 13550,
+   "why": "на 15% дешевше за схожі (≈ $13 550)",
+   "link": "https://t.me/avtobazar_group/220085",
+   "photo": "data/cars/9326.jpg",
+   "photos": [
+    "data/cars/9326.jpg"
+   ]
+  },
+  {
+   "title": "Audi A8",
+   "year": 2011,
+   "price_usd": 12600,
+   "city": "",
+   "pct": 15,
+   "market_usd": 14800,
+   "why": "на 15% дешевше за схожі (≈ $14 800)",
+   "link": "https://t.me/autobazarchernihivua/35842",
+   "photo": "data/cars/9611.jpg",
+   "photos": [
+    "data/cars/9611.jpg"
+   ]
   }
  ]
 }
