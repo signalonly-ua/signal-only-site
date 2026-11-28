@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:19:43+00:00",
+ "updated": "2026-11-28T07:19:43+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -88,23 +88,6 @@
    ]
   },
   {
-   "title": "BMW 5 Series",
-   "year": 2000,
-   "price_usd": 3699,
-   "city": "",
-   "pct": 34,
-   "market_usd": 5600,
-   "why": "на 34% дешевше за схожі (≈ $5 600)",
-   "link": "https://t.me/ua_autobazar/79016",
-   "photo": "data/cars/9435.jpg",
-   "photos": [
-    "data/cars/9435.jpg",
-    "data/cars/9435_2.jpg",
-    "data/cars/9435_3.jpg",
-    "data/cars/9435_4.jpg"
-   ]
-  },
-  {
    "title": "Ford Edge",
    "year": 2016,
    "price_usd": 11499,
@@ -136,6 +119,23 @@
     "data/cars/9548_2.jpg",
     "data/cars/9548_3.jpg",
     "data/cars/9548_4.jpg"
+   ]
+  },
+  {
+   "title": "Skoda Octavia",
+   "year": 2006,
+   "price_usd": 4200,
+   "city": "Луцьк",
+   "pct": 23,
+   "market_usd": 5450,
+   "why": "на 23% дешевше за схожі (≈ $5 450)",
+   "link": "https://t.me/avtobazar_group/220848",
+   "photo": "data/cars/9601.jpg",
+   "photos": [
+    "data/cars/9601.jpg",
+    "data/cars/9601_2.jpg",
+    "data/cars/9601_3.jpg",
+    "data/cars/9601_4.jpg"
    ]
   },
   {
