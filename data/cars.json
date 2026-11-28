@@ -1,19 +1,7 @@
 {
- "updated": "2026-11-28T11:05:04+00:00",
+ "updated": "2026-11-28T15:05:05+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
-  {
-   "title": "Kia K5",
-   "year": 2014,
-   "price_usd": 6500,
-   "city": "Київ",
-   "pct": 32,
-   "market_usd": 9550,
-   "why": "на 32% дешевше за схожі (≈ $9 550)",
-   "link": "https://t.me/KievavtoSale/18489",
-   "photo": "",
-   "photos": []
-  },
   {
    "title": "BMW 5 Series",
    "year": 2017,
@@ -57,6 +45,20 @@
    ]
   },
   {
+   "title": "Porsche Panamera",
+   "year": 2017,
+   "price_usd": 35000,
+   "city": "Київ",
+   "pct": 22,
+   "market_usd": 44850,
+   "why": "на 22% дешевше за схожі (≈ $44 850)",
+   "link": "https://t.me/kievavto2/149432",
+   "photo": "data/cars/9651.jpg",
+   "photos": [
+    "data/cars/9651.jpg"
+   ]
+  },
+  {
    "title": "Toyota Camry",
    "year": 2018,
    "price_usd": 17900,
@@ -83,18 +85,6 @@
    "photos": [
     "data/cars/9416.jpg"
    ]
-  },
-  {
-   "title": "Dodge Journey",
-   "year": 2018,
-   "price_usd": 9999,
-   "city": "Київ",
-   "pct": 17,
-   "market_usd": 12050,
-   "why": "на 17% дешевше за схожі (≈ $12 050)",
-   "link": "https://t.me/imperiya_auto/94797",
-   "photo": "",
-   "photos": []
   },
   {
    "title": "Mercedes-Benz C-Class",
@@ -149,6 +139,23 @@
     "data/cars/9518_2.jpg",
     "data/cars/9518_3.jpg",
     "data/cars/9518_4.jpg"
+   ]
+  },
+  {
+   "title": "BMW 7 Series",
+   "year": 1999,
+   "price_usd": 3300,
+   "city": "",
+   "pct": 40,
+   "market_usd": 5500,
+   "why": "на 40% дешевше за схожі (≈ $5 500)",
+   "link": "https://t.me/autobazarlvivua/48510",
+   "photo": "data/cars/9645.jpg",
+   "photos": [
+    "data/cars/9645.jpg",
+    "data/cars/9645_2.jpg",
+    "data/cars/9645_3.jpg",
+    "data/cars/9645_4.jpg"
    ]
   },
   {
@@ -244,6 +251,23 @@
    "photos": []
   },
   {
+   "title": "Audi A4",
+   "year": 2018,
+   "price_usd": 12400,
+   "city": "",
+   "pct": 33,
+   "market_usd": 18500,
+   "why": "на 33% дешевше за схожі (≈ $18 500)",
+   "link": "https://t.me/autobazarchernivtsi/43883",
+   "photo": "data/cars/9644.jpg",
+   "photos": [
+    "data/cars/9644.jpg",
+    "data/cars/9644_2.jpg",
+    "data/cars/9644_3.jpg",
+    "data/cars/9644_4.jpg"
+   ]
+  },
+  {
    "title": "Mitsubishi Lancer",
    "year": 2007,
    "price_usd": 4200,
@@ -278,10 +302,7 @@
    "link": "https://t.me/avtobazar_group/220526",
    "photo": "data/cars/9473.jpg",
    "photos": [
-    "data/cars/9473.jpg",
-    "data/cars/9473_2.jpg",
-    "data/cars/9473_3.jpg",
-    "data/cars/9473_4.jpg"
+    "data/cars/9473.jpg"
    ]
   },
   {
@@ -389,18 +410,6 @@
    "photos": [
     "data/cars/9564.jpg"
    ]
-  },
-  {
-   "title": "BMW 5 Series",
-   "year": 2014,
-   "price_usd": 11800,
-   "city": "Одеса",
-   "pct": 19,
-   "market_usd": 14550,
-   "why": "на 19% дешевше за схожі (≈ $14 550)",
-   "link": "https://t.me/auto_price_odesa/16652",
-   "photo": "",
-   "photos": []
   },
   {
    "title": "Audi S5",
@@ -511,18 +520,6 @@
    ]
   },
   {
-   "title": "BMW 5 Series",
-   "year": 2014,
-   "price_usd": 12300,
-   "city": "Луцьк",
-   "pct": 15,
-   "market_usd": 14450,
-   "why": "на 15% дешевше за схожі (≈ $14 450)",
-   "link": "https://t.me/auto_ua777/25211",
-   "photo": "",
-   "photos": []
-  },
-  {
    "title": "Jeep Cherokee",
    "year": 2015,
    "price_usd": 11500,
@@ -548,6 +545,20 @@
    "photo": "data/cars/9611.jpg",
    "photos": [
     "data/cars/9611.jpg"
+   ]
+  },
+  {
+   "title": "Mitsubishi Lancer",
+   "year": 2009,
+   "price_usd": 5600,
+   "city": "Запоріжжя",
+   "pct": 15,
+   "market_usd": 6600,
+   "why": "на 15% дешевше за схожі (≈ $6 600)",
+   "link": "https://t.me/avto1_zp/18221",
+   "photo": "data/cars/9648.jpg",
+   "photos": [
+    "data/cars/9648.jpg"
    ]
   }
  ]
