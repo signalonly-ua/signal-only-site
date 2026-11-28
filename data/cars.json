@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T15:05:05+00:00",
+ "updated": "2026-11-28T19:05:06+00:00",
  "bot": "https://t.me/filtrautobot",
  "cars": [
   {
@@ -101,6 +101,20 @@
    ]
   },
   {
+   "title": "Volkswagen Touareg",
+   "year": 2018,
+   "price_usd": 34490,
+   "city": "Київ",
+   "pct": 16,
+   "market_usd": 41050,
+   "why": "на 16% дешевше за схожі (≈ $41 050)",
+   "link": "https://t.me/autofocus_ua_tg/72161",
+   "photo": "data/cars/9701.jpg",
+   "photos": [
+    "data/cars/9701.jpg"
+   ]
+  },
+  {
    "title": "BMW 5 Series",
    "year": 2017,
    "price_usd": 21500,
@@ -176,18 +190,6 @@
    ]
   },
   {
-   "title": "BMW X5",
-   "year": 2005,
-   "price_usd": 6900,
-   "city": "",
-   "pct": 37,
-   "market_usd": 10950,
-   "why": "на 37% дешевше за схожі (≈ $10 950)",
-   "link": "https://t.me/autobazar_kharkiv/45092",
-   "photo": "",
-   "photos": []
-  },
-  {
    "title": "Audi A4",
    "year": 2001,
    "price_usd": 2700,
@@ -237,18 +239,6 @@
     "data/cars/9435_3.jpg",
     "data/cars/9435_4.jpg"
    ]
-  },
-  {
-   "title": "Opel Astra",
-   "year": 2006,
-   "price_usd": 3000,
-   "city": "Запоріжжя",
-   "pct": 33,
-   "market_usd": 4500,
-   "why": "на 33% дешевше за схожі (≈ $4 500)",
-   "link": "https://t.me/avto1_zp/18069",
-   "photo": "",
-   "photos": []
   },
   {
    "title": "Audi A4",
@@ -302,20 +292,11 @@
    "link": "https://t.me/avtobazar_group/220526",
    "photo": "data/cars/9473.jpg",
    "photos": [
-    "data/cars/9473.jpg"
+    "data/cars/9473.jpg",
+    "data/cars/9473_2.jpg",
+    "data/cars/9473_3.jpg",
+    "data/cars/9473_4.jpg"
    ]
-  },
-  {
-   "title": "Volkswagen Tiguan",
-   "year": 2014,
-   "price_usd": 9500,
-   "city": "Харків",
-   "pct": 26,
-   "market_usd": 12850,
-   "why": "на 26% дешевше за схожі (≈ $12 850)",
-   "link": "https://t.me/autoparkua4/85248",
-   "photo": "",
-   "photos": []
   },
   {
    "title": "Skoda Fabia",
@@ -357,6 +338,20 @@
    "photo": "data/cars/9601.jpg",
    "photos": [
     "data/cars/9601.jpg"
+   ]
+  },
+  {
+   "title": "Mercedes-Benz GLE",
+   "year": 2017,
+   "price_usd": 24000,
+   "city": "Харків",
+   "pct": 23,
+   "market_usd": 31150,
+   "why": "на 23% дешевше за схожі (≈ $31 150)",
+   "link": "https://t.me/kievavto2/149445",
+   "photo": "data/cars/9700.jpg",
+   "photos": [
+    "data/cars/9700.jpg"
    ]
   },
   {
@@ -435,6 +430,20 @@
    "photo": "data/cars/9633.jpg",
    "photos": [
     "data/cars/9633.jpg"
+   ]
+  },
+  {
+   "title": "BMW 5 Series",
+   "year": 1996,
+   "price_usd": 3400,
+   "city": "",
+   "pct": 18,
+   "market_usd": 4150,
+   "why": "на 18% дешевше за схожі (≈ $4 150)",
+   "link": "https://t.me/avtobazar_group/221154",
+   "photo": "data/cars/9709.jpg",
+   "photos": [
+    "data/cars/9709.jpg"
    ]
   },
   {

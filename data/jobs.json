@@ -1,7 +1,79 @@
 {
- "updated": "2026-11-28T17:10:35+00:00",
+ "updated": "2026-11-28T19:10:35+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Менеджер з підтримки клієнтів",
+   "city": "Хмельницький",
+   "district": "",
+   "salary": "",
+   "employment": "Повна зайнятість · Віддалено",
+   "date": "2026-11-28T19:06:50+00:00",
+   "link": "https://t.me/robotaua_now_remote/142460"
+  },
+  {
+   "position": "Менеджер з підтримки клієнтів",
+   "city": "Дніпро",
+   "district": "",
+   "salary": "",
+   "employment": "Повна зайнятість · Віддалено",
+   "date": "2026-11-28T18:56:06+00:00",
+   "link": "https://t.me/robotaua_now_remote/142456"
+  },
+  {
+   "position": "HR-менеджер",
+   "city": "Дніпро",
+   "district": "",
+   "salary": "",
+   "employment": "Повна зайнятість · Віддалено",
+   "date": "2026-11-28T18:53:21+00:00",
+   "link": "https://t.me/robotaua_now_remote/142453"
+  },
+  {
+   "position": "HR-менеджер",
+   "city": "Львів",
+   "district": "",
+   "salary": "",
+   "employment": "Повна зайнятість · Віддалено",
+   "date": "2026-11-28T18:53:21+00:00",
+   "link": "https://t.me/robotaua_now_remote/142452"
+  },
+  {
+   "position": "Бариста",
+   "city": "Київ",
+   "district": "Деснянський р-н",
+   "salary": "від 1 600 грн/зміна",
+   "employment": "Позмінно (3/3)",
+   "date": "2026-11-28T18:37:09+00:00",
+   "link": "https://t.me/rabota_kieve01/812987"
+  },
+  {
+   "position": "Медсестра",
+   "city": "Дніпро",
+   "district": "",
+   "salary": "від 14 000 грн",
+   "employment": "Повна зайнятість · Позмінно",
+   "date": "2026-11-28T18:01:58+00:00",
+   "link": "https://t.me/workua_dnipro/84018"
+  },
+  {
+   "position": "Пакувальник",
+   "city": "Вінниця",
+   "district": "",
+   "salary": "від 18 280 грн",
+   "employment": "",
+   "date": "2026-11-28T17:37:29+00:00",
+   "link": "https://t.me/vinnitsa_rabota_vakansii/8042"
+  },
+  {
+   "position": "Кухар",
+   "city": "Львів",
+   "district": "",
+   "salary": "від 30 000 грн",
+   "employment": "Повна зайнятість",
+   "date": "2026-11-28T17:26:40+00:00",
+   "link": "https://t.me/workua_lviv/85795"
+  },
   {
    "position": "Менеджер з продажу",
    "city": "Чернівці",
@@ -109,78 +181,6 @@
    "employment": "Повна зайнятість",
    "date": "2026-11-28T15:49:57+00:00",
    "link": "https://t.me/workua_odesa/81942"
-  },
-  {
-   "position": "Диспетчер, Менеджер з продажу",
-   "city": "Київ",
-   "district": "",
-   "salary": "від 100 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-28T15:38:35+00:00",
-   "link": "https://t.me/workua_kyiv/93031"
-  },
-  {
-   "position": "Далекобійник, Водій",
-   "city": "Харків",
-   "district": "",
-   "salary": "від 75 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-28T15:38:35+00:00",
-   "link": "https://t.me/workua_kharkiv/73526"
-  },
-  {
-   "position": "Диспетчер",
-   "city": "Івано-Франківськ",
-   "district": "",
-   "salary": "від 150 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-28T15:38:35+00:00",
-   "link": "https://t.me/workua_ivanofrankivsk/70567"
-  },
-  {
-   "position": "Пакувальник, Вантажник",
-   "city": "Київ",
-   "district": "Дарницький р-н",
-   "salary": "від 33 600 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-28T15:24:31+00:00",
-   "link": "https://t.me/workua_kyiv/93030"
-  },
-  {
-   "position": "Автослюсар",
-   "city": "Харків",
-   "district": "",
-   "salary": "",
-   "employment": "Повна зайнятість (5/2)",
-   "date": "2026-11-28T15:21:41+00:00",
-   "link": "https://t.me/kharkov_robota_vakansiiq/43044"
-  },
-  {
-   "position": "Касир, Бариста",
-   "city": "Київ",
-   "district": "Деснянський р-н",
-   "salary": "від 20 000 грн",
-   "employment": "Повна зайнятість · Неповна / підробіток",
-   "date": "2026-11-28T15:13:17+00:00",
-   "link": "https://t.me/workua_kyiv/93029"
-  },
-  {
-   "position": "Адміністратор",
-   "city": "Дніпро",
-   "district": "",
-   "salary": "від 22 500 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-28T15:13:15+00:00",
-   "link": "https://t.me/workua_dnipro/84011"
-  },
-  {
-   "position": "Прибиральник",
-   "city": "",
-   "district": "",
-   "salary": "800 грн",
-   "employment": "Позмінно (2/2)",
-   "date": "2026-11-28T15:13:15+00:00",
-   "link": "https://t.me/robota_odesa4/48316"
   }
  ]
 }
