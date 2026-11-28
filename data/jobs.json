@@ -1,7 +1,25 @@
 {
- "updated": "2026-11-28T03:10:35+00:00",
+ "updated": "2026-11-28T05:10:35+00:00",
  "bot": "https://t.me/SignalJobsUA_bot",
  "jobs": [
+  {
+   "position": "Кухар, Пакувальник",
+   "city": "Київ",
+   "district": "Оболонський р-н",
+   "salary": "від 45 000 грн",
+   "employment": "Нічні зміни",
+   "date": "2026-11-28T04:47:12+00:00",
+   "link": "https://t.me/rabota_kieve01/812563"
+  },
+  {
+   "position": "Юрист",
+   "city": "Одеса",
+   "district": "",
+   "salary": "",
+   "employment": "Повна зайнятість · Неповна / підробіток · Віддалено",
+   "date": "2026-11-28T03:26:47+00:00",
+   "link": "https://t.me/robotaua_now_remote/142434"
+  },
   {
    "position": "Дизайнер",
    "city": "Київ",
@@ -163,24 +181,6 @@
    "employment": "Неповна / підробіток",
    "date": "2026-11-27T17:37:53+00:00",
    "link": "https://t.me/workua_lviv/85757"
-  },
-  {
-   "position": "Кухар",
-   "city": "Луцьк",
-   "district": "",
-   "salary": "",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-27T17:37:53+00:00",
-   "link": "https://t.me/workua_lutsk/63450"
-  },
-  {
-   "position": "Кухар",
-   "city": "Харків",
-   "district": "",
-   "salary": "від 23 000 грн",
-   "employment": "Повна зайнятість",
-   "date": "2026-11-27T17:37:53+00:00",
-   "link": "https://t.me/workua_kharkiv/73485"
   }
  ]
 }
