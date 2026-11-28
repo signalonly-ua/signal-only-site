@@ -183,5 +183,6 @@ async function load(u) { const r = await fetch(DATA + u + "?t=" + Date.now()); i
 async function tick() { try { live = await load("live.json"); render(); draw(); } catch (e) { document.getElementById("st").textContent = "немає даних від бота"; document.getElementById("st").className = "pill stale"; } }
 (async () => { window.addEventListener("resize", resize); resize(); try { zones = await load("zones.json"); } catch (e) {} draw(); tick(); setTimeout(tick, 2500); setInterval(tick, 10000); })();
 </script>
+  <script src="assets/count.js" defer></script>
 </body>
 </html>

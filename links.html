@@ -66,5 +66,6 @@
     fetch('data/bots.json', {cache: 'no-cache'}).then(function (r) { return r.ok ? r.json() : FALLBACK; }).catch(function () { return FALLBACK; }).then(render);
   })();
   </script>
+  <script src="assets/count.js" defer></script>
 </body>
 </html>
