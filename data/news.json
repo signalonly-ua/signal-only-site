@@ -1,6 +1,20 @@
 {
- "updated": "2026-11-28T08:37:25+00:00",
+ "updated": "2026-11-28T09:37:25+00:00",
  "news": [
+  {
+   "title": "Поліцейська вівчарка з Хмельницького отримала всеукраїнську премію «За врятоване життя»",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/khmelnytskiy/1456808-policejska-vivcarka-z-hmelnickogo-otrimala-vseukrainsku-premiu-za-vratovane-zitta/",
+   "photo": "data/news/c3a59ff19be8.jpg",
+   "date": "2026-11-28"
+  },
+  {
+   "title": "«Жінка Донеччини-2026»: переможниць конкурсу нагородили в Ужгороді",
+   "source": "Суспільне",
+   "link": "https://suspilne.media/uzhhorod/1458636-zinka-doneccini-2026-peremoznic-konkursu-nagorodili-v-uzgorodi/",
+   "photo": "data/news/a416eec6f616.jpg",
+   "date": "2026-11-28"
+  },
   {
    "title": "Україна вперше вручила міжнародну кінонагороду Free World Award - Bird of Freedom from Ukraine",
    "source": "Укрінформ",
@@ -13,20 +27,6 @@
    "source": "УНІАН",
    "link": "https://www.unian.ua/lite/astrology/numerologiya-lyudi-yaki-narodilisya-v-ci-misyaci-perebuvayut-pid-zahistom-vishchih-sil-13573107.html",
    "photo": "data/news/e4a814e8d80a.jpg",
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Військові врятували нутрію під Покровськом: тварина проходить реабілітацію в КиївЗоо",
-   "source": "Суспільне",
-   "link": "https://suspilne.media/kyiv/1458486-vijskovi-vratuvali-nutriu-pid-pokrovskom-tvarina-prohodit-reabilitaciu-v-kiivzoo/",
-   "photo": "data/news/2075c587e75c.jpg",
-   "date": "2026-11-27"
-  },
-  {
-   "title": "Зима 2026-2027 для цих знаків зодіаку буде схожа на справжню казку: хто ці щасливці",
-   "source": "ТСН",
-   "link": "https://tsn.ua/other/zyma-2026-2027-dlia-tsykh-znakiv-zodiaku-bude-skhoza-na-spravzniu-kazku-khto-tsi-shchaslyvtsi-3228483.html",
-   "photo": "data/news/a560bc7dbfb4.jpg",
    "date": "2026-11-27"
   }
  ]
